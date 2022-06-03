@@ -8,8 +8,6 @@ The key of the project lies in interdisciplinarity: combining the extraordinary 
 
 The project also includes the development of a system to detect traces of past small galaxy collisions with the halo of our galaxy. Teresa Antoja, researcher at ICCUB, notes that “the existence of granularities in the galactic halos is a prediction of the current cosmological model of the formation of our Universe: the active search for substructures of this type in the Gaia data can provide vital information on the history of the Milky Way and on the nature of dark matter”.
 
-Artificial intelligence and cloud computing
-
 The participation of the private sector in this project shows the closeness between research and companies in the use of cutting-edge technologies as well as their shared interests. “In Pervasive Technologies, we are glad to offer our knowledge on artificial intelligence and cloud computing to a pioneer project in the field of research. We will work to get the highest performance of the cloud infrastructures and artificial intelligence for this project”, notes Rodolfo Lomascolo, CEO of Pervasive Technologies.
 
 In order to be successful, the Galactic RainCloudS project must have, among other features, big data infrastructures. “The Gaia satellite data hide the answer to many questions we want to solve, but we need the right tools to retrieve them”, notes Roger Mor, data scientist at Pervasive Technologies and ICCUB collaborator. He adds: “The available big data platforms in the commercial cloud and artificial intelligence services are fundamental tools to find, for instance, whether the interaction of Sagittarius with the Milky Way caused the reignition of the star formation in our galaxy between 5 and 7billion years ago, as stated in some studies”.
