@@ -1,0 +1,54 @@
+{
+    "0": {
+        "simple": {
+            "id": 78856,
+            "title": "Vex, Switzerland",
+            "url": "https://simple.wikipedia.org/wiki?curid=78856",
+            "content": {
+                "simple-78856-0-0": "Vex is the capital city of the district of He\u0301rens in the canton of Valais in Switzerland.",
+                "simple-78856-1-0": "Vex is the capital city of the district of He\u0301rens in the canton of Valais in Switzerland.",
+                 "simple-78856-1-1": "Vex is the capital city of the district of He\u0301rens in the canton of Valais in Switzerland."
+            }
+        },
+        "normal": {
+            "id": 7023314,
+            "title": "Vex, Switzerland",
+            "url": "https://en.wikipedia.org/wiki?curid=7023314",
+            "content": {
+                "normal-7023314-0-0": "Vex is a municipality and capital of the district of He\u0301rens in the canton of Valais in Switzerland.",
+                "normal-7023314-1-0": "Vex has an area, as of 2009 , of 13 km2 .",
+                "normal-7023314-1-1": "Of this area, 4.17 km2 or 32.1% is used for agricultural purposes, while 6.17 km2 or 47.5% is forested.",
+                "normal-7023314-4-0": "Vex has a population (as of December 2017 ) of .",
+}
+        },
+        "sentence_alignment": [
+            ["simple-78856-0-0","normal-7023314-0-0"],
+            ["simple-78856-1-0","normal-7023314-1-0"],
+             ["simple-78856-1-1","normal-7023314-4-1"]
+
+        ]
+    },
+    "1": {
+        "simple": {
+            "id": 193292,
+            "title": "South Portland, Maine",
+            "url": "https://simple.wikipedia.org/wiki?curid=193292",
+            "content": {
+                "simple-193292-0-0": "South Portland is a small town in Maine right across the water from Portland."
+            }
+        },
+        "normal": {
+            "id": 115950,
+            "title": "South Portland, Maine",
+            "url": "https://en.wikipedia.org/wiki?curid=115950",
+            "content": {
+                "normal-115950-0-0": "South Portland is a city in Cumberland County, Maine, United States, and is the fourth-largest city in the state, incorporated in 1898.",
+                "normal-115950-0-1": "As of the 2010 census, the city population was 25,002.",
+                "normal-115950-0-2": "Known for its working waterfront, South Portland is situated on Portland Harbor and overlooks the skyline of Portland and the islands of Casco Bay."
+            }
+        },
+        "sentence_alignment": [
+          ["simple-193292-0-0","normal-115950-0-0"]
+        ]
+    }
+    }
