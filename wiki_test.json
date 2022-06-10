@@ -1,0 +1,147 @@
+{
+    "0": {
+        "simple": {
+            "id": 702227,
+            "title": "Lata Mondal",
+            "url": "https://simple.wikipedia.org/wiki?curid=702227",
+            "content": {
+                "simple-702227-0-0": "Lata Mondal (born: 16 January 1993) is a Bangladeshi cricketer who plays for the Bangladesh national women's cricket team.",
+                "simple-702227-0-1": "She is a right handed bat."
+            }
+        },
+        "normal": {
+            "id": 41918715,
+            "title": "Lata Mondal",
+            "url": "https://en.wikipedia.org/wiki?curid=41918715",
+            "content": {
+                "normal-41918715-0-0": "Lata Mondal ( ; born: 16 January 1993, Dhaka) is a Bangladeshi cricketer who plays for the Bangladesh national women's cricket team.",
+                "normal-41918715-0-1": "She is a right handed batter.",
+                "normal-41918715-1-0": "Mondal was born on January 16, 1993 in Dhaka, Bangladesh.",
+                "normal-41918715-2-0": "Mondal made her ODI career against the Ireland women's cricket team on November 26, 2011.",
+                "normal-41918715-3-0": "Mondal made her T20I career against the Ireland women's cricket team on August 28, 2012.",
+                "normal-41918715-3-1": "In October 2018, she was named in Bangladesh's squad for the 2018 ICC Women's World Twenty20 tournament in the West Indies.",
+                "normal-41918715-4-0": "Mondal was a member of the team that won a silver medal in cricket against the China national women's cricket team at the 2010 Asian Games in Guangzhou, China."
+            }
+        },
+        "sentence_alignment": [
+            [
+                "simple-702227-0-0",
+                "normal-41918715-0-0"
+            ],
+            [
+                "simple-702227-0-1",
+                "normal-41918715-0-1"
+            ]
+        ],
+        "paragraph_alignment": [
+            [
+                "simple-702227-0",
+                "normal-41918715-0"
+            ]
+        ]
+    },
+    "1": {
+        "simple": {
+            "id": 697879,
+            "title": "Tuulikki Ukkola",
+            "url": "https://simple.wikipedia.org/wiki?curid=697879",
+            "content": {
+                "simple-697879-0-0": "Lahja Tuulikki Ukkola (\"ne\u0301e\" Parviainen; 28 November 1943 \u2013 28 May 2019) was a Finnish politician and journalist.",
+                "simple-697879-0-1": "She started working for the newspaper \"Kaleva\" in 1962.",
+                "simple-697879-0-2": "She served as an MP for the Oulu constituency for the Liberal People's Party from 1991 to 1995.",
+                "simple-697879-0-3": "She was also the leader of the party between 1993 and 1995.",
+                "simple-697879-0-4": "In 2007, Ukkola was again elected as an MP for Oulu, this time for the National Coalition Party, serving until 2011.",
+                "simple-697879-1-0": "Ukkola was born in Taivalkoski.",
+                "simple-697879-1-1": "She died on 28 May 2019 in Oulu, at the age of 75."
+            }
+        },
+        "normal": {
+            "id": 60918445,
+            "title": "Tuulikki Ukkola",
+            "url": "https://en.wikipedia.org/wiki?curid=60918445",
+            "content": {
+                "normal-60918445-0-0": "Lahja Tuulikki Ukkola (\"ne\u0301e\" Parviainen; 28 November 1943 \u2013 28 May 2019) was a Finnish politician and journalist.",
+                "normal-60918445-0-1": "Born in Taivalkoski, she began working for the newspaper \"Kaleva\" in 1962.",
+                "normal-60918445-0-2": "As a member of the Liberal People's Party, she served as an MP for the Oulu constituency from 1991 to 1995.",
+                "normal-60918445-0-3": "She was also the leader of the party between 1993 and 1995.",
+                "normal-60918445-0-4": "Following the 2007 national parliamentary election, Ukkola was again elected as an MP for Oulu, this time for the National Coalition Party, serving until 2011.",
+                "normal-60918445-1-0": "Ukkola died on 28 May 2019 in Oulu, at the age of 75."
+            }
+        },
+        "sentence_alignment": [
+            [
+                "simple-697879-0-0",
+                "normal-60918445-0-0"
+            ],
+            [
+                "simple-697879-0-1",
+                "normal-60918445-0-1"
+            ],
+            [
+                "simple-697879-0-2",
+                "normal-60918445-0-2"
+            ],
+            [
+                "simple-697879-0-3",
+                "normal-60918445-0-3"
+            ],
+            [
+                "simple-697879-0-4",
+                "normal-60918445-0-4"
+            ],
+            [
+                "simple-697879-1-1",
+                "normal-60918445-1-0"
+            ]
+        ],
+        "paragraph_alignment": [
+            [
+                "simple-697879-0",
+                "normal-60918445-0"
+            ],
+            [
+                "simple-697879-1",
+                "normal-60918445-0"
+            ],
+            [
+                "simple-697879-1",
+                "normal-60918445-1"
+            ]
+        ]
+    },
+    "2": {
+        "simple": {
+            "id": 120452,
+            "title": "Kot Sarang",
+            "url": "https://simple.wikipedia.org/wiki?curid=120452",
+            "content": {
+                "simple-120452-0-0": "Kot Sarang is a village and Union Council, an administrative subdivision, of Chakwal District in the Punjab Province of Pakistan, it is part of Talagang Tehsil and is located at 33\u00b02'14N 72\u00b023'11E."
+            }
+        },
+        "normal": {
+            "id": 14570332,
+            "title": "Kot Sarang",
+            "url": "https://en.wikipedia.org/wiki?curid=14570332",
+            "content": {
+                "normal-14570332-0-0": "Kot Sarang is a village and union council of Pakistan, an administrative subdivision, of the Chakwal District in the Punjab Province of Pakistan, it is part of Talagang Tehsil.",
+                "normal-14570332-0-1": "The Sawan River and the village of Jisial are nearby.",
+                "normal-14570332-1-0": "Many are farmers dependent upon rain for irrigation.",
+                "normal-14570332-1-1": "One or more members of every family work in foreign countries.",
+                "normal-14570332-1-2": "OGDCL is another source of employment.",
+                "normal-14570332-2-0": "Kot Sarang benefits from good sewerage and water supply systems and has paved streets"
+            }
+        },
+        "sentence_alignment": [
+            [
+                "simple-120452-0-0",
+                "normal-14570332-0-0"
+            ]
+        ],
+        "paragraph_alignment": [
+            [
+                "simple-120452-0",
+                "normal-14570332-0"
+            ]
+        ]
+    }
+}
