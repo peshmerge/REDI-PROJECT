@@ -1,0 +1,79 @@
+hilbert 's paradox of the grand hotel hotel hotel hotel hilbert is a thought experiment .
+it is also seen that a hotel with infinitely many rooms may still have guests , even infinitely many of them , and this process may be repeated infinitely often .
+the idea was introduced by david hilbert in 1924 in a lecture " uber das unendliche " , reprinted in , and was popularized by george gamow 's 1947 book " one two three . infinity " .
+now , the hotel is a hotel with an infinite number of rooms .
+one might be tempted to think that the hotel would not be able to accommodate any newly arriving guests , as would be the case with a finite number of rooms , where the pigeonhole principle would apply .
+suppose a new guest arrives and wishes to be accommodated in the hotel .
+the guest is moved to room 1 to room 2 , the guest in room 3 to room 3 .
+after this , room 1 is empty and the new guest can be moved into that room .
+by repeating this procedure , it is possible to make room for any finite number of new guests .
+the guest occupying room " n " to room 2 to room 2 " n " to room 2 " n "eux 2 times " n " each can be moved for the odd-numbered guests .
+it is possible to countably infinitely many coachloads of countably infinite passengers each , by several different methods .
+most methods depend on the seats in the coaches being already numbered ; or use the axiom of countable choice combinations .
+in general any pairing function can be used to solve this problem .
+for each of these methods , consider a passenger 's seat number on a coach to be formula _ 1 , and their coach number to be formula _ 2 , and the numbers formula _ 2 and formula _ 2 are then fed into the two arguments of the pairing function .
+the first coach 's load in rooms is formula _ 1 .
+this solution leaves certain rooms emptyements which may or may not be useful to the hotelization .
+this shows that the number of arrivals is less than or equal to " the number of vacancies created .
+it is easier to show that the number of arrivals is also " greater than or equal to " the number of vacancies , and so that they are " equal " , than to modify the algorithm to an exact fit .
+conversely , whichever choice is made , it must be applied throughout .
+you can put each person of a certain seat formula _ 15 and coach formula _ 2 into room formula _ 17eux presuming " c " = 0 for the people already in the hotel , 1 for the first coach , etc .
+every number has a unique prime factorization , it 's easy to see all people will have a room , while no two people will end up in the same room .
+for example , the person in room 2592thed was sitting in on the 4th coach , on the 5th seat .
+like the prime powers method , this solution leaves certain rooms empty .
+this method can also easily be expanded for infinite nights , infinite entrances , etc .
+compare the lengths of the lengths of the letter , and the lengths of the letter are written in any positional numeral system , such as decimal .
+each hotel resident is in coach # 0 .
+if both of these are shorter , add leading zeroes to it until both values have the same number of digits .
+interleave the digits to produce a room number .
+the hotelillo coach # 0icative guest in room number 1729 moves to room 01070209 enterprises .
+the passenger on seat 1234 of coach 789 goes to room 01728394 stubble or just 1728394 goin .
+unlike the prime powers solution , this one fills the hotel completely .
+first add a leading zero if the room has an odd number of digits .
+then de-interleave the number into two numbers : the seat number is made up of the odd-numbered digits and the coach number is the even-numbered ones .
+of course , the original encoding is arbitrary .
+those already in the hotel will be moved to room formula _ 22 , or the formula _ 1th triangular number .
+those in a coach will be in room formula _ 1 , or the formula _ 25 triangular number plus formula _ 1 .
+in this way all the rooms will be filled by one , and only one , guest .
+this pairing function can be shown visually by structuring the hotel as a one-room-deep , infinitely tall pyramid .
+the pyramid 's topmost row is a single room : room 1 ; its second row is rooms 2 and 3 ; and so on .
+the column formed by the set of rightmost rooms will correspond to the triangular numbers .
+the rest empty rooms form the shape of a pyramid exactly identical to the original shape .
+so , the process can be repeated for an infinite set .
+doing this one at a time for each coach would require an infinite number of steps , but by using the prior rules , a guest can see what his room " will be " once his coach has been reached in the process , and can simply go there immediately .
+we may enumerate its elements formula _ 30 .
+now if formula _ 31 , assign the formula _ 32th guest of the formula _ 33th coach to the formula _ 1th room guests already in the hotel as guests of the formula _ 35th coachhesis .
+thus we have a function assigning each person to a room .
+suppose the hotel is next to an ocean , and an infinite number of car ferries arrive .
+this is a situation involving three " levels " of infinity , and it can be solved by extensions of any of the previous solutions .
+the prime factorization method can be used by adding a new prime number for every extra layer of infinityeux .
+the prime power solution can be given with further exponentiation of prime numbers , resulting in very large room numbers even given small inputs .
+for example , the passenger in the second seat of the third bus on the second ferrynight would raise the 2nd odd primepment to 49 .
+this room number would have over thirty decimal digits .
+interleaving is a way to make three strands of strands .
+the passenger with the address 2-3 would go to room 232 , while the one with the address 4935-198-82217 would go to room # 008,402 , 912,391 , 5878,587stituting the leading zeroes can be removed .
+if there are any number of layers of infinite guests , the hotel may wish to give rooms such that no guest will need to move , no matter how many guests arrive afterward .
+one solution is to convert each arrival 's address into a binary number .
+thus , a guest with the prior address 2-5-1-3-1-1-1-1-1-1-1-1-1-1-0 alvin layersstrel would go to room 100 100 100100000100000001000 decimal 295458holders .
+as an added step in this process , one zero can be removed from each section of the number .
+this means that every room could be filled by a hypothetical guest .
+if there are no set of guests , then only rooms that are a power of two will be occupied .
+a room can be found for any set of nested infinities of people .
+the set of real numbers is infinite .
+rooms at the hotel contain all the same subsets , but any countably infinite subset of them can still be accommodated .
+if this is changed in some ways , then the set of people is countable again .
+suppose there were a large ship , directly containing a finitegement or countably infinite number of both ships and people , and each of these ships in turn contained both ships and people , and so forth .
+this time , any given person is a finite number of levels " down " from the top .
+the set of people is countable again , even if the total number of layers is infinite , because we do not have to consider an " infinitieth layer " in either direction .
+hilbert 's paradox is a paradox in mathematics .
+the statement " there is a guest to every room " and " no more guests can be accommodated " are not equivalent when there are infinitely many rooms .
+at first , this state of affairs might seem to be counter-intuitive .
+the properties of " infinite collections of things " are quite different from those of " finite collections of objects " .
+the paradox of hilbert 's grand hotel can be understood by using cantor 's theory of transfinite numbers .
+thus , while in an ordinary hotel with more than one room , the number of odd-numbered rooms is obviously smaller than the total number of rooms .
+in hilbert 's aptly named grand hotel , the number of odd-numbered rooms is not smaller than the total number of rooms .
+in mathematics , the cardinality of the subset containing the odd-numbered rooms is the same as the cardinality of all rooms .
+indeed , infinite sets have sets that have the same subsets of the same cardinality .
+for setsuchable sets with the same cardinality as the natural numbers implies formula _ 1 .
+the composite set of natural numbers is the sum of the composite numbers .
+for example , the set of rational numbers is a quotient of integers .

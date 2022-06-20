@@ -1,0 +1,67 @@
+abstraction in its main sense is a conceptual process where general rules and concepts are derived from the usage and classification of specific examples , literalhesis " real " or " concrete " signifiers , first principles , or other methods .
+"
+abstracting a leather soccer ball to the more general idea of a ball will select only the information on general ball attributes and behavior , excluding , the other phenomenal and cognitive characteristics of that particular ball .
+a ' ball ' curtains are more abstract than the tokens of the tokens of the soccer ball ' ieee .
+thinking in abstractions is considered by anthropologists , archaeologists , and sociologists to be one of the key traits in modern human behaviour .
+abstraction can be illustrated with francis bacon 's " novum organum "ndt 1620duced , a book of scientific philosophy written in the late jacobean era of england .
+bacon used and promoted induction as an abstraction tool , and it countered the ancient deductive-thinking approach that had dominated the intellectual world since the times of greek philosophers like thales , anaximander , and aristotle .
+he explained from a general idea , " everything is water " , to the specific forms of water such as ice , snow , fog , and rivers .
+when determining that the sun is the center of our solar system jem jemison copernicusicusicusicusicus 1473 – 1543eux , scientists had to use thousands of measurements to finally conclude that mars moves in an elliptical orbit about the sunflower .
+chains of abstractions can be moved from neural impulses arising from sensory perception to basic abstractions such as color or shape , to experiential abstractions such as the " idea " of a cat , to classes of objects such as " mammals " and even categories such as " object " .
+things that do not exist in any particular place and time are often seen as abstract .
+doing so would make the concepts " cat " and " telephone " abstract ideas since despite their appearances , a particular cat or a particular telephone is an instance of the concept " cat " or the concept " telephone " .
+although the concepts " cat " and " telephone " are abstractions , they are not abstract in the sense of the objects in " graph 1 " below .
+still retaining the primary meaning of ' abstrere ' or ' to draw away from ' , the abstraction of money , for example , works by drawing away from the particular value of things allowing completely incommensurate objects to be compared to see the section on physicality below .
+the state wits out as both concept and material practice exemplifies the two sides of this process of abstraction .
+conceptually , ' the current concept of the state is an abstraction from the much more concrete early-modern use as the standing or status of the prince , his estates ' .
+at the same time , the ' practice of statehood is now constitutively and materially more abstract than at the time when princes ruled as the embodiment of extended power ' .
+the way that physical objects , like rocks and trees , have being different from the way that properties of abstract concepts or relations have being .
+that difference is the ontological usefulness of the word " abstract " .
+the word applies to properties and relations to mark the fact that , if they exist , they do not exist in space or time , but that instances of them can exist , potentially in many different places and times .
+in the secondary sense of the term ' abstraction ' , this physical object can carry materially abstracting processes .
+the clay containers contained tokens , the total of which were the count of objects being transferred .
+the containers thus served as a bill of lading or an accounts book .
+to avoid breaking open the containers for the count , marks were placed on the outside of the containers .
+these physical marks , in other words , acted as material abstractions of a materially abstract process of accounting .
+abstract things are sometimes defined as those things that do not exist in reality or exist only as sensory experiences , like the color red .
+in the " graph 1 " below , the graphical relationships like the arrows joining boxes and ellipses might denote predicates .
+abstractions sometimes have ambiguous referents ; for example , " happiness " whenever used as an abstraction abstraction abstraction abstraction allows people to see as many things as there are people and events or states of being which make them happy .
+likewise , " architecture " refers not only to the design of safe , functional buildings , but also to elements of creation and innovation which aim at elegant solutions to construction problems , to the use of space , and to the attempt to evoke an emotional response in the builders , owners and users of the building .
+likewise , many things sit on surfaces surfacespartisan as in " picture 1 " , to the right rower .
+the property of " redness " and the relation " sitting-on " are abstractions of those objects .
+the conceptual diagram " graph 1 " identifies only three boxes , two ellipses , and four arrows saigon .
+although the description " sitting-on " biennale graph 1 percival is more abstract than the graphic image of a cat sitting on a maturation picture 1 skaters skaters .
+an abstraction can encapsulate each of these levels of detail with no loss of generality .
+strictly speaking , it refers to art that is not meant to be seen with the literal depiction of things from the visible world .
+in the 20th century the trend toward abstraction was marked with advances in science , technology , and changes in urban life .
+abstraction was manifest in more formal terms , such as color , freedom from objective context , and reduction of form to basic geometric designs .
+computer scientists use abstraction to make models that can be used and re-used without having to re-write all the program code for each new application on every different type of computer .
+they communicate their solutions with the computer by writing source code in some particular computer language which can be translated into machine code for different types of computers to execute .
+this means that the program can be written so that code doesn ’ t have to depend on the specific details of supporting applications , operating system software , or hardware , but on a categorical concept of the solution .
+a solution to the problem can then be integrated into the system framework with minimal additional work .
+programmers need only an abstract understanding of the implementation of another 's work , apart from the problem that it solves .
+abstractions and levels of abstraction play an important role in the theory of general semantics .
+anatol rapoport wrote : " abstracting is a mechanism by which an infinite variety of experiences can be mapped on short noises biennale words ! "
+francis fukuyama defines history as " a deliberate attempt of abstraction in which we separate out important from unimportant events " .
+a commonly used abstraction , the " phoneme " , abstracts speech sounds in such a way as to neglect details that scarcely may serve to differentiate meaning .
+abstraction also arises in the relation between syntax , semantics , and pragmatics .
+abstraction in mathematics is the process of getting a mathematical idea .
+the main disadvantage of abstraction is that highly abstract concepts are more difficult to learn , and require a degree of mathematical maturity and experience before they can be assimilated .
+atonal music has no key signature , and is characterized by the exploration of internal numeric relationships .
+for example , one meta-analysis reviewed human brain lesions has shown a left hemisphere bias during tool usage .
+abstraction in philosophy is the process whereby the actual process is obtained in concept formation of recognizing some set of common features in individuals , and on that basis forming a concept of that feature .
+so words are used to stand as outward marks of our internal ideas , which are taken from particular things ; but if every particular idea that we take in had its own special name , there would be no end to names .
+to prevent this , the mind makes particular ideas received from particular things become general .
+in it , an idea taken from a particular thing becomes a general representative of all of the same kind , and its name becomes a general name that applies to any existing thing that fits that abstract idea .
+in social theory , abstraction is used as both an ideational and material process .
+he used the example of commodity abstraction to show that abstraction occurs in practice as people create systems of abstract exchange that extend beyond the immediate physicality of the object and yet have real and immediate consequences .
+two books that have taken this theme of the abstraction of social relations as an organizing process in human history are biennial 1996dillydillydilly ; these books say that the nation is an abstract community bringing together , and thus constituting materially abstracted relations .
+the books suggest that the processes of globalization and mediatization have contributed to abstract relations between people , with major consequences for how we live our lives .
+moreover , we could talk about homo cyber sapiensiens percival the man who can extend his biologically determined intelligence thanks to new technologies biennale , or homo creativustively who is simply creative mutations .
+breaking away from directly experienced reality was a common trend in 19th century sciences ; especially physicsnius , and this was the effort which was fundamentally determined the way economics tried and still tries to approach the economic aspects of social life .
+abstraction we meet in the case of both newton ’ s physics and the neoclassical theory .
+for example , newton created the concept of the material point by following the abstraction method so that he abstracted from the dimension and shape of any perceptible object preserving only inertial and translational motion .
+material point is the basic feature of all things .
+economists abstract from all individual and personal qualities in order to get to those characteristics that show the essence of economic activity .
+eventually , it is the economic man that they try to grasp .
+any thing beyond it only disturbs the working of this essential core .

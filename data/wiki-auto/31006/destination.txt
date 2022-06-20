@@ -1,0 +1,24 @@
+A trait or character in biology is a feature of a living thing.
+It is part of an organism's phenotype.
+Every living thing, from tiny organisms like bacteria, to plants, animals and humans, has some characteristics which make it special.
+Thus an elephant has tusks, large size and weight, large ears and very large molar teeth (et cetera).
+These are typical characters of the African and Indian elephants.
+Biologists call those "traits".
+The living thing is built in a certain way; this is its "anatomy", its structure or body.
+The physical structure "works" in a certain way; this is its function, the way its body works.
+An animal also "acts" in a certain way; this is its behavior.
+The way that a living thing is structured, the way its body works and the way that it acts are all traits.
+The basic traits are shared by all the members of the group, "that is why they are put in the same group".
+Other traits are only shared by a small number of the group.
+Traits are heritable: they can be passed on from one generation to the next by genes.
+Mendel's work involved the inheritance of traits on pea plants.
+The whole group of traits of an organism is its phenotype.
+Different sources use the term differently.
+'Trait' competes with the term 'character'.
+This works well with Mendelian characters.
+In such cases, a character is a feature of a species which may present as various traits.
+But not all characters are inherited in the simple manner of Mendel's pea characters.
+For example, an animal's weight is a character, but many genes contribute to it, and so does the animal's environment from birth.
+Weight is a) continuous rather than discrete (separate steps), b) polygenic (controlled by a number of genes), and c) because weight is influenced by both heredity and environment.
+To avoid this issue, some sources use only the term character.
+Futuyma uses this system for Mendelian characters: This use of 'character state' allows Futuyma to use terms such as 'ancestral state' and 'derived state' when talking about the evolution of characters.

@@ -1,0 +1,51 @@
+Oliver Heaviside (Camden, London 18 May 1850 – Torquay, Devon 3 February 1925) was a self-taught English electrical engineer, mathematician, and physicist.
+Although he was well known in the scientific world during his life, it was not until after his death that people realized how much he had changed the study of mathematics and physics.
+He used complex numbers to study electrical circuits and did a lot of work on electromagnetic wave theory which made it necessary to find new ways of working with differential equations.
+He did work on Maxwell's field equations and vector analysis.
+Part of the ionosphere is co-named after him: the Kennelly-Heaviside layer.
+His personality was very eccentric and he is a good example of what many people think of as a mad scientist.
+Heaviside was born in Camden Town, London.
+His father was a skilled wood engraver.
+His uncle, Sir Charles Wheatstone (1802-1875), co-invented the telegraph and made famous experiments in 1837 from Euston Station.
+Heaviside was short and he had red-hair.
+When he was young he suffered from scarlet fever which made him rather deaf, especially in his later years.
+Heaviside studied at Camden House School until he was 16 and continued to study at home until he was 18.
+He got a job as telegraph operator and spent some time working in Denmark.
+He noticed that operating speeds were 40% faster from England to Denmark than the other way round, and in 1871 he found a fault in the telegraph cable from England to Denmark.
+In 1873 he got a copy of the first edition of Maxwell’s book "A Treatise on Electricity and Magnetism".
+He was very influenced by this book and it helped him to produce many mathematical ideas.
+At this time he was working in Newcastle.
+In 1875 he went back to London to live with his parents.
+There he spent a lot of time writing up his discoveries, but no one wanted to publish his papers because they were too difficult to understand.
+He analysed alternating currents 15 years before they started to be used commercially.
+When his parents moved to Paignton he moved with them.
+After their deaths he lived at Newton Abbott and then, from 1908 until death, in Torquay.
+In his old age Heaviside became more and more eccentric.
+He was poor, and lived alone in a large house in Torquay that he could not afford to heat properly.
+He liked it when friends visited, but many people were put off because he could often be rude.
+He could not cook, and a friendly policeman regularly came to the house to bring him food.
+Because Heaviside was deaf and could not hear the knock on the door the policeman used to open the letterbox and blow his whistle loudly.
+The house and garden was in a terrible mess.
+He had lumps of granite in his house for furniture.
+He often put the letters W.O.R.M. after his name, just for a joke.
+He took to painting his finger nails pink.
+On at least one occasion he dyed his hair black and, while it was wet, he wore a teacosy on his head.
+When, in 1925, he fell off a ladder and was taken by ambulance to a nursing home, it was the first time he had ever been in a motor vehicle.
+He told the ambulance driver that he had enjoyed the ride.
+He died at the nursing home in Torquay a month later and was buried in Paignton.
+Heaviside was like Sir Isaac Newton in that he worked alone and did not always publish the whole of his experiments.
+He wrote a lot of ideas in his notebooks, but he did not think these ideas were ready for publication, yet they turned out to be very important.
+For example, he suggested that there was an atmospheric conducting layer many kilometers above the earth’s surface which could be used for sending long-distance radio-waves around the curvature of the earth.
+In 1923 it was indeed discovered that there were complex, ionized layers (called the ‘‘ionosphere”).
+The Kennelly-Heaviside layer was later named after him.
+By 1950, 25 years after his death, there were more than 50 stations worldwide experimenting with radio communication in the upper atmosphere.
+Heaviside made studies on how to transmit speech clearly in telephone communication.
+He studied reflection in telephone circuits (these produced disturbing echoes).
+From 1886 he spent most of his time on the propagation of electromagnetic waves through space which had been developed by Hertz and on the motion of atoms which had been discovered by J.J. Thomson.
+Heaviside was not interested in receiving honours.
+Indeed, he never made any money from his discoveries and often found it difficult to pay the bills.
+He was probably very pleased to be made a Fellow of the Royal Society in 1891.
+He was awarded a £120 a year Civil List pension by the government.
+In 1908 he was elected an Honorary Member of the Institution of Electrical Engineers, and in 1918 Honorary Membership of the Americal Institute of Electrical Engineers.
+In 1921 he was the first person to be honoured with the Faraday Medal.
+A famous quotation of Heaviside is: "Shall I refuse my dinner because I do not fully understand the process of digestion"?

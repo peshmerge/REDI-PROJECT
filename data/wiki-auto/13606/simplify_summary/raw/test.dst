@@ -1,0 +1,33 @@
+Half-life (symbol "t") is the time required for a quantity to reduce to half of its initial value.
+The term is commonly used in nuclear physics to describe how quickly unstable atoms undergo, or how long stable atoms survive, radioactive decay.
+The term is also used more generally to characterize any type of exponential or non-exponential decay.
+For example, the medical sciences refer to the biological half-life of drugs and other chemicals in the human body.
+The converse of half-life is doubling time.
+The original term, "half-life period", dating to Ernest Rutherford's discovery of the principle in 1907, was shortened to "half-life" in the early 1950s.
+Rutherford applied the principle of a radioactive element's half-life to studies of age determination of rocks by measuring the decay period of radium to lead-206.
+Half-life is constant over the lifetime of an exponentially decaying quantity, and it is a characteristic unit for the exponential decay equation.
+The accompanying table shows the reduction of a quantity as a function of the number of half-lives elapsed.
+A half-life usually describes the decay of discrete entities, such as radioactive atoms.
+In that case, it does not work to use the definition that states "half-life is the time required for exactly half of the entities to decay".
+For example, if there is just one radioactive atom, and its half-life is one second, there will "not" be "half of an atom" left after one second.
+Instead, the half-life is defined in terms of probability: "Half-life is the time required for exactly half of the entities to decay "on average"".
+In other words, the "probability" of a radioactive atom decaying within its half-life is 50%.
+For example, the image on the right is a simulation of many identical atoms undergoing radioactive decay.
+Note that after one half-life there are not "exactly" one-half of the atoms remaining, only "approximately", because of the random variation in the process.
+Nevertheless, when there are many identical atoms decaying (right boxes), the law of large numbers suggests that it is a "very good approximation" to say that half of the atoms remain after one half-life.
+There are various simple exercises that demonstrate probabilistic decay, for example involving flipping coins or running a statistical computer program.
+An exponential decay can be described by any of the following three equivalent formulas: where
+The three parameters "t" , τ , and λ are all directly related in the following way: where ln(2) is the natural logarithm of 2 (approximately 0.693).
+Some quantities decay by two exponential-decay processes simultaneously.
+For three or more processes, the analogous formula is: For a proof of these formulas, see Exponential decay § Decay by two or more processes.
+There is a half-life describing any exponential-decay process.
+The term "half-life" is almost exclusively used for decay processes that are exponential (such as radioactive decay or the other examples above), or approximately exponential (such as biological half-life discussed below).
+In a decay process that is not even close to exponential, the half-life will change dramatically while the decay is happening.
+In this situation it is generally uncommon to talk about half-life in the first place, but sometimes people will describe the decay in terms of its "first half-life", "second half-life", etc., where the first half-life is defined as the time required for decay from the initial value to 50%, the second half-life is from 50% to 25%, and so on.
+A biological half-life or elimination half-life is the time it takes for a substance (drug, radioactive nuclide, or other) to lose one-half of its pharmacologic, physiologic, or radiological activity.
+In a medical context, the half-life may also describe the time that it takes for the concentration of a substance in blood plasma to reach one-half of its steady-state value (the "plasma half-life").
+The relationship between the biological and plasma half-lives of a substance can be complex, due to factors including accumulation in tissues, active metabolites, and receptor interactions.
+While a radioactive isotope decays almost perfectly according to so-called "first order kinetics" where the rate constant is a fixed number, the elimination of a substance from a living organism usually follows more complex chemical kinetics.
+For example, the biological half-life of water in a human being is about 9 to 10 days, though this can be altered by behavior and various other conditions.
+The biological half-life of caesium in human beings is between one and four months.
+The concept of a half-life has also been utilized for pesticides in plants, and certain authors maintain that pesticide risk and impact assessment models rely on and are sensitive to information describing dissipation from plants.

@@ -1,0 +1,15 @@
+In statistics and quantitative research methodology, a data sample is a set of data collected and the world selected from a statistical population by a defined procedure.
+The elements of a sample are known as sample points, sampling units or observations.
+Typically, the population is very large, making a census or a complete enumeration of all the values in the population either impractical or impossible.
+Samples are collected and statistics are calculated from the samples, so that one can make inferences or extrapolations from the sample to the population.
+The data sample may be drawn from a population "without replacement" (i.e.
+no element can be selected more than once in the same sample), in which case it is a subset of a population; or "with replacement" (i.e.
+an element may appear multiple times in the one sample), in which case it is a multisubset.
+A complete sample is a set of objects from a parent population that includes ALL such objects that satisfy a set of well-defined selection criteria.
+So to compile such a complete sample requires a complete list of the parent population, including data on height, gender, and nationality for each member of that parent population.
+But, such complete samples are often available in other disciplines such as the set of players in a major sports league, the birth dates of the members of a parliament, or a complete magnitude-limited list of astronomical objects.
+An unbiased (representative) sample is a set of objects chosen from a complete sample using a selection process that does not depend on the properties of the objects.
+But one chosen from the electoral register might not be unbiased since, for example, males aged under 18 will not be on the electoral register.
+In an astronomical context, an unbiased sample might consist of that fraction of a complete sample for which data are available, provided the data availability is not biased by individual source properties.
+The best way to avoid a biased or unrepresentative sample is to select a random sample, also known as a probability sample.
+A random sample is defined as a sample where each individual member of the population has a known, non-zero chance of being selected as part of the sample.

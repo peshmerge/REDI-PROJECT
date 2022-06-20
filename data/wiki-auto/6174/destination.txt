@@ -1,0 +1,21 @@
+In mathematics, the cardinality of a set means the number of its elements.
+For example, the set A = {2, 4, 6} contains 3 elements, and therefore A has a cardinality of 3.
+Two sets have the "same" (or "equal") cardinality if they have the same number of elements.
+They have the same number of elements if and only if there is a 1-to-1 correspondence between the sets.
+The cardinality of the set "A" is "less than or equal to" cardinality (or "fewer than or equal" members) set "B" if and only if there is an injective function from "A" to "B".
+The cardinality of the set "B" is "greater than or equal to" (or "more than or equal" members) set "B" if and only if there is an injective function from "A" to "B".
+The "cardinality" of a set is only one way of giving a number to the "size" of a set.
+The cardinality of a finite set is a natural number.
+The smallest cardinality is 0.
+The empty set has cardinality 0.
+If the cardinality of the set "A" is "n", then there is a "next larger" set with cardinality "n"+1.
+(For example, the set formula_1.
+If formula_2 then either formula_3 or formula_4.)
+There is no largest finite cardinality.
+If the cardinality of a set is not finite then the cardinality is infinite.
+An infinite set is considered countable if they can be listed without missing any.
+Examples include the rational numbers, integers, and natural numbers.
+Such sets have a cardinality that we call formula_5 (read as: aleph null, aleph naught or aleph zero).
+Sets such as the real numbers are not countable.
+If given any finite or infinite list of real numbers, you can create a number not on that list.
+The real numbers have a cardinality of c.

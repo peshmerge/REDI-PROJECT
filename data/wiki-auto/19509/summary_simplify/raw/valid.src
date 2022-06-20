@@ -1,0 +1,29 @@
+In mathematics, a finitary relation is a property that assigns truth values to finite tuples of elements.
+For a given set of k -tuples, a truth value is assigned to each k -tuple according to whether the property does or does not hold.
+In this section we introduce the concept of a relation with a familiar everyday example.
+Consider the relation involving three roles that people might play, expressed in a statement of the form ""X" thinks that "Y" likes "Z" ".
+For instance, the first row says, in effect, "Alice thinks that Bob likes Denise".
+The relation itself is a mathematical object defined in terms of concepts from set theory (i.e., the relation is a subset of the Cartesian product on {Person X, Person Y, Person Z}), that carries all of the information from the table in one neat package.
+Mathematically, then, a relation is simply an "ordered set".
+Computer scientists, logicians, and mathematicians, however, tend to see different things when they look at these concrete examples and samples of the more general concept of a relation.
+For one thing, databases are designed to deal with empirical data, and experience is always finite, whereas mathematics at the very least concerns itself with potential infinity.
+This difference in perspective brings up a number of ideas that may be usefully introduced at this point, if by no means covered in depth.
+The variable formula_1 giving the number of ""places"" in the relation, 3 for the above example, is a non-negative integer, called the relation's "arity", "adicity", or "dimension".
+Relations with a finite number of places are called "finite-place" or "finitary" relations.
+It is possible to generalize the concept to include "infinitary" relations between infinitudes of individuals, for example infinite sequences; however, in this article only finitary relations are discussed, which will from now on simply be called relations.
+Since there is only one 0-tuple, the so-called empty tuple , there are only two zero-place relations: the one that always holds, and the one that never holds.
+For instance, any set (such as the collection of Nobel laureates) can be viewed as a collection of individuals having some property (such as that of having been awarded the Nobel prize).
+Relations are classified according to the number of sets in the defining Cartesian product, in other words, according to the number of terms following "L".
+In the case of a relation "L" over "k" sets, there are "k" + 1 things to specify, namely, the "k" sets plus a subset of their Cartesian product.
+Elements of a relation are more briefly denoted by using boldface characters, for example, the constant element a = (a, ..., a) or the variable element x = ("x", ..., "x").
+As a rule, whatever definition best fits the application at hand will be chosen for that purpose, and anything that falls under it will be called a relation for the duration of that discussion.
+If it becomes necessary to distinguish the two definitions, an entity satisfying the second definition may be called an "embedded" or "included" relation.
+It is conventional in applied mathematics, computer science, and statistics to refer to a Boolean-valued function like "ƒ" as a "k"-place predicate.
+From the more abstract viewpoint of formal logic and model theory, the relation "L" constitutes a "logical model" or a "relational structure" that serves as one of many possible interpretations of some "k"-place predicate symbol.
+Because relations arise in many scientific disciplines as well as in many branches of mathematics and logic, there is considerable variation in terminology.
+This article treats a relation as the set-theoretic extension of a relational concept or term.
+A variant usage reserves the term "relation" to the corresponding logical entity, either the logical comprehension, which is the totality of intensions or abstract properties that all of the elements of the relation in extension have in common, or else the symbols that are taken to denote these elements and intensions.
+The logician Augustus De Morgan, in work published around 1860, was the first to articulate the notion of relation in anything like its present sense.
+He also stated the first formal results in the theory of relations (on De Morgan and relations, see Merrill 1990).
+Many of their ideas, especially on relations called orders, were summarized in Principles of Mathematics (1903) by Bertrand Russell.
+Russell and A. N. Whitehead made free use of these results in their "Principia Mathematica".

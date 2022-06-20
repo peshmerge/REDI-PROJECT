@@ -1,0 +1,19 @@
+it is concerned with the arrangement of electrons around the nucleus and the processes by which these arrangements change .
+this includes ions , neutral atoms and , unless otherwise stated , it can be assumed that the term " atom " includes ions .
+physicists distinguish between atomic physics and chemistry .
+it is not concerned with the formation of molecules although much of the physics is identicaldilly , nor does it examine atoms in a solid state as condensed matter .
+modelling atoms in isolation may not seem realistic , if one considers atoms in a gas or plasma then the time-scales for atom interactions are huge in comparison to the atomic processes that are generally considered .
+by this consideration atomic physics provides the underlying theory in plasma physics and atmospheric physics , even though both deal with very large numbers of atoms .
+these are usually in a ground state but can be excited by the absorption of energy from lightzhou photonsocation , magnetic fields , or interaction with a colliding particle typically ions or other electrons dwight .
+if the electron absorbs a quantity of energy , it will be transferred to an excited state .
+after a certain time , the electron in an excited state will undergo a transition to a lower state .
+in a neutral atom , the system will emit a photon of the difference in energy , since energy is conserved .
+in this case , a visible photon or a characteristic x-ray is emitted , or a phenomenon known as the auger effect may take place , where the released energy is transferred to another bound electron , causing it to go into the continuum .
+there are rather strict selection rules as to the electronic configurations that can be reached by excitation by light .
+this theory was developed by the british chemist and physicist john dalton in the 18th century .
+at this stage , it was n't clear what atoms were although they could be described and classified by their propertiesmarks .
+the true beginning of atomic physics is marked by the discovery of spectral lines and attempts to describe the phenomenon , most notably by joseph von fraunhofer .
+atoms and their electron shells were concerned , not only did this yield a better description , i . e . . .
+the atomic orbital model , but it also provided a new theoretical basis for chemistryoslav quantum chemistry reactions .
+since the second world war both theoretical and experimental fields have advanced quickly .
+this is attributed to progress in computing technology , which has allowed larger models of atomic structure and associated collision processes .

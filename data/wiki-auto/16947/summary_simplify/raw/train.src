@@ -1,0 +1,22 @@
+Kerberos is a computer-network authentication protocol that works on the basis of "tickets" to allow nodes communicating over a non-secure network to prove their identity to one another in a secure manner.
+Its designers aimed it primarily at a client–server model and it provides mutual authentication—both the user and the server verify each other's identity.
+Massachusetts Institute of Technology (MIT) developed Kerberos to protect network services provided by Project Athena.
+Published in the late 1980s, version 4 was also targeted at Project Athena.
+Authorities in the United States classified Kerberos as "Auxiliary Military Equipment" on the US Munitions List and banned its export because it used the Data Encryption Standard (DES) encryption algorithm (with 56-bit keys).
+A non-US Kerberos 4 implementation, KTH-KRB developed at the Royal Institute of Technology in Sweden, made the system available outside the US before the US changed its cryptography export regulations ("circa" 2000).
+eBones was based on the exported MIT Bones release (stripped of both the encryption functions and the calls to them) based on version Kerberos 4 patch-level 9.
+MIT makes an implementation of Kerberos freely available, under copyright permissions similar to those used for BSD.
+In 2007, MIT formed the Kerberos Consortium to foster continued development.
+While Microsoft uses and extends the Kerberos protocol, it does not use the MIT software.
+Kerberos is used as preferred authentication method: In general, joining a client to a Windows domain means enabling Kerberos as default protocol for authentications from that client to services in the Windows domain and all domains with trust relationships to that domain.
+In contrast, when either client or server or both are not joined to a domain (or not part of the same trusted domain environment), Windows will instead use NTLM for authentication between client and server.
+Many UNIX and UNIX-like operating systems, including FreeBSD, OpenBSD, Apple's macOS, Red Hat Enterprise Linux, Oracle's Solaris, IBM's AIX and Z/OS, HP's HP-UX and OpenVMS and others, include software for Kerberos authentication of users or services.
+Embedded implementation of the Kerberos V authentication protocol for client agents and network services running on embedded platforms is also available from companies.
+The client authenticates itself to the Server (AS) which forwards the username to a key distribution center (KDC).
+The KDC issues a ticket-granting ticket (TGT), which is time stamped and encrypts it using the ticket-granting service's (TGS) secret key and returns the encrypted result to the user's workstation.
+This is done infrequently, typically at user logon; the TGT expires at some point although it may be transparently renewed by the user's session manager while they are logged in.
+Service must be registered at TGT with a Service Principal Name (SPN).
+After verifying that the TGT is valid and that the user is permitted to access the requested service, the TGS issues ticket and session keys to the client.
+The Data Encryption Standard (DES) cipher can be used in combination with Kerberos, but is no longer an Internet standard because it is weak.
+Security vulnerabilities exist in many legacy products that implement Kerberos because they have not been updated to use newer ciphers like AES instead of DES.
+In November 2014, Microsoft released a patch (MS14-068) to rectify an exploitable vulnerability in Windows implementation of the Kerberos Key Distribution Center (KDC).

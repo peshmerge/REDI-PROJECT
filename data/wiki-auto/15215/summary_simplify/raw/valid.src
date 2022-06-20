@@ -1,0 +1,39 @@
+Internet Explorer (formerly Microsoft Internet Explorer and Windows Internet Explorer, commonly abbreviated IE or MSIE) is a series of graphical web browsers developed by Microsoft and included in the Microsoft Windows line of operating systems, starting in 1995.
+Later versions were available as free downloads, or in service packs, and included in the original equipment manufacturer (OEM) service releases of Windows 95 and later versions of Windows.
+Internet Explorer was once the most widely used web browser, attaining a peak of about 95% usage share by 2003.
+This came after Microsoft used bundling to win the first browser war against Netscape, which was the dominant browser in the 1990s.
+Its usage share has since declined with the launch of Firefox (2004) and Google Chrome (2008), and with the growing popularity of operating systems such as Android and iOS that do not support Internet Explorer.
+Estimates for Internet Explorer's market share are about 2.28% across all platforms or by StatCounter's numbers ranked 7th, while on desktop, the only platform on which it has ever had significant share (e.g., excluding mobile and Xbox) it is ranked 4th at 5%, after macOS's Safari.
+Versions of Internet Explorer for other operating systems have also been produced, including an Xbox 360 version called Internet Explorer for Xbox and for platforms Microsoft no longer supports: Internet Explorer for Mac and Internet Explorer for UNIX (Solaris and HP-UX), and an embedded OEM version called Pocket Internet Explorer, later rebranded Internet Explorer Mobile made for Windows CE, Windows Phone and previously, based on Internet Explorer 7 for Windows Phone 7.
+On March 17, 2015, Microsoft announced that Microsoft Edge would replace Internet Explorer as the default browser on its Windows 10 devices (while support for older Windows has since been announced, as of 2019 Edge still has lower share than IE's, that's in decline).
+The browser has been scrutinized throughout its development for use of third-party technology (such as the source code of Spyglass Mosaic, used without royalty in early versions) and security and privacy vulnerabilities, and the United States and the European Union have alleged that integration of Internet Explorer with Windows has been to the detriment of fair browser competition.
+The Internet Explorer project was started in the summer of 1994 by Thomas Reardon, who, according to the Massachusetts Institute of Technology Review of 2003, used source code from Spyglass, Inc.
+Mosaic, which was an early commercial web browser with formal ties to the pioneering National Center for Supercomputing Applications (NCSA) Mosaic browser.
+In late 1994, Microsoft licensed Spyglass Mosaic for a quarterly fee plus a percentage of Microsoft's non-Windows revenues for the software.
+The first version, dubbed Microsoft Internet Explorer, was installed as part of the "Internet Jumpstart Kit" in Microsoft Plus!
+Internet Explorer 1.5 was released several months later for Windows NT and added support for basic table rendering.
+It is a major update to its developer tools, enhanced scaling for high DPI screens, HTML5 prerender and prefetch, hardware-accelerated JPEG decoding, closed captioning, HTML5 full screen, and is the first Internet Explorer to support WebGL and Google's protocol SPDY (starting at v3).
+This version of IE has features dedicated to Windows 8.1, including cryptography (WebCrypto), adaptive bitrate streaming (Media Source Extensions) and Encrypted Media Extensions.
+Internet Explorer 11 was made available for Windows 7 users to download on November 7, 2013, with Automatic Updates in the following weeks.
+Microsoft claimed that Internet Explorer 11, running the WebKit SunSpider JavaScript Benchmark, was the fastest browser as of October 15, 2013.
+Microsoft Edge, officially unveiled on January 21, 2015, has replaced Internet Explorer as the default browser on Windows 10.
+Internet Explorer is still installed in Windows 10 in order to maintain compatibility with older websites and intranet sites that require ActiveX and other Microsoft legacy web technologies.
+Internet Explorer has been designed to view a broad range of web pages and provide certain features within the operating system, including Microsoft Update.
+During the heyday of the browser wars, Internet Explorer superseded Netscape only when it caught up technologically to support the progressive features of the time.
+Internet Explorer uses DOCTYPE sniffing to choose between standards mode and a "quirks mode" in which it deliberately mimicks nonstandard behaviours of old versions of MSIE for HTML and CSS rendering on screen (Internet Explorer always uses standards mode for printing).
+Internet Explorer was criticised by Tim Berners-Lee for its limited support for SVG, which is promoted by W3C.
+Internet Explorer has introduced an array of proprietary extensions to many of the standards, including HTML, CSS, and the DOM.
+This has resulted in a number of web pages that appear broken in standards-compliant web browsers and has introduced the need for a "quirks mode" to allow for rendering improper elements meant for Internet Explorer in these other browsers.
+Internet Explorer has introduced a number of extensions to the DOM that have been adopted by other browsers.
+These include the innerHTML property, which provides access to the HTML string within an element; the XMLHttpRequest object, which allows the sending of HTTP request and receiving of HTTP response, and may be used to perform AJAX; and the designMode attribute of the contentDocument object, which enables rich text editing of HTML documents.
+Some of these functionalities were not possible until the introduction of the W3C DOM methods.
+However, all were rejected, at least in their original forms; VML was subsequently combined with PGML (proposed by Adobe and Sun), resulting in the W3C-approved SVG format, one of the few vector image formats being used on the web, which IE did not support until version 9.
+Other non-standard behaviours include: support for vertical text, but in a syntax different from W3C CSS3 candidate recommendation, support for a variety of image effects and page transitions, which are not found in W3C CSS, support for obfuscated script code, in particular JScript.Encode, as well as support for embedding EOT fonts in web pages.
+In Windows Vista and later, Internet Explorer can display native Windows icons that have embedded PNG files.
+Internet Explorer makes use of the accessibility framework provided in Windows.
+Internet Explorer is also a user interface for FTP, with operations similar to that of Windows Explorer.
+Internet Explorer caches visited content in the Temporary Internet Files folder to allow quicker access (or offline access) to previously visited pages.
+Prior to IE7, clearing the cache used to clear the index but the files themselves were not reliably removed, posing a potential security and privacy risk.
+In IE7 and later, when the cache is cleared, the cache files are more reliably removed, and the index.dat file is overwritten with null bytes.
+Administrators of Windows Server domains (for domain-joined computers) or the local computer can apply and enforce a variety of settings on computers that affect the user interface (such as disabling menu items and individual configuration options), as well as underlying security features such as downloading of files, zone configuration, per-site settings, ActiveX control behaviour and others.
+It consists of several major components, each of which is contained in a separate Dynamic-link library (DLL) and exposes a set of COM programming interfaces hosted by the Internet Explorer main executable,

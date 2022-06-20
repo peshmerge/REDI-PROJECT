@@ -1,0 +1,140 @@
+A turbocharger, or turbo, is a gas compressor.
+It is used to force air into an internal combustion engine.
+A turbocharger is a form of forced induction.
+It increases the amount of air entering the engine to create more power.
+A turbocharger has the compressor powered by a turbine.
+The turbine is driven by the exhaust gas from the engine.
+It does not use a direct mechanical drive.
+This helps to improve the performance of the turbocharger.
+Early builders of turbochargers called them as "turbosuperchargers".
+A supercharger is an air compressor used for forcing air into an engine.
+They thought that by adding a turbine to turn the supercharger, it would yield a "turbosupercharger".
+The term was soon shortened to "turbocharger".
+This can now create some confusion.
+The term "turbosupercharged" is sometimes used to refer to an engine that uses both a crankshaft-driven supercharger and an exhaust-driven turbocharger.
+This is also called twincharging.
+Some companies such as Teledyne Continental Motors still use the term "turbosupercharger" to refer to their turbochargers.
+An engine creates power by burning a mixture of air and fuel.
+The air and fuel are put into the cylinders to burn.
+When they burn, they push the piston down.
+The piston turns the crankshaft and creates power.
+For car engines, this is measured "horsepower".
+An engine that does not use a turbocharger or a supercharger is called a "naturally aspirated" or "normally aspirated" engine.
+Normally, when engine specifications are listed, a note is only made if the engine uses a turbocharger or supercharger.
+Most car engines are naturally aspirated.
+The power they can create is limited by the amount of air the pistons can pull into the cylinders.
+A turbocharger is a small fan pump that spins around a shaft.
+The pump is driven by the pressure of the exhaust gas.
+A turbocharger consists of a turbine and a compressor.
+They are both mounted on the same shaft.
+The turbine is a heat engine.
+It converts exhaust heat and pressure to rotation.
+This rotation is used to turn the compressor.
+The compressor takes in the draws in the outside air.
+It squeezes or compresses the air.
+It then sends the air to the engine.
+Because the air pressure has been increased, more air and fuel may be put into the cylinders.
+This is sometimes called "boost pressure".W
+With more fuel to burn, the engine can create more power.
+This increases the "horsepower" of the engine.
+The engine can be damaged if the air pressure in the cylinders gets too high.
+If there is too much exhaust gas sent to the turbine, the compressor can create too much pressure.
+To stop this from happening, a "wastegate" is used.
+The wastegate will limit amount of exhaust gas sent to the turbine.
+The turbocharger was invented by Swiss engineer Alfred Büchi.
+His patent was applied for use in 1905.
+Diesel ships and locomotives with turbochargers began appearing in the 1920s.
+During the First World War French engineer Auguste Rateau fitted turbochargers to Renault engines powering various French fighters with some success.
+In 1918, General Electric engineer Sanford Moss attached a turbocharger to a "Liberty" aircraft engine.
+The engine was tested at Pikes Peak in Colorado at 14000 ft. The test was to show that the turbo could add the power airplanes lose at high altitude.
+Internal combustion engines lose power because at high altitude, the outside air pressure is low.
+Less air and fuel can be drawn into the engine.
+Turbochargers were first used in production aircraft engines in the 1930s.
+The first turbocharged diesel truck was built by the "Swiss Machine Works Saurer" in 1938.
+The first production turbocharged automobile engines came from General Motors in 1962.
+The Oldsmobile Cutlass Jetfire was fitted with a turbocharger and the Chevrolet Corvair Monza Spyder with a TRW turbocharger.
+In 1974, at Paris Auto Show, Porsche displayed the 911Turbo.
+This was during the height of the oil crisis.
+The 911Turbo was the first production sports car with exhaust turbocharger and pressure regulator.
+The pressure regulator was the wastegate.
+The first production turbo diesel automobiles were the Mercedes 300SD with a Garrett turbocharger, and the Peugeot 604.
+Both were introduced in 1978.
+Today, most automotive diesels are turbocharged.
+The first successful turbocharged racing engine appears to have been in 1952.
+Fred Agabashian in a diesel-powered Cummins Special qualified for the pole position at the Indianapolis 500.
+He led for 175 mi.
+Then the turbo was damaged by tire debris.
+Offenhauser's turbocharged engines first came to Indianapolis in 1966.
+Their first victory came in 1968 using a Garrett AiResearch turbocharger.
+Turbocharged cars dominated the 24 Hours of Le Mans between 1976 and 1988, and then from 2000-2007.
+Formula One had a "Turbo Era" from until .
+Engines with a capacity of 1500 cc could produce as much as 1500 hp (1119 kW).
+In 1977, Renault was the first to use turbocharged engines F1.
+The performance made up for the high cost.
+Other engine manufacturers started building turbos.
+The turbocharged engines took over the F1 field.
+They ended the Ford Cosworth DFV era in the mid 1980s.
+the FIA decided that turbochargers were making the sport too dangerous and expensive.
+In 1987, the FIA decided to limit the maximum boost of the turbos.
+In 1989, turbochargers were banned completely.
+World Rally Car racers have long preferred turbocharged engines.
+They offer a very high power-to-weight ratios.
+Turbo power started to rise to the levels of F1 cars.
+The FIA did not ban turbos.
+They restrict the turbo power by limiting the inlet diameter.
+Some engines use two turbochargers.
+They will both be the same size.
+They are normally smaller than used on single-turbos engines.
+They are often used on V-type engines, such as V6s and V8s.
+Each turbo is powered by a separate exhaust pipe from the engine.
+Because they are smaller, they reach their optimal boost more quickly.
+This setup of turbos is normally called a parallel twin-turbo system.
+The first production car with parallel twin turbochargers was the Maserati Biturbo of the early 1980s.
+Some car builders avoid turbo lag (below) by using two small turbos.
+The normal setup is to have one turbo working all the time.
+The seconds turbo will only start working at higher RPM.
+Because the turbos are smaller, they do not have as much turbo lag.
+The second turbo will be able get to full speed before it is required.
+This setup is normally called a sequential twin-turbo.
+Porsche first used this technology in 1985 in the Porsche 959.
+Turbocharging is very common on diesel engines in automobiles, trucks, locomotives, ships, and heavy machinery.
+Using turbochargers to increase performance was very appealing to the Japanese builders in the 1980s.
+The first example of a turbocharged motorcycle is the 1978 Kawasaki Z1R TC.
+It used a Rayjay ATP turbo kit to build 0.35 bar (5 lb) of boost.
+This raised the power up from 90 hp to 105 hp.
+It was only slightly faster than the standard model.
+Several other motorcycles were built with turbos.
+Turbo applications for motorcycles increased their price.
+The small gains in performance were not worth the extra cost.
+Since the mid 1980s, no manufacturers have produced turbocharged motorcycles.
+A natural use of the turbocharger is with aircraft engines.
+As an aircraft climbs to higher altitudes, the pressure of the surrounding air quickly decreases.
+A turbocharger fixes this problem by compressing the air to higher pressures.
+Compressing the air increases its temperature.
+This causes several problems.
+Increased temperatures can lead to engine knock because of increased cylinder head temperatures.
+Hot air cannot burn as much fuel as cold air.
+This will decrease the power produced.
+The common method of dealing with the hotter air is to cool it.
+The most common way is to use an inter-cooler or after-cooler.
+These coolers reduce the temperature of the air before it enters the engine.
+Modern turbocharged aircraft usually do not need to cool the incoming air.
+Their turbochargers are generally small and the pressures created are not very high.
+Thus, the air temperature is not increased very much.
+To run a supercharger, it needs to take away some power from the engine.
+The power it adds is more than the power it uses.
+A turbocharger uses the exhaust gases.
+This is heat energy that would be wasted.
+Turbochargers can be damaged by dirty or poor oil.
+Most manufacturers recommend more frequent oil changes for turbocharged engines.
+The turbocharger will heat when running.
+Many recommend letting the engine idle for several minutes before shutting the engine off.
+This gives the turbo time to cool down.
+This will increase the life of the turbo.
+The time required for the turbo to build up the needed pressure is called "turbo lag".
+This is noticed as a hesitation in engine response.
+This is caused by the time taken for the exhaust system to speed up the turbine.
+The directly-driven compressor in a supercharger does not have this problem.
+Lag can be reduced by using lighter parts.
+This allows the turbine to start faster.
+Other mechanical changes can reduce turbo lag, but at an increase in cost.

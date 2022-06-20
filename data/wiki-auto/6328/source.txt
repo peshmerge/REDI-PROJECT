@@ -1,0 +1,24 @@
+In linguistics, cognates are words that have a common etymological origin.
+Cognates are often inherited from a shared parent language, but they may also involve borrowings from some other language.
+For example, the English words "dish" and "desk" and the German word "Tisch" ("table") are cognates because they all come from Latin "discus", which relates to their flat surfaces.
+Cognates may have evolved similar, different or even opposite meanings, but in most cases there are some similar sounds or letters in the words, in some cases appearing to be dissimilar.
+Some words sound similar, but don't come from the same root; these are called false cognates, while some are truly cognate but differ in meaning; these are called false friends.
+The word "cognate" derives from the Latin noun "cognatus", which means "blood relative".
+Cognates do not need to have the same meaning, which may have changed as the languages developed separately.
+For example English "starve" and Dutch "sterven" or German "sterben" ("to die") all derive from the same Proto-Germanic root, "*sterbaną" ("die").
+"Discus" is from Greek "δίσκος" (from the verb "δικεῖν" "to throw").
+A later and separate English reflex of "discus", probably through medieval Latin "desca", is "desk" (see OED s.v. "desk").
+Cognates also do not need to have similar forms: English "father", French "père", and Armenian հայր ("hayr") all descend directly from Proto-Indo-European "*ph2tḗr".
+An extreme case is Armenian երկու ("erku") and English "two", which descend from Proto-Indo-European "*dwóh1" (note that the sound change "*dw" > "erk" in Armenian is regular).
+Examples of cognates in Indo-European languages are the words "night" (English), "nicht" (Scots), "Nacht" (German), "nacht" (Dutch), "nag" (Afrikaans), "Naach" (Colognian), "natt" (Swedish, Norwegian), "nat" (Danish), "nátt" (Faroese), "nótt" (Icelandic), "noc" (Czech, Slovak, Polish), ночь, "noch" (Russian), ноќ, "noć" (Macedonian), нощ, "nosht" (Bulgarian), "ніч", "nich" (Ukrainian), "ноч", "noch"/"noč" (Belarusian), "noč" (Slovene), "noć" (Bosnian, Serbian, Croatian), "nakts" (Latvian), "naktis" (Lithuanian), νύξ, "nyx" (Ancient Greek, "νύχτα"/"nychta" in Modern Greek), "nakt-" (Sanskrit), "natë" (Albanian), "nos" (Welsh, Cornish), "noz" (Breton), "nox/nocte" (Latin), "nuit" (French), "noche" (Spanish), "nueche" (Asturian), "noite" (Portuguese and Galician), "notte" (Italian), "nit" (Catalan), "nuèch/nuèit" (Occitan) and "noapte" (Romanian), all meaning "night" and being derived from the Proto-Indo-European *nókwts "night".
+Another Indo-European example is "star" (English), "starn" (Scots), "Stern" (German), "ster" (Dutch and Afrikaans), "Schtähn" (Colognian), "stjärna" (Swedish), "stjerne" (Norwegian and Danish), "stjarna" (Icelandic), "stjørna" (Faroese), "stairno" (Gothic), "str-" (Sanskrit), "tara" (Hindustani and Bengali), "tora" (Assamese), "setāre" (Persian), "stoorei" (Pashto), "estêre" or "stêrk" (Kurdish), "astgh" (Armenian), "ἀστήρ (astēr)" (Greek or "ἀστέρι"/"ἄστρο", "asteri"/"astro" in Modern Greek), "aster" (Latin), "astre"/"étoile" (French), "astro/stella" (Italian), "stea" (Romanian and Venetian), "estel" (Catalan), "estela" (Occitan) "estrella" and "astro" (Spanish), "estrella" (Asturian and Leonese), "estrela" and "astro" (Portuguese and Galician), "seren" (Welsh), "steren" (Cornish) and "sterenn" (Breton), from the Proto-Indo-European *h2stḗr "star".
+The Arabic "salām", the Hebrew "shalom", the Assyrian Neo-Aramaic "shlama" and the Amharic "selam" ("peace") are also cognates, derived from the Proto-Semitic *šalām- "peace".
+Cognates may often be less easily recognised than the above examples, and authorities sometimes differ in their interpretations of the evidence.
+The English word "milk" is clearly a cognate of German "Milch", Dutch "melk", Russian "молоко (moloko)" and Bosnian, Serbian, Croatian, Slovenian "mleko", also Montenegrin "mlijeko".
+On the other hand, French "lait", Catalan "llet", Italian "latte", Romanian "lapte", Spanish "leche" and "leite" (Portuguese and Galician) (all meaning "milk") are less-obvious cognates of Ancient Greek " " "gálaktos" (genitive singular of "gála", "milk"), a relationship that is more evidently seen through the intermediate Latin "lac" "milk" as well as the English word "lactic" and other terms borrowed from Latin.
+All of them come from Proto-Indo-European h2melǵ- "milk".
+Some cognates are semantic opposites.
+For instance, while the Hebrew word "chutzpah" means "impudence", its Classical Arabic cognate "ḥaṣāfah" means "sound judgment."
+Another example is English "empathy" "understanding of thoughts" and Greek "εμπάθεια" "malice".
+Cognates within a single language, or "doublets", may have meanings that are slightly or even totally different.
+For example, English "ward" and "guard" (

@@ -1,0 +1,79 @@
+colossus was a set of computers developed by british codebreakers in the years 1943 – 1945 to help in the cryptanalysis of the lorenz cipher .
+colossus was designed by research telephone engineer tommy flowers to solve a problem posed by mathematician max newman at the government code and cypher school seized gc & cs cs cs cs cslington at bletchley park .
+it has sometimes been wrongly said that turing designed colossus to help the cryptanalysis of the enigma .
+a mark 2 colossus first worked on 1 june 1944 .
+bletchley park used these machines to get a vast amount of high-level military intelligence from intercepted radiotelegraphy messages between the german high command uss " okw " .
+the existence of the colossus machines was kept secret until the mid-1970s ; the machines and the plans for building them had been destroyed in the 1960s as part of the effort to maintain the secrecy of the project .
+this deprived most of those involved with colossus of the credit for pioneering electronic digital computing during their lifetimes .
+the british called the machine and its coded messages " tunny " issn tunafishfishfishfish " .
+before the germans increased the security of their operating procedures , british cryptanalysts found how the unseen machine functioned and built an imitation of it called " british tunny " .
+it was deduced that the machine had twelve wheels .
+it combined the plaintext characters with a stream of key characters using the xor boolean function to produce the ciphertext .
+in august 1941 , a blunder by german operators led to the transmission of two versions of the same message with identical machine settings .
+then , a newly-arrived member of the research section , used this key stream to work out the logical structure of the lorenz machine .
+with a sufficiently random key stream , a vernam cipher removes the natural language property of a plaintext message of having an uneven frequency distribution of the different characters , to produce a uniform distribution in the ciphertext .
+the cryptanalysts looked out by examining the frequency distribution of the character-to-character changes in the ciphertext , instead of the plain characters , there was a departure from uniformity which provided a way into the system .
+these patterns were set up on the lorenz machine and then used for a fixed period of time for a succession of different messages .
+the second task was " wheel setting " .
+to find the start position of the " chi " wheels for a message , colossus compared two character streams , counting statistics from the evaluation of programmable boolean functions .
+the two streams were the ciphertext , which was read at high speed from a paper tape , and the key stream , which was generated internally , in a simulation of the unknown german machine .
+they were checked by examining the frequency distribution of the characters in processed ciphertext .
+by using different measures and knowing that the " psi " wheels did not advance with each character , tutte worked out that trying just two differenced bits ciphertext would produce a statistic that was non-random .
+if this number exceeded a set value , it was printed out .
+the cryptanalyst would examine the printout to determine which of the putative start positions was likely to be the correct one for the chi-1 and chi-2 wheels .
+this technique would then be applied to other pairs of , or single , impulses to determine the likely start position of all five " chi " wheels .
+this was the section at bletchley park led by major ralph tester .
+colossus could also get the start of the " psi " and motor wheels , but this was not much done until the last few months of the war , when there were plenty of colossi available and the number of tunny messages had declined .
+colossus was a part of the " newmanry " , the section headed by the mathematician max newman that was responsible for machine methods against the twelve-rotor lorenz sz40 / 42 on-line teleprinter cipher machinechrome code named tunny , for tunafishfishfishfishfishfishfishcence .
+it proved the concept of machine analysis for this part of the process , but it was unreliable .
+the electro-mechanical parts were slow and it was difficult to synchronise two looped paper tapes , one containing the enciphered message , and the other representing part of the key stream of the lorenz machine , also the tapes tended to stretch when being read at up to 2000 characters per second .
+tommy flowers was a senior electrical engineer and head of the switching group at the post office research station at dollis hill .
+he had been involved with gc & cs at bletchley park in february 1941 .
+he was not impressed by the system of a key tape that had to be kept synchronised with the message tape .
+he gave this design to max newman in february 1943 .
+flowers persisted with the idea and got support from the director of the research station , w gordon radley .
+flowers and his team spent eleven months from early february 1943 designing and building a machine that dispensed with the second tape of the heath robinson , by generating the wheel patterns electronically .
+it was taken to bletchley park , where it was delivered on 18 january and re-assembled by harry fensom and don horwood .
+four of these were ordered in march 1944 and by the end of april the number on order had been increased to twelve .
+dollis hill was told to have the first of these working by june 1 .
+by the time of v-e day there were ten colossus computers working at bletchley park .
+most of the design of the electronics was the work of tommy flowers , assisted by william chandler , sidney broadhurst and allen coombs .
+coombs remembered flowers , having produced a rough draft of his design , tearing it into pieces that he handed out to his colleagues for them to do the detailed design and get their team to manufacture it .
+this was arranged in a continuous loop so that it could be read and re-read multiple times – there being no internal store for the data .
+the design overcame the problem of synchronizing the electronic with the speed of the message tape , by making a signal from reading its sprocket holes .
+the speed of operation was limited by the mechanics of reading the tape .
+flowers designed a 6-character shift register .
+this was done by the wrens who put the two ends together using bostik glue .
+this hole is between the fourth and fifth channels 1 ⁄ sprocket holes from the end of the message .
+these were read by specially positioned photocells and indicated when the message was about to start and when it ended .
+one tape could be loaded while the previous one was being run .
+after completing resetting and zeroizing tasks , the wren operators would operate the " set total " decade switches and the k2 panel switches to set the desired algorithm .
+the input data was read from the looped message paper tape and the electronic pattern generators for the " chi " , " psi " and motor wheels .
+the programs for the processors were set and held on the switches and jack panel connections .
+each processor could evaluate a boolean function and display the number of times it yielded the specified value of " false "pool .
+input to the processors came from two sources , the shift registers from tape reading and the thyratron rings that emulated the wheels of the tunny machine .
+the characters on the paper tape were called z and the characters from the tunny emulator were referred to by the greek letters that bill tutte had given them when working out the logical structure of the machine .
+on the selection panel , switches have either z or δz , either formula _ 1 or δformula _ 1 and either formula _ 5 or δformula _ 5 for the data to be passed to the jack field and ' k2 switch panel ' .
+these signals from the wheel simulators could be specified as stepping on with each new pass of the message tape or not .
+such a two-wheel run was called a long run .
+after the first long run , the choice of next algorithm to be tried was given by the cryptanalyst .
+colossus was the first of the electronic digital machines with programmability .
+the university of san francisco professor benjamin wells has shown that if all of the ten colossus machines made were rearranged in a cluster , then the entire set of computers could have simulated a universal turing machine , and thus be turing complete .
+the idea of a computer as a general purpose machine was not very important until after world war ii .
+the colossus was highly secret for 30 years after the war .
+consequently , it was not included in the history of computing hardware for many years , and flowers and his associates were deprived of the recognition they were due .
+colossus 1-10 were taken apart after the war .
+some parts , sanitised as to their original purpose , were taken to max newman 's royal society computing machine laboratory at manchester university .
+a small number of people who knew that large-scale , reliable , high-speed electronic digital computing devices were possible .
+it was edvac that was the seminal computer architecture of the time .
+in 1972 herman goldstine , who was unaware of colossus and its legacy to the projects of people such as alan turing dq acetyle , max newmanheimer manchester computers percival and harry huskey ttygram , wrote that , , , , was not a part of colossus .
+randell 's efforts started to bear fruit in the mid-1970s .
+the optical tape reader might have been the biggest problem , but dr . arnold lynch , its designer , was able to redesign it to his own original design .
+in november 2007 , to celebrate the project completion and mark the start of fundraising for the national museum of computing , a cipher competition pitted the rebuilt colossus against radio amateurs worldwide .
+the competition was easily won by radio amateur joachim schuth .
+the colossus team was hampered by their wish to use world war ii radios .
+nevertheless , the winner 's 1.4 ghz laptop , running his own program , took less than a minute to find the settings for all 12 wheels .
+the german codebreaker said : " my laptop destroyed ciphertext at a speed of 1.2 million letters per second — 240 times faster than colossus .
+" on the strength of today 's performance colossus is as good as it was six decades ago " , commented tony sale .
+" we are delighted to have produced a fitting tribute to the people who worked at bletchley park .
+this was coincidence as it dates the public release of information about colossus , or even its name .

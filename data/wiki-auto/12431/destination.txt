@@ -1,0 +1,114 @@
+Google Search or Google Web Search is a web search engine owned by Google Inc. and is the most-used search engine on the World Wide Web.
+Google receives several hundred million queries each day through its various services.
+The main purpose of Google Search is to hunt for text in webpages, as opposed to other data, such as with Google Image Search.
+Google search was originally developed by Larry Page and Sergey Brin in 1997, based on earlier search-engine designs.
+Google Search provides at least 22 special features beyond the original word-search capability.
+These include synonyms, weather forecasts, time zones, stock quotes, maps, earthquake data, movie showtimes, airports, home listings, and sports results.
+("see below:" Special features).
+There are special features for numbers, including ranges (70..
+.73), prices, temperatures, money/unit conversions ("10.5 cm in inches"), calculations ( 3*4+sqrt(6)-pi/2 ), package tracking, patents, area codes, and language translation of displayed pages.
+The order of search results (ghits for "Google hits") on Google's search-results pages is based, in part, on a priority rank called a "PageRank".
+Google Search provides many options for customized search ("see below:" Search options), using Boolean operators such as: exclusion ("-xx"), inclusion ("+xx"), alternatives ("xx OR yy"), and wildcard ("x * x").
+Google's rise to success was in large part due to a patented algorithm called PageRank that helps rank web pages that match a given search string.
+Previous keyword-based methods of ranking search results, used by many search engines that were once more popular than Google, would rank pages by how often the search terms occurred in the page, or how strongly associated the search terms were within each resulting page.
+The PageRank algorithm instead analyses human-generated links, assuming that web pages linked from many important pages are themselves likely to be important.
+The algorithm computes a recursive score for pages, based on the weighted sum of the PageRanks of the pages linking to them.
+PageRank is thought to correlate well with human concepts of importance.
+In addition to PageRank, Google over the years has added many other secret criteria for determining the ranking of pages on result lists, reported to be over 200 different indicators.
+The details are kept secret due to spammers and in order to maintain an advantage over Google's competitors.
+The exact percentage of the total of web pages that Google indexes is not known, as it is very hard to actually calculate.
+Google not only indexes and caches web pages but also takes "snapshots" of other file types, which include PDF, Word documents, Excel spreadsheets, Flash SWF, plain text files, and so on.
+Except in the case of text and SWF files, the cached version is a conversion to (X)HTML, allowing those without the corresponding viewer application to read the file.
+Users can customize the search engine, by setting a default language, using the "SafeSearch" filtering technology and set the number of results shown on each page.
+Google has been criticized for placing long-term cookies on users' machines to store these preferences, a tactic which also enables them to track a user's search terms and retain the data for more than a year.
+For any query, up to the first 1000 results can be shown with a maximum of 100 displayed per page.
+The ability to specify the number of results is available only if "Instant Search" is not enabled.
+If "Instant Search" is enabled, only 10 results are displayed, regardless of this setting.
+Despite its immense index, there is also a considerable amount of data available in online databases which are accessible by means of queries but not by links.
+This so-called invisible or deep Web is minimally covered by Google and other search engines.
+The deep Web contains library catalogs, official legislative documents of governments, phone books, and other content which is dynamically prepared to respond to a query.
+Privacy in some countries forbids the showing of some links.
+For instance in Switzerland any individual can force Google Inc. to delete a link which contains their name.
+Since Google is the most popular search engine, many webmasters have become eager to influence their website's Google rankings.
+An industry of consultants has arisen to help websites increase their rankings on Google and on other search engines.
+This field, called search engine optimization, attempts to discern patterns in search engine listings, and then develop a methodology for improving rankings to draw more searchers to their client's sites.
+Search engine optimization encompasses both "on page" factors (like body copy, title elements, H1 heading elements and image alt attribute values) and Off Page Optimization factors (like anchor text and PageRank).
+The general idea is to affect Google's relevance algorithm by incorporating the keywords being targeted in various places "on page", in particular the title element and the body copy (note: the higher up in the page, presumably the better its keyword prominence and thus the ranking).
+Too many occurrences of the keyword, however, cause the page to look suspect to Google's spam checking algorithms.
+Google has published guidelines for website owners who would like to raise their rankings when using legitimate optimization consultants.
+Google search consists of a series of localized websites.
+The largest of those, the google.com site, is the top most-visited website in the world.
+Some of its features include a definition link for most searches including dictionary words, the number of results you got on your search, links to other searches (e.g. for words that Google believes to be misspelled, it provides a link to the search results using its proposed spelling), and many more.
+Google's search engine normally accepts queries as a simple text, and breaks up the user's text into a sequence of search terms, which will usually be words that are to occur in the results, but one can also use Boolean operators, such as: quotations marks (") for a phrase, a prefix such as "+", "-" for qualified terms, or one of several advanced operators, such as "site:".
+The webpages of "Google Search Basics" describe each of these additional queries and options ("see below:" Search options).
+Google's Advanced Search web form gives several additional fields which may be used to qualify searches by such criteria as date of first retrieval.
+All advanced queries transform to regular queries, usually with additional qualified terms.
+Google applies query expansion to the submitted search query, transforming it into the query that will actually be used to retrieve results.
+Google's homepage includes a button labeled "I'm Feeling Lucky".
+When a user clicks on the button the user will be taken directly to the first search result, bypassing the search engine results page.
+The thought is that if a user is "feeling lucky", the search engine will return the perfect match the first time without having to page through the search results.
+According to a study by Tom Chavez of "Rapt", this feature costs Google $110 million a year as 1% of all searches use this feature and bypass all advertising.
+On October 30, 2009, for some users, the "I'm Feeling Lucky" button was removed from Google's main page, along with the regular search button.
+Both buttons were replaced with a field that reads, "This space intentionally left blank."
+This text faded out when the mouse was moved on the page, and normal search functionality is achieved by filling in the search field with the desired terms and pressing enter.
+A Google spokesperson explains, "This is just a test, and a way for us to gauge whether our users will like an even simpler search interface."
+Personalized Google homepages retained both buttons and their normal functions.
+On May 21, 2010, the 30th anniversary of Pac-Man, the "I'm Feeling Lucky" button was replaced with a button reading the words "Insert Coin".
+After pressing the button, the user would begin a Google-themed game of Pac-Man in the area where the Google logo would normally be.
+Pressing the button a second time would begin a two-player version of the same game that includes Ms. Pacman for player 2.
+This version can be accessed at http://www.google.com/pacman as a permanent link to the page.
+On 12 May 2009, Google announced that they would be parsing the hCard, hReview, and hProduct microformats and using them to populate search result pages with what they called "Rich Snippets".
+The webpages maintained by the Google Help Center have text describing more than 15 various search options.
+Note that Google searches the HTML coding inside a webpage, not the screen appearance: the words displayed on a screen might not be listed in the same order in the HTML coding.
+Some searches will give a 403 Forbidden error with the text
+... but your query looks similar to automated requests from a computer virus or spyware application.
+To protect our users, we can't process your request right now.
+We'll restore your access as quickly as possible, so try again soon.
+In the meantime, if you suspect that your computer or network has been infected, you might want to run a virus checker or spyware remover to make sure that your systems are free of viruses and other spurious software.
+We apologise for the inconvenience, and hope we'll see you again from all of the team here at Google."
+sometimes followed by a CAPTCHA prompt.
+The screen was first reported in 2005, and was a response to the heavy use of Google by search engine optimization companies to check on ranks of sites they were optimizing.
+The message is triggered by high volumes of requests from a single IP address.
+Google apparently uses the Google cookie as part of its determination of refusing service.
+In June 2009, after the death of pop superstar Michael Jackson, this message appeared to many internet users who were searching Google for news stories related to the singer, and was assumed by Google to be a DDoS attack, although many queries were submitted by legitimate searchers.
+Google flags search results with the message "This site may harm your computer" if the site is known to install malicious software in the background or otherwise surreptitiously.
+Google does this to protect users against visiting sites that could harm their computers.
+For approximately 40 minutes on January 31, 2009, "all" search results were mistakenly classified as malware and could therefore not be clicked; instead a warning message was displayed and the user was required to enter the requested URL manually.
+The bug was caused by human error.
+The URL of "/" (which expands to all URLs) was mistakenly added to the malware patterns file.
+On certain occasions, the logo on Google's webpage will change to a special version, known as a "Google Doodle".
+Clicking on the Doodle links to a string of Google search results about the topic.
+The first was a reference to the Burning Man Festival in 1998, and others have been produced for the birthdays of notable people like Albert Einstein, historical events like the interlocking Lego block's 50th anniversary and holidays like Valentine's Day.
+In August 2009, Google announced the rollout of a new search architecture, codenamed "Caffeine".
+The new architecture was designed to return results faster and to better deal with rapidly updated information from services including Facebook and Twitter.
+Google developers noted that most users would notice little immediate change, but invited developers to test the new search in its sandbox.
+Differences noted for their impact upon search engine optimization included heavier keyword weighting and the importance of the domain's age.
+The move was interpreted in some quarters as a response to Microsoft's recent release of an upgraded version of its own search service, renamed Bing.
+Google announced completion of Caffeine on 8 June 2010, claiming 50% fresher results due to continuous updating of its index.
+With Caffeine, Google moved its back-end indexing system away from MapReduce and onto BigTable, the company's distributed database platform.
+Caffeine is also based on Colossus, or GFS2, an overhaul of the GFS distributed file system.
+In May 2010 Google rolled out SSL-encrypted web search.
+The encrypted search can be accessed at: https://encrypted.google.com
+Google Instant, an enhancement that displays suggested results while the user types, was introduced in the United States starting on September 8, 2010.
+One concern is that people might select one of the suggested results instead of finishing their request, and that such a practice could cause bias toward familiar businesses or other search terms.
+Pornographic or otherwise offensive search terms are excluded from the suggested results.
+The instant feature appears only on the basic Google site and not specialized iGoogle pages.
+Google expects Google Instant to save users 2 to 5 seconds in every search, which they say will be collectively 11 million seconds per hour.
+Search engine marketing pundits speculated that Google Instant would have a great impact on local and paid search.
+In concert with the Google Instant launch, Google disabled the ability of users to choose to see more than 10 search results per page.
+Instant Search can be disabled via Google's "preferences" menu, but autocomplete-style search suggestions now cannot be disabled.
+A Google representative stated, "It's in keeping with our vision of a unified Google search experience to make popular, useful features part of the default experience, rather than maintain different versions of Google.
+As Autocomplete quality has improved, we felt it was appropriate to have it always on for all of our users."
+Google is available in many languages and has been localized for many countries.
+In addition to the main URL Google.com, Google Inc. owns 160 domain names for each of the countries/regions in which it has been localized.
+As Google is an American company, the main domain name can be considered as the U.S. one.
+Some domain names unregistered by Google are currently squatted, such as "Google.ua" (for Ukraine, where the correct URL is "google.com.u
+In addition to its tool for searching webpages, Google also provides services for searching images, Usenet newsgroups, news websites, videos, searching by locality, maps, and items for sale online.
+In 2006, Google has indexed over 25 billion web pages, 400 million queries per day, 1.3 billion images, and over one billion Usenet messages.
+It also caches much of the content that it indexes.
+Google operates other tools and services including Google News, Google Suggest, Google Product Search, Google Maps, Google Co-op, Google Earth, Google Docs, Picasa, Panoramio, YouTube, Google Translate, Google Blog Search and Google Desktop Search.
+There are also products available from Google that are not directly search-related.
+Gmail, for example, is a webmail application, but still includes search features; Google Browser Sync does not offer any search facilities, although it aims to organize your browsing time.
+Also Google starts many new beta products, like Google Social Search or Google Image Swirl.
+In 2017 the USPTO issued Microsoft a patent describing a methodology that could serve as an alternative to Google's Instant Search.
+Google claims that a search query requires altogether about 1 kJ or 0.0003 kW·h.

@@ -1,0 +1,50 @@
+Thrust is a force or a push.
+When a system pushes or accelerates mass in one direction, there is a thrust (force) just as large in the opposite direction.
+In math and physics, this is described by Isaac Newton’s second and third laws.
+Thrust is used to describe how strongly an engine pushes.
+It can be used for many kinds of vehicles and engines such as rockets, motorboats, propellers, and jet engines.
+Thrust is measured in “pounds of thrust” in the U.S. and in Newtons in the metric system.
+4.45 Newtons of thrust equals 1 pound of thrust.
+A pound of thrust is how much thrust it would take to keep a one pound object unmoving against the force of gravity on earth.
+A very common question is how to compare the thrust number of an airplane engine with the mechanical power of a piston engine (the kind of engine in cars and in many airplanes with propellers).
+It is hard to compare these two.
+This is because they are not measuring the same exact thing.
+A piston engine does not move the plane.
+It just turns the propeller, which moves the plane.
+Because of this, piston engines are rated by how much power they give to the propeller.
+However, a jet engine has no propeller – it pushes the aircraft by moving hot air behind it.
+A useful way to measure the power of a jet engine is to how much power the jet engine gives to the aircraft through its thrust force.
+This is called the “propulsive power of the jet engine”.
+Where P is power, F is force, d is distance, and t is time.
+For a rocket or jet engine, the force is the same as thrust produced by the engine.
+Distance divided by time is also called speed.
+So power is the same as thrust times speed
+Where T is thrust and "v" is speed.
+This is the power being delivered by the engine at a certain thrust or velocity.
+The propulsive power of a jet engine increases with its speed.
+When the thrust of a rocket or an engine is compared to the weight, it is called the Thrust-to-weight ratio.
+The number that comes from this comparison does not have any units, because it is a ratio.
+A ratio in this case means that the thrust of the engine (in Newtons) is divided by the weight (in Newtons).
+The purpose of this comparison is to show how well the engine or vehicle performs, for example how much acceleration.
+It is a number that can be used to compare various types of motors like airplane motors, jet engines, rocket engines, or car engines.
+This comparison number can change while the engine is running.
+This is because the weight of the engine gets lighter as fuel is used.
+The thrust-to-weight ratio is used to actually compare engines is the number found when the engine is first running.
+Thrust is measured in “pounds of thrust” in the U.S. and in Newtons in the metric system.
+4.45 Newtons of thrust equals 1 pound of thrust.
+A pound of thrust is how much thrust it would take to keep a one pound object unmoving against the force of gravity on earth.
+An airplane makes forward thrust when air is pushed in the direction opposite to flight.
+The thrust is made by the spinning blades of a propeller.
+Thrust can also be made by a rotating fan pushing air out from the back of a jet engine.
+Another way is by ejecting hot gases from a rocket engine.
+Reverse thrust is the opposite of forward thrust.
+In this way air is pushed in the same way as the motion of the body.
+Reverse thrust can be used to help braking after landing.
+This can be done by redirecting the thrust in a turbofan or jet engine or by changing the blade angle of a propeller driven aircraft.
+Birds normally achieve thrust during flight by flapping their wings.
+A boat with a motor makes thrust or reverse thrust when the propellers are turned to push water backwards (or forwards).
+The thrust that this makes pushes the boat in the opposite direction than the water is being pushed.
+A rocket is pushed forward by a thrust force as large as the force the exhaust gas makes when going out of the rocket nozzle.
+The force the exhaust gas makes is called the exhaust velocity.
+The velocity is measured compared to the rocket.
+For vertical launch of a rocket to work, the starting thrust must be more force than the weight of the rocket.

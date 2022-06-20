@@ -1,0 +1,15 @@
+A data storage device is a device for recording (storing) information (data).
+Recording can be done using virtually any form of energy.
+People have been storing data for thousands of years, by pictures and writing.
+Modern storage device may hold information, process information, or both.
+Most often the term is used with computers.
+Data storage devices can permanently hold data, like files.
+"Electronic data storage" is storage which requires electricity to store and get back that data.
+Most storage devices that do not require visual optics to read data fall into this category.
+Electronic data may be stored in either an analog or digital signal format.
+An organic brain may or may not be considered a data storage device.
+All information is data.
+However, not all data is information.
+Any input/output equipment may be considered data storage equipment if it writes to and reads from a data storage medium.
+A recording medium is a physical material that holds data expressed in any of the existing recording formats.
+With electronic media, the data and the recording medium is sometimes referred to as "software" despite the more common use of the word to describe computer software.

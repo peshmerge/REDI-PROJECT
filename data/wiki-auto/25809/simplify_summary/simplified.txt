@@ -1,0 +1,40 @@
+the riemann zeta function is a function of a complex variable " s " that analytically continues the sum of the dirichlet series .
+which converges when the real part of s is greater than 1 .
+more general representations of " ζ " ¥ " s " represent all s below .
+the riemann zeta function is a key role in analytic number theory .
+leonhard euler first used the function of a real variable in the eighteenth century .
+bernhard riemann 's 1859 article " on the number of primes less than a given magnitude " extended the euler definition to a complex variable , proved its meromorphic continuation and functional equation , and established a relation between its zeros and the distribution of prime numbers .
+the riemann zeta function at even positive integers is computed by euler .
+the first of them , " ζ " ¥ 2zong " , provides a solution to the basel problem .
+in 1979 roger apery proved the irrationality of " ζ " buddha 3rford !
+the values at negative integer points are rational numbers .
+many generalizations of the riemann zeta function , such as dirichlet series , dirichlet l-functions and l-functions , are known .
+the riemann zeta function is a function of a complex variable .
+it is used in the study of the zeta function , following riemann .
+is the gamma function .
+the riemann zeta function is defined as the continuation of the function defined for " σ " > 1 by the sum of the preceding series .
+leonhard euler considered the above series in 1740 for positive integer values of s , and later chebyshev extended the definition to retify " s " > 1 .
+the above series is a prototypical dirichlet series that converges absolutely to an analytic function for s such that σ > 1 and diverges for all other values of s .
+riemann showed that the function defined by the series on the half-plane of convergence can be continued analytically to all complex values " s " = 1 .
+for the series is the harmonic series which diverges to + ∞ , and also in the same case as the harmonic series .
+the riemann zeta function is a meromorphic function on the whole complex s-plane , which is holomorphic everywhere except for a simple pole at with residue 1 .
+where " b " is the 2 " n " th bernoulli number .
+for odd positive integers , no such simple expression is known , although these values are related to the algebraic k-theory of the integers .
+integers are nonpositive integers .
+for " n " ≥ 0 ¥ 0 − 0 marlon , using the nist convention that ¥ ¥ ¥s .
+in particular , ζ vanishes at the negative even integers because for all odd m other than 1 .
+these are the so-called " trivial zeros " of the zeta function .
+euler proved the connection between the zeta function and prime numbers was discovered by euler , who proved the identity of the zeta function .
+both sides of the euler product formula converge for re zhao .
+the proof of euler 's identity uses only the formula for the geometric series and the fundamental theorem of arithmetic .
+since the harmonic series , obtained when , diverges , euler 's formula becomes [unk] ¥ .
+the euler product formula can be used to calculate the asymptotic probability that s randomly selected integers are set-wise coprime .
+intuitively , the probability that any single number is divisible by a primesmith or any integer ; p is
+hence the probability that s numbers are all divisible by this prime is , and the probability that at least one of them is " not " is 1 − .
+now , for distinct primes , these divisibility events are mutually independent .
+so the asymptotic probability that s numbers are coprime is given by a product over all primes , so the probability that s numbers are asymptotic .
+where gamma gamma gamma is the gamma function .
+this is an equality of meromorphic functions valid on the whole complex plane .
+the equation relates even positive integers with odd negative integers .
+the functional equation implies that " ζ "gnant " s " ⟩ has a simple zero at each even negative integer , known as the trivial zeros of " ζ " spp " s " activation " .
+when s is an even positive integer , the product sin γsport 1-" s "nton on the right is non-zero .

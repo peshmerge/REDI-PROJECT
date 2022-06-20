@@ -1,0 +1,7 @@
+The Ostwald process is a chemical process for making nitric acid (HNO3).
+The Ostwald process provides the main raw material for the most common type of fertilizer production.
+It is closely associated with the Haber process.
+It is named after Wilhelm Ostwald, who developed the process and patented it in 1902.
+Ammonia is converted to nitric acid in two stages.
+1) It is oxidized in the presence of platinium as catalyst at about 900 degrees Celcius to form nitric oxide and water.
+2) Nitric oxide is oxidized again to form nitrogen dioxide and then it reacts with water to form dilute nitric acid whereas some portion of the nitrogen dioxide is reduce back to nitric oxide.

@@ -1,0 +1,73 @@
+a water turbine is a rotary engine that uses kinetic energy and potential energy from moving water into mechanical work .
+water turbines were developed in the 19th century and were widely used for industrial power prior to electrical grids .
+water turbines are mostly dams to generate electricity from the kinetic energy of the water .
+water wheels have been used for hundreds of years for industrial power .
+the migration from water wheels to modern turbines took about one hundred years .
+the water is a swirl component of the water which passes energy to a spinning rotor .
+this extra part of motion allowed the turbine to be smaller than a waterwheel of the same power .
+they could process more water by spinning faster and could use much greater heads .
+the earliest known water turbines date back to the roman empire .
+two helix-turbine mill sites of almost identical design were found at chemtou and testour , modern-day tunisia , dating to the late 3rd or early 4th century ad .
+the water from the mill-race entered the pit tangentially , creating a swirling water column which made the fully submerged wheel act like a true turbine .
+johann segner developed a reactive water turbinewheel in the mid-18th century in kingdom of hungary .
+segner worked with euler on some of the early mathematical theories of turbine design .
+in the 18th century , a dr . robert barker invented a similar reaction hydraulic turbine that became popular as a lecture-hall demonstration .
+the only known example of this type of engine used in power production dates from 1851 .
+in 1820 , jean-victor poncelet created an inward-flow turbine .
+in 1844 uriah a . boyden developed an outward flow turbine that improved on the performance of the fourneyron turbine .
+all modern reaction water turbines are of this design .
+as the water swirls inwards , it accelerates , and transfers energy to the runner .
+water pressure decreases to the atmospheric , or in some cases subatmospheric , as the water passes through the turbine blades and loses energy .
+it was an evolution of the francis turbine and revolutionized the ability to develop low-head hydro sites .
+all common water machines until the late 19th century cupping including water wheels wheels were basically reaction machines ; water " pressure " head acted on the machine and produced work .
+a reaction turbine needs to fully hold the water during energy transfer .
+it was inspired by the high pressure jet systems used in hydraulic mining in the gold fields .
+the water 's velocity , about twice the velocity of the bucket periphery , does a u-turn in the bucket and drops out of the runner at low velocity .
+this is the modern form of the pelton turbine .
+although doble took over the pelton company he did not change the name to doble because it had brand name recognition .
+water is directed on to the blades of a turbine runner , creating a force on the blades .
+in this way , energy is changed from the water flow to the turbine .
+the precise shape of water turbine blades is a function of the supply pressure of water , and the type of impeller selected .
+reaction turbines are acted on by water , which changes pressure as it moves through the turbine and gives up its energy .
+they must be encased to contain the water pressurericted or they must be fully submerged in the water flow .
+impulse turbines change the velocity of a water jet .
+the force acts through a distancemonium workfully and the diverted water flow is left with diminished energy .
+before hitting the turbine blades , the water 's pressure reflects potential energy is changed to kinetic energy by a nozzle and focused on the turbine .
+no pressure change occurs at the turbine blades , and the turbine does not require a housing for operation .
+newton 's second law describes the transfer of energy for impulse turbines .
+the power available in a stream of water is
+some water turbines are designed for pumped storage hydroelectricity .
+they can reverse flow and operate as a pump to fill a high reservoir during off-peak electrical hours .
+this type of system is used in el hierro , one of the canary islands .
+when demand rises and there is not enough wind power , the water will be released to four hydroelectric turbines with a total capacity of 11 mw .
+turbine selection is based on the available water head , and less so on the available flow rate .
+in general , impulse turbines are used for high head sites , and reaction turbines are used for low head sites .
+kaplan turbines with adjustable blade pitch are well adapted to wide ranges of flow or head conditions .
+very large francis and kaplan machines usually have vertical shafts because this makes best use of the available head .
+this also allows for the use of a smaller turbine runner , which can decrease costs and mechanical losses .
+the speed formula _ 1 of a turbine characterizes the turbine 's shape in a way that is not related to its size .
+a miniature replica of a proposed design , about one footttered 0.3 m diameter in diameter , can be tested and the laboratory measurements applied to the final application with high confidence .
+affinity laws are made by requiring similitude between the test model and the application .
+flow through the turbine is controlled either by a large valve or by wicket gates arranged around the outside of the turbine runner .
+differential head and flow can be used for a number of different values of gate opening , producing a hill diagram used to show how the turbine works .
+the turbine will be designed to survive the mechanical forces of this speed .
+different designs of governors have been used since the mid-18th century to control the speeds of the water turbines .
+a variety of flyball systems , or first-generation governors , were used during the first 100 years of water turbine speed controls .
+in early flyball systems , the flyball component countered by a spring acted directly to the valve of the turbine or the wicket gate to control the amount of water that enters the turbines .
+the mechanical governors were continued to be enhanced in power amplification by the use of gears and the dynamic behavior .
+by 1930 , the mechanical governors had many parameters that could be set on the feedback system for precise controls .
+in the later part of the twentieth century , electronic governors and digital systems started to replace the mechanical governors .
+in the electronic governors , also known as second-generation governors , the flyball was replaced by rotational speed sensor but the controls are still done through analog systems .
+in the modern systems , the controls are performed by algorithms that are programmed to the computer of the governor .
+given that the turbine blades in a water turbine are constantly exposed to water and dynamic forces , they need to have high corrosion and strength .
+the most common material used in overlays on carbon steel runners in water turbines are austenitic steel alloys .
+the chromium content in these steel alloys is more than 12 % chromium needed to show some atmospheric corrosion .
+besides corrosion and strength as the criteria for material selection , weld-ability and density of the turbine blade .
+choosing a material with low density is important to achieve higher efficiency because the lighter blades rotate more easily .
+the ssitt 13cr-4nitary has been shown to have improved erosion at all angles of attack through the process of laser hardening .
+turbines are designed to run for decades with very little maintenance of the main elements .
+damaged areas are cut or ground out , then welding back up to their original or an improved profile .
+old turbine runners may have a significant amount of stainless steel added this way by the end of their lifetime .
+other things that need inspection and repair during overhauls include bearings , packing box and shaft sleeves , servomotors , cooling systems for the bearings and generator coils , seal rings , wicket gate links and all surfaces .
+for example , native american tribes in the pacific northwest built livelihoods around salmon fishing , but aggressive dam-building destroyed their way of life .
+in the united states , it is now illegal to block the migration of fish , for example the white sturgeon in north america .

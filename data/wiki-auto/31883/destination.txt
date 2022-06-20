@@ -1,0 +1,227 @@
+The Uncertainty principle is also called the Heisenberg uncertainty principle.
+Werner Heisenberg stumbled on a secret of the universe: Nothing has a definite position, a definite trajectory, or a definite momentum.
+Trying to pin a thing down to one definite position will make its momentum less well pinned down, and vice-versa.
+In everyday life we can successfully measure the position of an automobile at a definite time and then measure its direction and speed (assuming it is coasting along at a steady rate) in the next few moments.
+That is because the uncertainties in position and velocity are so small that we could not detect them.
+We assume, quite correctly, that the trajectory of the automobile will not be noticeably changed when we drop a marker on the ground and click a stopwatch at the same time to note the car's position in time and space.
+We may bring that experience to the world of atomic-sized phenomena and incorrectly assume that if we measure the position of something like an electron as it moves along its trajectory it will continue to move along that same trajectory, which we imagine we can then accurately detect in the next few moments.
+We need to learn that the electron did not have a definite position before we located it, and that it also did not have a definite momentum before we measured the trajectory.
+Moreover, we may justifiably assume that a photon produced by a laser aimed at a detection screen will hit very near to its target on that screen, and confirm this prediction by any number of experiments.
+Next we will discover that the more closely we try to pin down some location for the electron on its way toward the detection screen, the more it and all others like it will be likely to miss that target.
+So pinning down a location for an electron makes the trajectory more indefinite, indeterminate, or uncertain.
+If the trajectory were made more clear and then we were to try to locate that electron along an extension of the trajectory we just staked out, then we would find that the more precise we made our knowledge of the trajectory, the less likely we would be to find the electron where ordinary expectations would lead us to believe it to be.
+If pitchers threw electrons instead of baseballs, and an overhead camera and side-facing camera were placed somewhere between the pitcher's mound and home plate so that the exact position of the electron could be determined in mid flight, then without the cameras being turned on, the pitcher would throw straight balls, and with the cameras turned on his pitches would start out straight but gyrate wildly after their pictures were taken.
+The more clearly we know where the ball was halfway toward home place, the more trouble the batter will have in getting ready to hit it with his bat.
+Unexpected consequences of the uncertainty feature of nature support our understanding of such things as nuclear fission, the control of which gave humans a new and very powerful source of energy, and quantum tunneling, which is an operating principle of the semiconductors that are so important to modern computer and other technologies.
+In technical discussions one almost always talks about position and momentum.
+Momentum is the product of velocity and mass, and in physics the idea of velocity is the speed that something is going in a certain direction.
+So sometimes one can also talk about the velocity of the thing in question and ignore its mass, and sometimes it is easier to understand things if we talk about the trajectory or path that something follows.
+That idea also includes the ideas of speed and direction.
+In the following diagrams we will show the main features of uncertainty in concrete terms, in the world of real things.
+Later we will use a little math to be able to give a clear idea of how much wiggle room there is between position and momentum.
+These symbols put into math form what you have already seen in the pictures above.
+The symbols say, in a clear way, that you cannot be perfectly certain about where something is and where it is going.
+If you get clearer on where it is at any time then you have less of an idea on where it is going and how fast.
+If you get clearer on where it is going and how fast at any time, then you have less of an idea of where it is right now.
+Scientists had already learned why certain substances give off characteristic colors of light when they are heated or otherwise excited.
+Heisenberg was trying to explain why these colors each have a characteristic brightness.
+It would not have been good enough if he and the other scientists had just said, "Well, that's just the way it is."
+They were sure that there had to be a good reason for these differences, and for the fact that the ratios among the bright line strengths were always the same for each sample of an element.
+He had no idea that he was going to stumble over a hidden secret of nature when he set off to discover the explanation for the intensities of the colored lines characteristic of each of the elements.
+The study of quantum mechanics had already shown why hydrogen has four bright lines in the part of the spectrum that humans can see.
+It must have seemed that the next thing to learn would simply be how to calculate their brightness.
+Hydrogen seemed to be the obvious place to start since hydrogen has only one electron to deal with, and only four lines in the visible part of the spectrum.
+Surely there must be a good reason for their not being equally bright.
+The explanation for the brightness of the different-colored lines of neon and the other elements could wait.
+Heisenberg started working on quantum physics by adapting the classical equations for electricity, which are very complicated to begin with, so the math behind his 1925 paper was very hard to follow.
+He was trying to find the right way to calculate the intensity of bright lines in the hydrogen lamp spectrum.
+He had to find a related quantity called "amplitude" and multiply amplitude by amplitude (or in other words he had to square the amplitude) to get the intensity he wanted.
+He had to figure out how to express amplitude in a way that took account of the fact that hydrogen lamps do not radiate at all frequencies, and do not radiate across a continuous range of frequencies in the part of the spectrum that people can see.
+Heisenberg found a remarkable new way of calculating amplitude.
+The strange equation|equation that Heisenberg discovered and used to do the multiplication of one quantum quantity (e.g., position) by another (e.g., momentum) was published in what has been called "Heisenberg's 'magical' paper of July 1925."
+The math above looks very hard, but the math leading up to it is very much harder and is extremely hard to understand.
+It is given here just to show what it looked like.
+Heisenberg's paper is a historical landmark.
+Many of the physicists who read his paper said that they could not disagree with his conclusions, but that they could not follow his explanation of how he got to those conclusions.
+The beginning equations that Heisenberg used involved Fourier series, and involved many factors.
+We will come back to the equation above because it is a kind of recipe for writing out and multiplying matrices.
+The new equations had to be so strange and unusual because Heisenberg was describing a strange world in which some things, such as the orbits of electrons, do not slowly get larger or smaller.
+The new kinds of changes involve jumps and large gaps between jumps.
+Electrons can only jump between certain orbits, and the energy gained or lost in changing between orbits is produced when a photon of the right energy is absorbed or a new photon of the right energy is produced.
+If electrons in hydrogen atoms most frequently jump down (fall) between two particular orbits, then more photons will be emitted at that energy level, and so the light produced at that level will be the most intense.
+It was difficult to make equations built for continuous spectra (what you see when you put the sun's light through a prism) fit spectra that just have a few peak frequencies between which there is nothing.
+Almost everything that had already been learned about light and energy had been done with large things like burning candles or suns, and those large objects all produce continuous spectra.
+Even though these ordinary-sized things were easy to do experiments with, it had still taken a long time to figure out the law (physics)laws that govern them.
+Now physicists were dealing with things too small to see, things that did not produce continuous spectra, and were trying to find a way to at least get clues from what they already knew that would help them find the laws of these small and gapped-out light sources.
+The original equations dealt with a kind of vibrating body that would produce a wave, a little like the way a reed in an organ would produce a sound wave of a characteristic frequency.
+So there was motion back and forward (like the vibrating of a reed) and there was an emitted wave that could be graphed as a sine wave.
+Much of what had earlier been figured out about physics on the level had to do with electrons moving around nuclei.
+When a mass moves in an orbit, when it rotates around some kind of a hub, it has what is called "angular momentum."
+Angular momentum is the way that something like a merry-go-round will continue to rotate after people have stopped pushing it.
+The math used for phase calculations and angular momentum is complicated.
+On top of that, Heisenberg did not show all of his calculations in his 1925 paper, so even good mathematicians might have trouble filling out what he did not say.
+Even though many physicists said they could not figure out the various math steps in Heisenberg's breakthrough paper, one recent article that tries to explain how Heisenberg got his result uses twenty math-filled pages.
+Even that article is not easy to understand.
+The math started with some really hard stuff and would eventually produce something relatively simply that is shown at the top of this article.
+Getting the simpler result was not easy, and we are not going to try to show the process of getting from an outdated picture of the universe to the new quantum physics.
+We need just enough detail to show that almost as soon as Heisenberg made his breakthrough a part of how the universe works that nobody had ever seen before came into view.
+Heisenberg must have been very excited but also very tired when, late at night, he finally made his breakthrough and started proving to himself that it would work.
+Almost right away he noticed something strange, something that he thought was an annoying little problem that he could make go away somehow.
+But it turned out that this little nuisance was a big discovery.
+Heisenberg had been working toward multiplying amplitudes by amplitudes, and now Heisenberg had a good way to express amplitude using his new equation.
+Naturally he was thinking about multiplication, and about how he would multiply things that were given in terms of complicated equations.
+Heisenberg realized that besides squaring amplitude he would eventually want to multiply position by momentum, or multiply energy by time, and it looked like it would make a difference if he turned the order around in these new cases.
+Heisenberg did not think it should matter if one multiplied position by momentum or if one multiplied momentum by position.
+If they had been just simple numbers there would have been no problem.
+But they were both complicated equations, and how you got the numbers to plug into the equations turned out to be different depending on which way you got started.
+In nature you had to measure position and then measure momentum, or else you had to measure momentum and then measure position, and in math the same general situation prevailed.
+(See the English Wikipedia article if you want to learn the fussy details!)
+The tiny but pesky differences between results were going to remain, not matter how much Heisenberg wished they would go away.
+At the time Heisenberg could not get rid of that one little problem, but he was exhausted, so he handed his work in to his immediate supervisor, Max Born, and went on vacation.
+Max Born was a remarkable mathematician who soon saw that the equation that Heisenberg had given him was a sort of recipe for writing a matrix.
+Dr. Born was one of the few people at that time who was interested in this odd kind of math that most people figured was not good for very much.
+He knew that matrices could be multiplied, so doing all the calculations for accounting for one physics problem could be handled by multiplying one matrix by another.
+Just being able to put a complicated procedure into a standard and acceptable form would make it easier to work with.
+It might also make it easier for other people to accept.
+Born was such a good mathematician that he almost immediately realized that switching the order of multiplying the two matrices would produce a different result, and the results would differ by a small amount.
+That amount would be h/2πi.
+In everyday life, that difference would be so small that we could not even see it.
+It took a couple of years, but Heisenberg was able to prove the Uncertainty Principle, which says that Δx × Δp = h/2, which is the number that comes out of the original equations but leaves out the π and the i that have to do with phase changes.
+Heisenberg explained that he derived his uncertainty principle from this earlier result when he wrote a paper in 1927 introducing this theory.
+The constant written h, called the Planck constant, is a mysterious number that often occurs, so we need to understand what this tiny number is.
+Numerically, it is usually given as 6.62607×10^-34 J s (joule seconds).
+So it is a quantity that involves energy and time.
+It was discovered when Planck realized that the energy of a perfect radiator (called a black-body radiator) is emitted in units of definite size called "quanta" (the singular of this word is "quantum").
+Radiated energy is emitted as photons, and the frequency of a photon is proportional to the "punch" it delivers.
+We experience different frequencies of visible light as different colors.
+At the violet end of the spectrum, each photon has a relatively large amount of energy; at the red end of the spectrum each photon has a relatively small amount of energy.
+The way to calculate the amount of energy of a photon is given by the equation E = hν (energy equals the Planck constant times "nu" or frequency).
+The Heisenberg uncertainty principle Δx × Δp ≥ h tells us that whenever we try to pin down certain pairs of numbers we can only get so close, and that if we try to get clearer on one of them, i.e., if we try to make Δx smaller so we have a better idea of the position of something, then we will have to get handed back a bigger number for the other number of the pair, and that the amount the two are off by is closely related to h.
+Another pair of physical quantities goes according to the uncertainty relationship: ΔE × Δt ≥ h, and that pair indicates, among other things, that if we look in interstellar space, some place where we would not expect to find anything at all, and we reduce Δt closer and closer to 0, then to keep the balance shown in the equation ΔE has to get larger and larger — and suddenly something with momentum can pop into existence just for that brief period of time.
+How is this indeterminacy (lack of certainty) to be explained?
+What is going on in the Universe?
+It is often said that a new theory that is successful can provide new information about the phenomena under investigation.
+Heisenberg created a math model that predicted the correct intensities for the bright-line spectrum of hydrogen, but without intending to do so he discovered that certain pairs of physical quantities disclose an unexpected uncertainty.
+Up until that moment nobody had any idea that measurements could not be forever made more and more precise and accurate.
+The fact that they could not be made more certain, more definite, was a stunning new discovery.
+Many people were not willing to accept it.
+Bohr and his colleagues argued that photons, electrons, etc. do not have either position or momentum until they are measured.
+This theoretical position grew out of the discovery of uncertainty, and was not just some personal preference on what to believe.
+Bohr said that we know nothing about something like a photon or electron until we observe it.
+In order to observe such a small thing we need to interact with it somehow.
+In everyday life it is possible to do something like walking alongside an automobile while marking down the times it crosses points on a grid drawn on the pavement.
+Perhaps the weight of the automobile itself will depress little levers in the pavement that turn off clocks attached to each of them and record the automobile's weight.
+In the end we would have a clear record of where the car was at various times, and also could compute its direction of progress and weight.
+We could then know, at any time on the clock, both its position and its momentum (its velocity multiplied by its mass).
+We would not even imagine that the force required to move the little levers would have any influence on the progress of the car.
+We would also not imagine that the automobile had no location or trajectory between the points on the pavement where there are levers, or that the car exists in a kind of three-dimensional blur during those times and only settles down while it is depressing a lever.
+The world that we are familiar with does not reveal these strange kinds of interactions.
+To locate a ship on the sea during the darkest night we could use a searchlight, and that light would not disturb the position or direction of travel of the ship, but locating an electron with light would require hitting it with one or more photons each having enough momentum to disturb the position and trajectory of the electron.
+Locating the electron with other means would involve holding it in some kind of physical restraint that would also terminate its forward movement.
+To locate a photon, the best that can be done without terminating its forward movement is to make it go through a circular hole in a barrier.
+If one knows the time at which the photon was emitted (by a laser, for instance) and the time that the photon arrives at a detection screen such as a digital camera, then it is possible to compute the time required to travel that distance and the time at which the photon was passing through the hole.
+However, to permit the photon to pass through it, the circular hole must have a diameter greater than the size of the photon.
+The smaller the circular hole is made, the closer we come to knowing the exact position of the photon as it goes through it.
+However, we can never know whether the photon is off-center at that time.
+If the hole is exactly the same size as the photon it won't pass through.
+As the diameter of the hole is decreased, the momentum or the direction of the photon as it leaves the hole is more and more greatly changed.
+Niels Bohr and his colleagues argued that we get into big trouble if we assume to be true of the things that are too small to be seen even with a microscope anything that we have proof for only on the scale of everyday life.
+In everyday life, things have a definite position at all times.
+On the atomic scale, we have no evidence to support that conclusion.
+In everyday life, things have a definite time at which they occur.
+On the atomic scale, we have no evidence to support that conclusion.
+In everyday life, if one observes a factory from the night shift of day one to the day shift of day two and one sees a finished automobile rolled out to the shipping dock it would make no sense to say that it is impossible to tell whether it was delivered during the night shift or during the day shift.
+But on the atomic scale, we can show instances when we have to count a single photon as having been produced at two times.
+(If that is not bad enough, we can also show instances where a single photon is produced from two adjacent lasers.)
+Part of the difficulty with finding out what is happening on the atomic scale is that we would like to know both where something is and what its trajectory is, and to know both things for the same time, but we cannot measure both position and trajectory at the same time.
+We either measure the momentum of a photon or electron at one time and then without any more delay than necessary measure its position, or we switch things around and measure position first and momentum second.
+The problem is that in making the first one take on a pretty definite form (by squeezing down on it in some way) we increase the uncertainty involved in the next measurement.
+If our initial measurements were so crude that lots of error was introduced in each, then we could improve things by using a lighter touch to do each of them, but we could never get beyond a certain limit of accuracy.
+We know from everyday life that trying to weigh something on a bathroom scale placed on a washing machine in spin cycle will produce inaccurate results because the needle on the scale will jiggle badly.
+We can turn off the washing machine.
+But for very accurate measurements we find that trucks going by in the neighborhood make the needle jiggle, so we can put the scale on a something to insulate it from the outside disturbances.
+We believe that we can eliminate vibrations enough to give us results just as accurate as we want.
+We never consider that the thing on the scale is itself vibrating or that it possesses an indefinite momentum.
+Arguing backwards from the Uncertainty Principle, it looks as though there is in fact no definite position and no definite momentum for any atomic scale thing, and that experimenters can only force things into definiteness within the limit stated by the Uncertainty Principle.
+Bohr and his colleagues only argued that we could not know anything without making measurements, and when measurements were made we can push things in the direction of more definite position or more definite momentum, but that we can't get the absolute definiteness or certainty that we would like.
+But others took the possibility seriously, and argued that if the math is right then there cannot be definiteness or certainty in the world of the ultra small.
+The nature of science is that the math is only a model of reality, and there is no guarantee that it is a correct model.
+The math and the practical consequences of the things that the math predicts are so reliable that they are very hard to disagree with, but what the math says about the real world has produced several different ideas.
+Among the scientists who worked with Niels Bohr in Copenhagen, the uncertainty principle was taken to mean that on an elementary level the physical universe does not exist in a deterministic form.
+Rather, it is a collection of probabilities or potentials.
+Counter to the story woven around the math by the Copenhagen group, there are other stories such as the "multiple universes interpretation" that says that every time there are multiple possible outcomes according to quantum theory, each outcomes occurs in its own new universe.
+Einstein argued that there are no multiple possible outcomes, so there is only one universe and it is determinate, or, as he put it, "God does not play dice."
+Albert Einstein saw that the new quantum mechanics implied a lack of position and momentum in the time prior to measurements being made, and he objected strongly.
+He firmly believed that things had definite positions and definite momentums before they were measured, and that the fact that measuring one of a pair of things and disturbing the possibility of accurately measuring the other does not argue for there being a lack of either of them beforehand.
+He and two of his colleagues wrote what has come to be known as the "EPR paper."
+That paper argues that there must be characteristics that do determine position and momentum, and that if we could see them, or if we can get information about them, then we can mathematically know and predict position and momentum.
+For a long time people thought that there was no way to prove or disprove what was for Einstein an article of faith.
+The argument was very productive because it led to all the modern developments in entanglement.
+Mathematically, Einstein has been proven wrong.
+In 1964 John Stewart Bell developed a math method to distinguish between the behavior of two particles that have determinate states that are merely unknown to the two individuals that investigate them, and two particles that have entangled states that are indeterminate or uncertain until they are measured.
+His method shows that the probabilities for getting certain results are different under the two different assumptions.
+His work is called Bell's theorem or Bell's Inequality.
+Experiments have shown that nature behaves as Bell describes it.
+The initial discussions of Heisenberg's uncertainty principle depended on a model that did not consider that particles of matter such as electrons, protons, etc. have a wavelength.
+In 1926 Louis de Broglie showed that all things, not just photons, have their own frequency.
+Things have a wave nature and a particle nature, just as photons do.
+If we try to make the wave of a thing like a proton narrower and taller, that would make its position clearer, but then the momentum would get less well defined.
+If we try to make the momentum part of a wave description clearer, i.e., make it stay within a narrower range of values, then the wave peak spreads out and its position becomes less definite.
+The wave that is part of the description of a photon is, in quantum mechanics, not the same kind of thing as a wave on the surface of the ocean or the regions of compressed air and rarefied air that make up sound waves.
+Instead, these wave have peaks or high amplitude regions that have to do with probability of finding something at that point in space and time.
+More precisely, it is the square of the amplitude that gives the probability of some phenomenon showing up.
+The wave that applies to a photon might be a pure sine wave.
+In that case, the square of the value of every peak would give the probability of observing the photon at that point.
+Since the amplitudes of the sine waves are everywhere the same, the probability for finding the photon at each of them would be the same.
+So, practically speaking, knowing the wave for one of these photons would not give a clue about where to look for it.
+On the other hand, the momentum of a photon is mathematically related to the amplitude of its wave.
+Since in this case we have a pure sine wave, the amplitude of every cycle of the wave is the same and therefore there is only one momentum value associated with this wave.
+We would not know where the photon would hit, but we would know exactly how hard it would hit.
+In beams of light that focus on some point on a detection screen, the waves associated with the photons are not pure sine waves.
+Instead, they are waves with high amplitude at one point and much lower amplitudes on either side of that highest peak.
+Mathematically it is possible to analyze such a wave into a number of different sine waves of different wavelengths.
+It is a little easier to visualize the reverse of this process by looking at an initial sine wave of one frequency to which is added a second sine wave of a different wavelength, then a third, then a fourth, and so on.
+The result will be a complex wave showing one high peak and containing a large number of waves of different wavelengths and therefore of different momentums.
+In that case, the probability that the photon will appear at a certain point is extremely high, but the momentum it delivers can turn out to be related to the wavelength of any one of the component waves.
+In other words, the value of p = ħ/λ is no longer a single value because all the lengths of the assembled "waves of different wavelength" have to be taken into account.
+The simulation shows how to mathematically model the sharpening up of the location of a particle: Superimpose many different wave forms over the original sine wave.
+The center will form a higher and higher peak, and the rest of the peaks will be increased in number but decreased in height because they will interfere with each other.
+So in the end there are many different waves in the superposition, each with a different wavelength and (by p = ħ/λ) a different momentum, but only one very high peak, one that grows higher and narrower and gives us something closer and closer to a determinate position.
+To make momentum more and more definite, we would have to take away more and more of the superimposed sine waves until we had only a simple sine wave left.
+In so doing we would progressively diminish the height of the central peak and progressively increase the heights of the competing places where one might find the particle.
+So when we start with a wave picture of subatomic particles we typically will always deal with cases with relatively tall central peaks and relatively many component wavelengths.
+There never will be an exact position or an exact momentum predicted under these circumstances.
+If the mathematical model is an accurate representation of the real world, then no photon or other subatomic particle has either an exact position or a definite momentum.
+When we measure such a particle we can choose a method that further squeezes the peak and makes it narrower, or we can choose a method that lowers the peak and evens out the component wavelengths.
+Depending on what we measure and how we measure it, we can make our location come out more definite or we can make our momentum range narrower.
+We can take care in designing the experiment to avoid various ways of jiggling the apparatus, but we cannot get rid of the fact that there was nothing completely definite to begin with.
+The most important influence of the Heisenberg Uncertainty Principle has been on arguments about freedom of the will.
+Under the theories of classical physics it is possible to argue that the laws of cause and effect are inexorable and that once the universe began in a certain way the interactions of all matter and energy to occur in the future could be calculated from that initial state.
+Since everything is absolutely the result of what came before it, they argued, every decision a human being makes and every situation into which that human being enters was predetermined since the beginning of time.
+We then have no choice in what we do.
+People who believe in freedom of the will argue that the laws of quantum mechanics do not predict what will happen but only what is more and what is less likely to occur.
+Therefore every action is the result of a series of random "coin tosses" and no decision could be traced back to a set of necessary preconditions.
+The expressions "quantum leap" and "quantum jump" have become ordinary ways of talking about things.
+Usually people intend to describe something as involving a huge change that occurs over a short period of time.
+The term actually applies to the way an electron behaves in an atom either when it absorbs a photon coming in from the outside and so jumps from one orbit around the atom's nucleus to a higher orbit, or when it emits a photon and so falls from a higher orbit to a lower orbit.
+The idea of Neils Bohr and his colleagues was that the electron does not move between orbits but instead it disappears from one orbit and instantaneously appears in another orbit.
+So a quantum jump is really not some earth shattering change, but a sudden little change from one domain to another.
+When humans measure some process on the subatomic scale and the uncertainty principle manifests itself, then human action can be said to have influenced the thing that was being measured.
+Making a measurement intended to get a definite indication of a particle's location will inevitably influence its momentum and whatever is done to measure that momentum as soon as possible after measuring its position, the probabilities of what momentum will be discovered cannot fail to have been changed.
+So the uncertainty principle can explain some kinds of interference produced by investigators that influence the results of an experiment or an observation.
+However, not all observer effects are due to quantum effects or the uncertainty principle.
+The remainder are "observer effects" but not quantum uncertainty effects.
+Observer effects include all kinds of things that operate at our ordinary human scale of events.
+If an anthropologist tries to get a clear idea of life in a primitive society but his or her presence upsets the community he or she is visiting, then the observations made may be very misleading.
+However, none of the relevant interactions occur at the level described by quantum mechanics or the uncertainty principle.
+Sometimes the word "quantum" will be used for advertising purposes to indicate something new and powerful.
+For instance, the manufacturer of small gasoline motors, Briggs and Stratton, has one line of four-cylinder low horsepower motors for gasoline mowers and similar garden tools that it calls "Quantum."
+Louis de Broglie, Noonday, 1958
+Werner Heisenberg Originally published in German, "Zs.
+English translation: "Sources of Quantum Mechanics," pp. 261–276.
+B. L. Van Der Waerden, Dover.
+Ian J. R. Aitchison, David A. MacManus, Thomas M. Snyder.
+http://philsci-archive.pitt.edu/8590/1/Heis1935_EPR_Final_translation.pdf In translation, its title is: "Is a deterministic completion of quantum mechanics possible?"
+and the translators are Elise Crull and Guido Bacciagaluppi.
+The translation is dated 02 May 2011.
+J.P. McEvoy and Oscar Zarate

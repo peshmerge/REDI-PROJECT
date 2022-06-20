@@ -1,0 +1,26 @@
+An electrical circuit is a network consisting of a closed loop, giving a return path for the current.
+Linear electrical networks, a special type consisting only of sources (voltage or current), linear lumped elements (resistors, capacitors, inductors), and linear distributed elements (transmission lines), have the property that signals are linearly superimposable.
+They are thus more easily analyzed, using powerful frequency domain methods such as Laplace transforms, to determine DC response, AC response, and transient response.
+An active network is a network that contains an active source – either a voltage source or current source.
+An active network contains one or more sources of electromotive force.
+It consists of active elements like a battery or a transistor.
+Active elements can inject power to the circuit, provide power gain, and control the current flow within the circuit.
+Passive networks do not contain any sources of electromotive force.
+They consist of passive elements like resistors and capacitors.
+A network is linear if its signals obey the principle of superposition; otherwise it is non-linear.
+Discrete passive components (resistors, capacitors and inductors) are called "lumped elements" because all of their, respectively, resistance, capacitance and inductance is assumed to be located ("lumped") at one place.
+At high enough frequencies the lumped assumption no longer holds because there is a significant fraction of a wavelength across the component dimensions.
+An ideal independent source maintains the same voltage or current regardless of the other elements present in the circuit.
+The strength of voltage or current is not changed by any variation in the connected network.
+Dependent sources depend upon a particular element of the circuit for delivering the power or voltage or current depending upon the type of source it is.
+Other more complex laws may be needed if the network contains nonlinear or reactive components.
+To design any electrical circuit, either analog or digital, electrical engineers need to be able to predict the voltages and currents at all places within the circuit.
+Simple linear circuits can be analyzed by hand using complex number theory.
+In more complex cases the circuit may be analyzed with specialized computer programs or estimation techniques such as the piecewise-linear model.
+When faced with a new circuit, the software first tries to find a steady state solution, that is, one where all nodes conform to Kirchhoff's current law "and" the voltages across and through each element of the circuit conform to the voltage/current equations governing that element.
+Once the steady state solution is found, the "operating points" of each element in the circuit are known.
+For a small signal analysis, every non-linear element can be linearized around its operation point to obtain the small-signal estimate of the voltages and currents.
+The resulting linear circuit matrix can be solved with Gaussian elimination.
+Software such as the PLECS interface to Simulink uses piecewise-linear approximation of the equations governing the elements of a circuit.
+The circuit is treated as a completely linear network of ideal diodes.
+Adding more detail to the approximation of equations increases the accuracy of the simulation, but also increases its running time.

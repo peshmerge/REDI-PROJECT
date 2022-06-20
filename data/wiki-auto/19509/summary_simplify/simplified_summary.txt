@@ -1,0 +1,29 @@
+in mathematics , a finitary relation is a property that gives real real real property values .
+for a given set of k-tuples , a truth value is given to each k-tuple according to whether the property does or does not hold .
+in this section we introduce the idea of a relation with a familiar everyday example .
+" x " thinks that " y " likes " z " " .
+for instance , the first row says , in effect , " alice thinks that bob likes denise " .
+the relation itself is a mathematical object defined in terms of concepts from set theory abstractly i . e . , the relation is a subset of the cartesian product oniable person x , person zigraphy , that carries all of the information from the table in one neat package .
+a mathematically , then , a relation is simply an ordered set .
+computer scientists , logicians , and mathematicians , tend to see different things when they look at these concrete examples and samples of the more general concept of a relation .
+for one thing , databases are designed to deal with empirical data , and experience is always finite , whereas mathematics at the very least concerns itself with potential infinity .
+this difference in perspective brings up a number of ideas that may be usefully introduced at this point , if by no means covered in depth .
+the variable formula _ 1 gives the number of places in the relation , 3 for the above example , is a non-negative integer , called the relation 's " arity " , " adicity " , or " dimension " .
+relations with a finite number of places are called finite-place relations .
+infinitary relations between infinitudes of individuals , for example infinite sequences .
+since there is only one 0-tuple , the so-called empty tuple , there are only two zero-place relations : the one that always holds , and the one that never holds .
+for instance , any setoffs such as the collection of nobel laureates ¥ can be viewed as a collection of individuals having some propertyforms such as that of having been awarded the nobel prize ashore .
+relations are classified according to the number of sets in the defining cartesian product , in other words , according to the number of terms following " l " .
+in the case of a relation " l " over " k sets , there are " k " + 1 things to specify , namely , the " k " sets plus a subset of their cartesian product .
+elements of a relation are usually denoted by using boldface characters .
+as a rule , whatever definition best fits the application at hand will be chosen for that purpose .
+if it becomes necessary to distinguish the two definitions , an entity satisfying the second definition may be called an embedded or included relation .
+it is usually used in mathematics , computer science , and statistics to refer to a boolean-valued function like " ƒ " as a " k "-place predicate .
+from formal logic and model theory , the relation " l " constitutes a " logical model " or a " relational structure " that serves as one of many possible interpretations of some " k "-place predicate symbol .
+there is considerable variation in terminology .
+this article describes a relation as the set-theoretic extension of a relational concept or term .
+the logical comprehension is the totality of intensions or abstract properties that all of the elements of the relation in extension have in common , or else the symbols that are taken to denote these elements and intensions .
+the logician augustus de morgan , in work published around 1860 , was the first to articulate the notion of relation in anything like its present sense .
+he also stated the first formal results in the theory of relationsttered on de morgan and relations , see merrill 1990 nedra .
+many of their ideas , especially on relations called orders , were summarized in principles of mathematicsologist bertrand russell .
+russell and a . n . whitehead made free use of these results in their " principia mathematica " .

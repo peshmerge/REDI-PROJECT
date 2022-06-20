@@ -1,0 +1,9 @@
+A lexeme is a unit of lexical meaning that underlies a set of words that are related through inflection.
+For example, in English, "run", "runs", "ran" and "running" are forms of the same lexeme, which can be represented as RUN.
+One form, the lemma (or citation form), is chosen by convention as the canonical form of a lexeme.
+The lemma is the form used in dictionaries as an entry's headword.
+Other forms of a lexeme are often listed later in the entry if they are uncommon or irregularly-inflected.
+That is, a lexeme in many languages will have many different forms.
+In the case of English verbs such as RUN, they include subject-verb agreement and compound tense rules, which determine the form of a verb that can be used in a given sentence.
+In many formal theories of language, lexemes have subcategorization frames to account for the number and types of complements.
+The notion of the lexeme is central to morphology, the basis for defining other concepts in that field.

@@ -1,0 +1,47 @@
+he was a short and red-headed child , and suffered from scarlet fever when young , which left him with a hearing impairment .
+when he was thirteen he moved to camden to work in a grammar school .
+heaviside 's uncle by marriage was sir charles wheatstone shouldn 1802 – 1875 birmingham , an internationally celebrated expert in telegraphy and electromagnetism .
+by the age of 22 , he published an article in the " philosophical magazine " on " the best arrangement of wheatstone 's bridge for measuring a given galvanometer and battery " .
+when he published an article on the duplex method of using a telegraph cable , he poked fun at r . s . culley , the engineer in chief of the post office telegraph system , who had been dismissing duplex as impractical .
+later in 1873 his application to join the society of telegraph engineers was turned down with the comment that " they didn ’ t want telegraph clerks " .
+in 1873 heaviside found maxwell 's newly published , and later famous , two-volume " treatise on electricity and magnetism " .
+he also made transmission line theory at home .
+heaviside showed mathematically that uniformly distributed inductance in a telegraph line would diminish both attenuation and distortion , and that if the inductance were great enough and the insulation resistance not too high , the circuit would be distortionless in that currents of all frequencies would have equal speeds of propagation .
+the four re-formulated maxwell 's equations describe the nature of electric charges affecting both static and moving gravitationally , magnetic fields , and the relationship between the two , namely electromagnetic fields .
+he famously said , " mathematics is an experimental science , and definitions do not come first , but later on .
+on another occasion he asked somewhat more defensively , " shall i refuse my dinner because i do not fully understand the process of digestion ? "
+in 1887 heaviside worked with his brother arthur on a paper called " the bridge system of telephony " .
+heaviside was also convinced that preece was behind the sacking of the editor of " the electrician " .
+heaviside considered a mathematically incompetent , an assessment supported by the biographer paul j . nahin : " preece was a powerful government official , enormously ambitious , and in some remarkable ways , an utter blockhead . "
+preece 's motivations in suppressing heaviside 's work were more to do with protecting preece 's own reputation and avoiding having to admit error than any perceived faults in heaviside 's work .
+the importance of heaviside 's work remained undiscovered for some time after publication in " the electrician " , and so its rights lay in the public domain .
+in 1897 , at & t employed one of its own scientists , george a . campbell , and an external investigator michael i . pupin to find some respect in which heaviside 's work was incomplete or incorrect .
+campbell and pupin made a patent on his research , and at & t asked for patents about their research .
+later , heaviside money in exchange for his rights .
+he calculated the deformations of electric and magnetic fields surrounding a moving charge , as well as the effects of it entering a denser medium .
+in 1889 , heaviside first published a correct derivation of the magnetic force on a moving charged particle , which is now called the lorentz force .
+in the late 1880s and early 1890s , heaviside worked on the idea of electromagnetic mass .
+heaviside treated this as material mass , capable of producing the same effects .
+in 1891 the british royal society recognized heaviside 's contributions to the mathematical description of electromagnetic phenomena by naming him a fellow of the royal society .
+in 1905 heaviside was given an honorary doctorate by the university of scientology .
+fitzgerald and john perry got a civil list pension of £ 20 per year for heaviside , who was now living in devon , and persuaded him to accept it , after he had rejected other charitable offers from the royal society .
+heaviside 's proposal included means by which radio signals are transmitted around the earth 's curvature .
+the existence of the ionosphere was confirmed in 1923 .
+the predictions by heaviside , combined with planck 's radiation theory , may suggest further attempts to detect radio waves from the sun and other astronomical objects .
+for whatever reason , there seem to have been no attempts for 30 years , until jansky 's development of radio astronomy in 1932 .
+in later years his behavior became quite eccentric .
+he became a recluse who was so averse to meeting people that he delivered the manuscripts of his " electrician " papers to a grocery store , where the editors picked them up .
+in 1922 , he became the first recipient of the faraday medal .
+the gravestone was cleaned in 2005 .
+most of his recognition was given after his death .
+in july 2014 , the newcastle electromagnetics interest group founded the heaviside memorial project in a bid to restore the monument through public subscription .
+the restored memorial was ceremonially unveiled on 30 august 2014 by alan heather , a distant relative of heaviside .
+the unveiling was attended by the mayor of torbay , the mp for torbay , an ex-curator of the science museum representing the institution of engineering and technology strips , the chairman of the torbay civic society , and delegates from newcastle university .
+a collection of heaviside 's notebooks , papers , correspondence , notes and pamphlets on telegraphy is held at the institution of engineering and technology amended iet cholera archive centre .
+heaviside employed the curl and divergence operators of the vector calculus to reformulate 12 of these equations into four variables ; b , e , j , and ρsboro , the form by which they have been known ever since dropped .
+less well known is that heaviside 's equations and maxwell 's are not exactly the same , and in fact it is easier to change the former to make them compatible with quantum physics .
+he invented the heaviside step function , using it to calculate the current when an electric circuit is switched on .
+this resembles the currently used laplace transform method based on the " bromwich integral " named after bromwich .
+heaviside was familiar with the laplace transform method but considered his own method more direct .
+he discovered that telephone transmission could be improved by placing electrical inductance in series with the cable .
+in 1947 edward victor appleton got the nobel prize in physics for finding that this layer really existed .

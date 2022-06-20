@@ -1,0 +1,38 @@
+A harmonic series is the sequence of sounds—pure tones, represented by sinusoidal waves—in which the frequency of each sound is an integer multiple of the fundamental, the lowest frequency.
+At the frequencies of each vibrating mode, waves travel in both directions along the string or air column, reinforcing and canceling each other to form standing waves.
+Because of the typical spacing of the resonances, these frequencies are mostly limited to integer multiples, or harmonics, of the lowest frequency, and such multiples form the harmonic series (see harmonic series (mathematics)).
+The musical pitch of a note is usually perceived as the lowest partial present (the fundamental frequency), which may be the one created by vibration over the full length of the string or air column, or a higher harmonic chosen by the player.
+The musical timbre of a steady tone from such an instrument is strongly affected by the relative strength of each harmonic.
+A "complex tone" (the sound of a note with a timbre particular to the instrument playing the note) "can be described as a combination of many simple periodic waves (i.e., sine waves) or "partials," each with its own frequency of vibration, amplitude, and phase."
+A harmonic is any member of the harmonic series, an ideal set of frequencies that are positive integer multiples of a common fundamental frequency.
+"Inharmonicity" is a measure of the deviation of a partial from the closest ideal harmonic, typically measured in cents for each partial.
+Many pitched acoustic instruments are designed to have partials that are close to being whole-number ratios with very low inharmonicity; therefore, in music theory, and in instrument design, it is convenient, although not strictly accurate, to speak of the partials in those instruments' sounds as "harmonics", even though they may have some degree of inharmonicity.
+Other pitched instruments, especially certain percussion instruments, such as marimba, vibraphone, tubular bells, timpani, and singing bowls contain mostly inharmonic partials, yet may give the ear a good sense of pitch because of a few strong partials that resemble harmonics.
+The term overtone does not imply harmonicity or inharmonicity and has no other special meaning other than to exclude the fundamental.
+It is mostly the relative strength of the different overtones that give an instrument its particular timbre, tone color, or character.
+When writing or speaking of overtones and partials numerically, care must be taken to designate each correctly to avoid any confusion of one for the other, so the second overtone may not be the third partial, because it is the second sound in a series.
+Some electronic instruments, such as synthesizers, can play a pure frequency with no overtones (a sine wave).
+Synthesizers can also combine pure frequencies into more complex tones, such as to simulate other instruments.
+The simplest case to visualise is a vibrating string, as in the illustration; the string has fixed points at each end, and each harmonic mode divides it into 1, 2, 3, 4, etc., equal-sized sections resonating at increasingly higher frequencies.
+Similar arguments apply to vibrating air columns in wind instruments (for example, "the French horn was originally a valveless instrument that could play only the notes of the harmonic series"), although these are complicated by having the possibility of anti-nodes (that is, the air column is closed at one end and open at the other), conical as opposed to cylindrical bores, or end-openings that run the gamut from no flare, cone flare, or exponentially shaped flares (such as in various bells).
+Physical characteristics of the vibrating medium and/or the resonator it vibrates against often alter these frequencies.
+However, those alterations are small, and except for precise, highly specialized tuning, it is reasonable to think of the frequencies of the harmonic series as integer multiples of the fundamental frequency.
+In terms of frequency (measured in cycles per second, or hertz (Hz) where f is the fundamental frequency), the difference between consecutive harmonics is therefore constant and equal to the fundamental.
+But because human ears respond to sound nonlinearly, higher harmonics are perceived as "closer together" than lower ones.
+In terms of what one hears, each octave in the harmonic series is divided into increasingly "smaller" and more numerous intervals.
+The second harmonic, whose frequency is twice of the fundamental, sounds an octave higher; the third harmonic, three times the frequency of the fundamental, sounds a perfect fifth above the second harmonic.
+The fourth harmonic vibrates at four times the frequency of the fundamental and sounds a perfect fourth above the third harmonic (two octaves above the fundamental).
+If the harmonics are octave displaced and compressed into the span of one octave, some of them are approximated by the notes of what the West has adopted as the chromatic scale based on the fundamental tone.
+In the late 1930s, composer Paul Hindemith ranked musical intervals according to their relative dissonance based on these and similar harmonic relationships.
+Below is a comparison between the first 31 harmonics and the intervals of 12-tone equal temperament (12TET), octave displaced and compressed into the span of one octave.
+Tinted fields highlight differences greater than 5 cents (1/20th of a semitone), which is the human ear's "just noticeable difference" for notes played one after the other (smaller differences are noticeable with notes played simultaneously).
+The frequencies of the harmonic series, being integer multiples of the fundamental frequency, are naturally related to each other by whole-numbered ratios and small whole-numbered ratios are likely the basis of the consonance of musical intervals (see just intonation).
+All the intervals succumb to similar analysis as has been demonstrated by Paul Hindemith in his book "The Craft of Musical Composition", although he rejected the use of harmonics from the 7th and beyond.
+The relative amplitudes (strengths) of the various harmonics primarily determine the timbre of different instruments and sounds, though onset transients, formants, noises, and inharmonicities also play a role.
+For example, the clarinet and saxophone have similar mouthpieces and reeds, and both produce sound through resonance of air inside a chamber whose mouthpiece end is considered closed.
+The saxophone's resonator is conical, which allows the even-numbered harmonics to sound more strongly and thus produces a more complex tone.
+Rather than perceiving the individual partials–harmonic and inharmonic, of a musical tone, humans perceive them together as a tone color or timbre, and the overall pitch is heard as the fundamental of the harmonic series being experienced.
+These variations, most clearly documented in the piano and other stringed instruments but also apparent in brass instruments, are caused by a combination of metal stiffness and the interaction of the vibrating air or string with the resonating body of the instrument.
+David Cope (1997) suggests the concept of interval strength, in which an interval's strength, consonance, or stability (see consonance and dissonance) is determined by its approximation to a lower and stronger, or higher and weaker, position in the harmonic series.
+Thus, an equal-tempered perfect fifth is stronger than an equal-tempered minor third , since they approximate a just perfect fifth and just minor third , respectively.
+The just minor third appears between harmonics 5 and 6 while the just fifth appears lower, between harmonics 2 and 3.

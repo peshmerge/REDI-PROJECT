@@ -1,0 +1,180 @@
+speciation is the evolutionary process by which populations evolve into distinct species .
+the biologist orator f . cook coined the term in 1906 for cladogenesis , the splitting of lineages , as opposed to anagenesis phyletic evolution within lineages .
+charles darwin was the first to describe the role of natural selection in speciation in his 1859 book " on the origin of species " .
+he also identified sexual selection as a likely mechanism , but found it problematic .
+there are four geographic modes of speciation : allopatric , peripatric , parapatric , and sympatric .
+speciation may also be induced artificially , through animal husbandry , agriculture , or laboratory experiments .
+whether genetic drift is a minor or major contributor to speciation is the subject matter of much ongoing discussion .
+rapid sympatric speciation can take place through polyploidy , such as by doubling of chromosome number .
+new species can also be created through hybridisation after hybriding is favored by natural selection , by reproductive isolation .
+there are two key issues : :hend 1 — what are the evolutionary mechanisms of speciation , andhend what accounts for the separateness and individuality of species in the biota ?
+since charles darwin 's time , efforts to understand the nature of species have focused on the first aspect , and it is now widely agreed that the critical factor behind the origin of new species is reproductive isolation .
+next we focus on the second aspect of species .
+in " on the origin of species " , darwin interpreted biological evolution in terms of natural selection , but was perplexed by the clustering of organisms into species .
+chapter 6 of darwin 's book is entitled " difficulties of the theory . "
+in discussing these " difficulties " he said : firstly , why , if species have descended from other species by insensibly fine gradations , do we not everywhere see innumerable transitional forms ?
+why is not all nature in confusion instead of the species being , as we see them , well defined ? "
+this dilemma may be called the absence or rarity of transitional varieties in habitat space .
+another dilemma is the absence or rarity of transitional varieties in time .
+darwin pointed out that by the theory of natural selection " innumerable transitional forms must have existed , " and wondered " why do we not find them embedded in countless numbers in the crust of the earth . "
+that defined species actually do exist in nature in both space and time implies that some basic feature of natural selection operates to generate and maintain species .
+it has been argued that the resolution of darwin 's first dilemma is in the fact that out-crossing sexual reproduction has an intrinsic cost of rarity .
+the cost of rarity is follows .
+if , on a resource gradient , a large number of separate species evolve , each exquisitely adapted to a very narrow band on that gradient , each species will , of necessity , consist of very few members .
+finding a mate under these circumstances may present difficulties when many of the individuals in the neighborhood belong to other species .
+if any species ’ population size happens , by chance , to increaseinkles at the expense of one or other of its neighboring species , if the environment is saturatedlity , this will make it easier for its members to find sexual partners .
+the members of the neighboring species , whose population sizes have decreased , have greater difficulty in finding mates , and form pairs less frequently than the larger species .
+this has a snowball effect , with large species growing at the expense of the smaller , rarer species , eventually driving them to extinction .
+eventually , only a few species remain .
+the cost of rarity is not only the cost of failure to find a mate .
+rarity brings with it other costs .
+rare and unusual features are seldom advantageous .
+in most instances , they indicate ahend mutation , which is almost certain to be deleterious .
+it therefore behooves sexual creatures to avoid mates sporting rare or unusual features .
+sexual populations therefore rapidly shed rare or peripheral phenotypic features , thus canalizing the entire external appearance , as illustrated in the illustration of the african pygmy kingfisher , " ispidina picta picta picta picta picta " .
+the adult members of a sexual species stimulated the proliferation of field guides on birds , mammals , reptiles , insects , and many other taxa .
+once a population has become as similar in appearance as is typical of most species ; its members will avoid mating with members of other populations that look different from themselves .
+thus , the avoidance of mates displaying rare and unusual phenotypic features inevitably leads to reproductive isolation .
+in the contrasting case of organisms that reproduce asexually , there is no cost of rarity .
+so , asexual organisms very frequently show the continuous variation in formstrels .
+all forms of natural speciation have taken place over the course of evolution .
+one example of natural speciation is the diversity of the three-spined stickleback , a marine fish that , after the last ice age , has undergone speciation into new freshwater colonies in isolated lakes and streams .
+over 10,000 generations , the sticklebacks show structural differences that are greater than those seen between different genera of fish including variations in fins , changes in the number or size of their bony plates , variable jaw structure , and colour differences .
+during allopatrictrictrichosis from the ancient greek " allos " , " other " + patra " , " fatherland " produces a population .
+the isolated populations then undergo genotypic or phenotypic divergence as :hend a consequence they become subjected to dissimilar selective pressures ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;
+they are no longer capable of exchanging genes .
+island genetics is a tendency of small , isolated genetic pools to produce unusual traits .
+examples include dwarfism and the radical changes among certain famous island chains , for example on komodo .
+the gala pagos islands are famous for their influence on charles darwin .
+during his five weeks there he heard that galapagos tortoises could be identified by island .
+when he returned to england , his speculation on evolution deepened after experts informed him that these were separate species , not just varieties , and famously that other similar galapagos birds were all species of finches .
+though the finches were less important for darwin , more recent research has shown the birds now known as darwin 's finches to be a classic case of adaptive evolutionary radiation .
+in peripatric speciation , a subform of allopatric speciation , new species are formed in isolated , smaller peripheral populations that are prevented from exchanging genes with the main population .
+it is related to the concept of a founder effect , since small populations often undergo bottlenecks .
+genetic drift is often proposed to play a significant role in peripatric speciation .
+case studies include mayr 's investigation of bird fauna ; the australian bird " petroica multicolor " ; and reproductive isolation in populations of " drosophila " subject to population bottlenecking .
+in parapatric speciation , there is only partial separation of the zones of two diverging populations .
+parapatric speciation is based on continuous variation within a " single " , " connected habitat acting as a source of natural selection rather than the effects of isolation of habitats produced in peripatric and allopatric speciation .
+parapatric speciation may be associated with differential landscape-dependent selection .
+even if there is a gene flow between two populations , strong differential selection may eventually develop .
+habitat differences may be more important in the development of reproductive isolation than the isolation time .
+caucasian rock lizards " darevskia rudis " , " d . valentini " and " d . portschinskii " all hybridize with each other in their hybrid zone .
+ecologists refer to parapatric and peripatric speciation in terms of ecological niches .
+a niche must be available in order for a new species to be successful .
+ring species such as " larus " gulls have been claimed to illustrate speciation in progress , though the situation may be more complex .
+the grass " odoratum " may be starting parapatric speciation in areas of mine contamination .
+sympatric speciation is the formation of two or more descendant species from a single ancestral species all occupying the same geographic location .
+in some cases , the term " sympatric " is used for a number of different plants in the same area .
+one example of sympatric speciation is that of the cichlids of east africa inhabiting the rift valley lakes , particularly lake victoria , lake malawi and lake tanganyika .
+there are over 800 described species .
+their evolution is an example of natural selection .
+a 2008 study suggests that sympatric speciation has occurred in tennessee cave salamanders .
+sympatric speciation driven by ecological factors may also account for the extraordinary diversity of crustaceans living in the depths of siberia 's lake baikal .
+budding speciation has been proposed as a particular form of sympatric speciation .
+this type of speciation would be driven by the conjunction of various advantages of inbreeding such as the expression of advantageous recessive phenotypes , reducing the recombination load , and reducing the cost of sex .
+the hawthorn flygated " rhagoletis pomonella "dilly " , also known as the apple maggot fly , appears to be undergoing sympatric speciation .
+the hawthorn fly feeds on different fruits .
+a distinct population emerged in north america in the 19th century some time after apples , a non-native species , were introduced .
+this apple-feeding population normally feeds only on apples and not on the historically preferred fruit of hawthorns .
+the hawthorn feeding population does not normally feed on apples .
+hawthorn flies mature later in the season and take longer to mature than apple flies .
+reinforcement is the process by which natural selection increases reproductive isolation .
+it may occur after two populations of the same species are separated and then come back into contact .
+if their reproductive isolation was complete , then they will have already developed into two separate incompatible species .
+if their reproductive isolation is incomplete , then further mating between the populations will produce hybrids , which may or may not be fertile .
+if the hybrids are infertile , or fertile but less fit than their ancestors , then there will be further reproductive isolation .
+the reasoning behind this is that if the parents of the hybrid offspring each have naturally selected traits for their own certain environments , the hybrid offspring will bear traits from both , therefore would not fit either ecological niche as well as either parent .
+the low fitness of the hybrids would cause selection to favour assortative mating , which would control hybridization .
+this is sometimes called the wallace effect after the evolutionary biologist alfred russel wallace who suggested in the late 19th century that it might be an important factor in speciation .
+if the hybrid offspring are more fit than their ancestors , then the populations merge back into the same species within the area they are in contact .
+reinforcement is required for separation from the two species .
+without reinforcement , the geographic area of contact between different forms of the same species will not develop into a boundary between the different species .
+hybrid zones are regions where diverged populations meet and interbreed .
+hybrid offspring are very common in these regions .
+without reinforcement , the two species would have uncontrollable inbreeding .
+reinforcement may be induced in artificial selection experiments as described above .
+ecological selection is the interaction of individuals with their environment during resource acquisition .
+natural selection is in the process of speciation .
+evidence for the role ecology plays in the process of speciation exists .
+studies of stickleback populations support ecologically-linked speciation arising as a by-product , alongside numerous studies of parallel speciation .
+ecological speciation occurs with much of the evidence , " . . accumulated from top-down studies of adaptation and reproductive isolation " .
+it is widely appreciated that sexual selection could drive speciation in many groups , independently of natural selection .
+however , the term " speciation " tends to be used in two different , but not mutually exclusive senses .
+the first and most commonly used sense refers to the “ birth ” of new species .
+that is , the splitting of an existing species into two separate species , or the budding off of a new species from a parent species .
+in the second sense , " speciation " refers to the wide-spread tendency of sexual creatures to be grouped into clearly defined species , rather than forming a continuum of phenotypes both in time and space .
+this was indeed recognized by darwin as problematic , and included in his " on the origin of species "ractive 1859dilly , under the heading " difficulties with the theory " .
+there are several suggestions as to how mate choice might play a significant role in resolving .
+new species have been created by animal husbandry , but the dates and methods of the initiation of such species are not clear .
+domestic cattle are often considered the same species as domestic cattle , gaur , yak , etc . , or domestic sheep that can interbreed with the mouflon .
+the best-documented creations of new species in the laboratory were performed in the late 1980s .
+william r . rice and george w . salt bred fruit flies using a maze with three different choices of habitat such as light / dark and wet / dry .
+each generation was placed into the maze .
+after thirty-five generations , the two groups and their offspring were isolated reproductively because of their strong habitat preferences : they mated only within the areas they preferred , and so did not mate with flies that preferred the other areas .
+rice and hostertertylus made the history of such attempts .
+diane dodd used a laboratory experiment to show how reproductive isolation can develop in " drosophila pseudoobscura " fruit flies after several generations by placing them in different media , starch-based media , starch-based media .
+dodd 's experiment has been easy for many others to replicate , including with other kinds of fruit flies and foods .
+research in 2005 showed that this rapid evolution of reproductive isolation may in fact be a relic of infection by " wolbachia " bacteria .
+alternatively , these observations are consistent with the notion that sexual creatures are inherently reluctant to mate with individuals whose appearance or behavior is different from the norm .
+the risk that such deviations are due to heritable maladaptations is very high .
+thus , if a sexual creature , can not predict natural selection 's future direction , it will avoid mates with unusual habits or features .
+sexual creatures will then inevitably tend to group themselves into reproductively isolated species .
+there are few different types of gene genes .
+they usually involve the reinforcement process of late stages of speciation .
+in 2008 , a speciation gene causing reproductive isolation was reported .
+it causes hybrid sterility between related subspecies .
+the order of speciation of three groups from a common ancestor may be unclear or unknown .
+polyploidy is a mechanism that has caused many rapid speciation events in sympatry .
+however , not all polyploids are reproductively isolated from their parental plants .
+it has been suggested that many of the existing plant and most animal species have undergone polyploidization in their evolutionary history .
+reproduction of successful polyploid species is sometimes asexual , by parthenogenesis or apomixis .
+polyploid mammals are rare , but most often result in prenatal death .
+hybridization between two different species may lead to a distinct phenotype .
+this phenotype can also be fitter than the parental lineage .
+eventually , if a male has a separate species , it may lead to a separate species .
+hybrid speciation is considered an extremely rare event .
+the mariana mallard is thought to have arisen from hybrid speciation .
+hybridization is an important means of speciation in plants .
+polyploidy allows reproduction , with the two sets of chromosomes each being able to pair with an identical partner during meiosis .
+polyploids also have more genetic diversity .
+hybridization without change in chromosome number is called " hybrid speciation " .
+it is considered very rare but has been shown in " heliconius " butterflies and sunflowers .
+polyploid speciation is a more common phenomenon , especially in plant species .
+theodosius dobzhansky , who studied fruit flies in the early days of genetic research in the 1930s , think that parts of chromosomes that switch from one location to another might cause a species to split into two different species .
+he mapped out how it might be possible for sections of chromosomes to move themselves in a genome .
+those mobile sections can cause sterility in inter-species hybrids , which can act as a speciation pressure .
+in theory , his idea was sound , but scientists long debated whether it actually happened in nature .
+eventually a competing theory involving mutations was shown to occur in nature so often that geneticists largely dismissed the moving gene hypothesis .
+however , 2006 research shows that jumping of a gene from one chromosome to another can contribute to the birth of new species .
+this validates the reproductive isolation mechanism , a key part of speciation .
+there is debate as to the rate at which speciation events occur over geologic time .
+some palaeontologists such as niles eldredge and stephen jay gould argued that species usually remain unchanged over long stretches of time , and that speciation occurs only over relatively brief intervals , a view known as " punctuated equilibrium " .
+cholera cholera is at the diagram , and .
+evolution can be extremely rapid , as shown in the creation of domesticated animals and plants in a very short geological space of time , spanning only a few tens of thousands of years .
+maizeanor " zea mays "dilly " , for instance , was created in mexico in only a few thousand years , starting about 7,000 to 12,000 years ago .
+this raises the question of why the long term rate of evolution is far slower than is possible .
+evolution is a process in which species or groups may be changed .
+it is not planned or striven for in some lamarckist way .
+mutations on which the process depends are random events .
+therefore , while a species or group might benefit from being able to adapt to a new environment by accumulating a wide range of genetic variation , this is to the detriment of the " individuals " who have to carry these mutations until a small , unpredictable minority of them ultimately contributes to such an adaptation .
+thus , the " capability " to evolve would require group selection , a concept discredited by nedra .
+if sexual individuals are disadvantaged by passing mutations on to their offspring , they will avoid mutant mates with strange or unusual characteristics .
+mutations that affect the external appearance of their carriers will then rarely be passed on to the next and later generations .
+they would therefore seldom be tested by natural selection .
+evolution is , therefore , effectively halted or slowed down considerably .
+they are " silent " or " neutral mutations " , and are , used to trace the relatedness and age of populations and species .
+this argument implies that evolution can only occur if mutant mates underwent a lot of potential mates .
+this is likely to occur in small isolated communities .
+these occur most commonly on small islands , in remote valleys , lakes , river systems , or caves .
+under these circumstances , not only is the choice of mates severely restricted but population bottlenecks , founder effects , genetic drift and inbreeding cause random changes in the isolated population 's genetic composition .
+hybridization with a related species trapped in the same isolate might introduce additional genetic changes .
+if an isolated population such as this survives its genetic upheavals , and subsequently expands into a niche in which it has an advantage over its competitors , a new species , or subspecies , will have come in being .
+in geological terms , this will be an abrupt event .
+a resumption of avoiding mutant mates will thereafter result , once again , in evolutionary stagnation .
+in apparent confirmation of this punctuated equilibrium view of evolution , the fossil record of an evolutionary progression typically consists of species that suddenly appear , and ultimately disappear , hundreds of thousands or millions of years later , without any change in external appearance .
+their lengths show how long each of them existed .
+the lines remain parallel with the time axis .
+during each species ' existence new species will appear at random intervals .
+the exact relatedness of these concurrent species is generally impossible to see .
+this is illustrated in the diagram showing the distribution of hominin species through time .
+for similar evolutionary time lines see , for instance , the paleontological list of african dinosaurs , asian dinosaurs , the lampriformes and amiiformes .

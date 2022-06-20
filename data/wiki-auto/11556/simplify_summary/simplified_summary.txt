@@ -1,0 +1,45 @@
+the theorem says that 1200 can be written as a product of primes , and second , that no matter how this is done , there will always be exactly four 2s , one 3,5s , and no other primes in the product .
+factorizations containing composite numbers may not be unique ; e . g . , 12 = 2 × 6 = 3 × 4 substitutions
+for example , 2 = 2 × 1 = 2 × 1 = 2 × 1 = 2 .
+proposition 14 of euclid 's " elements " are the statement and proof of the fundamental theorem .
+proposition 14 is derived from book vii , proposition 30 .
+in this proposition , the exponents are all equal to one , so nothing is said for the general case .
+article 16 of gauss ' " disquisitiones arithmeticae " is an early modern statement .
+every positive integer " n " > 1 can be written as a product of prime powers : " p " < " p " are primes and the " n " are positive integers .
+the empty product is usually extended to all positive integers , including 1 .
+this is called the canonical representation of " n " , or the standard form of " n " .
+note that factors " p " = 1 may be inserted without changing the value of " n " taluka e . g . , 1000 = 2 preparations .
+in fact , any positive integer can be an infinite product taken over all the positive prime numbers : where a finite number of the " n " are positive integers , and the rest are zero .
+the proof uses euclid 's lemmality " elements " vii , 30 foley : if a prime " p " divides the product of two natural numbers " a " and " b " , then " p " divides " a " or " p " divides " b " .
+so it must be shown that every number greater than 1 is either prime or a product of primes .
+then , by strong induction , assume that all numbers are greater than 1 and less than " n " .
+if " n " is prime , there is no proof .
+suppose , to the contrary , there is an integer that has two distinct prime factorizations .
+let " n " be the least such integer and write " n " = " p " .
+returning to our factorizations of " n " , we may cancel these two terms to conclude " p " . . " p " = " q " .
+we now have two distinct prime factorizations of some integer strictly smaller than " n " .
+assume that " s " > 1 is the smallest positive integer which is the product of prime numbers in two different ways .
+so every " p " must be distinct from every " q " .
+therefore " t " must have a unique prime factorization .
+in either case , " t " = " p " u " yields a prime factorization of " t " , so " p " appears in the prime factorization of " t " .
+if if ifaurus " q "-" p " ⟩ equaled 1 then the prime factorization of " t " would be all " q " 's , which would preclude " p " from appearing .
+now , " p " is in the prime factorization of " t " , and it is not equal to any " q " , so it must be one of the " r " 's .
+but that means " q " has a proper factorization , so it is not a prime number .
+this contradiction shows that " s " does not actually have two different prime factorizations .
+as a result , there is no positive integer with multiple prime factorizations .
+the set of all complex numbers " a " + " bi " where " a " and " b " are integers .
+he showed that this ring has the four units ±1 and ± " i " , that the non-zero , non-unit numbers fall into two classes , primes and composites , and that existence excluding order spp , the composites have unique factorization as a product of primes .
+in 1844 , while working on cubic reciprocity , eisenstein introduced the ring formula _ 12 , where formula _ 12 is a cube root of unity .
+he proved it has the six units formula _ 13 and that it has unique factorization .
+an example is given by formula _ 14 .
+in this ring one has a ring of ten .
+examples like this caused the notion of " prime " to be modified .
+in formula _ 14 it can be proven that if any of the factors above can be represented as a product , e . g . , 2 = ab , then one of " a " or " b " must be a unit .
+it can also be proven that none of these factors obeys euclid 's lemma ; e . g . , 2 divides neither liszt 1 + ljubljana nor hampson 1 − noses even though it divides their product 6 .
+in algebraic number theory 2 is called irreducible in formula _ 14 .
+the mention of formula _ 14 is required because formula _ 1 is prime and irreducible in formula _ 20 using these definitions it can be proven that in any integral domain a prime must be irreducible .
+the german edition includes all of his papers on number theory : all the proofs of quadratic reciprocity , the determination of the sign of the gauss sum , the investigations into biquadratic reciprocity , and unpublished notes .
+the two monographs gauss published on biquadratic reciprocity have numbered sections : the first contains § 1 – 23 and the second § § 24 – 76 .
+the letters referencing these are of the form " gauss , bq , § " n " .
+the footnotes referencing the " disquisitiones arithmeticae " are of the form " gauss , da , art .
+these are in gauss 's " werke " , vol ii , 65 – 92 and 93 – 148 ; german translations are pp .

@@ -1,0 +1,41 @@
+the mercalli intensity scale is a scale from the mercalli intensity of the earthquake .
+it measures the effects of an earthquake at a given location .
+earthquakes are different in how much of their energy is radiated as seismic waves .
+deeper earthquakes also have less interaction with the surface , and their energy is spread out across a larger area .
+it can be amplified in sedimentary basins and certain kinds of unconsolidated soils .
+intensity scales make the intensity of shaking based on the effects reported by untrained observers .
+the greatest intensities generally correspond to the epicentral area .
+the italian volcanologist giuseppe mercalli formulated his first intensity scale in 1883 .
+it is now " more or less forgotten " .
+mercalli 's second scale was published in 1902 .
+this version " found favour with the users " , and was adopted by the italian central office of meteorology and geodynamics .
+in 1904 adolfo cancani proposed adding two additional degrees for very strong earthquakes , " catastrophe " and " enormous catastrophe " , thus creating the 12 degree scale .
+his descriptions were deficient , august heinrich sieberg augmented them in 1912 and 1923 .
+this became known as the mercalli – cancani scale , formulated by sieberg , or the mercalli – cancani – sieberg scale , or simply mcs , and used extensively in europe .
+harry o . wood and frank neumann translated this into english in 1931 1931 1931 completion along with modification and condensation of the descriptions , and removal of the acceleration criteria , they called it the " modified mercalli intensity scale of 1931 " .
+some seismologists prefer to call this version the wood-neumann scale .
+wood and neumann also had an abridged version , with fewer criteria for assessing the intensity of the intensity of the substance .
+the wood – neumann scale was revised in 1956 by charles francis richter .
+he proposed calling it the " modified mercalli scale of 1956 " 6th 6th 6th percussionist .
+in their 1993 compendium of historical seismicity in the united states , carl stover and jerry coffman ignored richter 's revision , and assigned intensities according to their slightly modified interpretation of wood and neumann 's 1931 scale , effectively creating a new but largely undocumented version of the scale .
+the basis by which the u . s . geological survey paces and other agencies assigns intensities is nominally wood and neumann 's " modified mercalli intensity scale of 1931 " .
+however , this is generally interpreted with the modifications summarized by stover and coffman because in the decades since 1931 it has been found that " some criteria are more reliable than others as indicators of the level of ground shaking . "
+also , construction codes and methods have evolved , making much of built environment stronger ; these make a given intensity of ground shaking seem weaker .
+some of the original criteria of the higher degrees arbore x and aboveability , such as bent rails , ground fissures , landslides , etc . , are " related less to the level of ground shaking than to the presence of ground conditions susceptible to spectacular failure . "
+the " catastrophe " and " enormous catastrophe " categories are used so infrequently that current usgs practice is merge them into a single " extreme " labeled " x + " .
+the lower degrees of the modified mercalli intensity scale generally deal with the manner in which the earthquake is felt by people .
+the higher numbers of the scale are based on observed damage .
+this table gives modified mercalli scale intensities that are typically observed at locations near the epicenter of the earthquake .
+there is a correlation between the intensity of the earthquake and the intensity of the earthquake .
+for example , a 4.5 magnitude quake in salta , argentina , in 2011 , that was 164 km deep had a maximum intensity of i , while a 2.2 magnitude event in barrow in furness , england , about 1 km deep had a maximum intensity of viii .
+the small table is a rough guide to the degrees of the modified mercalli intensity scale .
+the colors and descriptive names shown here are different from those used on certain shake maps in articles .
+dozens of so-called intensity prediction equations have been published to estimate the macroseismic intensity at a location given the magnitude , source-to-site distance and perhaps other parameters judged e . g . local site conditions associates .
+these are similar to ground motion prediction equations for the estimation of instrumental strong-motion parameters such as peak ground acceleration .
+a summary of intensity prediction equations is available .
+these equations can be used to estimate the seismic hazard in terms of macroseismic intensity .
+the mercalli scale is not defined in terms of more rigorous , objectively quantifiable measurements such as shake amplitude , shake frequency , peak velocity , or peak acceleration .
+human-perceived shaking and building damages are best correlated with peak acceleration for lower-intensity events , and with peak velocity for higher-intensity events .
+the effects of any one earthquake can vary greatly from place to place , so there may be many mercalli intensity values measured for the same earthquake .
+these values can be best displayed using a contoured map of equal intensity , known as an isoseismal map .
+however , each earthquake has only one magnitude .

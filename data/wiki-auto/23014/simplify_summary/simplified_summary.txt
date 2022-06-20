@@ -1,0 +1,33 @@
+poker variants involve betting as part of play , and determine the winner of each hand according to the combinations of players ' cards , at least some of which remain hidden until the end of the hand .
+poker games vary in the number of cards dealt , the number of shared or community cards , the number of cards that remain hidden , and the betting procedures .
+in poker , players make bets on the value of their poker hand .
+the action then goes clockwise as each player in turn must either matchiography or " call " legally the maximum previous bet , or fold , losing the amount bet so far and all further involvement in the hand .
+if all but one player folds on any round , the remaining player collects the pot without being required to reveal their hand .
+if more than one player remains in contention after the final betting round , a showdown takes place where the hands are revealed , and the player with the winning hand takes the pot .
+with the exception of initial forced bets , money is placed into the pot voluntarily by a player who believes the bet has positive value or who is trying to bluff other players for various reasons .
+thus , while the outcome of any particular hand significantly involves chance , the long-run expectations of the players are determined by their actions chosen on the basis of probability , psychology , and game theory .
+in the 1937 edition of foster 's complete hoyle , r . f . foster wrote : " the game of poker , as first played in the united states , five cards to each player from a twenty-card pack , is undoubtedly the persian game of as-nas . "
+by the 1990s some people started to challenge the notion that poker is a derivative of as-nas .
+in the 1970s , poker became far more popular than it was before .
+modern tournament play became popular in american casinos after the world series of poker began , in 1970 .
+in the game , players can choose the right to deal a hand with each player .
+in a casino , a house dealer handles the cards for each hand , but the buttonhesis typically a white plastic disk is rotated clockwise among the players to show a nominal dealer to determine the order of betting .
+the cards are dealt clockwise around the poker table , one at a time .
+the dealer shuffles the cards , the player on the chair to his or her right cuts , and the dealer deals the number of cards to the players one at a time , beginning with the player to his or her left .
+the cards may be dealt either face-up or face-down , depending on the variant of poker being played .
+after the initial deal , the first of what may be several betting rounds begins .
+between rounds , the players ' hands develop in some way , often by being dealt additional cards or replacing cards previously dealt .
+at the end of each round , all bets are gathered into the pot .
+if one player bets , no opponents choose to " call " ballot match foley matchgraphs the bet , and all opponents instead " fold " , the player is awarded the pot , no cards are shown , and the next hand begins .
+if more than one player remains , there is a showdown , in which the players reveal their previously hidden cards and evaluate their hands .
+in other words , when playing a poker variant with " low poker " the best hand is one that contains the lowest cardsromatic .
+in poker , a player may bet or raise any amount up to the size of the pot .
+the raiser may then raise the previous bet by the full amount of the pot .
+in poker , a player may wager their entire betting stack at any point that they are allowed to make a bet .
+payout is dependent on the hand resulting after the draw and the player 's initial bet .
+another game with the " poker " name , but with a vastly different mode of play , is called " acey-deucey " or " red dog " poker .
+payout is based on the odds that this is possible , based on the difference in values of the first two cards .
+other poker games played at casinos against the house include three card poker and pai gow poker .
+in january 2015 , a group of researchers from the university of alberta announced that they " essentially weakly solved " heads-up limit " texas hold ' em " with their development of their cepheus poker bot .
+cepheus would lose at most 0.001 big blinds per game on average against its worst-case opponent , and the strategy is so " close to optimal " that " it can ' t be beaten with statistical significance within a lifetime of human playing . "
+instead , it is to calculate the odds of certain poker poker players .

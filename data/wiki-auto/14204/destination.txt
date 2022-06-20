@@ -1,0 +1,51 @@
+Halophiles are organisms that need salt in their environment to live.
+Halophiles live in evaporation ponds or salt lakes such as Great Salt Lake, Owens Lake, or Dead Sea.
+The name "halophile" comes from Greek for "salt-loving".
+Most halophiles are archaeans, but some bacteria and eukaryotes are also halophiles, such as the alga "Dunaliella salina".
+Most halophilic and salt-eating animals use energy to remove salt from their cytoplasm.
+Normally, organisms living around a lot of salt would lose water and die because of osmosis.
+Water inside the organism would move from inside the cell to its outside environment.
+This is because there is always movement of water to reach a state where the concentrations of salt are the same on both sides of the cell membrane.
+To survive, the cytoplasm of halophiles must be isotonic with its environment.
+To get to this state, halophiles use two different methods.
+In the first (mainly used by bacteria, some archaea, yeasts, algae and fungi), organic compounds are stored in the cytoplasm.
+These compounds help the organism survive the stress of osmosis.
+The most commonly used solutes for this process are neutral and include amino acids and sugars.
+Advantages to this method are that organisms can live in a wider range of salt concentrations.
+Also, if proteins are not exposed to high salt levels, they do not have to adapt to high salt levels.
+It requires the organism to use much more energy then the adaption below.
+The second, less common adaptation, is the selective intake of potassium (K) ions into the cytoplasm.
+In exchange, the organism pumps sodium (Na) ions out with the help of the sodium-potassium pump.
+Ions of sodium may be used instead of potassium, but potassium is the most common.
+This adaptation is only used by one order of bacteria and one family of Archaea.
+An advantage to this method is that it uses much less energy than the adaption above.
+The main disadvantage to this adaption is that all of the machinery inside the cell (enzymes, structural proteins, etc.) must be adapted to high levels of non-organic ions, and high salt levels.
+This is much more demanding than the adaptation described above.
+Most halophilic organisms only use one of the two methods, but a few halophiles can use both.
+Halophiles are categorized by the levels of salt at which they grow best.
+Halophiles can either be categorized as slight halophiles, moderate halophiles, or extreme halophiles.
+Slight halophiles grow best in concentrations of salt around 2% to 5%.
+An example of a slight halophile is "Erythrobacter flavus".
+Slight halophiles live in mud on the ocean floor, in seawater, and in garden soil.
+Moderate halophiles grow best in concentrations of salt around 5% to 20%.
+Examples of moderate halophiles are organisms in the genera "Desulfovibrio", "Desulfocella", "Desulfohalobium", and "Desulfotomaculum".
+Moderate halophiles live in marine salterns, saline lakes, in matter at the bottom of the sea, and in oil brine fields.
+Extreme halophiles grow best in concentrations of salt from 20% to 30%.
+Examples of extreme halophiles are "Salinibacter ruber" and organisms in the Halobacteria class.
+Extreme halophiles live in the Dead Sea in the Middle East and in man-made solar salterns (lakes used for making sea salt).
+Halophiles play an important part in ecosystems.
+For example, halophiles often support entire populations of wild birds.
+Halophiles are useful for cleaning up polluted environments.
+Waste water with salt concentrations more than 2% is ideal for halophiles to remove organic pollutants from.
+For instance, halophiles have been shown to remove phenol (a poisonous chemical) from their environments.
+This could lead to future use in cleaning up oil spills.
+Halophiles play an important part in the fermentation of some foods.
+For instance, halophiles ferment soy and fish sauces.
+Halophiles also ferment salted fish.
+Halophilic microorganisms are useful in biotechnology.
+The compounds that certain halophiles make are valuable.
+Some of these compounds are not found anywhere else in the living world.
+The salt-tolerant enzymes that halophiles produce can be used in a variety of ways.
+For example, these enzymes could be used for rough industrial processes, like food processing.
+Some moderate halophiles produce sugars outside the cell.
+These sugars can be used as thickeners and emulsifiers in the petroleum and medicine industries.

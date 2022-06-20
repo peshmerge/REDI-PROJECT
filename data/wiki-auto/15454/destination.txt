@@ -1,0 +1,156 @@
+Itanium is a type Intel microprocessors with 64-bit chip architecture.
+Itanium processors are sometimes used today for servers.
+Itanium processors have been produced by HP and several other manufacturers.
+s of 2008, Itanium was the fourth-most deployed chip for business systems.
+When first released in 2001, Itanium's speed was disappointing compared to other processor types.
+Using existing x86 applications and operating systems was especially bad, with one test in 2001 showing that it was as fast as a 100 MHz Pentium (1.1 GHz Pentiums were on the market at that time).
+Itanium did not have success compared to IA-32 or RISC, and was even worse when x86-64 was released, which worked with older x86 applications.
+In an article from 2009 about the history of Itanium — "How the Itanium Killed the Computer Industry" — journalist John C. Dvorak reported "This continues to be one of the great fiascos bad situations of the last 50 years" .
+Technology writer Ashlee Vance wrote that slowness in speed and release "turned the product into a joke in the chip industry."
+In an interview, Donald Knuth said "The Itanium approach...was supposed to be so terrific—until it turned out that the wished-for compilers were basically impossible to write."
+Both Red Hat and Microsoft said that they would stop allowing Itanium to be used with their operating systems.
+However, other Linux distributions such as Gentoo and Debian are still available for Itanium.
+On 22 March 2011, Oracle said they would no longer support Itanium, but support for their existing products would continue.
+In October of 2013, Oracle said they would release Oracle Database 12.1.0.1.0 on HP-UX Itanium 11.31 by early 2014.
+A past Intel company official said that Itanium had become profitable (Able to make a lot of money) for Intel in late 2009.
+In 2009 and later, Itanium was mostly used on servers by HP, which made 95% of Itanium servers, so the primary operating system for Itanium was HP-UX.
+On 22 March 2011, Intel said they will keep supporting Itanium entirely with many new Itanium chips being created and on-time.
+Although Itanium did do well with high-end computing, Intel wanted it to have more usage compared to the original x86 architecture.
+AMD decided on an easier idea, creating x86-64, a 64-bit addition to the x86 architecture, which Microsoft soon supported in Microsoft Windows, so Intel had to include the same type of 64-bit addition in Intel's x86 processors.
+x86-64 can use existing 32-bit applications at full hardware speed, but has 64-bit memory addressing and other additions to new applications.
+This architecture has now become the most used 64-bit architecture in the desktop and laptop market, with the 64-bit ARMv8 architecture powering many mobile devices, used in today's iPhones, iPads, iPod Touches, and now many Android phones and tablets such as the Nexus 6P and Nexus 9.
+Ssome Itanium-based workstations were initially introduced by companies such as SGI, but they are no longer available.
+Because AMD made the first x86-64 chip, the architecture is commonly referred to as "amd64" inside of operating systems.
+In 1989, HP thought Reduced Instruction Set Computing (RISC) architectures were stuck at one instruction per cycle.
+HP researchers tried to create a new type of processor architecture, later called Explicitly Parallel Instruction Computing (EPIC), that allows the processor to use many instructions in each clock cycle.
+EPIC uses a form of very long instruction word (VLIW) architecture, in which 1 instruction word had many instructions.
+With EPIC, the compiler checks which instructions can be used at the same time, so the processor can run the instructions without needing complicated methods to see which instructions to use at the same time.
+The goal of this idea is to allow better inspection of the code at the time of compile to check for additional opportunities for multiple executions at once, and to simplify processor design and save electricity by removing the need for runtime scheduling instructions.
+HP thought that it was not good for individual enterprise system companies like HP to make proprietary processors, so HP worked with Intel in 1994 to create the IA-64 architecture, made with EPIC's ideas.
+Intel wanted to make a large effort in creating IA-64 in the expectation that the resulting processor would be used by most enterprise systems.
+HP and Intel had a large design effort to make the first Itanium product, Merced, in 1998.
+During creation, Intel, HP, and other industry analysts thought that IA-64 would be very popular in servers, workstations, and desktops, and one day replace RISC and Complex Instruction Set Computing (CISC) architectures for multi-purpose applications.
+Compaq and Silicon Graphics stopped working on their Alpha and MIPS architectures to move to the Itanium architecture.
+Many groups created operating systems for Itanium, including Microsoft Windows, OpenVMS, Linux, and UNIX types such as HP-UX, Solaris, Tru64 UNIX, and Monterey/64 (the last three were never finished work with running on Itanium).
+By 1997, many found that the Itanium architecture and the compiler were more difficult to use than they thought.
+Technology issues such as the very high transistor counts needed for the large instruction words and the large caches.
+There were also problems with the project, as the two parts of the team used different methods and had slightly different priorities.
+Because Merced was the first EPIC processor, its creation had more problems than the team had thought.
+In addition, the EPIC concept requires different compiler abilities that had never been created before, so more research was needed.
+Intel announced the name of the processor, "Itanium", on 4 October 1999.
+In only a few hours, the name "Itanic" had been used as a joke, (a reference to "Titanic", the "unsinkable" ship that sank in 1912 ("Itanium + Titanic = Itanic")).
+"Itanic" has also been used by "The Register", and others, to say the multi-billion-dollar investment in Itanium, and the early demand with it, would mean nothing because they thought Itanium was going to fail.
+By the time Itanium was released in June 2001, its performance was not superior to competing RISC and CISC processors.
+Itanium competed with low-power systems (primarily 4-CPU and small systems) with servers based on x86 processors, and with high-power such as with IBM's POWER architecture and Sun Microsystems' SPARC architecture.
+Intel shifted Itanium to working with the high-power business and HPC computing, trying to copy x86's successful market (i.e., 1 architecture, many system vendors).
+The success of the 1st processor version was only with replacing PA-RISC in HP systems, Alpha in Compaq systems and MIPS in SGI systems, but IBM also made a supercomputer based on this architecture.
+POWER and SPARC were strong, and the x86 architecture grew more into the enterprise space, because of easier scaling and very large install base.
+Only a few thousand systems using the 1st Itanium processor, "Merced", were sold, because of poorer performance, high cost and less Itanium-made software.
+Intel saw that Itanium required more native software to work well, so Intel made thousands of systems for independent software vendors to help them make Itanium software.
+HP and Intel brought the 2nd Itanium processor, Itanium 2, to market a year later.
+The Itanium 2 processor was released in 2002, for enterprise servers and not all of high-power computing.
+The 1st version of Itanium 2, code-named "McKinley", was created by HP and Intel.
+It fixed many of the problems of the 1st Itanium processor, which were mostly caused by a bad memory subsystem.
+"McKinley" had 221 million transistors (25 million of them were for logic), and was 19.5 mm by 21.6 mm (421 mm) and was created with a 180 nm design process, and a CMOS process with 6 layers of aluminium.
+In 2003, AMD released the Opteron, which implemented the first x86-64 architecture (called AMD64 at the time).
+Opteron was much more successful because it was an easy upgrade from x86.
+Intel implemented x86-64 in its Xeon processors in 2004.
+Intel released a new Itanium 2 processor, code-named "Madison", in 2003.
+Madison used a 130 nm process and was the foundation of all new Itanium processors until June 2006.
+In March 2005, Intel announced that it was working on a new Itanium processor, code-named "Tukwila", to be released in 2007.
+Tukwila would have 4 processor cores and would replace the Itanium bus with a new Common System Interface, which would also be used by a new Xeon processor.
+Later in that year, Intel changed Tukwila's release date to late 2008.
+In November 2005, the largest Itanium server makers worked with Intel and many software vendors to create the Itanium Solutions Alliance, to promote the architecture and speed up software porting.
+The Alliance says that its members would invest $10 billion in Itanium solutions by the end of the decade.
+In 2006, Intel delivered "Montecito" (marketed as the Itanium 2 9000 series), a 2-core processor that had approximately 2x performance and 20% less energy usage.
+Intel released the Itanium 2 9100 series, codenamed "Montvale", in November 2007.
+In May 2009, the release for Tukwila, Montvale's successor, was changed again, with release to OEMs planned for the first quarter of 2010.
+The Itanium 9300 series processor, code-named "Tukwila", was released on 8 February 2010, with greater performance and memory amount.
+Tukwila uses a 65 nm process, has between two and four cores, up to 24 MB CPU cache, Hyper-Threading technology and new memory controllers.
+It also has double-device data correction, which helps to fix memory issues.
+Tukwila also has Intel QuickPath Interconnect (QPI) to replace the Itanium bus architecture.
+It has a maximum inner-processor bandwidth of 96 GB/s and a maximum memory bandwidth of 34 GB/s.
+With QuickPath, the processor has built-in memory controllers, which controls the memory using QPI interfaces to communicate with other processors and I/O hubs.
+QuickPath is also used with Intel processors using the "Nehalem" architecture, so that Tukwila and Nehalem might be able to use the same chipsets.
+Tukwila incorporates four memory controllers, each of which supports multiple DDR3 DIMMs via a separate memory controller, similar to the Nehalem Xeon processor code-named "Beckton".
+The Itanium 9500 series processor, code-named "Poulson", is the follow-on processor to Tukwila and was released on 8 November 2012.
+Intel says it skips the 45 nm process technology and uses the 32 nm process technology instead; it features 8 cores, has a 12-wide issue architecture, multi-threading additions, and new instructions for parallelism, including virtualization.
+The Poulson L3 cache size is 32 MB.
+L2 cache size is 6 MB, 512 I KB, 256 D KB per core.
+Poulson's size is 544 mm2, less than Tukwila's size (698.75 mm2).
+At ISSCC 2011, Intel presented a paper called, "A 32nm 3.1 Billion Transistor 12-Wide-Issue Itanium Processor for Mission Critical Servers."
+Given Intel's history of sharing details about Itanium microprocessors at ISSCC, this paper most likely refers to Poulson.
+Analyst David Kanter speculates that Poulson will use a new architecture, with a more advanced form of multi-threading that uses as many as two threads, to improve performance for single threaded and multi-threaded work.
+New information was released at Hot Chips conference.
+The new information claims improvements in multithreading, reliability improvements (Instruction Replay RAS) and some new instructions (thread priority, integer instruction, cache pre-fetching, data access hints).
+In Intel's Product Change Notification (PCN) 111456-01, it listed 4 models of Itanium 9500 series CPU, which were removed in a revised version of the document.
+The parts were later listed in Intel's Material Declaration Data Sheets (MDDS) database.
+Intel later posted Itanium 9500 reference manual.
+The models are: In comparison with its Xeon server processors, Itanium has never been a large product for Intel.
+Intel does not release production numbers.
+One industry analyst estimated that the production rate was 200,000 processors per year in 2007.
+According to Gartner Inc., the total number of Itanium servers (not processors) sold by all vendors in 2007, was about 55,000.
+(It is unclear whether clustered servers counted as a single server or not.)
+This compares with 417,000 RISC servers (spread across all RISC vendors) and 8.4 million x86 servers.
+IDC reports that a total of 184,000 Itanium-based systems were sold from 2001 through 2007.
+For the combined POWER/SPARC/Itanium systems market, IDC reports that POWER captured 42% of revenue and SPARC captured 32%, while Itanium-based system revenue reached 26% in the second quarter of 2008.
+According to an IDC analyst, in 2007, HP had about 80% of Itanium system revenue.
+According to Gartner, in 2008, HP had 95% of Itanium sales.
+HP's Itanium system sales were at $4.4 Billion at the end of 2008, and $3.5 Billion by the end of 2009, compared to a 35% decline in UNIX system revenue for Sun and an 11% drop for IBM, with an x86-64 server revenue increase of 14% during this period.
+In December 2012, IDC released a research report stating that Itanium server shipments would remain flat through 2016, with annual shipment of 26,000 systems (a decline of over 50% compared to shipments in 2008).
+s of 2015, only a few providers have Itanium systems, such as HP, Bull, NEC, Inspur and Huawei.
+Intel offers a chassis that can be used by system integrators to build Itanium systems.
+HP, the only one of the industry's top 4 server manufacturers to sell Itanium systems today, creating at least 80% of all Itanium systems.
+HP sold 7,200 systems in the first quarter of 2006.
+Most Itanium systems sold are enterprise servers and machines for large-scale technical computing, with each system costing about US$200,000.
+A typical system uses eight or more Itanium processors.
+The Itanium bus communicates with the rest of the system.
+Enterprise server makers differentiate their systems by making their own chipsets that interface the processor to memory, interconnections, and peripheral controllers.
+The chipset is the heart of the system-level architecture for each system design.
+Creation of a chipset costs tens of millions of dollars and represents a major commitment to the use of the Itanium.
+IBM created a chipset in 2003, and Intel in 2002, but neither of them has developed chipsets to support technologies such as DDR2 or PCI Express.
+Currently, modern chipsets for Itanium supporting such technologies are manufactured by HP, Fujitsu, SGI, NEC, and Hitachi.
+The "Tukwila" Itanium processor model had been designed to share a common chipset with the Intel Xeon processor EX (Intel’s Xeon processor designed for four processor and larger servers).
+The goal is to streamline system development and reduce costs for server OEMs, many of whom develop both Itanium- and Xeon-based servers.
+However, in 2013, this goal was pushed back to "evaluated for future implementation opportunities".
+Microsoft announced that Windows Server 2008 R2 would be the last version of Windows Server to support the Itanium, and that it would also discontinue development of the Itanium versions of Visual Studio and SQL Server.
+Likewise, Red Hat Enterprise Linux 5 (first released in March 2007) was the final Itanium version of Red Hat Enterprise Linux and Canonical's Ubuntu 10.04 LTS (released in April 2010) was the last supported Ubuntu release on Itanium.
+HP will not be supporting or certifying Linux on Itanium 9300 (Tukwila) servers.
+In late September 2012, NEC announced a return from IA64 to the previous NOAH line of proprietary mainframe processors, now produced in a quad-core variant on 40 nm, called NOAH-6.
+Oracle Corporation announced in March 2011, that it would drop development of application software for Itanium platforms, with the explanation that "Intel management made it clear that their strategic focus is on their x86 microprocessor and that Itanium was nearing the end of its life."
+However, a California state judge ruled that Oracle will have to continue supporting and releasing new versions of its software designed for Intel Itanium-based servers sold by Hewlett-Packard, after a settlement and release agreement between HP, Oracle and Mark Hurd had revealed that Oracle must continue to offer its product suite on HP's Itanium-based server platforms and does not confer on Oracle the discretion to decide whether to do so or not.
+Oracle's obligation to continue to offer its products on HP's Itanium-based server platforms lasts until such time as HP discontinues the sales of its Itanium-based servers.
+Oracle was ordered to port its products to HP's Itanium-based servers without charge to HP.
+HP sells a virtualization technology for Itanium called Integrity Virtual Machines.
+To allow more software to run on the Itanium, Intel supported the development of compilers optimized for the platform, especially its own suite of compilers.
+Starting in November 2010, with the introduction of new product suites, the Intel Itanium Compilers were no longer bundled with the Intel x86 compilers in a single product.
+Intel offers Itanium tools and Intel x86 tools, including compilers, independently in different product bundles.
+GCC, Open64 and Microsoft Visual Studio 2005 (and later) are also able to produce machine code for Itanium.
+According to the Itanium Solutions Alliance over 13,000 applications were available for Itanium-based systems in early 2008, though Sun has contested Itanium application counts in the past.
+The ISA also supported Gelato, an Itanium HPC user group and developer community that ported and supported open source software for Itanium.
+Emulation is a technique that allows a computer to execute binary code that was compiled for a different type of computer.
+Before IBM's acquisition of QuickTransit in 2009, application binary software for IRIX/MIPS and Solaris/SPARC could run via type of emulation called "dynamic binary translation" on Linux/Itanium.
+Similarly, HP implemented a method to execute PA-RISC/HP-UX on the Itanium/HP-UX via emulation, to simplify migration of its PA-RISC customers to the radically different Itanium instruction set.
+Itanium processors can also run the mainframe environment GCOS from Groupe Bull and several x86 operating systems via instruction set simulators.
+Itanium is aimed at the enterprise server and high-performance computing (HPC) markets.
+Other enterprise- and HPC-focused processor lines include Oracle Corporation's SPARC M7, Fujitsu's SPARC64 X+ and IBM's POWER8.
+Measured by quantity sold, Itanium's most serious competition comes from x86-64 processors including Intel's own Xeon line and AMD's Opteron line.
+Since 2009, most servers were being shipped with x86-64 processors.
+In 2005, Itanium systems accounted for about 14% of HPC systems revenue, but the percentage has declined as the industry shifts to x86-64 clusters for this application.
+An October 2008 paper by Gartner, on the Tukwila processor stated that "...the future roadmap for Itanium looks as strong as that of any RISC peer like Power or SPARC."
+An Itanium-based computer first appeared on the list of the TOP500 supercomputers in November 2001.
+The best position ever achieved by an "Itanium 2" based system in the list was #2, achieved in June 2004, when Thunder (LLNL) entered the list with an Rmax of 19.94 Teraflops.
+In November 2004, Columbia entered the list at #2 with 51.8 Teraflops, and there was at least one Itanium-based computer in the top 10 from then until June 2007.
+The peak number of Itanium-based machines on the list occurred in the November 2004 list, at 84 systems (16.8%); by June 2012, this had dropped to one system (0.2%), and no Itanium system remained on the list in November 2012.
+The Itanium processors show a progression in capability.
+Merced was a proof of concept.
+McKinley dramatically improved the memory hierarchy and allowed Itanium to become reasonably competitive.
+Madison, with the shift to a 130 nm process, allowed for enough cache space to overcome the major performance bottlenecks.
+Montecito, with a 90 nm process, allowed for a dual-core implementation and a major improvement in performance per watt.
+Montvale added three new features: core-level lockstep, demand-based switching and front-side bus frequency of up to 667 MHz.
+During the HP vs. Oracle support lawsuit, court documents unsealed by Santa Clara County Court judge revealed in 2008, Hewlett-Packard had paid Intel Corp. around $440 million to keep producing and updating Itanium microprocessors from 2009 to 2014.
+In 2010, the two companies signed another $250 million deal, which obliged Intel to continue making Itanium central processing units for HP's machines until 2017.
+Under the terms of the agreements, HP has to pay for chips it gets from Intel, while Intel launches Tukwila, Poulson, Kittson and Kittson+ chips in a bid to gradually boost performance of the platform.
+"Kittson" is planned to follow Poulson in 2015.
+Kittson, like Poulson, will be manufactured using Intel's 32 nm process.
+Few other details are known beyond the existence of the codename and the binary and socket compatibility with Poulson and Tukwila, though moving to a common socket with x86 Xeon "will be evaluated for future implementation opportunities" after Kittson.

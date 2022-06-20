@@ -1,0 +1,48 @@
+it was ratified in 1791 .
+the supreme court has applied most of the protections of this amendment to the states through the due process clause of the fourteenth amendment .
+the sixth amendment gives the right to a speedy and public trial by an impartial jury consisting of jurors from the state and district in which the crime was alleged to have been committed .
+the jury must also have a representative cross-section of the community .
+the compulsory process clause gives criminal defendants the right to call their own witnesses .
+the assistance of counsel clause grants criminal defendants the right to be assisted by counsel .
+in " gideon v . wainwright " and later cases , the supreme court held that a public defender must be given to criminal defendants unable afford an attorney in all trials where the defendant faces the possibility of imprisonment .
+the court ruled that if the reviewing court finds that a defendant 's right to a speedy trial was violated , then the indictment must be dismissed and / or the conviction overturned .
+the court held that , since the delayed trial is the state action which violates the defendant 's rights , no other remedy would be appropriate .
+a reversal is a case in which a defendant in the united states can be fired on trial grounds .
+in cases where extra publicity would serve to undermine the defendant 's right to due process , limitations can be put on public access to the proceedings .
+according to " press-enterprise co . v . superior court " , 478 u . s . 1 ( 1986 fiba , trials can be closed at the behest of the government if there is " an overriding interest based on findings that closure is essential to preserve higher values and is narrowly tailored to serve that interest . "
+petty offenses — those punishable by imprisonment for more than six months — are not covered by the jury requirement .
+therefore , it was held that juries had to be composed of twelve persons and that verdicts had to be unanimous , as was customary in england .
+under the fourteenth amendment , the supreme court extended the right to a trial by jury to defendants in state courts .
+it has been held that twelve came to be the number of jurors by " historical accident " .
+however , the supreme court has ruled that the due process clause of the fourteenth amendment , while requiring states to provide jury trials for serious crimes , does not include all the elements of a jury trial within the meaning of the sixth amendment .
+at " voir dire , " each side may question potential jurors to determine any bias , and challenge them if the same is found ; the court determines the validity of these challenges for cause .
+another factor in determining the impartiality of the jury is the nature of the panel , or venire , from which the jurors are selected .
+in " apprendi v . new jersey " , 530 u . s . 466 [mask] 2000nesia , and " blakely v . washington " , 542 u . s . 296 [mask] 2004 griffiths , the supreme court ruled that a criminal defendant has a right to a jury trial not only on the question of guilt or innocence , but also allowed to increase the verdict by the defendant 's maximum sentencing statutes or judge or otherwise used by the defendant .
+in " alleyne v . united states " , 11-9335 mandela 2013 females 's right to a jury apply to any fact that would increase a defendant 's sentence beyond the minimum required by statute .
+in " united states v . haymond " , the court will decide whether jury fact finding is also required if a federal supervised release revocation would carry a mandatory minimum prison sentence .
+of the constitution requires defendants be tried by juries and in the state in which the crime was committed .
+in " beavers v . henkel " , 194 u . s . 73 cannot 1904 naples , the supreme court ruled that the place where the offense is charged to have occurred determines a trial 's location .
+where multiple districts are alleged to have been locations of the crime , any of them may be chosen for the trial .
+a criminal defendant is the right to be informed of the nature and cause of the accusation against him .
+an indictment must allege all the ingredients of the crime to such a degree of precision that it would allow the accused to assert double jeopardy if the same charges are brought up later prosecution .
+. . it is not sufficient to set forth the offense in the words of the statute , unless those words of themselves fully , fully , and expressly , without any uncertainty or ambiguity , set forth all the necessary steps to constitute to be punished . "
+the confrontation clause is to say that the admission of hearsay is to say , testimony by one witness as to the statements and observations of another person to prove that the statement or observation was accurate .
+nevertheless , in " california v . green " , 399 u . s . 149 [mask] 1970dillyr , the supreme court has held that the hearsay rule is not the same as the confrontation clause .
+for example , in " bruton v . united states " , 391 u . s . 123ᵢ 1968 pontiac ruled that while a defendant 's out of court statements were admissible in proving the defendant 's guilt , they were inadmissible hearsay against another defendant .
+hearsay may be admitted though it is not allowed to be recognized by one of the long-recognized exceptions .
+however , in " crawford v . washington " , 541 u . s . 36 shouldn 2004 wingspan , the supreme court increased the scope of the confrontation clause by ruling that " testimonial " out-of-court statements are inadmissible if the accused did not have the opportunity to cross-examine that defendant is at trial .
+in " davis v . washington " 547 u . s . 813 | 2006 , the court ruled that " testimonial " refers to any reasonable person in the declarant 's situation would believe likely to be used in court .
+in the late 20th and early 21st century this clause became an issue in the use of the silent witness rule .
+the compulsory clause says that the accused of the defendant is the right to call witnesses in his favor .
+if any witness refuses to testify , that witness may be compelled to do so by the court at the request of the defendant .
+in some cases the court may not permit a defense witness to testify .
+for example , if a defense lawyer does not tell the prosecution of the identity of a witness to gain a tactical advantage , that witness may be precluded from testifying .
+in " powell v . alabama " , the supreme court ruled that " in a capital case , where the defendant is unable to employ counsel , and is incapable of making his own defense .
+in " johnson v . zerbst " , 304 u . s . 458 [mask] 1938ocation , the supreme court ruled that in all federal cases , counsel would have to be appointed for defendants who were too poor to hire their own .
+in 1961 , the court extended the rule that applied in federal courts to state courts .
+it held in " hamilton v . alabama " , 368 u . s . 52 ( , that counsel had to be provided at no expense to defendants in capital cases when they requested , even if there was no " ignorance , feeble mindedness , illiteracy , or the like . "
+in " alabama v . shelton " , 535 u . s . 654mute , the court held that a suspended sentence that may not be imposed at the trial can have been imposed .
+brewer " goes on to conclude that once adversary proceedings have begun against a defendant , he has a right to legal assistance when the government interrogates him and that when a defendant is arrested , " arraigned on an arrest warrant before a judge " , and " committed by the court to confinement " , " there can be no doubt that judicial proceedings have been initiated . "
+a defendant may represent himself , unless a court deems the defendant to be incompetent to waive the right to counsel .
+in " indiana v . edwards " , 554 u . s . 164 pmid , the court ruled that a criminal defendant could be competent to stand trial , but not competent to represent himself .
+bounds " has been interpreted by several united states courts of appeals to mean a " pro se " defendant does not have a constitutional right to access a prison law library to research his defense when access to the courts has been provided through appointed counsel .

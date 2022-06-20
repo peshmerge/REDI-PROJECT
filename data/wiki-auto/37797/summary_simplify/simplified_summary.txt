@@ -1,0 +1,42 @@
+hilbert 's paradox of the grand hotel hotel hotel hotel hilbert is a thought experiment .
+it is also seen that a hotel with infinitely many rooms may still have guests , even infinitely many of them , and this process may be repeated infinitely often .
+the idea was introduced by david hilbert in 1924 in a lecture " uber das unendliche " , reprinted in , and was popularized by george gamow 's 1947 book " one two three . infinity " .
+one might be tempted to think that the hotel would not be able to accommodate any newly arriving guests , as would be the case with a finite number of rooms , where the pigeonhole principle would apply .
+suppose a new guest arrives and wishes to be accommodated in the hotel .
+after this , room 1 is empty and the new guest can be moved into that room .
+by repeating this procedure , it is possible to make room for any finite number of new guests .
+the guest occupying room " n " to room 2 to room 2 " n " to room 2 " n "eux 2 times " n " each can be moved for the odd-numbered guests .
+for each of these methods , consider a passenger 's seat number on a coach to be formula _ 1 , and their coach number to be formula _ 2 , and the numbers formula _ 2 and formula _ 2 are then fed into the two arguments of the pairing function .
+this solution leaves certain rooms emptyements which may or may not be useful to the hotelization .
+this shows that the number of arrivals is less than or equal to " the number of vacancies created .
+it is easier to show that the number of arrivals is also " greater than or equal to " the number of vacancies , and so that they are " equal " , than to modify the algorithm to an exact fit .
+every number has a unique prime factorization , it 's easy to see all people will have a room , while no two people will end up in the same room .
+. . . . . cubic feet -lrb- ~ -rrb- , formula _ 19 naacp -lrb- u -rrb- , is a single-dimensional compound .
+compare the lengths of the lengths of the letter , and the lengths of the letter are written in any positional numeral system , such as decimal .
+if both of these are shorter , add leading zeroes to it until both values have the same number of digits .
+unlike the prime powers solution , this one fills the hotel completely .
+of course , the original encoding is arbitrary .
+this pairing function can be shown visually by structuring the hotel as a one-room-deep , infinitely tall pyramid .
+the column formed by the set of rightmost rooms will correspond to the triangular numbers .
+the rest empty rooms form the shape of a pyramid exactly identical to the original shape .
+doing this one at a time for each coach would require an infinite number of steps , but by using the prior rules , a guest can see what his room " will be " once his coach has been reached in the process , and can simply go there immediately .
+thus we have a function assigning each person to a room .
+suppose the hotel is next to an ocean , and an infinite number of car ferries arrive .
+the prime factorization method can be used by adding a new prime number for every extra layer of infinityeux .
+for example , the passenger in the second seat of the third bus on the second ferrynight would raise the 2nd odd primepment to 49 .
+if there are any number of layers of infinite guests , the hotel may wish to give rooms such that no guest will need to move , no matter how many guests arrive afterward .
+one solution is to convert each arrival 's address into a binary number .
+if there are no set of guests , then only rooms that are a power of two will be occupied .
+a room can be found for any set of nested infinities of people .
+the set of real numbers is infinite .
+if this is changed in some ways , then the set of people is countable again .
+suppose there were a large ship , directly containing a finitegement or countably infinite number of both ships and people , and each of these ships in turn contained both ships and people , and so forth .
+this time , any given person is a finite number of levels " down " from the top .
+the set of people is countable again , even if the total number of layers is infinite , because we do not have to consider an " infinitieth layer " in either direction .
+at first , this state of affairs might seem to be counter-intuitive .
+thus , while in an ordinary hotel with more than one room , the number of odd-numbered rooms is obviously smaller than the total number of rooms .
+in hilbert 's aptly named grand hotel , the number of odd-numbered rooms is not smaller than the total number of rooms .
+in mathematics , the cardinality of the subset containing the odd-numbered rooms is the same as the cardinality of all rooms .
+for setsuchable sets with the same cardinality as the natural numbers implies formula _ 1 .
+the composite set of natural numbers is the sum of the composite numbers .
+for example , the set of rational numbers is a quotient of integers .

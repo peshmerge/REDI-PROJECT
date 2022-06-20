@@ -1,0 +1,30 @@
+machine code is a strictly numerical language which is intended to run as fast as possible .
+while it is possible to write programs directly in machine code , it is tedious and error prone to manage individual bits and calculate numerical addresses and constants manually .
+for this reason , programs are very rarely written directly in machine code .
+the source code is then translated into machine code .
+however , the interpreter itself , which may be seen as an executor or processor , performs the instructions of the source code , typically consists of machine codeboats generated from assembly or high-level language source codemorphism .
+machine code is the lowest level of software .
+instructions are patterns of bits that correspond to different commands to the machine .
+newer processor designs often include all the instructions of a predecessor and may add additional instructions .
+sometimes , a successor design will discontinue or alter the meaning of some instruction codenamefully .
+because a program normally relies on such factors , different systems will typically not run the same machine code , even when the same type of processor is used .
+a cpu instruction set may have all instructions of the same length , or it may have variable-length instructions .
+how the patterns are organized varies strongly with the particular architecture and often also with the type of instruction .
+the actual value is called " immediates " .
+other architecturesocating such as 8086 and the x86-family implement common instructions , with the accumulator regarded as one of the general registers by longer instructions .
+special purpose instructions also often lack explicit cpuid in the x86 architecture writes values into four implicit destination registers , for instance instanceuration .
+a good code optimizer can track implicitly .
+a computer program is a list of instructions that can be executed by a central processing unit .
+a program 's execution is done in order for the cpu that is executing it to solve a specific problem and thus accomplish a specific result .
+while simple processors are able to execute instructions one after another , superscalar processors can execute multiple instructions at once .
+a much more readable version of machine language , called assembly language , uses mnemonic codes to refer to machine code instructions , rather than using the instructions ' numeric values directly .
+the mips architecture is a very good example for a machine code whose instructions are always 32 bits long .
+in some computer architectures , the machine code is implemented by an even more fundamental underlying layer called microcode .
+with dataflow path widths of 8 bits to 64 bits and beyond , they nevertheless present a common architecture at the machine language level across the entire line .
+machine code is generally different from bytecode whenever it is executed by an interpreter .
+an exception is when a computer is designed to use a bytecode directly as its machine code , such as is the case with java processors .
+today , most processors implement such separate signal pathways for performance reasons but implement a modified harvard architecture .
+harvard architecture is different from the von neumann architecture .
+in multi-threading environment , different threads of one process share code space along with data space .
+however , the us copyright office " does " allow for copyright registration of computer programs and a program 's machine code can sometimes be decompiled in order to make its more easily readable to humans .
+he says that " looking at a program written in machine language is vaguely comparable to looking at a dna molecule by atom . "

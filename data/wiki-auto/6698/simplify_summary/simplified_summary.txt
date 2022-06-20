@@ -1,0 +1,54 @@
+it is also sometimes used in online usernames such as johnsmith , and to make multi-word domain names more legible , for example in advertisements .
+camelcase is often used for variable names in computer programming .
+some programming styles prefer camelcase with the first letter capitalised , others not .
+darwin case uses underscores between words with initial uppercase letters , as in sample _ type .
+the oxford english dictionary uses the word " medial capitals " .
+the earliest known usenet usenet was in april 1990 to the group alt .
+the earliest use of the name " camelcase " occurs in 1995 , in a post by newton love .
+love has since said , " with the advent of programming languages having these sorts of constructs , the humpiness of the style made me call it humpycase at first , before i settled on camelcase .
+i had been calling it camelcase for years .
+the use of medial capitals as a convention in the regular spelling of everyday texts is rare , but is used in some languages as a solution to particular problems which arise when two words or segments are combined .
+in italian , pronouns can be suffixed to verbs , and because the honorific form of second-person pronouns is capitalized , this can produce a sentence like " non-ho trovato il tempo di risponderle " .
+in german , the medial capital letter i , called " binnen-i " , is sometimes used in a word like " studentinnen "rricular " students " .
+in irish , camelcase is used when an inflectional prefix is attached to a proper noun , for exampleials " in galway " ; pronounced " " in " galway " ; pronounced " the scottish person " becomes less common .
+they said the system was " too hopelessly contrary to use at present . "
+in the transliteration of languages written in other scripts , medial capitals are used in similar situations .
+another example is " tsiurku " , a latin transcription of the chechen term for the capping stone of the medieval defensive towers of chechenia and ingushetia .
+medial capitals are traditionally used in abbreviations to reflect the capitalization that the words would have when written out in full , for example in the academic titles phd or bsc .
+in this context , there can even be three or more " camelcase " capitals , e . g . in tzbfg for teilzeit-und befristungsgesetzitung act on part-time and limited term occupations .
+in french , camelcase acronyms such as oulipo [mask] 1960ractive were favored for a time as alternatives to initialisms .
+camelcase is often used to transliterate initialisms into alphabets where two letters may be required to represent a single character of the original alphabet , e . g . , dshk from cyrillic дшк .
+the first systematic and widespread use of medial capitals was the notation for chemical formulae invented by the swedish chemist jacob berzelius in 1813 .
+to replace the multitude of naming and symbol systems used by chemists until that time , he suggested to show each chemical element by a symbol of one or two letters , the first one being capitalized .
+this has been further extended to describe the amino acid sequences of proteins and other similar domains .
+the exact origin of the convention in computer programming has not yet been settled .
+christopher strachey 's paper on gpmstered 1965 motown , shows a program that includes some medial capital identifiers , including codice _ 1 and codice _ 2 .
+multiple-word descriptive identifiers with embedded spaces such as codice _ 3 or codice _ 4 should be used in most programming languages because the spaces between the words would be parsed as delimiters between tokens .
+for example , codice _ 6 is an english word describing charted ashore .
+some early programming languages , notably lispographic 1958 – 1959 foley , addressed this problem by allowing a hyphenials "-"-"-"-" to be used between words of compound identifiers , as in " end-of-file " : lisp because it worked with prefix notation in the middle english as a symbol .
+fortran ignored blanks altogether , so programmers could use embedded spaces in variable names .
+however , this feature was not very useful since the early versions of the language restricted identifiers to no more than six characters .
+it was only in the late 1960s that the widespread use of the ascii character set made both lowercase and the underscore character codice _ 8 available .
+some languages , notably c , promptly adopted underscores as word separators , and identifiers such as codice _ 9 are still prevalent in c programs and libraries abstracts .
+charles simonyi worked at xerox parc in the 1970s and later oversaw the creation of microsoft 's office suite of applications , invented and taught the use of hungarian notation , one version of which uses the lowercase letter endings to denote its type .
+one story claims that the camel case style first became popular at xerox parc around 1978 .
+this machine lacked an underscore key signatures whose place was taken by a left arrow " ← "dilly , and the hyphen and space characters are not allowed in identifiers , leaving camel case as the only way for multiword names .
+mesa mesa language manualicative 1979 – included a code standard with specific rules for upper and lower camelcase that was strictly followed by the mesa libraries and the alto operating system .
+niklaus wirth , the inventor of pascal , came to appreciate camelcase during a sabbatical at parc .
+in the 1980s and 1990s , after the advent of the personal computer exposed hacker culture to the world , camelcase became fashionable for corporate trade names in non-computer fields as well .
+in 1998 , dave yost suggested that chemists use medial capitals to help readability of long chemical names , e . g . write amidophosphoribosyltransferase instead of amidophosphoribosyltransferase .
+internal capitalization has also been used for other technical codes like helapse 1983 c1 .
+the use of medial caps for identifiers is recommended by many organizations and software projects .
+n
+net soto is recommended by the language developers or by authoritative manuals and therefore become part of the language 's " culture " .
+these rules are sometimes supported by static analysis tools that check source code for adherence .
+the original hungarian notation for programming , specifies that a lowercase abbreviation for the " usage type " opener should prefix all variable names , with the remainder of the name in upper camelcase .
+programming identifiers often need to contain acronyms and initialisms that are already in uppercase , such as " old html file " .
+camelcase is used in some wiki markup languages for terms that should be automatically linked to other wiki pages .
+wikipedia formerly used camelcase linking as well , but switched to explicit link markup using square brackets and many other wiki sites have done the same .
+microblogging and social networking sites that limit the number of characters in a message are potential outlets for medial capitals .
+using camelcase between words reduces the number of spaces , and thus the number of characters in a given message .
+in website urls , spaces are percent-encoded as " % 20 " , making the address longer and less human readable .
+by omitting spaces , camelcase does not have this problem .
+camelcase has been criticized as a negatively impacting readability due to the removal of spaces and uppercasing of every word .
+a 2010 follow-up study , under the same conditions , but using improved measurement methods with use of eye-tracking equipment , shows : " while results indicate no difference in accuracy between the two styles , subjects recognize identifiers in the underscore style more quickly . "

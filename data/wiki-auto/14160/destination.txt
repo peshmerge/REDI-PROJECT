@@ -1,0 +1,10 @@
+Hexameter is a metrical line of verse.
+It is usually made of six parts, called feet.
+It is the standard verse form used in Ancient Greek and Latin literature.
+The Iliad and Aeneid use it, and so do Ovid's Metamorphoses.
+The meter consists of lines made from six ("hex") feet.
+In strict dactylic hexameter, each of these feet would be a dactyl, but classical meter allows for the substitution of a spondee (two long syllables) in place of a dactyl in most positions.
+Specifically, the first four feet can either be dactyls or spondees more or less freely.
+The fifth foot is frequently a dactyl (around 95% of the time in Homer).
+Because of the strong pause at the end of the line, it is traditionally regarded as a spondee.
+As in all classical verse forms, the last syllable can actually be short or long.

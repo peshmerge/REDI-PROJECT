@@ -1,0 +1,160 @@
+Colossus was the world's first programmable electronic digital computer.
+British code breakers used Colossus for cryptanalysis during World War II.
+These messages were sent between the German High Command, and army field commanders.
+Reading these messages helped the Allies to win the war.
+Codebreaker Max Newman worked at the Government Code and Cypher School (GC&CS) at Bletchley Park.
+His problem was how to get a machine that would help turn German coded radio teleprinter messages into ordinary language.
+A group of Post Office telephone engineers led by Tommy Flowers worked out how to do this.
+Their design, which was called "Colossus" used many vacuum tubes (valves).
+The first machine, Mark 1, worked in December 1943 and solved its first problem in February 1944.
+Colossus Mark 2 was even better.
+It first worked on 1 June 1944, just before the Normandy Landings on D-Day.
+Ten Colossus computers were in use at the end of the war.
+British codebreakers called the teleprinter messages "Fish".
+The messages had been coded by an unknown German machine.
+They called the machine and its coded messages "Tunny".
+Colossus imitated the machine and read the coded message from a punched tape.
+It tried various possibilities of how two of the wheels had been set up.
+When Colossus found likely settings for two wheels, the codebreaker designed further programs for Colossus until likely settings of other wheels were found.
+Colossus did not perform all of the decoding process.
+It just found likely settings of the machine.
+The output from Colossus was then worked on by people who had a very good knowledge of the German language.
+After the war the British codebreakers found out that the code machine was the Lorenz SZ42.
+All the secret Colossus computers were taken to pieces, so that no one would find out about them.
+The designs were destroyed.
+For thirty years no one knew who made them.
+Between the early 1990s and 2007, a working copy of a Colossus computer was built.
+This can be seen at The National Museum of Computing at Bletchley Park in England.
+Regular radio transmissions of "Tunny" messages started in June 1941.
+The British codebreakers saw that it used a five-unit code like a teleprinter system.
+Their research also showed that the coding was being done by a rotor cipher machine with 12 wheels (rotors).
+For each new message sent, the wheels had first to be turned to new positions.
+The start position for the message was chosen by the operator who was sending the message.
+He told the operator who was receiving the message what the start positions were with 12 letters that were not coded.
+The total number of possible start positions of the 12 wheels was very large indeed.
+The coding machine added together the "plaintext" (the un-coded version of the message) and a stream of characters (letters, numbers, punctuation) called the "keystream" (a stream of seemingly random characters) that it generated to make the "ciphertext" (the coded version of the message).
+The ciphertext, which made no sense, was transmitted by radio.
+At the receiving end an identical machine removed the keystream to produce the plaintext of the message.
+If the German operators always worked correctly, no two messages would have the same start position of the wheels.
+However, mistakes were made.
+They helped the British codebreakers.
+On 30 August 1941 two versions of the same message, which was nearly 4,000 characters long, were sent with the same wheel start positions.
+This mistake was very useful to the research codebreakers.
+A codebreaker called John Tiltman was able to get the keystream from these messages.
+The codebreakers tried to work out the details of the machine from this information, but at first they failed.
+They were then joined by a young codebreaker called Bill Tutte who was given the job.
+After a lot of work he succeeded, and produced a logical description of the unseen machine.
+This work has been described as "the greatest intellectual achievement of world war II".
+Tutte worked out that the machine made each keystream character by combining the effects of two sets of five wheels.
+He used Greek letters to name the wheels.
+He called one set of five the χ ("chi") wheels, and the other set of five the ψ ("psi") wheels.
+He worked out that the χ wheels moved on one position for each new character coded.
+The ψ wheels, however, did not move regularly.
+They only moved on some of the time.
+Whether or not the ψ wheels moved on was controlled by two wheels that he called two the μ ("mu") or "motor wheels".
+Max Newman was a mathematician and codebreaker at Bletchley Park.
+He was given the job of working out how a machine could break "Tunny" messages.
+The machine would do a calculation for many possible start positions of the χ wheels.
+The start position that gave the largest count from this calculation was likely to be the right one.
+The first machine was called "Heath Robinson".
+This did not work very well.
+It had two punched paper tapes that had to work exactly together.
+One tape contained the ciphertext in a continuous loop.
+The second looped tape contained patterns made by the wheels of the coding machine.
+The tapes would often stretch or break when going at 2000 characters each second.
+Sometimes the tapes would not line up; then the counts were wrong.
+Tommy Flowers worked at the Post Office Research Station at Dollis Hill in north-west London.
+He was asked to look at the Heath Robinson machine.
+He thought it was a weak machine.
+He designed an electronic machine to do the same job.
+It would make the patterns of the coding machine by electronics so that only one paper tape was needed.
+In February 1943 he showed Max Newman this design.
+The design needed 1,500 thermionic valves (vacuum tubes).
+Few people thought that so many valves could work without a lot failing.
+More Heath Robinson machines were ordered.
+Flowers, however, kept with the idea of an electronic machine.
+He got support from the person in charge of the Post Office Research Station who was called Gordon Radley.
+Tommy Flowers and his team started work on Colossus in February 1943.
+The tape with the message on it had to be read at speed.
+Tommy Flowers tested the tape reader up to 9,700 letters/second (53 mph) before the tape broke.
+He selected 5,000 characters each second as a good speed for regular work.
+This meant that the paper tape moved at 40 ft/s or 27.3 mph.
+The electronic circuits were driven by a signal made from reading the sprocket holes of the punched tape.
+The first Colossus worked at Dollis Hill in December 1943.
+Then they took Colossus apart and moved it to Bletchley Park.
+It got there on 18 January 1944.
+Harry Fensom and Don Horwood put it back together.
+Colossus read its first message on the 5th of February.
+After the first Colossus (Mark 1) there were nine Mark 2 machines.
+These each had 2,400 valves.
+They were easier to use.
+They could be programmed to work at five times the speed of the Mark 1.
+A Mark 2 Colossus first worked on 1 June 1944.
+At first Colossus was only used to find the starting wheel places used for a message (called "wheel setting").
+Codebreakers worked out how to use the Mark 2 to help find the patterns of the cams on the wheels ("wheel breaking").
+At the end of the war there were ten Colossus computers working at Bletchley Park.
+This meant that very many messages were decoded.
+Colossus used parts that were new back then.
+It used vacuum tubes, thyratrons and photomultipliers.
+It read from paper with light.
+It then did a special thing for every letter; the special thing could be changed.
+It counted how often this special thing was "true".
+Machines with many vacuum tubes were known to break a lot.
+They break most when turning on, so the Colossus machines were only turned off when a part broke.
+Colossus was the first of the electronic digital machines that could have a program.
+It was not a Turing-complete computer, even though Alan Turing was at Bletchley Park.
+This idea had not yet been thought of, and most of the other early modern computing machines were not Turing-complete (like: the Atanasoff–Berry Computer, the Harvard Mark I electro-mechanical relay machine, the Bell Labs relay machines by George Stibitz and others, or the first plans of Konrad Zuse).
+It took a long time for computers be used for many uses, instead of just a calculator only for working out one hard problem.
+What the Colossus computers were used for was very secret.
+The Colossus itself was highly secret even for many years after the War.
+This is why Colossus could not be included in the history of computing hardware for a long time.
+Nobody knew how important that Flowers and the other people who helped make it were.
+Not many people knew about this secret computer, so it had little direct effect on the new design of later computers; EDVAC was the early design which had the most effect on later computer design.
+Once Colossus was made, some people now knew that high-speed electronic (no moving parts like electrical relays) digital computing devices could be made and they did not break too much.
+Just this knowledge was enough to have a big effect on the designs of early computers in Britain and probably in the US.
+People who knew about Colossus were important in the early computer field in Britain.
+Britain had such vitality (energy or drive) that it could right after the war start so many well-planned and well-done projects in the computer field.
+In writing that, Goldstine did not know of Colossus.
+He did not know what it left to projects of people who knew about it.
+People such as Alan Turing (with the Pilot ACE and ACE), and Max Newman and I. J. Good (with the Manchester Mark 1 and other early Manchester computers).
+the COLOSSUS project was an important source of this vitality (energy or drive), one that has not been well understood or known, as has the importance of its places in the time line of the invention of the digital computer.
+Colossus plans and machinery were secret from the when they were made.
+They stayed so after the War, when Winston Churchill ordered the destruction of most of the Colossus machines into "parts no bigger than a man's hand"; Tommy Flowers himself burned the designs in a fireplace at Dollis Hill.
+Some parts, changed to look innocent, were taken to Newman's Royal Society Computing Machine Laboratory at Manchester University.
+The Colossus Mark 1 was taken apart and the parts were sent back to the Post Office.
+Two Colossus computers, along with two copied Tunny machines, were kept.
+They were moved to GCHQ's new head office at Eastcote in April 1946.
+They moved again with GCHQ to Cheltenham between 1952 and 1954.
+One of the computers, known as "Colossus Blue", was taken apart in 1959; the other in 1960.
+In their later years, the computers were used for training.
+Before that, there had been attempts to change them (sometimes well) for other purposes.
+Jack Good was the first to use it after the war, getting NSA to use Colossus to do something for which they were planning to build a special purpose machine.
+Colossus was also used to perform letter counts on one-time pad tape to test for non-randomness.
+At this time the Colossus was still secret, long after any of its technical details were of any importance.
+This was due to the UK's intelligence agencies use of Enigma-like machines which they got other governments to buy.
+The agencies then broke the codes using different ways.
+Had the knowledge of the codebreaking machines been widely known, no one would have accepted these machines; rather, they would have developed their own methods for encryption, methods that the UK services might not have been able to break.
+The need for such secrets slowly went away as communications moved to digital transmission and all-digital encryption systems became common in the 1960s.
+Colonel Winterbotham's book "The Ultra Secret" came out in 1975.
+This broke the secrecy around the Colossus.
+After that, details about the computer began to become public in the late 1970s.
+A 500-page technical report on the Tunny cipher and its code breaking – entitled "General Report on Tunny" – was given by GCHQ to the national Public Record Office in October 2000; the complete technical report is online.
+A team led by Tony Sale built a working copy of a Colossus Mark 2.
+The plans and machines had been destroyed, but a surprising amount of other material was not destroyed.
+It was mostly in engineers' notebooks, much of it in the U.S.
+The optical tape reader might have been the biggest problem, but Dr. Arnold Lynch, its designer, was able to redesign it from his own first writings.
+The rebuilt Colossus is on show at The National Museum of Computing, in H Block Bletchley Park in Milton Keynes, Buckinghamshire.
+This is where the Colossus No. 9 was used in the war.
+In November 2007, to mark both the end of the work and the start of fundraising (asking for money) they ran a competition.
+The money would help The National Museum of Computing with a Cipher Competition where the rebuilt Colossus competed with radio amateurs all around the world.
+The first to hear and decode three messages enciphered would win.
+They would be enciphered using the Lorenz SZ42 and transmitted from the radio station in the "Heinz Nixdorf MuseumsForum" computer museum in Germany.
+The competition was easily won by radio amateur Joachim Schüth.
+Schüth had gotten ready for the event.
+He made his own signal processing and code-breaking program using Ada.
+The Colossus team lost because they wanted to use World War II radios.
+They were a day late because of bad radio conditions.
+The winner's 1.4 GHz laptop, running his own program, took less than a minute to find the settings for all 12 wheels.
+The German codebreaker said: "My laptop worked on ciphertext at a speed of 1.2 million letters per second—240x faster than Colossus.
+If you compare the two computers, you could say Colossus had a speed of 5.8 MHz.
+That is very fast for a computer built in 1944."

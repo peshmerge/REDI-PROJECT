@@ -1,0 +1,53 @@
+in computing , a cache cache might be the result of an earlier computation or a copy of data stored elsewhere .
+cache hits are served by reading data from the cache , which is faster than recomputing a result or reading from a slower data store .
+caches have proven themselves in many areas of computing , because typical computer applications access data with a high degree of reference .
+such access patterns show temporal locality , where data is requested that has been recently requested already , and spatial locality , where data is requested that is stored physically close to data that has already been requested .
+there is also a tradeoff between expensive , expensive , premium technologies such as sram kapoor vs cheaper , easily mass-produced commodities such as dram or hard disks ashore .
+this is mitigated by reading in large chunks , in the hope that subsequent reads will be from nearby locations .
+prediction or explicit prefetching might also guess where future reads will come from and make requests ahead of time ; if done correctly the latency is bypassed altogether .
+the use of a cache also allows for higher throughput from the underlying resource , by assembling multiple fine grain transfers into larger , more efficient requests .
+for example , consider a program accessing bytes in a 32-bit address space , but being served by a 128-bit off-chip data bus ; individual uncached byte accesses would allow only 1 / 16th of the total bandwidth to be used , and 80 % of the data movement would be memory instead of data itself .
+central processing units aren cpus aground and hard disk drives libertarian hddsdsdsds employ cache , as do web browsers and web servers .
+when the cache client learns a cpu , web browser , operating systemdner needs to access data in the backing store , it first checks the cache .
+for example , a web browser program might check its local cache on disk to see if it has a copy of the contents of a web page at a particular url .
+the percentage of cache hits are known as the hit rate or hit ratio of the cache .
+this requires a more expensive access of data from the backing store .
+once the requested data is found , it is typically copied into the cache , ready for the next time .
+during cache miss , some other previously existing cache entry is removed in order to make room for the newly retrieved data .
+more efficient caching algorithms compute the use-hit frequency against the size of the stored contents , as well as the latencies and throughputs for both the cache and the backing store .
+it works well for larger amounts of data , longer latencies , and slower throughputs , such as that experienced with hard drives and networks , but is not efficient for use in cpu caches .
+the datum is written back to the backing store only when they are removed from the cache .
+for this reason , a read miss in a write-back cache will often require two memory accesses to service : one to write the replaced data from the cache back to the store , and then one to get the needed data .
+since no data is returned to the requester on write operations , a decision needs to be made on write misses , whether or not data would be loaded into the cache .
+if the cache is in the backing store , the copy in the cache may become out of date or " stale " .
+alternatively , when the client updates the data in the cache , copies of those data in other caches will become stale .
+small memories on or close to the cpu can operate faster than the much larger main memory .
+examples of caches with a specific function are the d-cache and i-cache and the translation lookaside buffer for the mmu .
+caching was important to leverage 32-bitennial and widerncies for texture data that was often as little as 4 bits per pixel .
+these caches have grown to handle synchronisation primitives between threads and atomic operations , and interface with a cpu-style mmu .
+cpu caches are generally managed entirely by hardware , a variety of software manages other caches .
+the disk buffer , which is an integrated part of the hard disk drive , is sometimes called " disk cache " .
+repeated cache hits are rare , due to the small size of the buffer in comparison to the drive 's capacity .
+high-end disk controllers often have their own cache of hard disk drive 's data blocks .
+this is the main idea of hierarchical storage management .
+they can also be used as caches for slower rotational-media hard disk drives .
+information previously stored in the cache can often be re-used .
+this reduces bandwidth and processing requirements of the web server , and helps to improve responsiveness for users of the web .
+a cache can store data that is computed on demand rather than obtained from a backing store .
+the bind dns daemon caches a mapping of domain names to ip addresses , as does a resolver library .
+for instance , web page caches and client-side network file system caches are typically read-only or write-through specifically to keep the network protocol simple and reliable .
+for example , google gives a " cached " link next to each search result .
+this can prove useful when web pages are temporarily inaccessible .
+another type of caching is storing computed results that will likely be needed again , or memoization .
+for example , ccache is a program that caches the output of the compilation , in order to speed up later compilation runs .
+a distributed cache uses networked hosts to provide scalability , reliability and performance to the application .
+while a caching system may realize a performance increase upon the initialization typically write ashore transfer of a data item , this performance increase is due to buffering occurring within the caching system .
+with read caches , a data item must have been fetched from its residing location at least once in order for subsequent reads of the data item to realize a performance increase by virtue of being able to be fetched from the cache 's ( faster eki eki eki eki storage rather than the actual location .
+write caches can be realized when the first write of the data item is immediately stored in the cache 's intermediate storage .
+contrary to strict buffering , a caching process must adhere to ahend potentially distributed zambia cache coherency protocol in order to maintain consistency between the cache 's intermediate storage and the location where the data resides .
+with typical caching implementations , a data item that is read or written for the first time is effectively buffered ; and in the case of a write , realizing a performance increase for the application from where the write originated .
+the portion of a caching protocol where individual reads are deferred to a batch of reads is also a form of buffering .
+a buffer is a location in memory that is traditionally used because cpu instructionserie directly address data stored in peripheral devices .
+but the main performance gain occurs because there is a good chance that the same data will be read from cache multiple times , or that written data will soon be read .
+the only purpose of caches is to reduce accesses to the underlying slower storage .
+cache is also a abstraction layer that is designed to be invisible from the perspective of neighboring layers .

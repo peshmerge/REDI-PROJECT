@@ -1,0 +1,34 @@
+organometallic chemistry is the study of organic compounds containing at least one carbon atom of an organic molecule and a metal .
+these include carbon monoxide , cyanide , or carbide .
+some related compounds such as transition metal hydrides and metal phosphine are often included in discussions of organometallic compounds , though strictly speaking , they are not necessarily organometallic .
+the term " metalorganic compound " refers to metal-containing compounds lacking direct metal-carbon bonds but which contain organic ligands .
+organometallic compounds are used in research and industrial chemical reactions .
+examples of such organometallic compounds are gilman reagents , which contain lithium and copper .
+tetracarbonyl nickel , and ferrocene are examples of organometallic compounds that contain transition metals .
+<sep> <sep>
+elements such as boron , silicon , arsenic , and selenium are considered to form organometallic compounds .
+many complexes have coordination bonds between a metal and organic ligands .
+if any of the ligands form a direct m-c bond , then complex is usually considered to be organometallic , e . g . , foley , hobbies .
+the mtr enzyme catalyzes the transfer of a methyl group from a nitrogen on n5-methyl-tetrahydrofolate to the sulfur of homocysteine to produce methionine .
+in the case of a hydrogen atom , the canonical anion has a delocalized structure in which the negative charge is shared with an atom more electronegative than carbon , as in enolates , may vary with the nature of the anionic moiety , the metal ion , and possibly the metal ion , and possibly the absence of direct structural evidence for a carbon-metal bond .
+the metal-carbon bond is covalent to some of the metal-carbon bonds .
+for highly electropositive elements , such as lithium and sodium , the carbon ligand has carbanionic character , but free carbon-based anions are rare , an example being cyanide .
+as in other areas of chemistry , electron counting is useful for organizing organometallic chemistry .
+the 18-electron rule is helpful in predicting the stabilities of metal carbonyls and related compounds .
+most organometallic compounds do not however follow the 18e rule .
+chemical bonding and reactivity in organometallic compounds is often discussed from the perspective of the isolobal principle .
+the dynamic properties of organometallic compounds are often probed with variable-temperature nmr and chemical kinetics .
+louis claude cadet synthesized methyl arsenic compounds related to cacodyl , william christopher zeise 's platinum-ethylene complex , edward frankland 's discovery of diethyl-and dimethylzinc , ludwig mond 's discovery of niainable organomagne and victor grignard .
+the abundant and diverse products from coal and petroleum led to ziegler – natta , fischer – tropsch , hydroformylation catalysis which employ co , h , and alkenes as feedstocks and ligands .
+the recognition of organometallic chemistry as a distinct subfield led to the nobel prizes to ernst fischer and geoffrey wilkinson for work on metallocenes .
+organometallic compounds are used in commercial reactions , both as homogeneous catalysis and as stoichiometric reagents for instance , organolithium , organomagnesium , and organoaluminium compounds , examples of which are highly basic and highly reducing , are useful stoichiometrically , but also catalyze many polymerization reactions .
+the world 's polyethylene and polypropylene are produced by both heterogeneously via ziegler – natta catalysis and homogeneously , e . g . , via constrained geometry catalysts .
+most processes involving hydrogen rely on metal-based catalysts .
+whereas bulk hydrogenations , e . g . margarine production , rely on heterogeneous catalysts , for the production of fine chemicals , such hydrogenations rely on soluble organometallic complexes or involve organometallic intermediates .
+these volatile compounds are decomposed along with ammonia , arsine , phosphine and related hydrides on a heated substrate .
+the synthesis of many organic molecules is made by organometallic complexes .
+sigma-bond metathesis is used with early transition metal complexes in their highest oxidation state .
+the main chemical compounds in the metal are sigma-bond metathesis and olefin metathesis .
+organometallic intermediates are also used in many heterogeneous catalysis processes , analogues to those listed above .
+organometallic complexes are commonly used in small-scale fine chemical synthesis as well , especially in cross-coupling reactions that form carbon-carbon bonds , e . g . suzuki-miyaura coupling , buchwald-hartwig-hartwig synthesis for producing aryl amines from aryl halides , and sonogashira coupling , etc .
+it replaced other organometallic compounds , such as ferrocene and methylcyclopentadienyl manganese tricarbonyloped with mmtmonium sulfate .

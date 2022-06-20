@@ -1,0 +1,57 @@
+nucleophile is a species of nucleophile .
+all molecules or ions with a free pair of electrons or at least one pi bond can act as nucleophiles .
+because nucleophiles donate electrons , they are by definition lewis bases .
+nucleophilic describes the affinity of a nucleophile to the nuclei .
+nucleophilicity is a substance 's nucleophilic character and is often used to compare atoms .
+neutral nucleophilic reactions with solvents such as alcohols and water are named " solvolysis " .
+nucleophiles may take part in nucleophilic substitution .
+christopher kelk ingold first used the terms " anionoidoidoid " and " cationoid " .
+nucleophile is a word that comes from nucleus and the greek word φιλος , meaning " love " .
+in a row across the periodic table , the more basic the ionizes the pk of the conjugate acid .
+within a series of nucleophiles with the same attacking element .
+sulfur is a better nucleophile than oxygen .
+many schemes try to quantify relative nucleophilic strength have been devised .
+the following empirical data have been obtained by measuring reaction rates for a large number of reactions involving a large number of nucleophiles and electrophiles .
+nucleophiles displaying the so-called alpha effect are usually omitted in this type of treatment .
+the first order reaction rate is called " k " , of a reaction with water as the nucleophile , to a nucleophilic constant " n " for a given nucleophile defined nucleophile .
+acetate 2.7 , chloride 3.0 , azide 4.0 , hydroxide 4.2 , aniline 4.5 , iodide 5.0 , and thiosulfate 6.4 .
+typical substrate constants are 0.66 for ethyl tosylate , 0.77 for β-propiolactone , 1.00 for 2,3-epoxypropanol , 0.87 for benzyl chloride , and 1.43 for benzoyl chloride .
+the azide anion reacts 3 times faster than water .
+where formula _ 3 is the nucleophile dependent parameter and formula _ 3 the reaction rate constant for water .
+in this equation , a substrate-dependent parameter like s in the swain-scott equation is absent .
+the equation states that two nucleophiles react with the same relative reactivity regardless of the nature of the electrophile , which is in violation of the reactivity – selectivity principle .
+for this reason , this equation is also called the " constant selectivity relationship " .
+or suzanne not displayed gazes ions based on malachite green .
+many other types of reaction have been described .
+ritchie n values ( in methanol are : 0.5 for methanol , 5.9 for the cyanide anion , 7.5 for the methoxide anion , 8.5 for the azide anion , and 10.7 for the thiophenol anion .
+the values for the relative cation reactivities are −0.4 for the malachite green cation , + 2.6 for the benzenediazonium cation , and + 4.5 for the tropylium cation .
+the second order reaction rate constant " k " at 20 gdansk for a reaction is related to a nucleophilicity parameter " n " , an electrophilic parameter " e " , and a nucleophile-dependent slope parameter " s " .
+the constant " s " is defined as 1 with 2-methyl-1-pentene as the nucleophile .
+typical e values are + 6.2 for r = chlorine , + 5.90 for r = hydrogen , 0 for r = methoxy and-7.02 for r = dimethylamine .
+typical n values with s in parenthesis are-4.47 couldn for electrophilic aromatic substitution toluenecise 1.32 foley foley .
+for example , the sample value of the sample sample sample is 10.49 ( 0.68zong for methoxide , and 5.89zong for water .
+in short , nucleophilicities towards sp or sp centers follow the same pattern .
+with s the electrophile-dependent slope parameter and s the nucleophile-dependent slope parameter .
+examples of nucleophiles are cl , or a compound with a lone pair of electrons .
+in the example below , the oxygen of the hydroxide ion donates an electron pair to form a new chemical bond with the carbon at the end of the bromopropane molecule .
+the bond between the carbon and the bromine then undergoes heterolytic fission , with the bromine atom taking the donated electron and becoming the bromide ionised briology .
+it attacks the carbon atom from the other side .
+because of this backside attack , s2 reactions result in a reversal of the configuration of the electrophile .
+if the electrophile is chiral , it typically keeps its chirality .
+an ambident nucleophile is a nucleophile that can attack from two or more places , resulting in two or more products .
+for example , the thiocyanate ionials may attack from either the s or the n .
+for this reason , the s2 reaction of an alkyl halide with scn often leads to a mixture of an alkyl thiocyanate reacts r-scn edmond and an alkyl isothiocyanateloid r-ncs .
+similar mixtures will happen in the kolbe nitrile synthesis .
+while the halogens aren ' t nucleophilic in their diatomic formocation e . g . i is not a nucleophile burkina faso .
+in polar , protic solvents , f is the weakest nucleophile , and i the strongest .
+carbon nucleophiles are reagents such as those found in the grignard reaction , blaise reaction , reformatsky reaction , and barbier reaction or reactions involving organolithium reagents and acetylides .
+these reagents are often used to perform nucleophilic additions .
+enols are also carbon nucleophiles .
+the enol is catalyzed by acid or base .
+enols are ambident nucleophiles , but , in general , nucleophilic at the alpha carbon atom .
+enols are used in condensation reactions .
+examples of oxygen nucleophiles are water cupping , hydroxide anion , alcohols , alkoxide anions , hydrogen peroxide , and carboxylate anions .
+nucleophilic attack does not happen during intermolecular hydrogen bonding .
+of sulfur nucleophiles , hydrogen sulfide and its salts , thiols reacts with the thiols at the end of the season , and anions of dithiocarbonates roocardirdirdi-c-c -rrb- are often used .
+in general , sulfur is very nucleophilic because of its large size .
+nitrogen nucleophiles include ammonia , azide , amines , nitrites , hydroxylamine , hydrazine , carbazide , phenylhydrazine , and amide .

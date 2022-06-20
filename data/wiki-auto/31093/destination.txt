@@ -1,0 +1,8 @@
+The ACM A.M. Turing Award is an annual prize given by the Association for Computing Machinery (ACM) to "an individual selected for contributions of a technical nature made to the computing community".
+It is named after Alan Turing and is given each year in New York City.
+It is the highest award that could be given to a computer scientist.
+and the "Nobel Prize of computing".
+The first Turing Award was given in 1966 to Alan Perlis, a teacher at Carnegie Mellon University.
+It has been given every year since.
+The first recipient, in 1966, was Alan Perlis, of Carnegie Mellon University.
+Frances E. Allen of IBM, in 2006, was the first female recipient in the award's forty-year history.

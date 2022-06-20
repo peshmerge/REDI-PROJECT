@@ -1,0 +1,43 @@
+A tuning fork is a sound resonator which is a two-pronged fork.
+The prongs, called tines, are made from a U-shaped bar of metal (usually steel).
+This bar of metal can move freely.
+It resonates at a specific constant pitch when set vibrating by striking it against an object.
+It sounds a pure musical tone after waiting a moment to allow some high overtone sounds to die out.
+The pitch depends on the length of the two prongs.
+Its main use is as a standard of pitch to tune other musical instruments, and in some tests of hearing.
+The tuning fork was invented in 1711 by British musician John Shore.
+He was the Sergeant Trumpeter to the court, who had musical parts written for him by the composers George Frideric Handel and Henry Purcell.
+The fork shape produces a very pure tone.
+Most of the vibrational energy is at the fundamental frequency, with very few overtones (harmonics).
+This is not the case with other resonators.
+The reason for this is that the frequency of the first overtone is about 5/2 = 25/4 = 61⁄4 times the fundamental (about 21⁄2 octaves above it).
+By comparison, the first overtone of a vibrating string is only one octave above the fundamental.
+So when the fork is struck, little of the energy goes into the overtone modes; they also die out correspondingly faster, leaving the fundamental.
+It is easier to tune other instruments with this pure tone, when listening to compare with the tone of each other instrument.
+Another reason for using the fork shape is that, when it vibrates in its principal mode, the handle vibrates up and down as the prongs move apart and together.
+There is a node (point of no vibration) at the base of each prong.
+The handle motion is small, allowing the fork to be held by the handle without damping the vibration, but it allows the handle to transmit the vibration to a resonator (like the hollow rectangular box often used), which amplifies the sound of the fork.
+Without the resonator (which may be as simple as a table top to which the handle is pressed), the sound is very faint.
+The reason for this is that the sound waves produced by each fork prong are 180° out of phase with the other, so at a distance from the fork they interfere and largely cancel each other out.
+If a sound absorbing sheet is slid in between the prongs of a vibrating fork, reducing the waves reaching the ear from one prong, the volume heard will actually increase, due to a reduction of this cancellation.
+Commercial tuning forks are normally tuned to the correct pitch at the factory, but they can be retuned by filing material off the prongs.
+Filing the ends of the prongs raises the pitch, while filing the inside of the base of the prongs lowers it.
+The most common tuning fork sounds the note of A = 440 Hz.
+This is the standard concert pitch, used as tuning note by some orchestras.
+It is the pitch of the violin's second string, the first string of the viola, and an octave above the first string of the cello, all played open.
+Tuning forks used by orchestras between 1750 and 1820 mostly had a frequency of A = 423.5 Hz, although there were many forks and many slightly different pitches.
+Standard tuning forks are available for all the musical pitches within the central octave of the piano, and other pitches.
+Well-known manufacturers of tuning forks include Ragg and John Walker, both of Sheffield, England.
+Forks have traditionally been used to tune musical instruments, although electronic tuners are replacing them in many applications.
+Tuning forks can be driven electrically, by placing electromagnets close to the prongs that are attached to an electronic oscillator circuit, so that their sound does not die out.
+A number of keyboard musical instruments using constructions similar to tuning forks have been made, the most popular of them being the Rhodes piano, which has hammers hitting constructions working on the same principle as tuning forks.
+The Accutron, an electromechanical watch developed by Max Hetzel and manufactured by Bulova beginning in 1960, used a 360-hertz steel tuning fork powered by a battery as its timekeeping element.
+The fork allowed it to achieve greater accuracy than conventional balance-wheel watches.
+The humming sound of the tuning fork could be heard when the watch was held to the ear.
+Tuning forks, usually C-512, are used by doctors to check a patient's hearing.
+Lower-pitched ones (usually C-128) are also used to check vibration sense as part of the examination of the peripheral nervous system.
+Tuning forks are also used in alternative medicine, such as sonopuncture and polarity therapy.
+Medical Tuning Fork 128 Hz
+A radar gun, used to measure the speed of cars or balls in sports, is usually calibrated with tuning forks.
+Instead of the frequency, these forks are labeled with the calibration speed and radar band (e.g. X-Band or K-Band) for which they are calibrated.
+Doubled and H-type of tuning forks are used for tactical-grade Vibrating Structure Gyroscopes, like QuapasonTM and different types of MEMS.

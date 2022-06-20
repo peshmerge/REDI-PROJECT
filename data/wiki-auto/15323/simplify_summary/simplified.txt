@@ -1,0 +1,64 @@
+ipculus ip ) is the protocol in the internet protocol suite for relaying data across network boundaries .
+it essentially establishes the internet .
+ip is sent from the source host to the host .
+ip defines packet structures that encapsulate the data to be delivered .
+it also defines addressing methods that are used to label the datagram with source and destination information .
+in 1974 , ip was the connectionless datagram service in the original transmission control program .
+the internet protocol suite is often referred to as tcp / ip .
+the first major version of ip , internet protocol version 4icative ipv4script , is the dominant protocol of the internet .
+it replaced the internet protocol version 6icative ipv6 [mask] .
+the internet protocol is responsible for addressing host interfaces , encapsulating data into datagrams .
+the internet protocol defines the format of packets and provides an addressing system .
+each datagram has two parts : a header and a payload .
+the header includes source ip address , destination ip address , and other datagrams .
+the data that is taken is transported is called the " payload " .
+putting data in a packet with a header is encapsulation .
+ip addressing is a set of ip addresses that are used to solve the problem of the computer .
+the address space is divided into subnetworks , with the designation of network prefixes .
+routing is done by all hosts , as well as routers , whose main function is to transport packets across network boundaries .
+routers communicate with one another via specially designed routing protocols , either inside gateway protocols or exterior gateway protocols , as needed for the topology of the network .
+in may 1974 , the institute of electrical and electronics engineers engineers shouldn ieee ieee ieee ieee ieee ieee ieee ieee ieee ieee ieee ieee ieee ieee ieee ieee ieee ieee ieee ieee ieee ieee ieee ieee ieee ieee ieee ieee ieee ieee ieee ieeepta -lrb- a protocol for packet network intercommunication -rrb- published a paper entitled " a protocol for packet network intercommunication " .
+the paper described a way to share resources using packet switching between network nodes .
+a big part of this model was the " transmission control program " that was made up of both connection-oriented links and datagram services between hosts .
+the monolithic transmission control program was later divided into a modular architecture consisting of the transmission control protocol and user datagram protocol at the transport layer and the internet protocol at the internet layer .
+the model became known as the " department of defense temeraire dod dq internet model " and " internet protocol suite " , and informally as " tcp / ip " .
+ip versions 0 to 3 were experimental versions , used between 1977 and 1979 .
+the dominant internetworking protocol in the internet layer in use today is ipv4 ; the number 4 is the protocol version number carried in every ip datagram .
+ipv4 is described inlins .
+it was used by the internet stream protocol .
+the successor to ipv4 is ipv6 .
+ipv6 was a result of several years of experimentation and dialog .
+its most common difference is version 4 .
+while ipv4 uses 32 bits for addressing , yielding c . 4.3 billion addresses , ipv6 uses 128-bit addresses providing ca . 340 undecillion , or addresses .
+however , all united states government systems have demonstrated basic infrastructure support for ipv6 .
+the assignment of the new protocol as ipv6 was unknown until due diligence revealed that ipv6 had not yet been used previously .
+other internet protocols have been assigned numbers according by iana such as ipv7 , ipv8 , and ipv9 .
+ipv9zong aka tcp and udp were researched and adopted in china , which china disowns .
+on april 1,1994 , the ietf published an april fools ' day joke about ipv9 .
+the design of the internet protocol suite is based on the end-to-end principle , a concept adapted from the cyclades project .
+under the end-to-end principle , the network infrastructure is considered unreliable at any single network element or transmission medium .
+no central monitoring or performance measurement facility exists that tracks or maintains the state of the network .
+for the benefit of reducing network complexity , the intelligence in the network is purposely located in the end nodes .
+as a consequence of this design , the internet protocol only provides best-effort delivery and its service is unreliable .
+in network architectural language , it is a connectionless protocol , in contrast to connection-oriented communication .
+different error conditions may occur , such as data corruption , packet loss and duplication .
+because routing is a dynamic , meaning every packet is treated independently , and because the network keeps no state based on the path of prior packets , different packets may be routed to the same destination via different paths , resulting in out-of-order delivery to the receiver .
+all error conditions in the network must be detected and compensated by the participating end nodes .
+the protocols of the internet protocol suite are responsible for resolving reliability issues .
+for example , a host may buffer network data to ensure correct ordering before the data is delivered to an application .
+ipv4 provides safeguards to ensure that the header of an ip packet is error-free .
+routing node will end up packets that fail a header checksum test .
+the internet control message protocol is not required to tell the other part of the network .
+ipv6 , by contrast , operates without header checksums , since current link layer technology is assumed to provide sufficient error detection .
+the dynamic nature of the internet and the diversity of its components provide no guarantee that any particular path is actually capable of , or suitable for , performing the data transmission requested .
+one of the technical constraints is the size of data packets allowed on a given link .
+facilities exist to examine the maximum transmission unitability of the local link and path mtu discovery can be used for the entire path to the destination .
+the ipv4 internetworking layer has the ability to automatically fragment the original datagram into smaller units for transmission .
+in this case , ip provides re-ordering of fragments delivered out of order .
+an ipv6 network does not perform fragmentation or reassembly , and requires end stations and higher-layer protocols to avoid the network 's mtu .
+the transmission control protocol is an example of a protocol that adjusts its segment size to be smaller than the mtu .
+the user datagram protocol allows the ip to fragment big datagrams .
+during the design phase of the arpanet and the early internet , the security aspects and needs of a public , international network could not be predicted .
+consequently , many internet protocols showed vulnerabilities highlighted by network attacks and later security assessments .
+in 2008 , a thorough security assessment and proposed mitigation of problems was published .
+the ietf has been pursuing further studies .

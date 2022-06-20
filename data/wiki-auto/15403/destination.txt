@@ -1,0 +1,42 @@
+ISO 4217 is the international standard describing three-letter codes (also known as the currency code) to define the names of currencies, as established by the International Organization for Standardization (ISO).
+The ISO 4217 code list is the common way in banking and business, all over the world, for defining different currencies.
+In many countries, the codes for the more common currencies are so well-known, by the general public, that exchange rates written in newspapers or posted in banks use only those codes to define the different currencies, instead of translated currency names or currency symbols.
+ISO 4217 codes are used on airline tickets and international train tickets to remove any uncertainty about the price.
+The first two letters of the code are the two letters of ISO 3166-1 alpha-2 country codes (which are also used as the basis for national top-level domains on the Internet).
+The third letter is usually the initial of the currency itself.
+So Japan's currency code is JPY, "JP" for Japan and "Y" for yen.
+This eliminates the problem caused by the names "dollar, franc" and "pound" being used in dozens of different countries, each having significantly differing values.
+Also, if a currency is revalued, the currency code's last letter is changed to distinguish it from the old currency.
+In some cases, the third letter is the initial for "new" in that country's language, to distinguish it from an older currency that was revalued; the code sometimes outlasts the usage of the term "new" itself (for example, the code for the Mexican peso is MXN).
+Other changes can be seen, however; the Russian ruble, for example, changed from RUR to RUB, where the B comes from the third letter in the word "ruble".
+There is also a three-digit code number assigned to each currency, in the same manner as there is also a three-digit code number assigned to each country as part of ISO 3166.
+This numeric code is usually the same as the ISO 3166-1 numeric code.
+For example, USD (United States dollar) has code 840 which is also the numeric code for the US (United States).
+The standard also defines the relationship between the major currency unit and any minor currency unit.
+Often, the minor currency unit has a value that is 1/100 of the major unit, but 1/1000 is also common.
+Some currencies do not have any minor currency unit at all.
+In others, the major currency unit has so little value that the minor unit is no longer generally used (e.g. the Japanese "sen", 1/100th of a yen).
+This is indicated in the standard by the currency exponent.
+For example, USD has exponent 2, while JPY has exponent 0.
+Mauritania does not use a decimal division of units, setting 1 ouguiya (UM) = 5 khoums, and Madagascar has 1 ariary = 5 iraimbilanja.
+ISO 4217 includes codes not only for currencies, but also for precious metals (gold, silver, palladium and platinum; by definition expressed per one troy ounce, as compared to "1 USD") and certain other entities used in international finance, e.g. Special Drawing Rights.
+There are also special codes allocated for testing purposes (XTS), and to indicate no currency transactions (XXX).
+These codes all begin with the letter "X".
+The precious metals use "X" plus the metal's chemical symbol; silver, for example, is XAG.
+ISO 3166 never assigns country codes beginning with "X", these codes being assigned for privately customized use only (reserved, never for official codes)—for instance, the ISO 3166-based NATO country codes (STANAG 1059, 9 edition) use "X" codes for imaginary exercise countries ranging from XXB for "Brownland" to XXR for "Redland", as well as for major commands such as XXE for SHAPE or XXS for SACLANT.
+Consequently, ISO 4217 can use "X" codes for non-country-specific currencies without risk of clashing with future country codes.
+Supranational currencies, such as the East Caribbean dollar, the CFP franc, the CFA franc BEAC and the CFA franc BCEAO are normally also represented by codes beginning with an "X".
+The euro is represented by the code EUR (EU is included in the ISO 3166-1 reserved codes list to represent the European Union).
+The predecessor to the euro, the European Currency Unit (ECU), had the code XEU.
+In 1973, the ISO Technical Committee 68 decided to develop codes for the representation of currencies and funds for use in any application of trade, commerce or banking.
+At the 17th session (February 1978) of the related UN/ECE Group of Experts agreed that the three-letter alphabetic codes for International Standard ISO 4217, "Codes for the representation of currencies and funds", would be suitable for use in international trade.
+Over time, new currencies are created and old currencies are discontinued.
+Frequently, these changes are due to new governments (through war or a new constitution), treaties between countries standardizing on a currency, or revaluation of the currency due to excessive inflation.
+As a result, the list of codes must be updated from time to time.
+The ISO 4217 maintenance agency (MA), SIX Interbank Clearing, is responsible for maintaining the list of codes.
+The following is a list of active codes of official ISO 4217 currency names.
+The following is a list of active, unofficial codes that emulate the ISO 4217 format.
+The US dollar actually has three codes assigned: USD, USS (same day) and USN (next day).
+A number of territories are not included in ISO 4217, because their currencies are: (a) not "per se" an independent currency but a variant of another currency, (b) a legal tender only issued as commemorative banknotes and/or coinage, or (c) a currency of an unrecognized or partially recognized state.
+A number of currencies were official ISO 4217 currency codes and currency names until their replacement by the euro or other currencies.
+Note that the currency names used below may not match the currency names used in the ISO standard itself, but the codes do match.

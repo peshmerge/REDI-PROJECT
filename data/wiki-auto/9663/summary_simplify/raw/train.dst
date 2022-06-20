@@ -1,0 +1,49 @@
+Electronics comprises the physics, engineering, technology and applications that deal with the emission, flow and control of electrons in vacuum and matter.
+The ability of electronic devices to act as switches makes digital information-processing possible.
+Interconnection technologies such as circuit boards, electronics packaging technology, and other varied forms of communication infrastructure complete circuit functionality and transform the mixed electronic components into a regular working system, called an electronic system; examples are computers or control systems.
+s of 2018 most electronic devices use semiconductor components to perform electron control.
+The identification of the electron in 1897, along with the invention of the vacuum tube, which could amplify and rectify small electrical signals, inaugurated the field of electronics and the electron age.
+Electronics deals with electrical circuits that involve active electrical components such as vacuum tubes, transistors, diodes, integrated circuits, optoelectronics, and sensors, associated passive electrical components, and interconnection technologies.The nonlinear behaviour of active components and their ability to control electron flows makes amplification of weak signals possible.
+Electrical and electromechanical science and technology deals with the generation, distribution, switching, storage, and conversion of electrical energy to and from other energy forms (using wires, motors, generators, batteries, switches, relays, transformers, resistors, and other passive components).
+This distinction started around 1906 with the invention by Lee De Forest of the triode, which made electrical amplification of weak radio signals and audio signals possible with a non-mechanical device.
+Until 1950, this field was called "radio technology" because its principal application was the design and theory of radio transmitters, receivers, and vacuum tubes.
+The term "solid-state electronics" emerged after the first practical transistor was invented by William Shockley, Walter Houser Brattain and John Bardeen at Bell Labs in 1947.
+The MOSFET was the first truly compact transistor that could be miniaturised and mass-produced for a wide range of uses, revolutionizing the electronics industry, and playing a central role in the microelectronics revolution and Digital Revolution.
+The MOSFET has since become the basic element in most modern electronic equipment, and is the most widely used electronic device in the world.
+The study of semiconductor devices and related technology is considered a branch of solid-state physics, whereas the design and construction of electronic circuits to solve practical problems come under electronics engineering.
+An electronic component is any physical entity in an electronic system used to affect the electrons or their associated fields in a manner consistent with the intended function of the electronic system.
+Components are generally intended to be connected together, usually by being soldered to a printed circuit board (PCB), to create an electronic circuit with a particular function (for example an amplifier, radio receiver, or oscillator).
+They allowed for vastly more complicated systems and gave us radio, television, phonographs, radar, long-distance telephony and much more.
+Vacuum tubes are still used in some specialist applications such as high power RF amplifiers, cathode ray tubes, specialist audio equipment, guitar amplifiers and some microwave devices.
+From that time on transistors were almost exclusively used for computer logic and peripherals.
+However, early junction transistors were relatively bulky devices that were difficult to manufacture on a mass-production basis, which limited them to a number of specialised applications.
+It revolutionized the electronics industry, becoming the most widely used electronic device in the world.
+The MOSFET is the basic element in most modern electronic equipment, and has been central to the electronics revolution, the microelectronics revolution, and the Digital Revolution.
+The MOSFET has thus been credited as the birth of modern electronics, and possibly the most important invention in electronics.
+Most analog electronic appliances, such as radio receivers, are constructed from combinations of a few types of basic circuits.
+Analog circuits use a continuous range of voltage or current as opposed to discrete levels as in digital circuits.
+The number of different analog circuits so far devised is huge, especially because a 'circuit' can be defined as anything from a single component, to systems containing thousands of components.
+Analog circuits are sometimes called linear circuits although many non-linear effects are used in analog circuits such as mixers, modulators, etc.
+One rarely finds modern circuits that are entirely analog.
+These days analog circuitry may use digital or even microprocessor techniques to improve performance.
+Sometimes it may be difficult to differentiate between analog and digital circuits as they have elements of both linear and non-linear operation.
+Similarly, an overdriven transistor amplifier can take on the characteristics of a controlled switch having essentially two levels of output.
+In fact, many digital circuits are actually implemented as variations of analog circuits similar to this example – after all, all aspects of the real physical world are essentially analog, so digital effects are only realized by constraining analog behavior.
+Digital circuits are the most common physical representation of Boolean algebra, and are the basis of all digital computers.
+Heat generated by electronic circuitry must be dissipated to prevent immediate failure and improve long term reliability.
+Means to achieve greater dissipation include heat sinks and fans for air cooling, and other forms of computer cooling such as water cooling.
+Noise may be electromagnetically or thermally generated, which can be decreased by lowering the operating temperature of the circuit.
+Other types of noise, such as shot noise cannot be removed as they are due to limitations in physical properties.
+Mathematical methods are integral to the study of electronics.
+To become proficient in electronics it is also necessary to become proficient in the mathematics of circuit analysis.
+Circuit analysis is the study of methods of solving generally linear systems for unknown variables such as the voltage at a certain node or the current through a certain branch of a network.
+Also important to electronics is the study and understanding of electromagnetic field theory.
+Due to the complex nature of electronics theory, laboratory experimentation is an important part of the development of electronic devices.
+Historically, electronics labs have consisted of electronics devices and equipment located in a physical space, although in more recent years the trend has been towards electronics lab simulation software, such as CircuitLogix, Multisim, and PSpice.
+Today's electronics engineers have the ability to design circuits using premanufactured building blocks such as power supplies, semiconductors (i.e.
+Popular names in the EDA software world are NI Multisim, Cadence (ORCAD), EAGLE PCB and Schematic, Mentor (PADS PCB and LOGIC Schematic), Altium (Protel), LabCentre Electronics (Proteus), gEDA, KiCad and many others.
+For instance, early electronics often used point to point wiring with components attached to wooden breadboards to construct circuits.
+Most modern day electronics now use printed circuit boards made of materials such as FR4, or the cheaper (and less hard-wearing) Synthetic Resin Bonded Paper (SRBP, also known as Paxoline/Paxolin (trade marks) and FR2) – characterised by its brown colour.
+Health and environmental concerns associated with electronics assembly have gained increased attention in recent years, especially for products destined to the European Union, with its Restriction of Hazardous Substances Directive (RoHS) and Waste Electrical and Electronic Equipment Directive (WEEE), which went into force in July 2006.
+Electronic systems design deals with the multi-disciplinary design issues of complex electronic devices and systems, such as mobile phones and computers.
+The subject covers a broad spectrum, from the design and development of an electronic system (new product development) to assuring its proper function, service life and disposal.

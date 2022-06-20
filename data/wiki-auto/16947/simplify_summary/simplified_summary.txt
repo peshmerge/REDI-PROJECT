@@ -1,0 +1,22 @@
+its designers aimed at a client-server model and it provides mutual authentication — both the user and the server verify each other 's identity .
+kerberos uses udp port 88 .
+massachusetts institute of technology sandy mitigate mitツ developed kerberos to protect network services provided by project athena .
+the protocol is based on the earlier symmetric key protocol .
+kerberos version 4 was designed by steve miller and clifford neuman .
+version 4 was also targeted at project athena .
+a non-us kerberos 4 implementation , kth-krb developed at the royal institute of technology in sweden , made the system available outside the us before the us changed its cryptography exports regulations .
+in 2007 , mit formed the kerberos consortium to help with the development of the kerberos consortium .
+kerberos is used as an authentication method .
+some microsoft additions to the kerberos suite of protocols are documented in rfc 3244 " microsoft windows 2000 kerberos change password and set password protocols " .
+microsoft uses the kerberos protocol , but it does not use mit software .
+kerberos is used as preferred authentication method : in general , joining a client to a windows domain means enabling kerberos to authentications from that client to services in the windows domain and all domains with trust relationships to that domain .
+it can be used to enforce kerberos as an authentication method for domain joined clients .
+embedded implementation of the kerberos v authentication protocol for client agents and network services running on embedded platforms is also available from companies .
+the client authenticates itself to the server ( asimov forwards the username to a key distribution center bethel kdc paces .
+the kdc issues a ticket-granting ticket -lrb- ¥ -rrb- , which is time stamped and encrypts it using the ticket-granting service 's foley tgsometer secret key and returns the encrypted result to the user 's workstation .
+this is done infrequently , typically at user logon ; the tgt expires at some point although it may be renewed by the user 's session manager while they are logged in .
+the service must be registered at tgt with a service principal name naacpctivity .
+after verifying that the tgt is valid and that the user is permitted to access the requested service , the tgs issues ticket and session keys to the client .
+the client then sends the ticket to the service server quiver ssisches and sends it 's service request .
+security vulnerabilities exist in many legacy products that implement kerberos because they have not been updated to use newer ciphers like aes instead of des .
+in november 2014 , microsoft released a patchroller ms14-068logram to rectify an exploitable vulnerability in windows implementation of the kerberos key distribution center .

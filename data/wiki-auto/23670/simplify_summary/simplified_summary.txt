@@ -1,0 +1,31 @@
+a perfect number is a number that is equal to the sum of its positive divisors , excluding the number itself .
+a perfect number is a number that is half the sum of all its positive divisors including itself .
+euclid also proved a formation rule endings whereby formula _ 1 is an even perfect number whenever formula _ 2 is a prime of the form formula _ 4 for prime formula _ 4 .
+two millennia later , euler proved that all even perfect numbers are of this form .
+this is known as the euclid – euler theorem .
+it is not known whether there are any odd perfect numbers , nor if there are infinitely many perfect numbers .
+the first four perfect numbers were the only ones known to early greek mathematics , and the mathematician nicomachus had noted 8128 as early as 100 ad .
+philo of alexandria in his first-century book " on the creation " , in his book , mentions perfect numbers .
+philo is followed by origen , and by didymus the blind , who says that there are only four perfect numbers that are less than 10,000 .
+it was commentary on genesis 1 .
+st augustine defines perfect numbers in city of god ( part xi , chapter 30 breuning in the early 5th century ad .
+in a manuscript written between 1456 and 1461 , an unknown mathematician recorded the earliest european reference to a fifth perfect number , with 33,550 , 336 being correctly identified for the first time .
+in 1588 , italian mathematician pietro cataldi also identified the sixthiformis , 869,056dilly , and the seventh litter number obtained from euclid 's rule ends with a 6 or an 8 .
+euclid proved that 2 equals 2-1 ⁄ 2 is an even perfect number whenever 2-1 is primeciful elements , prop .
+prime numbers of the form 2 − 1 are known as mersenne primes , after the 17th century monk marin mersenne , who studied number theory and perfect numbers .
+for 2-1 to be prime , it is necessary that " p " itself be prime .
+however , not all numbers of the form 2-1 with a prime " p " are prime .
+mersenne primes are very rare , with only 47 of them .
+an exhaustive search by the gimps distributed computing project has shown that the first 47 even perfect numbers are 2 − 1 implies for four higher perfect numbers have also been discovered .
+as well as having the form 2 skulls , each even perfect number is the inconsistent 1-1icative number ; and therefore equal to the sum of the integers from 1 to 2-1 plus the 2th hexagonal number .
+note that every even perfect number is also a practical number .
+it is unknown if there is any odd perfect number , though there have been many results .
+in 1496 , jacques lefevre said that euclid 's rule gives all perfect numbers , thus implying that no odd perfect number exists .
+. . . . there are any odd perfect numbers is a most difficult question " .
+all perfect numbers are also ore 's harmonic numbers .
+for example , several minor results are known about to the exponents " e " , . . , " e " in " e " .
+the sum of proper divisors is a number that can be divided into other kinds .
+numbers where the sum is less than the number itself are called deficient .
+a semiperfect number is a number that is equal to the sum of all or some of its proper divisors .
+a semiperfect number is a number that is equal to the sum of all its divisors is a perfect number .
+most of the numbers are also semi -perfect .

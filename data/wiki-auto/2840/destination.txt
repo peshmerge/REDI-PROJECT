@@ -1,0 +1,21 @@
+The plum pudding model was an early (and incorrect) 20th century model of an atom.
+It was proposed by J.J. Thomson in 1904, after the discovery of the electron, but before the discovery of the atomic nucleus.
+During that time, scientists knew that there was a positive charge in the atom that balanced out the negative charges of the electrons, making the atom neutral, but they didn't know where the positive charge was coming from.
+Thomson's model showed an atom that had a positively charged medium, or space, with negatively charged electrons inside the medium.
+Soon after its proposal, the model was called a 'plum pudding' model because the positive medium was like a pudding, with electrons, or plums, inside.
+Basically, in 1909, not long after Thomson's model was proposed, Hans Geiger and Ernest Marsden made an experiment with thin sheets of gold, to test Thomson's model.
+Their professor, Ernest Rutherford, expected the results to prove Thomson correct, but their results were extremely different to what they were expecting.
+In 1911, Rutherford discovered that the positive charges come from tiny particles called protons, and that the protons were in a tiny center called the nucleus, and that the electrons were orbiting around the nucleus.
+Rutherford's model was quite simple, but it was wrong because electrons have charge, and they should be attracted to the positively charged nucleus.
+In 1913, Niels Bohr added 'energy levels' to the atomic model.
+Electrons don't fall into the nucleus because they are contained in energy levels, and to change to higher energy levels extra energy is needed, and to change to lower energy levels a release of energy is needed.
+It is not possible to change energy states without changing the energy of the electron.
+If an electron gets hit by a photon (a particle that carries electromagnetic radiation) it will gain extra energy and go into a higher energy level (it changes states), then it will jump back down to a lower energy level, releasing its contained energy.
+This new model was called the Bohr model or the Rutherford-Bohr model.
+This added a whole new branch of science: Quantum physics.
+In 1926 Erwin Schrödinger used the idea that electrons acted as a wave, as well as a particle, this is known as a wave-particle duality.
+This added a whole new layer to the atomic model and quantum physics.
+With a particle, you can know where it is in space if you observe (look) at it.
+But with a wave, it is all over the place, so you can't define where exactly it is.
+This is known as quantum uncertainty.
+With an electron, you can only know the probability of it being in a place, because it is a wave as well as a particle.

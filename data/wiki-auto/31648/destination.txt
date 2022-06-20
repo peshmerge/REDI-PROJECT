@@ -1,0 +1,88 @@
+Article Three of the United States Constitution creates the judicial branch of the United States government.
+It creates the Supreme Court of the United States, and allows the United States Congress to create less powerful federal courts.
+It also sets out the powers that these courts have.
+Section 1 of Article Three starts out by creating the Supreme Court – one court that will be more powerful than any other court in the country.
+It also gives Congress the power to create "inferior" (less powerful) federal courts.
+It allows judges in these courts to get a regular salary for their work.
+Section 1 protects the judges by saying that their salaries will not be decreased while they are in office (working as a federal judge).
+Section 1 says that judges "shall hold their Offices keep their jobs during good Behavior."
+This is meant to protect federal judges, and also to make sure that the federal judiciary is independent.
+Before it won its independence in the American Revolutionary War, America was a colony of the British Empire.
+The Founding Fathers wrote the Constitution just four years after the War ended.
+They still remembered what the courts in the American colonies were like.
+As Thomas Jefferson wrote in the Declaration of Independence, Britain's King George III "made judges dependent on his will alone, for the tenure of their offices, and the amount and payment of their salaries."
+This meant that the judges could not be independent or impartial.
+If they made a decision that King George did not like, they could be fired, or not paid.
+Judges who wanted to keep their jobs made decisions based on what King George would want, not based on what the law said.
+If judges are cannot be independent, or do not follow they law, courts are not fair, and there is no way for regular people to get justice.
+The Constitution makes sure that this will not happen to United States federal judges.
+By saying judges "shall hold their Offices during good Behavior," Section 1 is basically allowing judges to keep their jobs for the rest of their lives.
+In , the Constitution does say that Congress can take away a judge's job – but only after being convicted in a trial, and only for "Treason, Bribery, or other High crimes and Misdemeanors."
+(This is what Section 1 means by behavior that is not "good.")
+In other words, the Constitution makes sure that all judges will lose their jobs for making even the slightest unpopular decision.
+This denies judges the freedom to be independent, and to make the decisions that they think are fair, and makes them choose between right and reelection.
+Article III clearly allows only one Supreme Court.
+However, it does not say how many Supreme Court Justices (judges) there should be.
+Congress solved this problem in 1948 by passing a law.
+The law says that the Supreme Court will have 9 Justices, including one Chief Justice.
+In both Section 1 and in , the Constitution gives Congress the right to create courts that are "inferior" to the Supreme Court.
+However, the Constitution does not say how many "inferior" courts there should be, or how they should be set up.
+It leaves those decisions to Congress.
+Congress decided to create two different kinds of "inferior" courts (also called "lower courts").
+Clause 1 of Section 2 explains the powers the federal court has, and the limits of those powers.
+Clause 1 gives the federal courts the power to hear and judge actual "cases and controversies" only.
+For example, they cannot hear a case about a situation that might come up in the future.
+When Clause 2 talks about "jurisdiction," it is talking about who has the power to hear a case.
+"Original jurisdiction" is the power to hear a case first, before any other court.
+In all the other cases mentioned in Clause 2, the Supreme Court has "appellate jurisdiction."
+That means another court has the power to hear the case first.
+If somebody appeals that court's decision, the Supreme Court can take the case on appeal.
+However, the Supreme Court can only review a case on appeal if it thinks the lower court's decision breaks a law or goes against the Constitution.
+There is one specific power that Clause 2 does not give the federal judiciary.
+Clause 2 says that the federal judiciary has power over "the laws of the United States."
+However, it does "not" say that the federal courts have power over the laws of "individual" states.
+Also, when Congress passed the Judiciary Act of 1789, they also never gave the federal courts this power.
+This means that the federal courts can only review or change the decisions of state supreme courts if the state decision may have broken a federal law or the Constitution.
+The federal courts had no power to review or change state supreme court decisions that were just based on state laws.
+Basically, this gave each state supreme court the final say over the laws in their state.
+Different states could decide completely different things, so the laws might be completely different in one state than another.
+In 1795, the Eleventh Amendment changed part of Clause 2.
+It took away the federal judiciary's power to get involved in lawsuits between states and citizens of other states or countries.
+In "Marbury v. Madison" (1803), the Supreme Court ruled that Congress cannot change the Supreme Court's original jurisdiction.
+However, the appellate jurisdiction of the Court is different.
+Congress is able to make the rules for the federal courts' appellate division, including rules about their jurisdictions.
+"Marbury v. Madison" also created an important power called judicial review.
+This is the Supreme Court's ability to review whether a law, treaty, or executive rule breaks a law that already exists, a state Constitution, or the United States Constitution.
+After "Marbury", the Supreme Court started keeping an eye on what the state and federal governments were doing, instead of just trying cases that people brought to them.
+Clause 2 says that the Supreme Court has "judicial power over all Cases, in Law and Equity, arising under this Constitution and the Laws of the United States..." However, it does not say exactly what this means.
+The Supreme Court clarified this in a case called "Osborn v. Bank of the United States" (1824).
+Supreme Court Justice John Marshall wrote an opinion about what a "federal" case is, and what "arising under" the Constitution or federal laws means.
+Clause 3 of Section 2 says that federal crimes have to be tried in front of a jury, unless the defendant does not want a jury.
+The only type of federal crime that is not tried before a jury is an impeachment.
+(Article One, Section 3 of the Constitution says that only the United States Senate can try impeachment cases.)
+Clause 3 also says the person's trial must be held in the state where they did the crime.
+If they did not do the crime in any particular state, then Congress gets to choose where the trial will be held.
+Several of the Constitutional Amendments in the Bill of Rights talk more about the rights of people who are on trial in criminal or civil court.
+The last section of Article 3 talks about treason and how it should be punished.
+The Founding Fathers wanted to make sure that Americans' rights were protected.
+They also knew that in the past, in England, some kings had gotten rid of their political opponents just by accusing them of treason.
+For these reasons, the Founders wanted to make sure the Constitution said specifically what crimes were treason; what would be needed to find people guilty; and what the punishments could be.
+Section 3 also makes it clear that treason must be an "overt act."
+This means that to commit treason, a person must actually do something, not just plan to do it.
+For example, if a group of people got together and planned to attack part of the United States, that would not be treason because they had not actually done anything yet to hurt the country.
+If they did attack the United States, that would be an overt act, and it would be treason.
+It also says that there are only two ways for a person to be convicted of treason.
+Two different witnesses must say in court that they saw the person do that overt act.
+If there are not two witnesses, then the person must admit in court that they committed treason.
+If neither of these things happen, the person cannot be found guilty of treason.
+Parts of this rule came from a British law called the Treason Act 1695.
+Finally, Section 3 talks about punishment for people found guilty of treason.
+It gives Congress the power to decide the punishment.
+However, there is one punishment that the Constitution does not allow: punishing a person's family and descendants for that person's crime.
+In English law, if a person was convicted of treason, their punishment would include an "Attainder" (also called a "Corruption of Blood").
+This meant that not only the person, but their family and heirs, would be punished and thought of as guilty.
+Once a person was "attainted," they would be executed.
+However, their heirs would also lose the right to inherit that person's land, property, or money.
+The end of Section 3 specifically says that this punishment is not allowed.
+When the Founders wrote "no Attainder of Treason shall work Corruption of Blood, or Forfeiture except during the Life of the Person attainted," they meant: "No heirs may be punished, and Congress can make the traitor forfeit (give up) their property, but only during their lifetime."
+Their heirs would have to be able to inherit their property when the traitor died.

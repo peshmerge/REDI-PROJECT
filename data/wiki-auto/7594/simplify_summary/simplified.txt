@@ -1,0 +1,80 @@
+a cash register is a machine for registering and calculating transactions at a point of sale .
+it is usually attached to a drawer for storing cash and other valuables .
+a modern cash register is usually attached to a printer that can print out receipts for record-keeping purposes .
+the cash register was invented by james ritty and john birch in the late 1800s .
+he wanted to stop working and stop his profits .
+the ritty model i was invented in 1879 .
+with the help of james ' brother john ritty , they patented it in 1883 .
+it was invented to stop cashiers from pilfering and eliminate employee theft and embezzlement .
+early mechanical registers were entirely mechanical , without receipts .
+the employee was required to ring up every transaction on the register , and when the drawer opened and a bell would ring , alerting the manager to a sale taking place .
+the first machines were no simple adding machines .
+the cashier very probably had to open the till for the penny change and announce the sale .
+he sold all of his interests in the cash register business to jacob h . eckert of cincinnati , a china and glassware salesman , who formed the national manufacturing company .
+in 1884 , the company was renamed the national cash register company and improved the cash register by adding a paper roll to record sales transactions .
+the original purpose of the receipt was enhanced fraud protection .
+the business owner could read the receipts .
+it also prevents a customer from defrauding the business by falsely claiming receipt of a lesser amount of change or a transaction that never happened in the first place .
+the first cash register was used in coalton , ohio , at the old mining company .
+in 1906 , when he was working at the national cash register , inventor charles f . kettering designed a cash register with an electric motor .
+the company was founded by brothers sam and henry gross .
+their cash registers were very popular around the time of decimalisation in britain in early 1971 .
+sweda also had decimal-ready registers where the retailer used a special key on decimal day for the conversion .
+in some jurisdictions the law also requires customers to collect the receipt and keep it at least for a short while after leaving the shop again to check that the shop records sales , so that it evade sales taxes .
+cash registers are attached to scales , barcode scanners , checkstands , and debit card terminals .
+increasingly , dedicated cash registers are being replaced with general purpose computers with pos software .
+cash registers use bitmap characters for printing .
+today , point of sale systems scan the barcodeference usually ean or upcchrome for each item , calculate deductions for items on sale ashore or , in british retail terminology , " special offer " , " multibuy " or " buy one free " item , get one free " item , get one free " item , get one free " item , get one " item " , get one free " item , " buy one " record " , " record record for the actual period of time " , as well as the actual record record record record for the actual period of time .
+these pos terminals will often identify the cashier on the receipt , and carry additional information or offers .
+there are many cash registers .
+dos dos is a computer program that runs traditionally in-house software or general purpose software such as dos .
+many of the newer ones have touch screens .
+they may be connected to computerized point of sale networks using any type of protocol .
+such systems may be accessed remotely for the purpose of obtaining records or troubleshooting .
+many businesses also use tablet computers as cash registers .
+cash registers include a key labeled " no sale " , abbreviated " ns " on many modern electronic cash registers .
+its function is to open the drawer , printing a receipt stating “ no sale ” and recording in the register log that the register was opened .
+some cash registers require a numeric password or physical key to be used when attempting to open the till .
+a cash register can only be opened by a cash register .
+this reduces the amount of contact most employees have with cash and other valuables .
+it also reduces risks of an employee taking money from the drawer without a record and the owner 's consent .
+a cash drawer is a place where the cash is kept .
+the drawer usually has a removable till .
+the till is usually a plastic or wooden tray divided into compartments used to store each denomination of bank notes and coins separately in order to make counting easier .
+the removable till allows money to be removed from the sales floor to a more secure location for counting and creating bank deposits .
+some modern cash drawers are separate from the rest of the cash register .
+a cash drawer is usually of strong construction .
+it slides in and out of its lockable box .
+when a cash is completed , the register sends an electrical impulse to a solenoid to release the catch and open the drawer .
+cash drawers that are part of a stand-alone register often have a manual release catch underneath to open the drawer in the event of a power failure .
+more advanced cash drawers have removed the manual release in favor of a cylinder lock , needing a key to manually open the drawer .
+the cylinder lock usually has several positions : locked , unlocked , onlineoked will open if an impulse is given regardless , and release .
+the release position is a small position with a spring to push the cylinder back to the unlocked position .
+in the " locked " position , the drawer will remain locked .
+because of the increasing number of notes and varieties of notes , many cash drawers are designed to store notes upright and facing forward , instead of the traditional flat & facing upright position .
+this allows more types of notes to be stored .
+sometimes the cashier will even divide the notes without any physical divider at all .
+some cash drawers are flip top in design , where they flip open instead of sliding out like a cash box .
+an often used non-sale function is the aforementioned " no sale " .
+in case of needing to correct change given to the customer , or to make change from a neighboring register , this function will open the cash drawer of the register .
+where non-management staff are given access , management can scrutinize the count of " no sales " in the log to look for suspicious patterns .
+generally requiring a management key , besides programming prices into the register , are the report functions .
+an " x " report will read the current sales figures from memory and produce paper .
+a " z " report will act like an " x " report , but that counters will be reset to zero .
+the registers feature a numerical pad , qwerty or custom keyboard , touch screen interface , or a combination of these input methods for the cashier to enter products and fees by hand and access information necessary to complete the sale .
+for older registers as well as at restaurants and other establishments that do not sell barcoded items , the manual input may be the only way of interacting with the register .
+while customization was limited to larger chains that could afford to have physical keyboards custom-built for their needs , the customization of register inputs is now more widespread with the use of touch screens that can display a variety of point of sale software .
+modern cash registers may be connected to a handheld or stationary barcode reader .
+the use of scanners should also help prevent errors that result from manually entering the product 's barcode or pricing .
+at grocers , the register 's scanner may be combined with a scale for measuring product that is sold by weight .
+cashiers are often required to provide a receipt to the customer after a purchase has been made .
+modern printers are still in use at some retailers .
+alternatively , retailers can forgo issuing paper receipts in some jurisdictions by instead asking the customer for an email to which their receipt can be sent .
+the receipts of larger retailers tend to include unique barcodes or other information identifying the transaction so that the receipt can be scanned to facilitate returns or other customer services .
+in stores that use electronic article surveillance , a pad or other surface will be attached to the register that deactivates security devices embedded in or attached to the items being purchased .
+this will prevent a customer from setting off security alarms at the store 's exit .
+some corporations and supermarkets have introduced self-checkout machines , where the customer is trusted to scan the barcodescodescodescodescodes aren or manually identify uncoded items like fruit gibbons , and place the items into a bagging area .
+the bag is weighed , and the machine halts the checkout when the weight of something in the bag does not match the weight in the inventory database .
+an employee is watching over several such checkouts to prevent theft or exploitation of the machines ' weaknesses unless otherwise misidentification of expensive produce or dry goods amounted .
+payment on these machines is accepted by debit card , or cash via coin slot and bank note scanner .
+stores can be done remotely by the employee observing the self-checkout , or by means of a " store login " which the operator has to enter .

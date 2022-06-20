@@ -1,0 +1,25 @@
+a voltmeter is a tool used to measure voltage in an electric circuit .
+analog voltmeters move a pointer across a scale in proportion to the voltage of the circuit .
+a voltmeter in a circuit diagram is represented by the letter " v " in a circle .
+portable instruments , usually equipped to also measure current and resistance in the form of a multimeter , are standard test instruments used in electrical and electronics work .
+any measurement that can be converted to a voltage can be displayed on a meter that is suitably calibrated .
+general purpose voltmeters may have an accuracy of a few percent of full scale .
+specially calibrated test instruments have higher accuracies , with laboratory instruments capable of measuring to accuracies of a few parts per million .
+amplifiers can measure tiny voltages of microvolts or less .
+in laboratories , the weston cell is used as a standard voltage for precision work .
+the coil of galvanometer can be used as a voltmeter by inserting a resistor in series with the instrument .
+the galvanometer has a coil of fine wire suspended in a strong magnetic field .
+when an electric current is applied , the magnetic field of the coil creates a torque .
+one of the design objectives of the instrument is to disturb the circuit as little as possible .
+the entire instrument is connected in parallel with the circuit examined .
+the sensitivity of such a meter can be expressed as ohms per volt , the number of ohms resistance in the meter circuit divided by the full scale measured value .
+measurement of ac voltage requires a rectifier in the circuit so that the coil deflects in only one direction .
+some moving-coil instruments are also made with the zero position in the middle of the scale instead of at one end ; these are useful if the voltage reverses its polarity .
+voltmeters use the mutual repulsion between two charged plates to deflect a pointer attached to a spring .
+meters of this type draw not current .
+the sensitivity and input resistance of a voltmeter can be increased if the current needed to deflect the meter pointer is supplied by an amplifier and power supply instead of by the circuit under test .
+the electronic amplifier between input and meter gives two benefits ; a rugged moving coil instrument can be used , since its sensitivity need not be high , and the input resistance can be made high , reducing the current drawn from the circuit under test .
+today these circuits use a transistor amplifier , hence fet-vm , and appear in handheld digital multimeters as well as in bench and laboratory instruments .
+most vtvms and fet-vms handle dc voltage , ac voltage , and resistance measurements .
+dvms can have input resistances of 1 gω or higher for the lower voltage ranges exceeding e . g .
+to ensure that a dvm 's accuracy is within the manufacturer 's specified tolerances , it must be calibrated periodically against a voltage standard such as the weston cell .

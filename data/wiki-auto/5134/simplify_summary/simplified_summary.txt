@@ -1,0 +1,205 @@
+chaturanga is also the likely ancestor of the eastern strategy games " xiangqi " [mask] chinese chess traveller .
+the city was reached europe by the 9th century , and the umayyads took over the region .
+the pieces became part of spain in the late 15th century .
+the player 's king is to checkmate the king by placing it under an inescapable threat of capture .
+to this end , a player 's pieces are used to attack and capture the opponent 's pieces , while supporting each other .
+in addition to checkmate , a player wins the game if the opponent resigns , ornction in a timed game runs out of time .
+there are also different ways that a game can end in a draw .
+the first generally recognized world chess champion , wilhelm steinitz , claimed his title in 1886 .
+since 1948 , the world championship has been regulated by the federation internationale des echecs [mask] fidelity , the game 's international governing body .
+fide is a member of the international olympic committee .
+several national sporting bodies dell the spanish " consejo superior deportes " also recognize chess as a sport .
+online chess has been played for many different groups .
+since the second half of the 20th century , chess engines have been programmed to play with more success , to the point where the strongest programs play at a higher level than the best human players .
+since the 1990s , computer analysis has contributed significantly to chess theory , particularly in the endgame .
+the ibm computer deep blue was the first machine to overcome a reigning world chess champion in 1997 when it defeated garry kasparov in a match .
+one of these , chess960 , has gained popularity as well as some fide recognition .
+in 2017 , the rules for fide were changed .
+the pieces are set out in the diagram and photo .
+the game is played on a square board of eight rows rows rows numbered numbered " ranks " , denoted " 1 " to " 8 " from bottom to top according to white 's perspective .
+in competitive games , the colors are allocated by the organizers .
+white moves first , after which players alternate turns , moving one piece per turncek except for castling , when two pieces are moved elsewhere .
+all pieces capture by moving to the square that the opponent 's piece is in .
+a player may not make any move that would put or leave the player 's king in check .
+this can be done only on the very next turn ; otherwise the right to do so is forfeited .
+for example , in the animated diagram , the black pawn goes two steps from g7 to g5 , and the white pawn on f5 can take it " en passant " on g6 antwerp but only on white 's next move move .
+when a pawn moves to the eighth rank , as a part of the move it is " promoted " and must be exchanged for the player 's choice of queen , rook , bishop , or knight of the same color .
+usually , the pawn is chosen to be a queen , but in some cases another piece is chosen .
+in the diagram , the pawn on c7 can be advanced to the eighth rank and be promoted .
+there is no restriction on the piece promoted to , so it is possible to have more pieces of the same type than at the start of the game .
+a move in answer to a check is legal only if the king is no longer in check .
+castling is not a permissible answer to a check .
+it is never legal for a player to make a move that puts or leaves the player 's own king in check .
+in modern games , it is common to announce " check " when putting the opponent 's king in check , but this is not required by the rules of chess , and is not usually done in tournaments .
+in competition , chess games are played with a time control .
+if the player runs out before the game is completed , the game is lost .
+the duration of a game ranges from long distances or " classical "igraphy games which can take up to seven hours depending on how long they can be used to match the bullet .
+time is controlled using a chess clock that has two displays , one for each player 's remaining time .
+the pieces that would evolve into the modern pawn , knight , bishop , and rook respectively , respectively , were added in the 6th century .
+the earliest evidence of chess is found in sassanid persia around 600 , where the game came to be known by the name " chatrang " .
+chatrang was taken up by the muslim world after the islamic conquest of persia , where it was then named " shatranj " , with the pieces largely retaining their persian names .
+in spanish , " shatranj " was rendered as " ajedrez " ʼ " al-shatranj " ; in portuguese as " xadrez " , and in greek as ζατρικιοννnington " zatrikion " , which comes directly from the persian " chatro " , which was replaced by the rest of the persian chess versions " .
+the oldest archaeological chess artifacts , ivory pieces , were found in ancient samarkand , in uzbekistan , central asia , and date to about 760 , with some of them possibly older .
+the oldest known chess manual was in arabic and dates to 840-850 .
+this is a lost manuscript , but referenced in later works .
+the eastern migration of chess , into china and southeast asia , has even less documentation than its migration west .
+the first reference to chinese chess , called " xiangqi " , appears in a book entitled " xuan guai lu " sighting " record of the mysterious and strange " .
+alternatively , some contends that chess came from chinese chess or one of its predecessors , although this has been contested .
+a latin poem " de scachis " dated to the late 10th century has been preserved in einsiedeln abbey .
+around 1200 , the rules of shatranj started to be modified in southern europe , and around 1475 , several major changes made the game essentially as it is known today .
+these modern rules for the moves had been adopted in italy and spain .
+pawns got the option of moving two squares on their first move , while bishops and queens got their modern abilities .
+the repeticion of amores y arte de ajedrez " biennial " repetition of love and the art of playing chess " was published in salamanca , spain in 1497 .
+lucena and later masters like portuguese pedro damiano , italians giovanni leonardo di bona , giulio cesare polerio and gioachino greco , and spanish bishop ruy lopez de segura developed the ideas of openings .
+in the 18th century , the center of european chess life moved from the southern european countries to france .
+the two most important french masters were francois-andre danican philidor , a musician who discovered the importance of pawns for chess strategy , and later louis-charles mahe de la bourdonnais , who won a famous series of matches with the irish master alexander mcdonnell in 1834 .
+the cafe de la regence in paris was a big success in the early 18th century .
+also in the 19th century , the convention that white moves first was made in the 19th century .
+the resulting standard game is sometimes referred to as " western chess " or " international chess " .
+in the 19th century , the chess organization became more important .
+in the 19th century , many newspapers in the city were published in chess ; bernhard horwitz , josef kling , and samuel loyd wrote some of the most important problems .
+in 1843 , von der lasa published his and bilguer 's " handbuch des schachspiels " handbook of chess " charlemagne , the first comprehensive manual of chess theory .
+the first modern chess tournament was organized by howard staunton , a leading english chess player .
+the winner was the german adolf anderssen , who was hailed as the leading chess player .
+his brilliant , energetic attacking style was typical for the time .
+sparkling games like anderssen 's immortal game and evergreen game were thought to be the highest possible summit of the chess art .
+a strong belief that chess merit resided in the players ' genius rather than inherent in the position on the board pervaded chess practice .
+insight into the nature of chess came with the american paul morphy , an extraordinary chess prodigy .
+morphy won against all important competitors , except staunton , who refused to play chords , including anderssen , during his short chess career between 1857 and 1863 .
+morphy 's success came from a combination of brilliant attacks and sound strategy ; he intuitively knew how to prepare attacks .
+in 1873 , the german mathematician wilhelm steinitz described how to avoid weaknesses in one 's position and how to create such weaknesses in the opponent 's position .
+before steinitz , players brought their queen out early , did not completely develop their other pieces , and mounted a quick attack on the opponent , which either succeeded or failed .
+he lost his crown in 1894 to a much younger player , emanuel lasker .
+after the end of the 19th century , there were many tournaments and matches held every year .
+the tradition of awarding such titles was continued by the world chess federationtify fidelogram , founded in 1924 in paris .
+it took a prodigy from cuba , jose raul capablancadilly , who loved simple positions and endgames , to end the german-speaking dominance in chess .
+his successor was russian-french alexander alekhine , a strong attacking player who died as the world champion in 1946 .
+he lost the title to dutch player max euwe in 1935 and regained it two years later .
+between the world wars , chess was revolutionized by the new theoretical school of hypermodernists like aron nimzowitsch and richard reti .
+they wanted to control the center of the board with distant pieces rather than with pawns , thus inviting opponents to occupy the center with pawns , which become objects of attack .
+after the death of alekhine , a new world champion was sought .
+fide , which has controlled the title since then aarhus except for one interruptionvirus , ran a tournament of elite players .
+the winner of the 1948 tournament , russian mikhail botvinnik , started an era of soviet dominance in the chess world .
+until the end of the soviet union , there was only one non-soviet champion , american bobby fischer temeraire champion 1972-1975 proceedings .
+in the previous informal system of world championships , the current champion decided which challenger he would play for the title and the challenger was forced to seek sponsors for the match .
+the fide set up a new system of qualifying tournaments and matches .
+the leading finishers in these interzonals would go on the " candidates " stage , which was initially a tournament , and later a series of knockout matches .
+the winner of the candidates would then play the reigning champion for the title .
+a champion was defeated in a match had a rematch a year later .
+this system was used on a three-year cycle .
+botvinnik again regained the title again in a rematch in 1961 .
+following the 1961 event fide abolished the automatic right of a deposed champion to a rematch , and the next champion , armenian tigran petrosian , a player renowned for his defensive skills , held the title for two cycles , 1963 – 1969 .
+boris spassky from russia biennale champion 1969 – 1972ɬa won games in both positional and sharp tactical style .
+the next championship was the first non-soviet challenger since world war ii , american bobby fischer , who defeated his candidates by unheard-of margins and clearly won the world championship match .
+in 1975 , however , fischer refused to defend his title against soviet anatoly karpov when fide did not meet his demands .
+garry kasparov , a soviet player from baku , azerbaijan , lasted until his reign in 1985 .
+kasparov and karpov competed five world title matches between 1984 and 1990 .
+garry kasparov and nigel short broke up with fide to organize their own match for the title .
+from then until 2006 , there were two simultaneous world champions and world championships : the pca or classical champion extending the steinitzian tradition in which the current champion plays a challenger in a series of many games , and the other following fide 's new format of many players competing in a tournament to determine the champion .
+kramnik became the undisputed world chess champion in 2006 .
+in september 2007 , he lost the title to viswanathan anand of india , who won the championship tournament in mexico city .
+in the middle ages and during the renaissance , chess was a part of noble culture .
+but me think it hath a fault , whiche is , that a man may be good at the playe of chestes , i beleave he must beestowe much tyme about it , and applie it with so much study , that a man may assoone learn more , that a man may assoone in any matter , but that he can get in any more noble sce , but that a matter of any more noble , in the game .
+many of the elaborate chess sets used by the aristocracy have been lost , but others partially survive , such as the lewis chessmen .
+chess was often used as a basis of sermons on morality .
+an example is " liber de moribus hominum et officiis nobilium sive super ludo scacchorum " excavated ' book of the customs of men and the duties of nobles or the book of chess ' [mask] , written by an italian dominican monk jacobus de celise gessolis 1300 .
+this book was very popular in the middle ages .
+the knyght ought to be made alle armed upon an hors in suche wyse that he haue an helme on his heed and a spere in his ryght hande / a swerde and a macede that they may get rid of his seeds and that they may get rid of his exe and that they may get rid of his name .
+an example is the 209th song of carmina burana from the 13th century , which starts with the names of chess pieces , " roch , pedites , regina . "
+several very useful qualities of the mind , useful in the course of human life , are to be acquired and strengthened by it , so as to become ready habits on all occasions .
+i . foresight , which looks a little into futurity , and considers the consequences that may attend an action .
+important works where chess plays a key role range from thomas middleton 's " a game at chess " to " through the looking-glass " by lewis carroll , to vladimir nabokov 's " the defense " , to " the royal game " by stefan zweig .
+chess is featured in movies like ingmar bergman 's " the seventh seal " and satyajit ray 's " the chess players " .
+for example , the characters in " star trek " play a futuristic version of the game called " tri-dimensional chess " .
+"
+the hero of " searching for bobby fischer " struggles against adopting the aggressive and misanthropic views of a world chess champion .
+it was used as the main theme in the musical " chess " by tim rice , bjorn ulvaeus , and benny andersson .
+the thriller movie " knight moves " is about a chess grandmaster who is accused of being a serial killer .
+to resolve an additional letter or number is added to indicate the file or rank from which the piece moved elsewhere .
+when a pawn makes a capture , the file from which the pawn left is used in place of a piece initial , and ranks may be omitted if unambiguous .
+if a pawn moves to its last rank , it is indicated after the move endings .
+the notation " + " added whenever the opponent 's king is considered obsolete unless there are no other check .
+the moves can be annotated with punctuation marks and other symbols .
+each square has two different names depending on whether it is from white 's or black 's point of view .
+when recording captures , the captured piece is named rather than the square on which it is captured except to resolve ambiguitieslity .
+a few players still prefer descriptive notation , but it is no longer recognized by fide .
+squares are identified by numeric coordinates , for example a1 is 11 and h8 is 88 .
+moves are described by the " from " and " to " squares , e . g . the opening move 1 . e .
+e4 is rendered as 1.5254 .
+captures are not indicated .
+a chess opening is the group of first moves of a game where the player moves the same as the opening moves .
+recognized sequences of opening moves are known as " openings " and have been given names such as the ruy lopez or sicilian defence .
+they are catalogued in reference works such as the " encyclopaedia of chess openings " .
+in some opening lines , the sequence considered best for both sides has been worked out to more than 30 moves .
+most players think that white , by virtue of the first move , begins the game with a small advantage .
+black normally tries to neutralize white 's advantage and achieve equality , or to develop dynamic counterplay in an unbalanced position .
+at the same time , players can make plans for the position .
+combinations are a series of tactical moves to achieve some gain .
+the study of openings is connected to the preparation of plans that are typical of the resulting middlegames .
+another important question in the middlegame is whether and how to reduce material and change into an endgame endings .
+endgames can be studied according to the type of pieces that remain on board .
+basic checkmates are positions in which one side has only a king and the other side has one or two pieces .
+for example , king and pawn endgames have only kings and pawns on one or both sides , and the task of the stronger side is to promote one of the pawns .
+other endings are studied according to pieces on the board other than kings , such as rook and pawn versus rook endgames .
+in chess strategy , players use their long term positioning advantages to capture different pieces .
+a game of chess is usually divided into three phases : the opening , typically the first 10 moves , when players move their pieces to useful positions for the coming battle ; and last the game , when most of the pieces are gone , kings usually take a more active part in the struggle , and pawn promotion is often decisive .
+in chess , tactics in general concentrate on short-term actions : short-term that they can be calculated in advance by a human player or a computer .
+in positions with a limited number of forced variations , strong players can calculate long sequences of moves .
+theoreticians describe many elementary tactical methods and typical maneuvers , for example : pins , forks , skewers , batteries , discovered attackstown .
+simple one-move or two-move tactical actions – threats , exchanges of material , and double attacks – can be combined into more complicated sequences of tactical maneuvers that are often forced from the point of view of one or both players .
+brilliant combinations such as those in the immortal game are considered beautiful and are admired by chess lovers .
+a common type of chess exercise is a position where a player can play the game .
+chess strategy is concerned with the study of chess positions and with planning and long-term plans for the future play .
+during the evaluation , players must take into account numerous factors such as the value of the pieces on the board , control of the center , centralization , the pawn structure , king safety , and the control of key squares or groups of squares squares .
+the most basic step in measuring a position is to count the total value of pieces of both sides .
+rooks are considered worth one point , knights and bishops about three points each .
+the king is more valuable than all of the other pieces combined , since its checkmate loses the game .
+in the endgame the king is more powerful than a bishop or knight but less powerful than a rook .
+these basic values are then modified by other factors like position of the piece caesars are usually more valuable than those on their initial squares .
+another important factor in the evaluation of chess positions is the pawn structure sometimes known as the ' pawn skeleton ' opener : the configuration of pawns on the chessboard .
+since pawns are the least mobile of the pieces , the pawn structure is relatively static and largely determines the strategic nature of the position .
+weaknesses in the pawn structure , such as isolated , doubled , or backward pawns and holes , are often permanent .
+care must therefore be taken to avoid these weaknesses unless they are compensated by another valuable asset aarhus for example , by the possibility of developing an attackforce .
+the game of chess has never been part of the olympic games .
+the world 's highest rated female player , judit polgar , has never been in the women 's world championship .
+examples include spain 's linares event , monte carlo 's melody amber tournament , the dortmund sparkassen meeting , sofia 's m-tel masters , and wijk aan zee 's tata steel tournament .
+besides these competitions , there are thousands of other chess tournaments , matches , and festivals held around the world every year for players of all levels .
+most of the top 10 women in 2006 hold the unrestricted gm title .
+the top three countries with the largest number of grandmasters are russia , the united states , and germany , with 251,98 , and 96 , respectively .
+in order to rank players , fide , iccf , and national chess organizations use the elo rating system developed by arpad elo .
+arpad elo thought of a player 's true skill as the average of that player 's performance random variable , and showed how to estimate the average from results of player 's games .
+the us chess federation made the use of elo 's suggestions in 1960 .
+a beginner or casual player typically has an elo rating of less than 1000 .
+the highest rating of all time , 2881 , was achieved by magnus carlsen on the march 2014 fide rating list .
+it was published by richard reti in 1921 .
+it seems impossible to catch the advanced black pawn , while the black king can easily stop the white pawn .
+now the white king comes just in time to support his pawn , or catch the black one .
+in 1913 , the chess historian h . j . r . murray estimated the total number of books , magazines , and chess columns in newspapers to be about 5,000 .
+wood estimated the number , as of 1949 , to be about 20,000 .
+david hooper and kenneth whyld write that , " since then there has been a steady increase year by the number of new chess publications .
+there are two public chess libraries : the john g . white chess and checkers collection at cleveland public library , with over 32,000 chess books and over 6,000 bound volumes of chess periodicals ; and the chess & draughts collection at the national library of the netherlands , with about 30,000 books .
+dirk jan ten geuzendam opines that delucia 's collection " is arguably the finest chess collection in the world " .
+the game structure and nature of chess is related to several branches of mathematics .
+many combinatorical and topological problems connected to chess have been known for hundreds of years .
+the number of legal positions in chess is estimated to be about 10 , and has been proved to be fewer than 10 , with a game-tree complexity of about 10 .
+the game-tree complexity of chess was first calculated by claude shannon as 10 , a number known as the shannon number .
+the best chess programs are now able to beat the strongest human players , so that human-computer matches no longer attract interest from chess players or media .
+the presence of computers and modern communication tools has raised concerns about cheating during games , most notably the " bathroom controversy " during the 2006 world championship .
+ernst zermelo used chess as a basis for his theory of game strategies , which is considered as one of the predecessors of game theory .
+according to claude shannon , however , there are 10 legal positions in chess , so it will take an impossibly long time to compute a perfect strategy with any possible technology .
+the 11-category , game theoretical taxonomy of chess includes : two player , no-chance , markov state is all a player needs to move .
+some use of combinatorial game theory to chess endgames were found by elkiesports .
+there is a lot of scientific literature on chess psychology .
+alfred binet and others showed that knowledge and verbal , rather than visuospatial , ability lies at the core of expertise .
+in his doctoral thesis , adriaan de groot showed that chess masters can rapidly perceive the key features of a position .
+according to de groot , this perception , made possible by years of practice and study , is more important than the sheer ability to anticipate moves .
+de groot showed that chess masters can memorize positions shown for a few seconds .
+the ability to memorize does not alone account for chess-playing skill , since masters and novices , when faced with random arrangements of chess pieces , had equivalent recall recall recall recall each case .
+rather , it is the ability to recognize patterns , which are then memorized , which distinguished the skilled players from the novices .
+when the pieces were taken from an actual game , the masters had almost total positional recall .
+the role of practice and talent in the development of chess has led to much recent research .
+academic studies of the relationship date back at least to 1927 .
+some studies have found no relationship and others finding a relatively strong one .
+a 2016 meta-analysis and review based on 19 studies and a total sample size of 1,779 found that various aspects of general intelligence correlate with chess skill , with average correlations ranging from 0.13 yucatan visuospatial abilitystrelstrelstrel to 0.35 % numerical ability foley .
+david pritchard 's encyclopedias , the website " the chess variant pages " created by hans bodlaender with various contributors , and the magazine " variant chess " published from 1990lifting george jellishesis to 2010 isbn the british chess variants .
+in the context of chess variants , regularitarian fidelogram is commonly referred to as " western chess " , " international chess " , " orthochess " , and " classic chess " .

@@ -1,0 +1,43 @@
+A cash register, or till, is a machine that holds money.
+Cash registers are usually found in shops and restaurants.
+They are used to calculate how much a customer has to pay for something, such as a good or service.
+The drawer of the cash register, which contains the money, is designed so that it would only open if somebody is buying something.
+This is to try to stop the customer from stealing money from the employees.
+The person who invented the cash register was James Ritty, who came from Ohio and owned a bar in Dayton.
+In 1878, he found out that the people who worked in the bar kept on stealing money.
+When he noticed a part of a ship which counted how many times the propeller turned, he used the same idea to build a machine that could count different amount of sales.
+He got a patent on his machine and started a company the next year to make them, but it was not popular and the company, which became the National Cash Register Company in 1884, was sold to John H. Patterson.
+Although the first cash registers were completely mechanical (they used moving parts such as gears and pulleys), and later ones were powered by electricity, today's cash registers use electronics.
+Computer chips are used to add up the prices of different items, show the total amount that has to be paid as well as the change that has to be given back to the customer, open the cash drawer after the customer has paid, and print a receipt as a proof of purchase.
+Today, there is software that runs on personal computers that does the same thing as a cash register.
+This is called a point of sale (POS) system and is used by many big stores and restaurants because it is easier to manage a lot of machines from one place.
+It can also take care of inventory (how much of each item is in the store at any time), so that the shop owner knows when they have to get more items from the supplier to make sure a customer can get the item when they want it.
+Unlike a traditional cash register, different parts of a POS system are separate hardware rather than built into one machine, which makes it easier to set up.
+Companies like IBM, Toshiba, and NCR Corporation (which came from the original National Cash Register Company) are just a few of those that make POS systems and hardware, some of which include touchscreens that make it easy to operate.
+A cashier is the name of a person who works at the cash register or POS terminal of a retail store, sometimes called the "checkout" or "till".
+Customers bring any merchandise they wish to buy to the cashier, who will then enter each item into the cash register.
+In the past, the cashier had to press some keys on a keyboard to do this, but in recent days he or she simply scans a barcode on the product itself using a laser scanner.
+The cash register then looks up the item in a database stored in a computer to get its price, and add it to the customer's purchase.
+In some types of stores, such as grocery stores, items are sold by weight.
+In this case, the cashier has to put the item on a weighing scale, which would then send the weight of the item to the cash register to calculate its price.
+Many stores use a system of code numbers, called price look-up (PLU) codes, to identify the item being weighed and sold.
+These code numbers have become a standard used around the world.
+After the cashier has scanned all of the goods, he or she will ask the customer for payment.
+If the customer is paying by cash, the customer gives the cashier money, which the cashier will count to find out how much the customer is paying.
+He or she will then enter the amount into the cash register, which will open the cash drawer.
+Inside the drawer, there are different places to put each type of bill and coin (for example, all the 1-dollar bills go in one part, and all the 25 cent coins go in another part).
+The cashier puts the bills and coins from the customer into the right places in the drawer, and takes out bills and coins that add up to the amount of change that the customer is supposed to get.
+The cashier closes the drawer and gives the change and receipt to the customer.
+Many modern cash registers and POS terminals also allow payments by electronic funds transfer (EFT), such as a debit card or credit card.
+In this case, the customer has to use a small machine next to the cash register or POS terminal that reads the data from his or her card.
+Depending on the type of card being used, he or she and might have to enter a personal identification number (PIN) to confirm the transaction.
+Many debit and credit cards now have a feature called contactless payment, which allows the user to simply tap his or her card on the reader to pay, making it quicker than other methods such as a chip or magnetic stripe.
+It uses radio-frequency identification (RFID) technology, which is compatible with near field communication (NFC) that is built into many mobile phones.
+Companies like Apple, Google, and Microsoft have all made NFC-based mobile payment systems for platforms like iOS, Android, and Windows.
+In the 2010s, there is a type of POS terminal that is operated by the customer, rather than a cashier.
+With this self-checkout, the customer scans the items he or she wishes to buy, and then pays by inserting cash or a credit card.
+These types of checkouts still have someone to look after them, in case any customer needs help.
+Besides retail, the hospitality industry also makes use of cash registers and POS systems.
+Depending on where the system is used, they usually work differently from those in retail.
+For example, a restaurant cash register has to store information about every order, such as who ordered what from each table, whether the bill should be split or not, and whether a tip is added.
+Another example is in hotels, where a cash register has to store information about every room, such as who has booked the room, for how long, and what extra services are needed.

@@ -1,0 +1,41 @@
+the source code of a program is written in one or more languages that are intelligible to programmers , rather than machine code , which is directly executed by the central processing unit .
+the purpose of programming is to find a set of instructions that will automate the performance of a taskful .
+the process of programming requires expertise in several different subjects , including knowledge of the application domain , specialized algorithms , and formal logic .
+tasks related to programming include : testing , debugging , source code maintenance , implementation of build systems , and management of artifacts , such as the machine code of computer programs .
+these might be considered part of the programming process .
+a " hacker " is a computer scientist who uses their knowledge to overcome a problem , but it can also mean a " security hacker " in common language .
+programmable devices have existed at least as far back as 1206 ad , when the automata of al-jazari were programmable , via pegs and cams , to play various rhythms and drum patterns .
+the first computer program is generally dated to 1843 , when mathematician ada lovelace published an algorithm to calculate a sequence of bernoulli numbers .
+however , with the idea of the stored-program computers introduced in 1949 , both programs and data were kept in the same way in computer memory .
+machine code was the language of early programs .
+assembly languages were soon developed that let the programmer specify instruction in a text format , add x , total executions , with abbreviations for each operation code and meaningful names for specifying addresses .
+however , because an assembly language is not much more than a different notation for a machine language , any machine with different instruction sets also have different assembly languages .
+high-level languages make the process of making a program simpler and more understandable , and less bound to the underlying hardware .
+fortran was the first widely used high-level language to have a functional implementation .
+by the late 1960s , data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers .
+readability refers to the ease that a human reader can understand .
+readability is important because programmers spend most of their time reading , trying to understand and modifying existing source code , rather than writing new source code .
+a study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it .
+many factors , having little or nothing to do with the ability of the computer to compile and execute the code , contribute to readability .
+the presentation aspects of this altay are such as line breaks , color highlighting , and so onmler are often handled by the source code editor , but the content aspects reflect the programmer 's talent and skills .
+different visual programming languages have also been developed to resolve readability concerns by adopting non-traditional approaches to code structure and display .
+the academic field and the engineering practice of computer programming are largely concerned with discovering and implementing the most efficient algorithms for a given class of problem .
+for this purpose , algorithms are classified into " orders " using so-called big o notation .
+expert programmers are familiar with a variety of well-established algorithms and use this knowledge to choose algorithms that are best suited to the circumstances .
+a similar technique used for database design is entity-relationship modelingoslav er modeling colleagues .
+it is difficult to know what is the most popular programming languages .
+methods of measuring programming language popularity include : counting the number of job advertisements that mention the language , the number of books sold and courses teaching the language ; and estimates of the number of existing lines of code written in the language .
+some languages are very popular .
+for example , cobol is still strong in corporate data centers often on large mainframe computers , fortran in engineering applications , scripting languages in web development , and c in embedded software .
+new languages are generally designed around the syntax of a prior language with new functionality added .
+debugging is very important in the software development process .
+some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages .
+normally the first step in debugging is to try to reproduce the problem .
+this can be a non-trivial task , for example as with parallel processes or some unusual software bugs .
+also , specific user environment and usage history can make it difficult to reproduce the problem .
+for example , a bug in a compiler can make it crash when parsing some large source file .
+however , after simplification of the test case , only few lines from the original source file can be able to reproduce the same crash .
+when debugging the problem in a gui , the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear .
+trade-offs from this ideal means that enough programmers know the language to build a team , the availability of compilers for that language , and the efficiency with which programs written in a given language execute .
+many computer languages provide a mechanism to call functions provided by shared libraries .
+provided the functions in a library follow the appropriate run-time conventions .

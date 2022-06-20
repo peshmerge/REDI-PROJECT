@@ -1,0 +1,10 @@
+it says that a proposition is true because it has not yet been proven false or that it has not yet been proven true .
+this also means that the possibility is not true or false .
+it also says that the answer can not be true , but not completely , or that it will be true .
+appeals to ignorance are often used to try to prove the proof .
+in research , low-power experiments are subject to false negatives .
+contraposition is a logically valid rule of inference .
+the proposition " if a " b " and " b " can be changed .
+" if not-b " that is just as true as the original one and that the first implies the second and the second implies the first .
+transposition is the same thing as contraposition .
+in practice these arguments are often false .

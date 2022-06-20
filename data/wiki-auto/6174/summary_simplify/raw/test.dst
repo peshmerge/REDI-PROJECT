@@ -1,0 +1,22 @@
+In mathematics, the cardinality of a set is a measure of the "number of elements of the set".
+For example, the set formula_1 contains 3 elements, and therefore formula_2 has a cardinality of 3.
+The cardinality of a set is also called its size, when no confusion with other notions of size is possible.
+The cardinality of a set formula_2 is usually denoted formula_4, with a vertical bar on each side; this is the same notation as absolute value and the meaning depends on context.
+While the cardinality of a finite set is just the number of its elements, extending the notion to infinite sets usually starts with defining the notion of comparison of arbitrary (possibly infinite) sets.
+The relation of having the same cardinality is called equinumerosity, and this is an equivalence relation on the class of all sets.
+The equivalence class of a set "A" under this relation then consists of all those sets which have the same cardinality as "A".
+Assuming AC, the cardinalities of the infinite sets are denoted For each ordinal formula_11, formula_12 is the least cardinal number greater than formula_13.
+The cardinality of the natural numbers is denoted aleph-null (formula_14), while the cardinality of the real numbers is denoted by "formula_15" (a lowercase fraktur script "c"), and is also referred to as the cardinality of the continuum.
+We can show that formula_17, this also being the cardinality of the set of all subsets of the natural numbers.
+there is no set whose cardinality is strictly between that of the integers and that of the real numbers.
+See below for more details on the cardinality of the continuum.
+Cantor introduced the cardinal numbers, and showed that (according to his bijection-based definition of size) some infinite sets are greater than others.
+The continuum hypothesis states that there is no cardinal number between the cardinality of the reals and the cardinality of the natural numbers, that is,
+However, this hypothesis can neither be proved nor disproved within the widely accepted ZFC axiomatic set theory, if ZFC is consistent.
+Cardinal arithmetic can be used to show not only that the number of points in a real number line is equal to the number of points in any segment of that line, but that this is equal to the number of points on a plane and, indeed, in any finite-dimensional space.
+These results are highly counterintuitive, because they imply that there exist proper subsets and proper supersets of an infinite set "S" that have the same size as "S", although "S" contains elements that do not belong to its subsets, and the supersets of "S" contain elements that are not included in it.
+The first of these results is apparent by considering, for instance, the tangent function, which provides a one-to-one correspondence between the interval (−1⁄2π, 1⁄2π) and R (see also Hilbert's paradox of the Grand Hotel).
+The second result was first demonstrated by Cantor in 1878, but it became more apparent in 1890, when Giuseppe Peano introduced the space-filling curves, curved lines that twist and turn enough to fill the whole of any square, or cube, or hypercube, or finite-dimensional space.
+These curves are not a direct proof that a line has the same number of points as a finite-dimensional space, but they can be used to obtain such a proof.
+If "A" and "B" are "disjoint" sets, then
+From this, one can show that in general the cardinalities of unions and intersections are related by

@@ -1,0 +1,49 @@
+bandwidth is the difference in the number of frequencies .
+it is measured in hertz , and in context , may refer to " passband bandwidth " or " baseband bandwidth " .
+passband bandwidth is the difference between the upper and lower cutoff frequencies of a signal .
+the baseband bandwidth is defined as a filter or a baseband signal .
+bandwidth in hertz is a concept in many fields .
+a key characteristic of bandwidth is that any band of a given width can carry the same amount of information , regardless of where that band is located in the frequency spectrum .
+for example , a 3 khz band can talk whether that band is at basebandarded as in a pots telephone line whereupon or modulated to some higher frequency .
+bandwidth is a concept in many applications .
+in radio communications , bandwidth is the frequency range occupied by a modulated carrier signal .
+the tuner is usually used in radio stations , but the receiver is able to tune it .
+a government agency might assigning the regionally available bandwidth to broadcast license holders so that their signals do not mutually interfere .
+in this context , bandwidth is also known as channel spacing .
+there are other kinds of mathematical terms .
+for a system , the bandwidth can be defined over which the system produces a specified level of performance .
+a less strict and more useful definition will mean the frequencies beyond which performance is degraded .
+in the case of frequency response , degradation can mean more than 3 db below the maximum value or it could mean below a certain absolute value .
+as with any definition of the " width " of a function , many definitions are suitable for different purposes .
+for example , the sampling theorem and the nyquist sampling rate , bandwidth typically refers to baseband bandwidth .
+in context of nyquist symbol rate or shannon-hartley channel capacity for communication systems it refers to passband bandwidth .
+the rayleigh bandwidth of a simple radar pulse is the inverse of its duration .
+for example , a one-microsecond pulse has a rayleigh bandwidth of one megahertz .
+the essential bandwidth is defined as the portion of a signal spectrum in the frequency domain which contains most of the energy of the signal .
+in some contexts , the signal bandwidth in hertz refers to the frequency range in which the signal 's spectral densityference is nonzero or above a small threshold value .
+that definition is used in calculations of the lowest sampling rate that will satisfy the sampling theorem .
+the threshold value is often defined as the , that is the point where the spectral density is half its maximum valuebuck or the spectral amplitude , in v or v / hz , is 70.7 % of its maximum maximum maximum maximum maximum depth .
+the word bandwidth applies to signals as described above , but it could also apply to systems .
+to say that a system can process signals of that bandwidth , or that the system reduces the bandwidth of a white noise input to that bandwidth .
+the 3 db bandwidth of an electronic filter or communication channel is the part of the system 's frequency response .
+if the maximum gain is 0 db , the 3 db bandwidth is the frequency range where the gain is more than −3 db , or the attenuation is less than 3 db .
+the range of frequencies is also the range of frequencies where the amplitude gain is above 70.7 % of the maximum amplitude gain .
+this same " half-power gain " convention is also used in spectral width .
+in electronic filter design , a filter specification may require that within the filter passband , the gain is nominally 0 db ± a small number of db , for example within the ±1 db interval .
+in the stopbandsovization , the required attenuation in db is above a certain level , for example > 100 db .
+in a transition band the gain is not always defined .
+in this case , the filter bandwidth is the passband width , which in this example is the 1 db-bandwidth .
+if the filter shows amplitude ripple within the passband , the " x " db point refers to the point where the gain is " x " db below the nominal passband gain .
+bandwidth is the 3 db-bandwidth .
+the bandwidth is defined in calculations of the maximum symbol rate , the nyquist sampling rate , and maximum bit rate according to the hartley formula .
+in equivalent baseband models of communication systems , the signal spectrum consists of both negative and positive frequencies .
+for instance , the baseband model of the signal would require a low-pass filter with cutoff frequency of at least formula _ 3 to stay intact , and the physical passband channel would require a passband filter of at least formula _ 2 to stay intact .
+in signal processing and control theory , the bandwidth is the frequency at which the closed-loop system gain 3 db below peak .
+in basic electric circuit theory , when studying band-pass and band-reject filters , the bandwidth is the distance between two points in the frequency domain where the signal is formula _ 6 of the maximum signal amplitude amplitude amplitude amplitude amplitude amplitude amplitude amplitude amplitude amplitude amplitude amplitude amplitude amplitude amplitude amplitude equals half power output .
+in the field of antennas , two different methods of expressing relative bandwidth are used for narrowband and wideband antennas .
+for a set of criteria is defined to define the extents of the bandwidth , such as input impedance , pattern , or polarization .
+" percent bandwidth " is usually used for narrowband antennas .
+the theoretical limit to percent bandwidth is 200 % , which occurs for formula _ 8 .
+the fractional bandwidth is defined as formula _ 9 .
+fractional bandwidth is used for wideband antennas because of the compression of the percent bandwidth that occurs mathematically with percent bandwidths above 100 % .
+a related concept is the spectral linewidth of the radiation emitted by excited atoms .

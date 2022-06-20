@@ -1,0 +1,40 @@
+octahedra is a polyhedron with eight faces , twelve edges , and six vertices .
+the term is most commonly used to refer to the regular octahedron , a platonic solid composed of eight equilateral triangles , four of which meet at each vertex .
+a regular octahedron is a polyhedron .
+an octahedron is a three-dimensional concept .
+if the edge length of a regular octahedron is " a " , the radius of a circumscribed sphere makes one that touches the octahedron at all vertices vertices vertices vertices ¥ is possible .
+and the radius of an inscribed sphere makes tangent to each of the octahedron 's faces ¥ ¥ .
+the midradius touches the middle of each edge .
+the octahedron has four special orthogonal projections , centered , on an edge , vertex , face , and normal to a face .
+the second and third are the b and a coxeter planes .
+the octahedron can be drawn as a flat flat , straight line , projected onto the plane via a stereographic projection .
+straight lines are projected as circular arcs on the plane .
+an octahedron with edge length can be placed with its center at the origin and its vertices on the coordinate axes ; the cartesian coordinates of the vertices are then then then put on the cartesian coordinates .
+in an " x "-"-" z "-" cartesian coordinate system , the octahedron with center coordinates coordinates coordinates coordinates coordinatesialsialsials " a " , " b " , " c " foley and radius " r " is the set of all points hamasaki " x " , " y " , " z " .
+the surface area is twiceosis because we have 8 rather than 4 triangles triangles triangles .
+if an octahedron has been stretched so that it obeys the equation
+the surface area and volume expand to become bigger .
+the inertia tensor of the stretched octahedron is also the inertia tensor .
+these reduce to the equations for the regular octahedron when
+the inside of the compound is a two tetrahedra .
+the vertices of the octahedron are at the middle of the edges of the tetrahedron .
+one can also divide the edges of an octahedron in the ratio of the golden mean to define the vertices of an icosahedron .
+this is done by first placing vectors along the octahedron 's edges .
+together they define a " regular compound " .
+octahedra and tetrahedra can be alternated to form a vertex , edge , and face-uniform tessellation of space , called the octet truss by buckminster fuller .
+it is one of the 28 convex uniform honeycombs .
+another is a tessellation of octahedra and cuboctahedra .
+consequently , it is the only member of that group to have mirror planes that do not pass through any of the faces .
+the octahedron is 4-connected , so it takes the removal of four vertices to disconnect the remaining vertices .
+the other three polyhedra with this property are the pentagonal dipyramid , the snub disphenoid , and an irregular polyhedron with 12 vertices and 20 triangular faces .
+they all have six vertices , eight triangular faces , and twelve edges that correspond one-for-one with the features of a regular octahedron .
+an octahedron is a polyhedron with eight faces .
+the regular octahedron has 6 vertices and 12 edges .
+polyhedra are " topologically distinct " if they have different arrangements of faces and vertices .
+a framework of repeating tetrahedrons and octahedrons was invented by buckminster fuller in the 1950s .
+a regular octahedron can be added into a tetrahedron by adding 4 tetrahedra on alternated faces .
+the octahedron is a family of uniform polyhedra related to the cube .
+the regular octahedron can also be considered a " rectified tetrahedron " .
+the octahedron as a " tetratetrahedron " exists in a sequence of quasiregular polyhedra and tilings with vertex configurationseux 3 .
+" n " enters the sphere and then into the hyperbolic plane .
+the octahedron is related to the hexagonal symmetry family .

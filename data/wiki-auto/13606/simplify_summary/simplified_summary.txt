@@ -1,0 +1,18 @@
+half-life savings symbol t is the time required for a quantity to reduce to half of its initial value .
+the term is often used in nuclear physics to describe how quickly unstable atoms undergo , or how long stable atoms survive , radioactive decay .
+for example , the medical sciences refer to the biological half-life of drugs and other chemicals in the human body .
+the original term , half-life period , dates from rutherford 's discovery of the principle in 1907 , was shortened to " half-life " in the early 1950s .
+rutherford used the principle of a radioactive element 's half-life to studies of age determination of rocks by measuring the decay period of radium to lead-206 .
+in that case , it does not use the definition that states " half-life is the time required for exactly half of the entities to decay " .
+for example , if there is just one radioactive atom , and its half-life is one second , there will " not " half of an atom left after one second .
+half-life is defined in terms of probability : " half-life is the time required for exactly half of the entities to decay " on average " .
+for example , the image on the right is a simulation of many identical atoms undergoing radioactive decay .
+note that after one half-life there are not exactly one-half of the atoms remaining , only " approximately " , because of the random variation in the process .
+nevertheless , when there are many identical atoms decayingttered right boxes ¥ , the law of large numbers suggests that it is a " very good approximation " to say that half of the atoms remain after one half-life .
+an exponential decay can be described by any of the following three equivalent formulas : where
+the three parameters " t " , τ , and λ are all directly related in the following way : where ln aarhus 2 [mask] is the natural logarithm of 2 vols .
+in a decay process that is not even close to exponential , the half-life will change dramatically while the decay is happening .
+in this situation it is generally uncommon to talk about half-life in the first place , but sometimes people will describe the decay in terms of its " first half-life " , " second half-life " , etc .
+a half-life or half-life is the time it takes for a substance whose nuclide is to lose one-half of its pharmacologic , physiologic , or radiological activity .
+in a medical context , half-life may also describe the amount of substance in blood plasma to reach one-half of its steady-state value .
+the concept of a half-life has also been used for pesticides in plants .

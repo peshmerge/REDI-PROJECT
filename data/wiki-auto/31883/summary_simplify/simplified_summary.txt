@@ -1,0 +1,94 @@
+in quantum mechanics , the uncertainty principle is a set of rules that determine the effects of the particle , such as the position " x " and momentum , can be defined by the notion of the fact that the particle can be defined by the fact that the universe is not .
+werner heisenberg , a german physicist , first discovered the first position in 1927 .
+the formal inequality relating the standard deviation of position " σ " and the standard deviation of momentum " σ " was derived by earle hesse kennard later that year and by hermann weyl in 1928 : where ħ is the reduced planck constant , " h " / 2am " .
+the uncertainty principle is also confused with the " observer effect " .
+it is clearer , however , that the uncertainty principle is inherent in the properties of all wave-like systems , and that it arises in quantum mechanics simply due to the matter wave nature of all quantum objects .
+the uncertainty principle is a statement about the observational success of current technology .
+it must be emphasized that " measurement " does not mean only a process in which a physicist-observer takes part , but rather any interaction between classical and quantum objects regardless of any observer .
+the wave mechanics picture of the uncertainty principle is more visually intuitive .
+in wave mechanics , the uncertainty relation between position and momentum arises because the expressions of the wavefunction in the two corresponding orthonormal bases in hilbert space are fourier transforms of one another .
+a similar tradeoff between the variances of fourier conjugates arises in all systems underlain by fourier analysis .
+in quantum mechanics , the two key points are that the position of a matter wave takes the form of a matter wave , and momentum is its fourier conjugate , assured by the de broglie relation , where k is the wavenumber .
+the wave of wavenumber formula _ 1 is the momentum of a wave function .
+the born rule says that the probability of finding the particle between " a " and " b " is probability .
+in the case of the single-moded plane wave , formula _ 4 is a uniform distribution .
+in other words , the particle position is extremely uncertain .
+on the other hand , consider a wave function that is a sum of many waves , which we may write this as
+where " a " represents the relative contribution of the mode " p " to the overall total .
+we may take this a step further to the continuum limit , where the wave function is an integral over all possible modes .
+the wave is called the wave function in momentum space .
+adding together all of these plane waves comes at a cost , namely the momentum has become a mixture of many different momenta .
+click the " show " button below to see a semi-formal derivation of the kennard inequality using wave mechanics .
+in matrix mechanics , observables such as position and momentum are represented by self-adjoint operators .
+for a pair of operators a and b , one defines their commutator as in the case of position and momentum , the commutator is the canonical commutation relation .
+the physical meaning of the non-commutativity can be understood by considering the effect of the commutator on position and momentum eigenstates .
+by definition , this means that formula _ 14 applying the commutator to formula _ 13 yields where i is the identity operator .
+if we could write , then one could write on the other hand , the above canonical commutation relation requires that this implies that no quantum state can simultaneously be both a position and a momentum eigenstate .
+this means that the state is " not " a momentum eigenstate , however , but rather it can be represented as a sum of multiple momentum basis eigenstates .
+this precision may be quantified by the standard deviations , and the standard deviations are quantified .
+as in the wave mechanics interpretation above , one sees a tradeoff between the respective precisions of the two , quantified by the uncertainty principle .
+for a pair of operators , we may define their commutator as
+the robertson uncertainty relation is given by
+the robertson uncertainty relation immediately follows from a slightly stronger inequality , the schrodinger uncertainty relation , where we have introduced the " anticommutator " ,
+since the robertson and schrodinger relations are for general operators , the relations can be applied to any two observables to obtain specific uncertainty relations .
+a few of the most common relations in the literature are below .
+suppose we consider a quantum particle on a ring , where the wave function depends on an angular variable formula _ 41 , which we may take to lie in the interval formula _ 13 .
+in the state formula _ 19 , the uncertainty of formula _ 13 is zero and the uncertainty of formula _ 19 is finite .
+although these also furnish an example of operators satisfying the canonical commutation relations but not the weyl relations .
+the variances may be computed directly , the product of these standard deviations is then then then then then then then then then the product of these standard deviations is then then then then then then then then then then then then then then then then then then the product of these standard deviations is then then then then then then then then then then then then then then then then then then then then then then then then the product of these standard deviations is then then then then then then then then then then then then then then then then then then then then then then then then then then then then then then then then the product of these standard deviations is then .
+in particular , the above kennard bound is saturated for the ground state , for which the probability density is just the normal distribution .
+in a quantum harmonic oscillator of characteristic angular frequency ω , the state that is offset from the bottom of the potential by some displacement " x " as where ω describes the width of the initial state but need not be the same as ω .
+it can be integration over the whole solution .
+after many cancelations , the probability densities reduce to where we have used the notation formula _ 85 to denote a normal distribution of mean μ and variance σ .
+copying the variances above and applying trigonometric identities , we can write the product of the standard deviations as
+we can conclude the following : ω = ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω ω
+a coherent state is a right eigenstate of the annihilation operator .
+one expects that the factor " ce " may be replaced by " ce " .
+the mathematician g . h . hardy formulated the uncertainty principle : it is not possible for f and omega to both be " very rapidly decreasing " .
+this result was stated in beurling 's complete works without proof .
+the central idea was that the classical concept of motion does not fit at the quantum level , as electrons in an atom do not travel on sharply defined orbits .
+rather , their motion is smeared out in a strange way : the fourier transform of its time dependence only involves those frequencies that could be observed in the quantum jumps of their radiation .
+heisenberg 's paper did not admit any unobservable quantities like the position of the electron in an orbit at any time .
+since the fourier components were not defined at the classical frequencies , they could not be used to make an exact path .
+in march 1926 , heisenberg realized that the non-commutativity implies the uncertainty principle .
+it laid the foundation for what became known as the copenhagen interpretation of quantum mechanics .
+heisenberg showed that the commutation relation implies an uncertainty , or in bohr 's language a complementarity .
+any two variables that do not commutescent be measured at the same time , the less precisely the other can be known .
+heisenberg wrote : it can be expressed in its simplest form as follows : one can never know with perfect accuracy both of those two factors which determine the movement of one of the smallest particles — its position and its velocity .
+it is impossible to know accurately " both " the position and the direction and speed of a particle " at the same instant " .
+in his 1927 paper " uber den anschaulichen inhalt der quantentheoretischen kinematik und mechanik " showed that the perceptual content of quantum theoretical kinematics and mechanics " showed that the total momentum of unavoidable position was caused by δ , but did not give the precise definition .
+heisenberg only proved relation wagner wagner 2stituting the special case of gaussian states .
+when the english-language version of heisenberg 's textbook , " the physical principles of the quantum theory " , was published in 1930 , however , the translation " uncertainty " was used .
+the principle is quite counter-intuitive , so the early students of quantum theory had to be reassured that naive measurements would violate it always be unworkable .
+one way in which heisenberg first illustrated the intrinsic impossibility of violating the uncertainty principle is by using the observer effect of an imaginary microscope as a measuring device .
+the combination of these trade-offs implies that no matter what photon wavelength and aperture size are used , the product of the uncertainty in measured position and measured momentum is greater than or equal to a lower limit , which is equivalent to planck 's constant .
+heisenberg did not care to formulate the uncertainty principle as an exact limit limit limit exceedsability .
+the copenhagen interpretation of quantum mechanics says that there is no basic reality that the quantum state describes .
+albert einstein believed that randomness is a reflection of our ignorance of some fundamental property of reality .
+this introduces an uncertainty in the position of the wall and therefore the position of the slit equal to , and if the wall 's momentum is known precisely enough to measure the recoil , the slit 's position is uncertain enough to disallow a position .
+einstein argued that the uncertainty in time was related to the uncertainty in energy , the product of the two being related to planck 's constant .
+the box could be weighed before a clockwork mechanism opened an ideal shutter at a chosen instant to allow one single photon to escape .
+einstein said that the energy emitted and the time it was released with any desired precision , in contradiction to the uncertainty principle .
+bohr spent a sleepless night considering this argument .
+he pointed out that if the box were to be weighed , say by a spring and a pointer on a scale , " since the box must move vertically with a change in its weight , there will be uncertainty in its height above the table .
+the uncertainty about the elevation above the earth 's surface will result in an uncertainty in the rate of the clock , " because of einstein 's own theory of gravity 's effect on time .
+" through this chain of uncertainties , bohr showed that einstein 's light box experiment could not simultaneously measure both the energy of the photon and the time of its escape . "
+bohr was made to change his understanding of the uncertainty principle after another thought experiment by einstein .
+bohr decided that the uncertainty was not caused by a direct interaction .
+he believed the " natural basic assumption " that a complete description of reality would have to predict the results of experiments from " locally changing deterministic quantities " .
+in 1964 , john bell showed that this idea could be falsified , since it would imply a certain inequality between the probabilities of different experiments .
+experimental results confirm the predictions of quantum mechanics , ruling out einstein 's basic idea that led him to the suggestion of his " hidden variables " .
+these variables may be " hidden " , because of an illusion that occurs during observations of objects that are too large or too small .
+the question of whether a random outcome is predetermined by a theory can be philosophical , and it can be intractable .
+if the variable is not limited , they could just be a list of random digits that are used to produce the measurement outcomes .
+to make it sensible , the assumption of nonlocal hidden variables is sometimes augmented by a second assumption .
+a nonlocal theory of this sort predicts that a quantum computer would encounter fundamental obstacles when attempting to factor numbers of approximately 10,000 digits or more .
+he disagreed with the use of the uncertainty relations to individual particles rather than to groups of identically prepared particles .
+in 1934 , popper published " zur kritik der ungenauigkeitsrelationen " critique of the uncertainty relations " .
+in 1982 , he further developed his theory in " quantum theory and the schism in physics " .
+but they have been " habitually misinterpreted " by those quantum theorists who said that these formulae can be seen as determining some upper limit to the " precision of our measurements " .
+popper proposed an experiment to falsify the uncertainty relations , although he later withdrew his initial version after discussions with weizsacker , heisenberg , and einstein .
+albert einstein 's and bohr 's views made the many-worlds interpretation of the universe by combining the two worlds from the wave function .
+some scientists including arthur compton and martin heisenberg have suggested that the uncertainty principle , or at least the general probabilistic nature of quantum mechanics , could be evidence for the two-stage model of free will .
+quantum mechanics is a foundation for chemistry , nontrivial biological mechanisms requiring quantum mechanics are unlikely , due to the rapid decoherence time of quantum systems at room temperature .
+there is a reason to say that violating the uncertainty principle also strongly implies the violation of the second law of thermodynamics .

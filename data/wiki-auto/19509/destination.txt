@@ -1,0 +1,33 @@
+In mathematics, an "n-ary relation" on "n" sets, is any subset of Cartesian product of the "n" sets.
+The relation is "homogeneous" when it is formed with one set.
+For example any curve in the Cartesian plane is a subset of the Cartesian product of real numbers, "RxR".
+The homogeneous binary relations are studied for properties like reflexiveness, symmetry, and transitivity which determine different kinds of orderings on the set.
+Heterogeneous "n-ary" relations, are used in the semantics of predicate calculus, and in relational databases.
+In relational databases jargon, the relations are called tables.
+There is a relational algebra consisting in the operations on sets, because relations are sets, extended with operators like projection, which forms a new relation selecting a subset of the columns (tuple entries) in a table, the selection operator, which selects just the rows (tuples),according to some condition, and join which works like a composition operator.
+The use of the term "relation" is often used as shorthand to refer to binary relations, where the set of all the starting points is called the "domain" and the set of the ending points is the "codomain".
+An example for such a relation might be a function.
+Functions associate keys with values.
+The set of all functions is a subset of the set of all relations - a function is a relation where the first value of every tuple is unique through the set.
+Other well-known relations are the Equivalence relation and the Order relation.
+That way, sets of things can be ordered: Take the first element of a set, it is either equal to the element looked for, or there is an order relation that can be used to classify it.
+That way, the whole set can be classified (compared to some arbitrarily chosen element).
+Relations can be transitive.One example of a transitive relation is "smaller-than".
+If X "is smaller than "Y,and Y is"smaller than "Z,then X"is smaller than" Z.
+One more example :-if relation (a,b)€R and (b,c) is also belongs to R then (a,c) have to belongs to R.
+Relations can be symmetric.
+One example of a symmetric relation is "is equal to".
+If X "is equal to" Y, Y "is equal to" X.
+One more example :- if relation (a,b)€R then (b,a)€R have to belongs to R. Relations can be anti-symmetric.
+One example of an anti-symmetric relation is if "X is equal Y", "Y is not equal to X".
+Relations can be reflexive.
+One example of a reflexive relation is "is equal to".
+X "is equal to" X.
+One more example:- if relation a€A then (a,a)€R.
+Every subset of AxB is a relation from A to B.
+In category theory relations play an important role in the Cartesian closed categories, which transform morphisms from tuples to morphisms of single elements.
+That corresponds to Currying in the Lambda calculus.
+In the relational database theory, a database is a set of relations.
+To model a real world, the relations should be in a canonical form called normalized form in the data base argot.
+That transformation ensure no loss of information nor the insertion of spurious tuples with no corresponding meaning in the world represented in the database.
+The normalization process takes into account properties of relations like functional dependencies among their entries, keys and foreign keys, transitive and join dependencies.

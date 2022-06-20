@@ -1,0 +1,43 @@
+Theodor Holm Nelson (Ted Nelson, born 1937) is an American sociologist, philosopher, and pioneer of information technology.
+He coined the terms "hypertext" and "hypermedia" in 1963 and published it in 1965.
+He also is credited with first use of the words "transclusion", "virtuality", "intertwingularity" and "teledildonics".
+The main thrust of his work has been to make computers easily accessible to ordinary people.
+His motto is: "A user interface should be so simple that a beginner in an emergency can understand it within ten seconds."
+However, he is known for inventing many new words (neologisms) which few other people understand (such as "intertwingularity"), and his remarks contain humor to entertain rather than just inform.
+Consequently, some of his ideas have been met with negative reactions.
+From a pessimist viewpoint, Ted Nelson promotes four maxims: "most people are fools, most authority is malignant, God does not exist, and everything is wrong".
+Nelson started Project Xanadu in 1960.
+He wanted to create a new computer network that was easy to use and easy to understand.
+He wrote about the project in his books "Computer Lib/Dream Machines" (1974) and "Literary Machines" (1981).
+He has spent much of his adult life working on Project Xanadu and telling people about its benefits.
+The Xanadu project was not very successful.
+There were many reasons, but not everyone agrees why the project did not go well.
+Journalist Gary Wolf published an unflattering history, "The Curse of Xanadu", on Nelson and his project in the June 1995 issue of "Wired".
+Nelson expressed his disgust on his website, referring to Wolf as a "Gory Jackal", and threatened to sue him.
+He also outlined his objections in a letter to "Wired", and released a detailed rebuttal of the article.
+Nelson says that Tim Berners-Lee made some ideas from Xanadu become true by inventing the World Wide Web.
+But, Nelson dislikes the World Wide Web, XML, and all embedded markup.
+HTML is precisely what we were trying to PREVENT– ever-breaking links, links going outward only, quotes you can't follow to their origins, no version management, no rights management.
+– Ted Nelson (Ted Nelson one-liners ) Nelson co-founded Itty bitty machine company, or "IBM", which was a small computer retail store operating from 1977 to 1980 in Evanston, Illinois.
+The Itty bitty machine company was one of the few retail stores to sell the original Apple I computer.
+In 1978 he had a significant impact upon IBM's thinking when he outlined his vision of the potential of personal computing to the team that three years later launched the IBM PC.
+Ted Nelson is currently working on a new information structure, ZigZag.
+More information about ZigZag is on the Xanadu project website.
+That website also has two versions of the Xanadu code that visitors can download.
+He is also currently developing XanaduSpace - a system for the exploration of connected parallel documents (an early version of this software may be freely downloaded from .
+He is a visiting fellow at Oxford University - based at the Oxford Internet Institute - where he works in the fields of information, computers, and human-machine interfaces.
+Nelson earned a Bachelor's degree in philosophy from Swarthmore College in 1959, a Master's degree in sociology from Harvard University in 1963 and a Doctorate in Media and Governance from Keio University in 2002.
+In 1998, at the Seventh WWW Conference in Brisbane, Australia, Ted Nelson was awarded the Yuri Rubinsky Memorial Award.
+He told the audience that it was the first award that he had ever received for his work.
+In 2001 he was knighted by France as "Officier des Arts et Lettres".
+In 2004 he was appointed as a Fellow of Wadham College, Oxford, and associated with the Oxford Internet Institute, where he is currently conducting his research.
+In 2007 he celebrated his 70th birthday by giving an invited birthday lecture at the University of Southampton.
+He is the son of the late Emmy Award-winning director Ralph Nelson and the Academy Award-winning actress Celeste Holm.
+His parents' marriage was brief, and he was mostly raised by his grandparents in Greenwich Village, with relatively little contact with his parents.
+He is partly of Norwegian descent.
+The anime "Serial Experiments Lain" cites Project Xanadu as a precursor to The Wired (a fictional internet-like communications network and augmented reality system) and mentions Nelson as the originator of hypertext.
+"Populitism" ("pop-u-leet-ism") is another neologism coined by Nelson, as a combination of the word "populism" with "elite".
+It refers to treating the general populace with the privileges of elitism.
+The word suggests the society-of-text envisioned by theorists like Shoshana Zuboff and Jay David Bolter, a writing space in which traces of authority persist only as local and contingent effects, the social equivalent of the deconstructed author-function.
+A "populite" culture might mark the first step toward realization of Jean-Francois Lyotard's "game of perfect information" where all have equal access to the world of data, and where "given equal competence (no longer in the acquisition of knowledge, but in its production), what extra performativity depends on in the final analysis is 'imagination,' which allows one either to make a new move or change the rules of the game."
+This is the utopia of information-in-process, the ultimate wetware dream of the clerisy: discourse converted with 100 percent efficiency into capital, the mechanism of that magical process being nomology or rule-making—admittedly a rather specialized form of "imagination."

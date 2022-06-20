@@ -1,0 +1,135 @@
+An assembly language is a programming language that can be used to directly tell the computer what to do.
+An assembly language is almost exactly like the machine code that a computer can understand, except that it uses words in place of numbers.
+A computer cannot really understand an assembly program directly.
+However, it can easily change the program into machine code by replacing the words of the program with the numbers that they stand for.
+A program that does that is called an assembler.
+Programs written in assembly language are usually made of "instructions", which are small tasks that the computer performs when it is running the program.
+They are called instructions because the programmer uses them to instruct the computer what to do.
+The part of the computer that follows the instructions is the processor.
+The assembly language of a computer is a low-level language, which means that it can only be used to do the simple tasks that a computer can understand directly.
+In order to perform more complex tasks, one must tell the computer each of the simple tasks that are part of the complex task.
+For example, a computer does not understand how to print a sentence on its screen.
+Instead, a program written in assembly must tell it how to do all of the small steps that are involved in printing the sentence.
+Such an assembly program would be composed of many, many instructions, that together do something that seems very simple and basic to a human.
+This makes it hard for humans to read an assembly program.
+In contrast, a high-level programming language may have a single instruction such as PRINT ""Hello, world!""
+that will tell the computer to perform all of the small tasks for you.
+When computer scientists first built programmable machines, they programmed them directly in machine code, which is a series of numbers that instructed the computer what to do.
+Writing machine language was very hard to do and took a long time, so eventually assembly language was made.
+Assembly language is easier for a human to read and can be written faster, but it is still much harder for a human to use than a high-level programming language which tries to mimic human language.
+To program in machine code, the programmer needs to know what each instruction looks like in binary (or hexadecimal).
+Although it is easy for a computer to quickly figure out what machine code means, it is hard for a programmer.
+Each instruction can have several forms, all of which just look like a bunch of numbers to people.
+Any mistake that someone makes while writing machine code will only be noticed when the computer does the wrong thing.
+Figuring out the mistake is hard because most people cannot tell what machine code means by looking at it.
+This hexadecimal machine code tells an x86 computer processor to add 42 to the accumulator.
+It is very difficult for a person to read and understand it even if that person knows machine code.
+With assembly language, each instruction can be written as a short word, called a "mnemonic", followed by other things like numbers or other short words.
+The mnemonic is used so that the programmer does not have to remember the exact numbers in machine code needed to tell the computer to do something.
+Examples of mnemonics in assembly language include "add", which adds data, and "mov", which moves data from one place to another.
+Because 'mnemonic' is an uncommon word, the phrase "instruction type" or just "instruction" is sometimes used instead, often incorrectly.
+The words and numbers after the first word give more information about what to do.
+For instance, things following an "add" might be what two things to add together and the things following "mov" say what to move and where to put it.
+For example, the machine code in the previous section (05 2A 00) can be written in assembly as: Assembly language also allows programmers to write the actual data the program uses in easier ways.
+Most assembly languages have support for easily making numbers and text.
+In machine code, each different type of number like positive, negative or decimal, would have to be manually converted into binary and text would have to be defined one letter at a time, as numbers.
+Assembly language provides what is called an abstraction of machine code.
+When using assembly, programmers do not need to know the details of what numbers mean to the computer, the assembler figures that out instead.
+Assembly language actually still lets the programmer use all the features of the processor that they could with machine code.
+In this sense, assembly language has a very good, rare trait: it has the same ability to express things as the thing it is abstracting (machine code) while being much easier to use.
+Because of this, machine code is almost never used as a programming language.
+When programs are finished, they have already been transformed into machine code so that the processor can actually run them.
+Sometimes, however, if the program has a bug (mistake) in it, programmers will want to be able to tell what each part of the machine code is doing.
+Disassemblers are programs that help programmers do that by transforming the machine code of the program back into assembly language, which is much easier to understand.
+Disassemblers, which turn machine code into assembly language, do the opposite of assemblers, which turn assembly language into machine code.
+An understanding of how computers are organized, how they seem to work at a very low level, is needed to understand how an assembly language program works.
+In most computers, memory is divided up into bytes.
+Each byte contains 8 bits.
+Each byte in memory also has an "address" which is a number that says where the byte is in memory.
+The first byte in memory has an address of 0, the next one has an address of 1, and so on.
+Dividing memory into bytes makes it "byte addressable" because each byte gets a unique address.
+Addresses of byte memories cannot be used to refer to a single bit of a byte.
+A byte is the smallest piece of memory that can be addressed.
+Even though an address refers to a particular byte in memory, processors allow for using several bytes of memory in a row.
+The most common use of this feature is to use either 2 or 4 bytes in a row to represent a number, usually an integer.
+Single bytes are sometimes also used to represent integers, but because they are only 8 bits long, they can only hold 2 or 256 different possible values.
+Using 2 or 4 bytes in a row raises the number of different possible values to be 2, 65536 or 2, 4294967296, respectively.
+When a program uses a byte or a number of bytes in a row to represent something like a letter, number, or anything else, those bytes are called an "object" because they are all part of the same thing.
+Even though objects are all stored in identical bytes of memory, they are treated as though they have a 'type', which says how the bytes should be understood: either as an integer or a character or some other type (like a non-integer value).
+Machine code can also be thought of as a type that is interpreted as instructions.
+The notion of a type is very, very important because it defines what things can and can’t be done to the object and how to interpret the bytes of the object.
+For instance, it is not valid to store a negative number in a positive number object and it is not valid to store a fraction in an integer.
+An address that points to (is the address of) a multi-byte object is the address to the first byte of that object – the byte that has the lowest address.
+As an aside, one important thing to note is that you can’t tell what the type of an object is - or even its size - by its address.
+In fact, you can’t even tell what type an object is by looking at it.
+An assembly language program needs to keep track of which memory addresses hold which objects, and how big those objects are.
+A program that does so is "type safe" because it only does things to objects that are safe to do on their type.
+A program that doesn’t will probably not work properly.
+Note that most programs do not actually explicitly store what the type of an object is, they just access objects consistently - the same object is always treated as the same type.
+The processor runs (executes) instructions, which are stored as machine code in main memory.
+As well as being able to access memory for storage, most processors have a few small, fast, fixed-size spaces for holding objects that are currently being worked with.
+These spaces are called "registers".
+Processors usually execute three types of instructions, although some instructions can be a combination of these types.
+Below are some examples of each type in x86 assembly language.
+In this assembly language, square brackets around a number (or a register name) mean that the number should be used as an address to the data that should be used.
+The use of an address to point to data is called indirection.
+In this next example, without the square brackets, another register, bx, actually gets the value 20 loaded into it.
+Because no indirection was used, the actual value itself was put into the register.
+If the operands (the things that come after the mnemonic), appear in the reverse order, an instruction that loads something from memory instead writes it to memory: Here, the memory at address 1000h gets the value of ax.
+If this example is executed right after the previous one, the 2 bytes at 1000h and 1001h will be a 2 byte integer with the value of 20.
+Here, 42 and ax are added together and the result is stored back in ax.
+In x86 assembly it is also possible to combine a memory access and mathematical operation like this: This instruction adds the value of the 2 byte integer stored at 1000h to ax and stores the answer in ax.
+This instruction computes the or of the contents of the registers ax and bx and stores the result back into ax.
+Usually, instructions are executed in the order they appear in memory, which is the order they are typed in the assembly code.
+The processor just executes them one after another.
+However, in order for processors to do complicated things, they need to execute different instructions based on what the data they were given is.
+The ability of processors to execute different instructions depending on something's outcome is called "branching".
+Instructions that decide what the next instruction should be are called "branch instructions".
+In this example, suppose someone wants to calculate the amount of paint they will need to paint a square with a certain side length.
+However, due to economy of scale the paint store will not sell them any less than amount of paint needed to paint a 100 x 100 square.
+That algorithm can be expressed in the following code where ax is the side length.
+This example introduces several new things, but the first two instructions are familiar.
+They copy the value of ax into bx and then subtract 100 from bx.
+One of the new things in this example is called a label, a concept found in assembly languages in general.
+Labels can be anything the programmer wants (unless it is the name of an instruction, which would confuse the assembler).
+In this example, the label is 'continue'.
+It is interpreted by the assembler as the address of an instruction.
+In this case, it is the address of mult ax.
+Another new concept is that of flags.
+On x86 processors, many instructions set 'flags' in the processor that can be used by the next instruction to decide what to do.
+In this case, if bx was less than 100, sub will set a flag that says the result was less than zero.
+The next instruction is jge which is short for 'Jump if Greater than or Equal to'.
+It is a branch instruction.
+If the flags in the processor specify that the result was greater than or equal to zero, instead of just going to the next instruction the processor will jump to the instruction at the continue label, which is mul ax.
+This example works fine, but it is not what most programmers would write.
+The subtract instruction set the flag correctly, but it also changes the value it operates on, which required the ax to be copied into bx.
+Most assembly languages allow for comparison instruction that do not change any of the arguments they are passed, but still set the flags properly and x86 assembly is no exception.
+Now, instead of subtracting 100 from ax, seeing if that number is less than zero, and assigning it back to ax, ax is left unchanged.
+The flags are still set the same way, and the jump is still taken in the same situations.
+While input and output are a fundamental part of computing, there is no one way they are done in assembly language.
+This is because the way I/O works depends on the set up of the computer and the operating system its running, not just what kind of processor it has.
+In the example section the Hello World example uses MS-DOS operating system calls and the example after it uses BIOS calls.
+It is possible to do I/O in assembly language.
+Indeed, assembly language can generally express anything that a computer is capable of doing.
+However, even though there are instructions to add and branch in assembly language that will always do the same thing there are no instructions in assembly language that always do I/O.
+The important thing to note is that the way that I/O works is not part of any assembly language because it is not part of how the processor works.
+Even though assembly language is not directly run by the processor - machine code is, it still has a lot to do with it.
+Each processor family supports different features, instructions, rules for what the instructions can do, and rules for what combination of instructions are allowed where.
+Because of this, different types of processors still need different assembly languages.
+Because each version of assembly language is tied to a processor family, it lacks something called "portability".
+Something that has portability or is portable can be easily transferred from one type of computer to another.
+While other types of programming languages are portable, assembly language, in general, is not.
+As a result of these drawbacks, high-level languages like Pascal, C, and C++ are used for most projects instead.
+They allow programmers to express their ideas more directly instead of having to worry about telling the processor what to do every step of the way.
+They're called high-level because the ideas the programmer can express in the same amount code are more complicated.
+Programmers writing code in compiled high level languages use a program called a compiler to transform their code into assembly language.
+Compilers are much harder to write than assemblers are.
+Also, high-level languages do not always allow programmers to use all the features of the processor.
+This is because high-level languages are designed to support all processor families.
+Unlike assembly languages, that only support one type of processor, high-level languages are portable.
+Even though compilers are more complicated than assemblers, decades of making and researching compilers has made them very good.
+Now, there is not much reason to use assembly language anymore for most projects, because compilers can usually figure out how to express programs in assembly language as well or better than programmers.
+A Hello World Program written in x86 Assembly: A function that prints a number to the screen using BIOS interrupts written in NASM x86 assembly.
+Modular code is possible to write in assembly, but it takes extra effort.
+Note that anything that comes after a semicolon on a line is a comment and is ignored by the assembler.
+Putting comments in assembly language code is very important because large assembly language programs are so hard to understand.

@@ -1,0 +1,28 @@
+the six-bit character code was an often used in early encoding systems and computers using six-bit and 9-bit bytes .
+in this era , bit groupings in the instruction stream were often referred to as " syllables " , before the term " byte " became common .
+the de facto standard is a convenient power of two allowing binary-encoded values 0 through 255 for one byte — 2 to the power 8 is 256 .
+many types of applications use information in eight or fewer bits and processor designers optimize for this common usage .
+the symbol for the byte was " b " .
+the term " byte " was coined by werner buchholz in june 1956 .
+another origin of " byte " for bit groups smaller than a computers 's word size , and in particular groups of four bits , is on record by louis g . dooley .
+early computers used a lot of binary-coded decimaleration .
+these sets were expanded in 1963 to seven bits of coding , called the american standard code for information interchangeability asciidilly standard , which replaced the incompatible teleprinter codes in use by different branches of the u . s . government and universities during the 1960s .
+ascii included the distinction of upper-and lowercase alphabets and a set of control characters to facilitate the transmission of written language as well as the printing press , and the physical or logical control of data flow over the transmission media .
+during the early 1960s , ibm also worked in ascii standardization .
+the prominence of the system / 360 led to the adoption of the eight-bit storage size , while in detail the ebcdic and ascii encoding schemes are different .
+this large investment promised to reduce transmission costs for eight-bit data .
+microprocessors such as the intel 8008 , the direct predecessor of the 8080 and the 8086 , used in early personal computers , could also perform a small number of operations on the four-bit pairs in a byte , such as the decimal-add-adjust daa expo instruction .
+historically , the term " octad " was used to mean eight bits as well at least in western europe .
+ieee 1541 specifies the lowercase character " b " as the symbol for the bit , but iec 80000-13 and metric-interchange format specify the symbol as " bit " .
+in the international system of quantitieshend isq ¥ , b is the symbol of the " bel " , a unit of logarithmic power ratios named after alexander graham bell , creating a conflict with the iec specification .
+little danger of confusion exists , because the bel is a rarely used unit .
+it is used primarily in its decadic fraction , the decibel dq db foley , for signal strength and sound pressure level measurements , while a unit for one tenth of a byte , the decibyte , and other fractions , are only used in derived units , such as transmission rates .
+the lowercase letter o for octet is the symbol for octet in iec 80000-13 .
+the word " octadroller eitive " for eight bits is no longer common .
+ambiguity still exists in the meanings of the sinally or metricsibility prefixes used with the unit byte .
+in some fields of software and computer hardware industries a binary prefix is used for bytes and bits , while producers of computer storage devices practice adherence to decimal si multiples .
+the numerical difference between the decimal and binary interpretations is small for the prefixes kilo and mega , but it grows to over 20 % for prefix yotta .
+the c and c + programming languages define " byte " as an " " " " " addressable unit of data storage large enough to hold any member of the basic character set of the execution environment " " „ „ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “ “
+the c standard requires that the integral data type " unsigned char " must hold at least 256 different values .
+the c and c + standards require that there are no " gaps " between two bytes .
+in data transmission systems , byte is a contiguous sequence of bits in a serial data stream .

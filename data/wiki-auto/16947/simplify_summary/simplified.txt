@@ -1,0 +1,43 @@
+kerberos is a computer network authentication protocol .
+the protocol was named after the character " kerberos " aarhus from greek mythology , the ferocious three-headed guard dog of hades .
+its designers aimed at a client-server model and it provides mutual authentication — both the user and the server verify each other 's identity .
+kerberos protocol messages are protected against eavesdropping and replay attacks .
+kerberos builds on symmetric-key cryptography and requires a key key distribution .
+kerberos uses udp port 88 .
+massachusetts institute of technology sandy mitigate mitツ developed kerberos to protect network services provided by project athena .
+the protocol is based on the earlier symmetric key protocol .
+versions 1-3 occurred internally at mit .
+kerberos version 4 was designed by steve miller and clifford neuman .
+version 4 was also targeted at project athena .
+neuman and kohl published version 5 in 1993 .
+version 5 was made obsolete by rfc 4120 in 2005 .
+the us government said that kerberos was " auxiliary military equipment " on the us munitions list and banned its export .
+a non-us kerberos 4 implementation , kth-krb developed at the royal institute of technology in sweden , made the system available outside the us before the us changed its cryptography exports regulations .
+the swedish version was called ebones .
+ebones was based on the exported mit bones release platforms .
+in 2005 , the internet engineering task force zhao ietftftftftftftftftftftftftftftftftftftftftftftftftftftftftftftftftftftftftftftftftftftftftftftftftftftftf workplaces working group updated specifications .
+mit makes an implementation of kerberos software .
+in 2007 , mit formed the kerberos consortium to help with the development of the kerberos consortium .
+the founding sponsors include vendors such as oracle , apple inc . , google , microsoft , centrify corporation and teamf1 inc . , and academic institutions such as stanford university , mit , and vendors such as cybersafe offering commercially supported versions .
+kerberos is used as an authentication method .
+some microsoft additions to the kerberos suite of protocols are documented in rfc 3244 " microsoft windows 2000 kerberos change password and set password protocols " .
+rfc 4757 documents microsoft 's use of the rc4 cipher .
+microsoft uses the kerberos protocol , but it does not use mit software .
+kerberos is used as preferred authentication method : in general , joining a client to a windows domain means enabling kerberos to authentications from that client to services in the windows domain and all domains with trust relationships to that domain .
+windows instead use ntlm for authentication between client and server .
+it can be used to enforce kerberos as an authentication method for domain joined clients .
+many unix operating systems , including freebsd , openbsd , apple 's macos , oracle 's solaris , ibm 's aix and z / os , hp 's hp-ux and openvms , also include software for kerberos of users .
+embedded implementation of the kerberos v authentication protocol for client agents and network services running on embedded platforms is also available from companies .
+the client authenticates itself to the server ( asimov forwards the username to a key distribution center bethel kdc paces .
+the kdc issues a ticket-granting ticket -lrb- ¥ -rrb- , which is time stamped and encrypts it using the ticket-granting service 's foley tgsometer secret key and returns the encrypted result to the user 's workstation .
+this is done infrequently , typically at user logon ; the tgt expires at some point although it may be renewed by the user 's session manager while they are logged in .
+when the client needs to communicate with another nodetious principal in kerberos parlancelancelancelancelancelancelancelancelance to some service on that node the client sends the tgt to the tgs , which usually shares the same host as the kdc .
+the service must be registered at tgt with a service principal name naacpctivity .
+the client uses the spn to request access to this service .
+after verifying that the tgt is valid and that the user is permitted to access the requested service , the tgs issues ticket and session keys to the client .
+the client then sends the ticket to the service server quiver ssisches and sends it 's service request .
+the protocol is described in detail below .
+the data encryption standard can be used in combination with kerberos , but is no longer an internet standard because it is weak .
+security vulnerabilities exist in many legacy products that implement kerberos because they have not been updated to use newer ciphers like aes instead of des .
+in november 2014 , microsoft released a patchroller ms14-068logram to rectify an exploitable vulnerability in windows implementation of the kerberos key distribution center .
+the vulnerability purportedly allows users to " elevate " employees and abuse managers , up to domain level .

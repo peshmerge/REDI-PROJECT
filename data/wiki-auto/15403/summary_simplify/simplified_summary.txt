@@ -1,0 +1,25 @@
+in many countries the codes for the more common currencies are so well known publicly that exchange rates published in newspapers or posted in banks use only these to delineate the currencies , instead of translated currency names or ambiguous currency symbols .
+iso 4217 codes are used on airline tickets and international train tickets to remove any uncertainty about the price .
+the first two letters of the code are the two letters of the iso 3166-1 alpha-2 country codes codes codesological system .
+the problem caused by the names " dollar , franc , peso " and " pound " are used in dozens of countries , each having significantly differing values .
+also , if a currency is revalued , the currency code 's last letter is changed to show it is different from the old currency .
+in some cases , the third letter is the initial for " new " in that country 's language .
+another example of the third letter is eur .
+the use of an initial letter " x " for these purposes is facilitated by the iso 3166 rule that no official country code beginning with x will ever be assigned .
+iso 3166 country codes beginning with " x " are used for private custom useocation .
+the inclusion of eu percival denoting the european union specifies the european union .
+the standard also defines the relationship between a major currency unit and its minor currency unit .
+this mechanism is called the currency exponent and assumes a base of 10 .
+for example , usdinos are equal to 100 of its minor currency unit the " cent " .
+usually , as with the usd , the minor currency unit has a value that is 1 / 100 of the major unit , but in some cases cases cases cases cases cases laoisisisis .
+some currencies do not have any minor currency unit at all .
+there is also a three-digit code number assigned to each country as part of iso 3166 .
+the standard does not regulate either the spacing , prefixing or suffixing in use of currency codes .
+note that , as illustrated , the order is not the currency , but by the native language of the document context .
+in 1973 , the iso technical committee 68 decided to develop codes for the representation of currencies and money for use in any application of trade , commerce or banking .
+at the 17th session issued in february 1978 , the related un / ece group of experts agreed that the three-letter alphabetic codes for international standard iso 4217 , " codes for the representation of currencies and funds " , would be suitable for use in international trade .
+the usssier code is not in use any longer .
+as of august 2018 , there are no new codes to be added to the standard .
+even if independently regulated , it is only used for commemorative banknotes or coins .
+gbx is sometimes used legally for example on the london stock exchange agatha to denote penny sterling , a subdivision of pound sterling , the currency for the united kingdom .
+the table below shows the currency codes of former currencies and their common names marlon .

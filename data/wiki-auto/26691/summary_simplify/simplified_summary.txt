@@ -1,0 +1,53 @@
+for example , the numbers 2,4 , and 6 are distinct objects when considered separately , but when they are considered together they form a single set of size three , written ^ 2,6 , 6,6 !
+the idea of a set is one of the most important mathematical objects in mathematics .
+set theory is now a ubiquitous part of mathematics , and can be used as a foundation from which nearly all of mathematics can be derived .
+in mathematics , elementary topics from set theory such as venn diagrams are taught at a young age , while more advanced concepts are taught as part of a university degree .
+the german word " menge " , rendered as " set " in english , was coined by bernard bolzano in his work " the paradoxes of the infinite " .
+the objects that make up a setctable also known as the set 's " elements " or " members "arth can be anything : numbers , people , letters of the alphabet , other sets , and so on .
+if they contain the same things , they are equal .
+for technical reasons , cantor 's definition turned out to be insufficient .
+the most basic properties are that a set can have elements .
+the second way is by extension-that is , listing each member of the set .
+in extensional definition , listing a member repeatedly does not change the set .
+moreover , the order in which the elements of a set are irrelevant irrelevant irrelevant resembles for a sequence or tuplettes , so buddhas can not be found again .
+for instance , the set of the first thousand positive integers may be defined extensionally as extensionally as
+where the ellipsis measure " . . "arth indicates that the list continues in the obvious way .
+braces may also be used in an intensional specification of a set .
+so , " e " = { playing card suits is the set whose four members are spades , diamonds , hearts , and clubs .
+a more general form of this is set-builder notation , through which , for instance , the set " f " of the twenty smallest integers that are four less than a perfect square can be denoted by
+in this notation , the colonised notation : " nagari " : " ⟩ means " such that " , and the description can be interpreted as " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " "
+sometimes the vertical baruett is used instead of the colon .
+the relationship between sets set set established by ⊆ is called " inclusion " or " containment " .
+there is a unique set with no members , called the " empty set " foley or the " null set " foley .
+a partition of a set " s " is a set of nonempty subsets of " s " such that every element " x " in " s " is in exactly one of these subsets , that is in exactly one of the partition contain no element in common , they are said to be " disjoint " , and the union of all elements that are set up .
+the power set contains the set of the same subset as the empty set .
+a set with " n " elements has 2 elements .
+for example , the setoons 1,2 , 3 implies that there are three elements , and the power set shown above contains 2 = 8 elements .
+moreover , the power set of a set is always bigger than the original set .
+every set " s " is a subset of the powerset of " s " .
+the cardinality of a set " s " is the number of members of " s " .
+repeated members in an extensional definition are not counted , so buddha buddha 's blue , white , red , blue , white ljubljana
+the empty set has a cardinality of 0 .
+though it may seem trivial , the empty set is important in mathematics .
+indeed , the existence of this set is one of the fundamental concepts of axiomatic set theory .
+for instance , the set of real numbers has greater cardinality than the set of natural numbers .
+however , it can be shown that the cardinality of ƒ is to say , the number of points on ƒ a straight line is the same as the cardinality of any segment of that line , of the entire plane , and indeed of any finite-dimensional euclidean space .
+there are some sets that hold great mathematical importance .
+one of these is the empty set .
+special sets of numbers include
+each of the sets of numbers has an infinite number of elements , and each can be considered to be a proper subset of the sets listed below it .
+a new set can also be constructed by determining which members two sets have " in common " .
+note that it is valid to " subtract " members of a set that are not in the set , such as removing the element " green " from the set ^ 1,2 , 3 extract ; doing so has no effect .
+in some settings all sets under discussion are considered to be subsets of a given universal set u .
+the power set becomes a boolean ring with a symmetric difference as the addition of the ringlets with the empty set as the multiplication element .
+a new set can be constructed by associating every element of one set with every element of another set .
+set theory is the foundation from which virtually all of mathematics can be obtained .
+given this concept , we are quick to see that the set " f " of all ordered pairsrford " x " , " x " concurrently , where " x " is real , is quite familiar .
+it has a set of r and a codomain set .
+the reason these two are equivalent is for any given value , " y " that the function is defined for , its corresponding ordered pair , epsilon , y , is a member of the set " f " .
+it was important to free set theory of these paradoxes because nearly all of mathematics was being redefined in terms of set theory .
+set theory was axiomatized based on first-order logic , and thus axiomatic set theory was born .
+the inclusion – exclusion principle is a counting technique that can be used to count the number of elements in a union of two sets , if the size of each set and the size of the intersection are known .
+if a and b are any two sets , then the complement of a union b is intersected with the complement of b .
+the complement of a intersected with b is equal to the complement of a union to the complement of b .
+cantor 's " beitrage zur begrundung der transfiniten mengenlehre "

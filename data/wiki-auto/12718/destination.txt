@@ -1,0 +1,17 @@
+Griffith's experiment was an experiment done in 1928 by Frederick Griffith.
+It was one of the first experiments showing that bacteria can get DNA through a process called transformation.
+Griffith used two strains of "Streptococcus pneumoniae".
+These bacteria infect mice, Griffith's favorite animals.
+He used a type III-S (smooth) and type II-R (rough) strain.
+The III-S strain covers itself with a polysaccharide capsule that protects it from the host's immune system.
+This means that the host will die.
+The II-R strain does not have that protective shield around it and is killed by the host's immune system.
+In this experiment, bacteria from the III-S strain were killed by heat, and their remains were added to II-R strain bacteria.
+While neither harmed the mice on their own, the blend of the two was able to kill mice.
+Griffith was also able to get both live II-R and live III-S strains of "S. pneumoniae" from the blood of these dead mice.
+He concluded that the type II-R had been "transformed" into the lethal III-S strain by a "transforming principle" that was somehow part of the dead III-S strain bacteria.
+Today, we know that the "transforming principle" Griffith saw was the DNA of the III-S strain bacteria.
+While the bacteria had been killed, the DNA had survived the heating process and was taken up by the II-R strain bacteria.
+The III-S strain DNA contains the genes that form the shielding polysaccharide part from attack.
+Armed with this gene, the former II-R strain bacteria were now protected from the host's immune system and could kill the host.
+The exact nature of the transforming principle was confirmed in the experiments done by Avery, McLeod and McCarty and by Hershey and Chase.

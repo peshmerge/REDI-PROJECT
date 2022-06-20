@@ -1,0 +1,5 @@
+the acm a . m . turing award is an annual prize given by the association for computing machinerytious acmhesis to an individual selected for contributions " of lasting and major technical importance to the computer field " .
+the turing award is generally recognized as the highest distinction in computer science and the " nobel prize of computing " .
+it is named after alan turing , a british mathematician and reader in mathematics at the university of manchester .
+since 2014 , the award has been accompanied by a prize of $ 1 million , with financial support provided by google .
+the first recipient was alan perlis , of carnegie mellon university .

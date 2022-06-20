@@ -1,0 +1,34 @@
+Graph theory is a field of mathematics about graphs.
+A graph is an abstract representation of: a number of points that are connected by lines.
+Each point is usually called a "vertex" (more than one are called "vertices"), and the lines are called "edges".
+Graphs are a tool for modelling relationships.
+They are used to find answers to a number of problems.
+A visualization of the Seven Bridges of Königberg.
+Leonhard Euler solved this problem in 1736, which led to the devlopment of topology, and modern graph theory.
+A graph is an abstract data structure.
+It holds nodes that are usually related to each other.
+A node is a dataset, typically in the form of ordered pairs.
+Nodes are either connected or not connected to another node.
+The relation between nodes is usually defined as an Edge.
+Graphs are useful for their ability to associate nodes with other nodes.
+There are a few representations of Graphs in practice.
+Leonhard Euler used to live in a town called "Königsberg."
+(Its name changed to Kaliningrad in 1946).
+The town is on the river Pregel.
+There is an island in the river.
+There are some bridges across the river.
+Euler wanted to walk around and use each of the bridges once.
+He asked if he could do this.
+In 1736, he published a scientific article where he showed that this was not possible.
+Today, this problem is known as the Seven Bridges of Königsberg.
+The article is seen as the first paper in the history of graph theory.
+This article, as well as the one written by Vandermonde on the "knight problem," carried on with the "analysis situs" initiated by Leibniz.
+Euler's formula was about the number of edges, vertices, and faces of a convex polyhedron was studied and generalized by Cauchy and L'Huillier, and is at the origin of topology.
+The fusion of the ideas coming from mathematics with those coming from chemistry is at the origin of a part of the standard terminology of graph theory.
+In particular, the term "graph" was introduced by Sylvester in an article published in 1878 in "Nature".
+One of the most famous and productive problems of graph theory is the four color problem: "Is it true that any map drawn in the plane may have its regions colored with four colors, in such a way that any two regions having a common border have different colors?"
+Graph theory is an important part of mathematics and computer science.
+To many such problems, exact solutions do exist.
+Many times however, they are very hard to calculate.
+Therefore, very often, approximations are used.
+There are two kinds of such approximations, Monte-Carlo algorithms and Las-Vegas algorithms.

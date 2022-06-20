@@ -1,0 +1,9 @@
+A centimetre (the American spelling is centimeter, symbol cm) is a unit of length in the International System of Units (SI) measurement system.
+It is equal to one hundredth of a metre.
+Centi- is placed in front to say 'a hundredth'.
+The centimetre is the base unit of length in the old centimetre-gram-second (CGS) system of units.
+The centimetre is usually used to measure things that are too big for millimetres but too small for metres.
+A centimetre is close to the length of a fingernail.
+1 cubic centimetre is equal to 1 millilitre, under the SI system of units.
+The centimetre has Unicode symbols so it can be written in Mandarin Chinese, Japanese and Korean characters.
+They are placed into one character, and it is mostly used with East Asian fonts.

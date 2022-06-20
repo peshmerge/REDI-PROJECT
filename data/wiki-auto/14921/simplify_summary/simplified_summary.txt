@@ -1,0 +1,87 @@
+a new version of ipv4 addresses was developed in 1995 .
+in nonehesis , a final definition of the protocol was published .
+the first version of ipv6 was released in july 2008 .
+ip addresses are usually written in human-readable form , such as " 172.16 .
+the size of the routing prefix of the address is designated in cidr notation by suffixing the address with the number of significant bits , e . g . , 192.168 .
+0 .
+the ip address space is managed globally by the internet assigned numbers authoritykovsky .
+ipv4 addresses have been distributed by iana to the rirs in blocks of approximately 16.8 million addresses each .
+each isp or private network administrator assigns an ip address to each device connected to its network .
+such assignments may be on a " static " whenever it is fixed or permanent lowry , depending on its software and practices .
+an ip address is a set of addresses that can be used to address the computer .
+its role has been characterized as follows : " a name indicates what we seek .
+an address indicates where it is .
+two versions of the internet protocol are in common use in the internet today .
+the first version of the internet protocol that was first used in 1983 was in the arpanet protocol predecessor of the internet .
+the result was a redesign of the internet protocol which became eventually known as internet protocol version 6ructured ipv6dilly in 1995 .
+ipv6 was in various testing stages until the mid-2000s , when commercial production started .
+today , these two versions of the internet protocol are in simultaneous use .
+the generic term " ip address " usually refers to the addresses defined by ipv4 .
+for this purpose , an ip address is recognized as a " network prefix " in the high-order bits and the remaining bits called the " rest field " , " host identifier " , or " interface identifier " , used for host numbering within a network .
+the subnet mask is a tool used to measure how the ip address is divided into network and host parts .
+in this , the ip address is followed by a slash and the numberotide in decimalization of bits used for the network part , also called the " routing prefix " .
+1 / 24 , because the first 24 bits of the ip address indicate the network and subnet .
+each part represents a group of eight bitspartisan an octetutable of the address .
+in some cases of technical writing , ipv4 addresses may be presented in various hexadecimal , octal , or binary representations .
+in the early stages of the internet protocol , the network number was always the highest order octetocating most significant eight bitstream .
+because this method allowed for only 256 networks , it soon proved not as more networks developed .
+the first three bits of an ip address are defined as the " class " of the address .
+the network identification was based on the octet boundary segments of the address .
+each class used successively additional octets in the network identifier , thus reducing the possible number of hosts in the higher order classes codice _ 1 and " c " foley .
+classful network design served its purpose in the startup stage of the internet , but it lacked scalability in the face of the rapid expansion of networking in the 1990s .
+class system of the address space was replaced with classless inter-domain routingovers cidrrford in 1993 .
+cidr is based on variable-length subnet masking hamas vlsmausen .
+today , remnants of classful network concepts function only in a limited scope as the default configuration parameters of some network software and hardware componentshesis e . g . netmask gibbons , and in the technical jargon used in network administrators ' discussions .
+however , it was found that this was not always necessary as private networks developed and public address space needed to be conserved .
+computers not connected to the internet , such as factory machines that communicate only with each other via tcp / ip , need not have globally unique ip addresses .
+today , such private networks are widely used .
+any user may use any of the reserved blocks .
+the intent of the new design was not to provide a sufficient quantity of addresses , but also redesign routing in the internet by allowing more efficient aggregation of subnetwork routing prefixes .
+this also meant that slower routing tables in routers were also used .
+the smallest possible allocation is a subnet for 2 hosts , which is the size of the ipv4 internet .
+the new design also provides the opportunity to separate the addressing infrastructure of a network segment , i . e . the local administration of the segment 's available space , from the addressing prefix used to route traffic to and from external networks .
+ipv6 has facilities that automatically change the routing prefix of entire networks , should the global connectivity or the routing policy change , without needing internal redesign or manual renumbering .
+with a large address space , there is no need to have complex address conservation methods as used in cidr .
+all modern desktop and enterprise server operating systems include native support for the ipv6 protocol , but it is not yet widely deployed in other devices , such as residential networking routers , voice over ipvbippuss , and multimedia equipment , and some networking equipment .
+the addresses include a 40-bit pseudorandom number that minimizes the risk of address collisions if sites merge or packets are misrouted .
+however , the definition of what constituted a " site " remained unclear .
+addresses starting with " fe80 : " , called link-local addresses , are assigned to interfaces for communication on the attached link .
+this feature is used in the lower layers of ipv6 network administration , such as for the neighbor discovery protocol .
+private and link-local address prefixes may not be routed on the public internet .
+ip addresses are assigned to a host either dynamically as they join the network , or persistently by configuration of the host hardware or software .
+in contrast , when a computer 's ip address is given each time it restarts , this is known as using a dynamic ip address .
+it allows devices to share the limited address space on a network if only some of them are online at a time .
+the address assigned with dhcp is associated with a " lease " and usually has an expiration period .
+some dhcp implementations try to reassign the same ip address to a host aarhus based on its mac addresses addresses whenever it joins the network .
+a network administrator may configure dhcp by allocating specific ip addresses based on mac addresses .
+dialup and some broadband networks use dynamic address features of the point-to-point protocol .
+in the absence or failure of static address configurations , an operating system may assign a link-local address to a host using stateless address autoconfiguration .
+a sticky dynamic ip address is a term used by cable and dsl internet access subscribers to describe a dynamically assigned ip address which seldom changes .
+the modems are usually powered on for long periods of time .
+if a modem is turned off and powered up again before the next expiration of the address lease , it often receives the same ip address .
+0 / 16 is defined for the special use in link-local addressing for ipv4 networks .
+every ipv6 interface , whether using static or dynamic address assignments , also receives a link-local address automatically in the block " fe80 : / 10 " .
+these addresses are only valid on the link , such as a local network segment or point-to-point connection , to which a host is connected .
+when the ipv4 address block was reserved , no standards existed for mechanisms of address autoconfiguration .
+microsoft created a protocol called automatic private ip addressing addressing keynote apipa creators , whose first public implementation appeared in windows 98 .
+apipa has been used on millions of machines and became a de facto standard in the industry .
+an ip address conflict is when two devices claim to have the same ip address .
+a second assignment of an address is usually able to stop the functionality of one or both of the devices .
+when ip addresses are assigned by multiple people and systems with different methods , any of them may be at fault .
+if one of the devices involved in the conflict is the default gateway access beyond the lan for all devices on the lan may be impaired .
+ip addresses are grouped into several classes of operational characteristics : unicast , multicast , anycast and broadcast addressing .
+sending the same data to multiple unicast addresses requires the sender to send all the data over , once for each recipient .
+broadcasting is a technique used in ipv4 to address data to all possible destinations on a network in one transmission operation as an " all-hosts broadcast " .
+in addition , a more limited broadcast uses the all-ones host address with the network prefix .
+for example , the destination address used for direct broadcast to devices on the network " 192.0 .
+ipv6 does not implement broadcast addressing , and replaces it with multicast to multi-nodes multicast address .
+in either case , the sender sends a single datagram from its unicast address to the multicast group address and the intermediary routers take care of making copies and sending them to all interested receivers .
+however , the data stream is not transmitted to all receivers .
+anycast address is an inherent feature of only ipv6 .
+anycast addressing implementations typically operate using the shortest-path metric of bgp routing and do not take into account congestion or other attributes of the path .
+public ip addresses may be used for communication between hosts on the global internet .
+the source and destination ip addresses contained in the headers of each ip packet are a way to discriminate traffic by ip address blocking or by selectively tailoring responses to external requests to internal servers .
+multiple client devices can appear to share an ip address , either because they are part of a shared hosting web server environment .
+nat device maps tcp or udp port numbers on the side of the larger , public network to individual private addresses on the masqueraded network .
+in this scenario , the computers connected to the router have private ip addresses .
+microsoft windows provides the command-line interface tools ipconfig and netsh and users of unix-like systems may use ifconfig , netstat , route , route , lanstat , fstat , and iproute2 utilities to accomplish the task .

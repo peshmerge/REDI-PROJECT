@@ -1,0 +1,34 @@
+a tuning fork is a sound resonator made from a u-shaped bar of elastic metalduks .
+it resonates at a specific constant pitch when set vibrating by striking it against an object .
+the tuning fork was invented in 1711 by british musician john shore , sergeant trumpeter and lutenist to the court .
+the fork shape produces a very pure tone , with most of the vibrational energy at the fundamental frequency .
+by comparison , the first overtone of a vibrating string is one octave abovequal twiceosis the fundamental , so when the string is plucked or the bar is struck , its vibrations tend to mix the fundamental and overtone frequencies .
+when the tuning fork is struck , little of the energy goes into the overtone modes ; they also die out correspondingly faster , leaving a pure sine wave at the fundamental frequency .
+another reason for using the fork shape is that , when it vibrates in its principal mode , the handle vibrates up and down as the prongs move apart and together .
+the user typically strikes the fork , and then presses the handle against a wooden box resonator , table top , bridge of a musical instrument , or just behind their ear .
+string players sometimes use bone conduction , holding the stem of the fork in their teeth , so that both hands are free .
+the sound waves from each prong are 180 180 degrees out of phase with the other .
+if a sound absorbing sheet is slid in between the prongs of a vibrating fork , reducing the waves reaching the ear from one prong , the volume actually increases , due to a reduction of this cancellation .
+commercial tuning forks are tuned to the correct pitch at the factory .
+they can be retuned by filing things off the prongs .
+the most common tuning fork sounds the note of a = 440 hz , the standard concert pitch that many orchestras use .
+orchestras between 1750 and 1820 mostly used a = 423.5 hz , though there were many forks and many slightly different pitches .
+tuning forks vibrate at all the notes within the central octave of the piano , and also other pitches .
+tuning fork pitch varies slightly with temperature .
+the pitch of other instruments is also subject to changes with temperature change .
+the ratio in the equation above can be rewritten as if the prongs are cylindrical with radius r , and if the prongs have rectangular cross-section of width a along the direction of motion .
+the most popular is the rhodes piano , in which hammers hit metal tines that vibrate in the magnetic field of a pickup , creating a signal that drives electric amplification .
+the quartz crystal that serves as the timekeeping element in modern quartz clocks and watches is in the form of a tiny tuning fork .
+it usually vibrate at a frequency of 32,768 hz in the ultrasonic range .
+quartz is piezoelectric , so the tines bend rapidly back and forth .
+the accutron , an electromechanical watch developed by max hetzel and manufactured by bulova beginning in 1960 , used a 360-hertz steel tuning fork as its timekeeper , powered by a battery-powered transistor oscillator circuit .
+tuning forks , usually c -512 , are used by doctors to test a patient 's hearing .
+lower-pitched ones , usually at c128 , are also used to check vibration sense as part of the examination of the peripheral nervous system .
+orthopedic surgeons have explored using a tuning forktify lowest frequency c = 128cope to assess injuries where bone fracture is suspected .
+they hold the end of the vibrating fork on the skin above the suspected fracture , progressively closer to the suspected fracture .
+if there is a fracture , the periosteum of the bone vibrates , and fire nociceptors ( pain receptors causing a sharp pain .
+a systematic review in bmj open suggests that this technique is not reliable enough for clinical use .
+instead of the frequency , these forks are labeled with the calibration speed and radar bandication .
+the tuning fork is kept vibrating at its resonant frequency by a piezoelectric device .
+when they come in contact with solids , amplitude of oscillation goes down .
+for liquids , the resonant frequency of tuning fork changes upon coming in contact with the liquids , change in frequency is used to detect level .

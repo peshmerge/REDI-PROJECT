@@ -1,0 +1,146 @@
+An emoticon is a written symbol, often as 2 or 3 punctuation characters, that stands for the writer's mood or facial expression.
+Some examples are: a smile ":-)" or wink ";-)" or frown ":(" or dog nose ":O" or le meme arrow ">" (see many other examples in text below).
+Emoticons are often used to tell a reader about the general tone of a statement, and can change or improve the reading of plain writing.
+Over the years, many kinds of emoticons have been created, and now there are hundreds of known emoticons.
+The word "emoticon" is a blend of the English words "emotion" (or "emote") and "icon".
+In web forums, instant messengers and online games, text emoticons are often automatically replaced with small pictures, which came to be called "emoticons" as well.
+Certain complex character combinations can only be accomplished in a double-byte language, giving rise to very complex forms, sometimes known by their romanized Japanese name of "kaomoji".
+The use of emoticons can be traced back to the 19th century, and they were commonly used in casual or humorous writing.
+In 1912, a smiling mouth (or snigger point) was shown in typewriter text as "\___/!".
+Digital forms of emoticons on the Internet were written in an email during 1982.
+In April 1857, the "National Telegraphic Review and Operators Guide" wrote about the use of the number 73 in Morse code to mean "love and kisses" (later changed to "best regards").
+A few years later, "Dodge's Manual" talked about a new way to show "love and kisses", the number 88.
+A "New York Times" transcript of an 1862 speech given by Abraham Lincoln contains ";)" (now known as a winky-face).
+There is some debate as to whether it is a typo, a legitimate form of punctuation, or an emoticon.
+Typographical emoticons were published in 1881 by the U.S. satirical magazine "Puck".
+In 1912, Ambrose Bierce created something called a "snigger point".
+"It is written thus \___/!
+and presents a smiling mouth."
+Emoticons had already come into use in sci-fi fandom in the 1940s, although there seems to have been a lapse in cultural continuity between the communities.
+In 1963 the "smiley face", a yellow button with two black dots representing eyes and an upturned thick curve representing a mouth, was created by freelance artist Harvey Ball.
+This smiley probably inspired many later emoticons; the most basic picture that shows this is in fact a small yellow smiley face.
+In a "New York Times" interview in April 1969, Alden Whitman asked writer Vladimir Nabokov: "How do you rank yourself among writers (living) and of the immediate past?"
+Nabokov answered: "I often think there should exist a special typographical sign for a smile – some sort of concave mark, a supine round bracket, which I would now like to trace in reply to your question."
+As early early as 1973 or earlier, teletype machine users used "emoticons" to express themselves.
+Teletypes were limited to the keys of a standard typewriter keyboard plus a few special characters.
+Teletype operators developed a sort of shorthand to communicate among themselves.
+These shorthand notations became the foundation of "emoticons" as video terminals began to replace teletypes in general use.
+By the early 1970s, people on the PLATO System were using emoticons.
+They had many of the advantages of later character-based emoticons because they could be used anywhere that you could type text.
+They also had many of the advantages of later graphical emoticons because they used character overstriking which created graphical images.
+Several Internet websites –such as BT's Connected Earth– assert that Kevin Mackenzie proposed -) as a joke-marker in April 1979, on the "MsgGroup" ARPANET mailing list.
+Others used :-) for tongue-in-cheek, with the colon representing teeth.
+Also used was -:) to indicate sticking out your tongue, in derision or anger.
+Although similar to a sideways smiling face, the intended interpretation was different and this does not appear to have inspired the later smileys.
+In the late sixties, the APL programming language and timesharing environment, with its rich character set with backspace and overstrike capability provided a fruitful arena for interactive and creative symbol invention.
+Union-backspace-dieresis (∪̈) was a recognised and upright smiley in the early seventies.
+The first person documented to have used the emoticons :-) and :-(, with a specific suggestion that they be used to express emotion, was Scott Fahlman in the U.S. at Carnegie Mellon University; the text of his original proposal, posted to the Carnegie Mellon University computer science general board on 19 September 1982 (11:44), was thought to have been lost, but was recovered twenty years later by Jeff Baird from old backup tapes.
+Within a few months, it had spread to the ARPANET (the early Internet) and Usenet.
+Many variations on the theme were immediately suggested by Scott and others.
+In web forums, instant messengers and online games, text emoticons are often automatically replaced with small corresponding images, which also came to be called "Emoticons."
+Similarly, in some versions of Microsoft Word, the Auto Correct feature replaces basic smileys such as :-) and :-( with a single smiley-like character.
+Originally, these image emoticons were fairly simple and replaced only the most straightforward and common character sequences, but over time they became so complex that the more specialized emoticons are often input using a menu or popup windows, sometimes listing hundreds of items.
+Emoticons have also expanded beyond simple cartoon facial expressions to a variety of still or moving images.
+Some of these graphical emoticons do not actually represent faces or emotions; for example, an "emoticon" showing a guitar might be used to represent music.
+Further, some instant messaging software is designed to play a sound upon receiving certain emoticons.
+Many applications use text codes, which become replaced with a graphical emoticon.
+For example, :dance: or (dance) could be replaced with a graphical dancing emoticon.
+A web-forum software package which performed this transformation was Proxicom Forum, developed in 1996.
+Many sites use GIF or PNG graphic files, because of their transparency and small file size capabilities.
+Files can be created using a raster graphics editor.
+Many emoticon artists design their emoticons pixel by pixel.
+Some emoticons are made in vector format, such as SVG, and automatically processed using a graphics library.
+This allows SVG files to be automatically rendered as a GIF or PNG file, which is compatible with most browsers, which SVG is not.
+Traditionally, the emoticon in Western style is written from left to right, the way one reads and writes in most Western cultures.
+Thus, most commonly, emoticons have the eyes on the left, followed by the nose and mouth.
+To more easily recognize them, tilt your head toward your left shoulder (or occasionally toward your right shoulder if the "top" of the emoticon is toward the right).
+The most basic emoticons are relatively consistent in form, but each of them can also be transformed by being rotated (making them tiny ambigrams), with or a without hyphen (nose).
+There are also some possible variations to emoticons to get new definitions, like changing a character to express a new feeling, or slightly change the mood of the emoticon.
+For example, :( equals sad and :(( equals very sad or weeping.
+A :"> blush can be expressed as :"u blushing for you or a surprised blush, o///o .
+Others include wink ;) a grin :D smug :-> and tongue out :P for disgust or simply just to stick the tongue out for silliness, such as when blowing a raspberry.
+An often used combination is also < 3 for a heart, and .
+< , o_O, O.O, < .
+< ;, though this is more likely in Western culture.
+A quotation mark ", apostrophe ', or semicolon ; can be added to the emoticon to imply apprehension or embarrassment, in the same way that a sweat drop is used in anime.
+Microsoft IME 2002 (Japanese) or later supports the use of both forms of emoticons by enabling Microsoft IME Spoken Language Dictionary.
+In IME 2007, it was moved to Emoticons dictionary.
+Further variations of emoticons may be produced by using Combining characters, e.g. ̼⌂̺͛ᴖ̲̿ᴥ̲̿ᴖ̺͛⌂̼ and ٩(͡๏̯͡๏)۶ .
+All of these can be used also with instead of , or without the parentheses at all in some of the cases
+In South Korea, emoticons using Korean Hangul letters have been getting popular lately as well.
+Korean styles of face emoticons are similar to those of Japan's, but they contain Korean jamos (letters) instead of other characters.
+There are countless number of emoticons that can be formed with such combinations of Korean jamos, but popular choices include letter ᄉ or ᄇ as the mouth/nose component and ᄋ,ᄒ,ᄑ for the eyes.
+For example: ᄋᄉᄋ, ᄋᄇᄋ, -ᄉ-, ᅳᅳ, ᅳ6ᅳ.
+Faces such as 'ᄉ', "ᄉ", 'ᄇ','ᄋ', using quotation marks " and apostrophes ' are also commonly used combinations.
+Vowel jamos such as ᅮ,ᅲ can be used in substitute to T, when depicting a crying face.
+Example: //ᄉ//, ᅮ_ᅮ, ᅲ_ᅲ.
+Sometimes the underscore is omitted, and the two letters can be mixed together, as in ᅮ_ᅲ, ᅳ^ᅮ, ᅮ으 .
+Also, semicolons are used a lot in Korean emoticons.
+Example: ᅳᅳ;;;;, ᄋᄉᄋ;;;, ᄇᄋᄇ;, ᄒᄋᄒ;;;;.
+-_- Single or multiple ; (Semicolons) are often used together with faces depicting embarrassment, for an added effect.
+Also, other characters may be added to indicate hands, similar to the Japanese emoticons; but usually they are only attached on the right.
+Example: -ᄉ-a (scratching one's head), 'ᄉ'b (Thumbs up), 'ᄉ'ᅩ (The finger)
+In some cases, like ᄒ_ᄒ, the emoticon can mean an emotion even when it is not depicting a face of any specific emotion.
+Letters ᄒ and ᄏ are widely used in Korean internet as a sign of laughter (similar to the usage of "w" in Japanese Web)for example ᄏᄋᄏ, ᄒᄋᄒ, ᄏᄉᄏ, ᄏ-ᄏ, ᄒ_ᄒ; and so the emoticons using those letters as the eye component can be interpreted as a laughing face.
+Also, ᄋᄌᄂ is a Korean version of Orz - although OTL is used more often- depicting a man kneeling down.
+English-language anime forums adopted those emoticons that could be used with the standard ASCII characters available on western keyboards.
+Because of this, they are often called "anime style" emoticons in the English-speaking Internet.
+They have since seen use in more mainstream venues, including online gaming, instant-messaging, and other non-anime related forums.
+Emoticons such as < (^.^)>, < (^_^ < ), < (o_o < ), < ( -'.'-
+- )>, < ('.'-
+, which include the parentheses, mouth or nose, and arms (especially those represented by the inequality signs < or >) also are often referred to as "Kirbies" in reference to their likeness to Nintendo's video game character, Kirby.
+The parentheses are usually dropped when used in the English language context, and the underscore of the mouth may be extended as an intensifier, e.g. ^__________^ for very happy.
+People also use > < or : ).
+Usually on MSN, people use O.O or : ( "Screw you" is represented by a smiley showing middle finger(s) .!
+Exposure to both Western and East Asian style emoticons or emoji through web blogs, instant messaging, and forums featuring a blend of Western and Asian pop culture, has given rise to emoticons that have an upright viewing format.
+The parentheses are similarly dropped in the English language context and the emoticons only use alphanumeric characters and the most commonly used English punctuation marks.
+Emoticons such as -O-, -3-, -w-, '_', ;_;, T_T, :>, and .V
+V., are used to convey mixed emotions that are more difficult to convey with traditional emoticons.
+Characters are sometimes added to emoticons to convey an anime or manga-styled sweat drop, for example: ^_^' or !>_
+_ _________ < @>;; ;O; and *u* The equal sign can also be used for closed, anime looking eyes, for example: =0=, =3=, =w=, =A=
+There are also more faces along those lines like >o < ; using the ; as a sweat mark, and the "o" as a mouth, and the inequality signs as the eyes, it shows stress, or slight confusion.
+The amount of emoticons that can be made are limitless, and all have their own meaning.
+In Brazil, sometimes combining character (accent) are added to emoticons to represent eyebrows, like: ò_ó or ó_ò or õ_o or ù_u or o_Ô.
+They can also replace (or add) "=" or ":" by ">", example: >D or >=D or >P or >:P or >3 or >:3.
+The Japanese language is usually encoded using double-byte character codes.
+As a result, there is a bigger variety of characters that can be used in emoticons, many of which cannot be reproduced in ASCII.
+Most kaomoji contain Cyrillic and other foreign letters to create even more complicated expressions analogous to ASCII art's level of complexity.
+To type such emoticons, the input editor that is used to type Japanese on a user's system has a dictionary of emoticons, after which the user simply types the Japanese word (or something close to it) that represents the desired emoticon to convert the input into such complicated emoticons.
+Such expressions are known as Shift JIS art.
+Users of 2channel in particular have developed a wide variety of unique emoticons using obscure characters.
+Some have taken on a life of their own and become characters in their own right, like Mona.
+Orz (also seen as Or2, on_, OTZ, OTL, STO, JTO, _no, _冂○, 囧rz, O7Z, _|7O, Sto, and Jto) is a Japanese emoticon representing a kneeling or bowing person, with the "o" being the head, the "r" being the arms and part of the body, and the "z" being part of the body and the legs.
+This stick figure represents failure and despair.
+It is also commonly used for representing a great admiration (sometimes with an overtone of sarcasm) for someone else's view or action.
+It was first used in late 2002 at the forum on Techside, Japanese personal website.
+At the "Techside FAQ Forum" (TECHSIDE教えて君BBS(教えてBBS) ), a poster asked about a cable cover, typing "_| ̄|○" to show a cable and its cover.
+Others commented that it looked like a kneeling person, and the symbol became popular.
+These comments were soon deleted as they were considered off-topic.
+However, one of the first corresponding reactions can be found on the thread on "Techside Chitchat Forum" (Techside一言板。)
+at the Internet Archive, on December 23, 2002.
+By 2005, Orz spawned a subculture: blogs have been devoted to the emoticon, and URL shortening services have been named after it.
+In Taiwan, Orz is associated with the phrase "nice guy"–that is, the concept of males being rejected for a date by girls they are pursuing with a phrase like "You are a nice guy."
+Orz should not be confused with m(_ _)m, which means an apology.
+A portmanteau of "emotion" and "sound", an emotisound is a brief sound transmitted and played back during the viewing of a message, typically an IM message or e-mail message.
+The sound is intended to communicate an emotional subtext.
+Many instant messaging clients automatically trigger sound effects in response to specific emoticons.
+Some services, such as MuzIcons, combine emoticons and Adobe Flash music player in a widget.
+In 2004, The Trillian chat application introduced an feature called "emotiblips", which allows Trillian users to stream files to their instant message recipients "as the voice and video equivalent of an emoticon".
+In 2007, MTV and Paramount Home Entertainment promoted the "emoticlip" as a form of viral marketing for the second season of the show "The Hills".
+The emoticlips were twelve short snippets of dialogue from the show, uploaded to YouTube, which the advertisers hoped would be distributed between web users as a way of expressing feelings in a similar manner to emoticons.
+The emoticlip concept is credited to the Bradley & Montgomery advertising firm, which hopes they would be widely adopted as "greeting cards that just happen to be selling something".
+In 2008 an emotion-sequence animation tool, called FunIcons was created.
+The Adobe Flash and Java-based application allows users to create a short animation.
+Users can then email or save their own animations to use them on similar social utility applications.
+In 2000 Despair, Inc. obtained a U.S. trademark registration for the "frowny" emoticon :-( when used on "greeting cards, posters and art prints."
+In 2001, they issued a satirical press release, announcing that they would sue Internet users who typed the frowny; the joke backfired and the company received a storm of protest when its mock release was posted at technology news website Slashdot.
+They subsequently issued another press release a month later in response to the reaction their claim had generated.
+A number of patent applications have been filed on inventions that assist in communicating with emoticons.
+A few of these have issued as US patents.
+U.S. patent 6987991, for example, discloses a method developed in 2001 to send emoticons over a cell phone using a drop down menu.
+The stated advantage over the prior art was that the user saved on the number of keystrokes though this may not address the obviousness criteria.
+In Finland, the emoticons :-), =), =(, :) and :( were trademarked in 2006 for use with various products and services.
+The emoticon :-) was also filed in 2006 and registered in 2008 as a European Community Trademark (CTM).
+In 2008, Russian entrepreneur Oleg Teterin claimed to have been granted the trademark on the ;-) emoticon.
+A license would not "cost that much - tens of thousands of dollars" for companies, but would be free of charge for individuals.
+In 2010 in the United Kingdom, the British chocolate company Meltwater Chocolate filed a trademark application for a series of two marks :D and :-D in class 30, covering chocolate and confectionery.

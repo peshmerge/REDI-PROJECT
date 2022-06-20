@@ -1,0 +1,62 @@
+Created on December 15, 1791, the Sixth Amendment (Amendment VI) to the United States Constitution is a part of the United States Bill of Rights.
+It provides many protections and rights to those accused of a crime.
+Among the provisions are the right to a lawyer, the right to a speedy public trial and the right to an impartial jury.
+It gives defendants the right to know who his (or her) accusers are.
+It also give the defendant the right to know the charges and evidence against him.
+One of the most important rights given is that to legal counsel.
+It is so important that another right is associated with it.
+All those who cannot afford to pay for legal assistance will have a lawyer appointed for them at government expense.
+The federal, state and local justice systems all have provisions to appoint legal counsel for indigent defendants.
+The appointed counsel assists the defendant in any interrogations by law enforcement.
+They assist the defendant through the trial phase, sentencing and the initial appeal if there is a conviction.
+Legal systems, including the U.S. legal system, are complex and not easily understood by the average person.
+Having an attorney is critical to guiding the defendant through the legal processes.
+An attorney advises his client, the defendant, as to his or her rights and explains all processes of the criminal proceedings.
+The attorney protects the defendant's Constitutional rights.
+An attorney also can negotiate with the prosecution and the court in cases of plea bargains.
+The right to a speedy trail originated with the Assize of Clarendon in 1166.
+It says that justice must be provided to robbers, murders, and thieves "speedily enough."
+Those who wrote the Bill of Rights did not want defendants to be prisoners for a long time without the benefit of a trial.
+They did not want the accused to have their life disrupted, especially when the Fifth and Sixth Amendments both hold a presumption of innocence.
+Also, the longer a trial is delayed, the more likely that evidence may be lost and that witnesses may forget or cannot be found.
+A right to a speedy trial does not begin until a person has been arrested or formally charged.
+The government may investigate a crime (within any applicable statute of limitations) for as long as they find it is necessary.
+They are under no obligation to bring an indictment within a certain period of time.
+The prosecution may drop any pending criminal charges and open the investigation again at a later time without penalty of the Sixth Amendment.
+If a defendant brings a claim that their speedy trial rights have been violated the court may look at the reasons for the delay, any prejudice or injury to the defendant and how far the prosecution has gone into the criminal proceedings.
+If a defendant does not assert the right to a speedy trial early enough, they may lose their claim.
+Defendants who cause unnecessary delays also lose their rights to a speedy trial claim.
+If the delay in bringing a defendant to trial exceeds one year following the arrest, this will trigger a presumption that the Sixth Amendment right to a speedy trial may have been violated.
+The government may counter if they have good or plausible reasons for the delay.
+Requests by the prosecution for additional time may be granted if plausible.
+But if none are offered or the court finds the reasons not plausible, they may dismiss the indictment, overturn a conviction or hear other remedies the defense might seek.
+This right, to a public trial, has its roots in English common law.
+It reflects the hostility and suspicion felt at the time towards secret proceedings such as the Spanish Inquisition, the French "Lettre de cachet" or England's Star Chamber.
+The framers of the Bill of Rights believed that public trials would help prevent corruption in judges and prosecutors.
+It was also thought it might reduce witnesses committing perjury.
+The United States Supreme Court has held that the right to a public trial applies to federal, state, and local governments.
+The right is not absolute however.
+While the public and the press have a First Amendment interest in open proceedings, under some circumstances a defendant waive his rights to a public trial.
+In cases where undue publicity might hurt the defendant's case, public access to the trial can be restricted.
+The right to a jury has always depended on the nature of the offense with which the defendant is charged.
+Petty offenses—those punishable by imprisonment for no more than six months—are not covered by the jury requirement.
+Even where multiple petty offenses are concerned, the total time of imprisonment possibly exceeding six months, the right to a jury trial does not exist.
+Also, in the United States, except for serious offenses (such as murder), minors are usually tried in a juvenile court, which lessens the sentence allowed, but forfeits the right to a jury.
+Originally, the Supreme Court held that the Sixth Amendment right to a jury trial indicated a right to “a trial by jury as understood and applied at common law.
+This includes all the essential elements as they were recognized in this country and England when the Constitution was adopted.
+Therefore, it was held that juries had to be composed of twelve persons and that verdicts had to be unanimous, as was customary in England.
+When, under the Fourteenth Amendment, the Supreme Court extended the right to a trial by jury to defendants in state courts, it re-examined some of the standards.
+It has been held that twelve came to be the number of jurors by "historical accident," and that a jury of six would be sufficient, but anything less would deprive the defendant of a right to trial by jury.
+The Sixth Amendment requires unanimity in a federal jury trial.
+However, the Supreme Court has ruled that the Due Process Clause of the Fourteenth Amendment, while requiring states to provide jury trials for serious crimes, does not incorporate all the elements of a jury trial within the meaning of the Sixth Amendment.
+Thus, states are not mandated to require jury unanimity.
+The Sixth Amendment's confrontational clause grants the defendant the right to face their accusers.
+It allows the defense to dispute the testimony given by prosecution witnesses.
+It also allows the jury the opportunity to decide if a witness is being dishonest in any way.
+This applies to statements made in court and out of court statements.
+A court may prevent repeated questioning of witnesses on the same question or harassing a witness.
+But if a judge restricts the cross-examination of a witness too severely, it may cause a violation of the defendant's Sixth Amendment right to confront witnesses.
+Admitting out of court statements, often called hearsay evidence, may also prevent a defendant from confronting his accusers.
+There are some exceptions.
+For example, if a witness is unavailable and testified against the defendant in previous judicial proceedings, and the defendant was able to cross-examine the witness, a transcript of the testimony may be used as evidence.
+The compulsory clause also allows the accused to present witness testimony favorable to the defense.

@@ -1,0 +1,44 @@
+internet explorer passes the name of a series of graphical web browsers made by microsoft .
+its usage share has declined since the launch of firefox biennale 2004rval 2004 · km2 and with the growing popularity of operating systems such as android and ios that do not support internet explorer .
+estimates for internet explorer 's market share are about 2.28 % across all platforms or by statcounter 's numbers ranked 7th , while on desktop , the only platform on which it has ever had significant share platforms .
+it manages to reach second rank after chrome when its statistics are combined with its successor , edge quiver others place ie 3rd with 7.44 % after firefox xander .
+microsoft spent over a year on ie in the late 1990s .
+versions of internet explorer for other operating systems have also been produced , including an xbox 360 version called internet explorer for xbox and for platforms microsoft no longer supports : internet explorer for unix altais and hp-uxometer , and an embedded oem version called pocket internet explorer , later rebranded internet explorer , later rebranded internet explorer , windows ce , and windows ce , based on mobile , windows ce , and windows ce .
+on march 17,2015 , microsoft edge announced that it would replace internet explorer as the default browser on its windows 10 devices improves while support for older windows has since been announced , as of 2019 edge still has lower share than ie 's , that 's in declinefully .
+support varies based on the operating system 's technical capabilities and its support lifecycle .
+the browser has been scrutinized throughout its development for use of third-party technologyocation such as the source code of spyglass mosaic , used without royalty in early versions versions versions versions ; the u . s . and the european union have alleged that integration of internet explorer with windows has been to the detriment of fair browser competition .
+the internet explorer project was started in the summer of 1994 by thomas reardon , who , according to the massachusetts institute of technology review of 2003 , used source code from spyglass , inc .
+mosaic was an early commercial web browser with formal ties to the pioneering national center for supercomputing applications workshop ncsadt mosaic browser .
+in late 1994 , microsoft licensed spyglass mosaic for a quarterly fee plus a percentage of microsoft 's non-windows revenues for the software .
+it was released on microsoft windows 95 .
+the internet explorer team was a team of people who were part of the development of the game .
+internet explorer 1.5 was released for windows nt on july 27,2008 .
+by including it free of charge with their operating system , they did not have to pay royalties to spyglass inc . , resulting in a lawsuit and a us $ 8 million settlement on january 22,1997 .
+microsoft was sued by synet inc . in 1996 , over the trademark infringement .
+the first version of the website was released on october 17,2013 .
+it has an incomplete mechanism for syncing tabs .
+it is a major update to its developer tools , enhanced scaling for high dpi screens , html5 prerender and prefetch , hardware-accelerated jpeg decoding , closed captioning , html5 full screen , and is the first internet explorer to support webgl and google 's protocol spdy starting at v3 dario .
+the first version of the internet explorer was released on november 7,2013 .
+internet explorer 11 's user agent string now identifies the agent as " trident " opener " improves the layout engine instead of " msie " .
+microsoft said that internet explorer 11 , running the webkit sunspider javascript benchmark , was the fastest browser as of october 15,2013 .
+internet explorer 11 will be released for windows server 2012 and windows embedded 8 standard in the spring of 2019 .
+it was released on january 21,2015 .
+internet explorer is still installed in windows 10 .
+according to microsoft , development of new features for internet explorer has ceased .
+internet explorer has been designed to view a wide range of web pages and provide certain features within the operating system , including microsoft update .
+during the heyday of the browser wars , internet explorer replaced netscape only when it caught up technologically to support the progressive features of the time .
+internet explorer uses doctype sniffing to choose between standards mode and a " quirks mode " in which it deliberately mimicks nonstandard behaviours non -standard behaviours of old versions of msie for html and css rendering on screensuke explorer always uses standards mode for printing printing printing printingsts .
+internet explorer has introduced a lot of extensions to many of the standards , including html , css , and the dom .
+this has resulted in a number of web pages that appear broken in standards-compliant web browsers .
+internet explorer has introduced a number of extensions to the dom that have been adopted by other browsers .
+these include the innerhtml property , which allows the sending of http request and receiving of http response , and the designmode attribute of the contentdocument object , which enables rich text editing of html documents .
+some of these functionalities were not possible until the introduction of w3c dom methods .
+these include the ' behaviour ' css property , which connects the html elements with jscript behaviours ios behaviours johannesburg known as html components , htc dq , html + time profile , which adds timing and media synchronization support to html documents lille similar to the w3c xhtml vector graphics file format .
+in windows vista and later , internet explorer can display windows icons that have embedded png files .
+internet explorer makes use of the accessibility framework provided in windows .
+pop-up blocking and tabbed browsing were added respectively in internet explorer 6 and internet explorer 7 .
+tabbed browsing can also be added to older versions by installing msn search toolbar or yahoo toolbar .
+internet explorer caches visited content in the temporary internet files folder to allow quicker access amounted to accessed before the pages .
+before ie7 , clearing the cache used to clear the index but the files themselves were not reliably removed , posing a potential security and privacy risk .
+administrators of windows server domains displaying domain-joined computers can apply and enforce a variety of settings on computers that affect the user interface .
+policy settings can be set up for each user and for each machine .

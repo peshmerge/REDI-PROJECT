@@ -1,0 +1,121 @@
+as graphical analog calculators , slide rules are closely related to nomograms , but the former are used for general calculations , whereas the latter are used for application-specific computations .
+the slide rule is not meant to be used for measuring length or drawing straight lines .
+slide rules exist in a many styles and generally appear in a linear or circular form with a standardized set of markingshesis essential to perform mathematical computations .
+each number to be multiplied is represented by a length on a sliding ruler .
+as the rulers each have a logarithmic scale , it is possible to align them to read the sum of the logarithms , and hence calculate the product of the two numbers .
+the slide rule was based on the work on logarithms by john napier .
+before the invention of the electronic calculator , it was the most commonly used calculation tool in science and engineering .
+the slide rules continued to grow until the 1950s and 1960s even as computers were being gradually introduced .
+the slide rule uses two logarithmic scales to allow multiplication and division of numbers .
+scales may be grouped in decades , ranging from 1 to 10 clusters .
+thus single decade scales vary from 1 to 10 across the entire width of the slide rule while double decade scales a and b range from 1 to 100 over the width of the slide rule .
+mathematical calculations are done by aligning a mark on the sliding central strip with one of the fixed strips , and then observing the relative positions of other marks on the strips .
+numbers aligned with the marks give the approximate value of the product , quotient , or other calculated result .
+the user determines the location of the decimal point in the result , based on mental estimation .
+addition and subtraction steps in a calculation are generally done mentally or on paper , not on the slide rule .
+most slide rules have three linear strips of the same length , aligned in parallel and interlocked so that the central strip can be moved lengthwise relative to the other two .
+some slide rules suggest scales on both sides of the rule and slide strip .
+a sliding with a vertical alignment line is used to find corresponding points on scales that are not adjacent to each other or , in duplex models , are on the other side of the rule .
+the cursor can also record an intermediate result on any of the scales .
+moving the top scale to the right by a distance of formula _ 3 , by matching the beginning of the top scale with the label formula _ 4 on the bottom , aligns each number at position formula _ 6 on the top scale , with the number at position at position on the top scale .
+for example , the diagram above shows that the slide rule has not positioned the 7 on the upper scale above any number on the lower scale .
+in such cases , the user may slide the upper scale to the left until its right index aligns with the 2 .
+method 1 is easy to understand .
+some slide rules have other mathematical functions .
+there are many triangles in the graph , like a pythagorean scale .
+to compute formula _ 12 , for example , locate x on the d scale and read its square on the a scale .
+care must be taken when the base , x , is found in more than one place on its scale .
+when several ll scales are present , use the one with x on it .
+alternatively , use the rightmost 1 on the c scale , and read the answer off the next higher ll scale .
+to extract a cube root using a slide rule , align 1 on the b cursor with the base number on the a scale extending as always to be separated from the lower and upper halves of the scale .
+for angles from around 5.7 up to 90 degrees , sines are found by comparing the s scale with c aarhus or d dq scale .
+the s scale is used for cosines .
+tangents are found by comparing the t scale with the c aarhus scale for angles less than 45 degrees .
+examples of common forms can be read directly from " x " on the s scale to the result on the d scale , when the c-scale index is set at " k " .
+many slide rules have s , t , and st scales marked with degrees and minutesrfordise .
+the l scale is linear .
+some slide rules have a ln scale .
+for example , log2 values can be determined by lining up either leftmost or rightmost 1 on the c scale with 2 on the ll2 scale .
+slide rules are not usually used for addition and subtraction .
+the first method to perform addition and subtraction on the c and d shouldn or any similar scales requires converting the problem into one of division .
+this is similar to the addition / subtraction technique used for high-speed electronic circuits with the logarithmic number system in specialized computer applications like the gravity pipezong grape grape grapetious supercomputer and hidden markov models .
+scales on the most common " 10-inch " models are actually 25 cm , as they were made to metric standards , though some rules offer slightly extended scales to simplify manipulation when a result overflows .
+models a couple of meters wide were made to be hung in classrooms for teaching purposes .
+typically the divisions mark a scale to a precision of two significant figures , and the user estimates the third figure .
+such cursors can effectively double the accuracy of readings .
+circular slide rules come in two basic types , one with two cursors , and another with a free dish and one cursor .
+the dual cursor versions perform multiplication and division by holding a fast angle between the cursors as they are rotated around the dial .
+the onefold cursor version operates more like the standard slide rule through the right alignment of the scales .
+circular slide rules also eliminate off-scale calculations , because the scales were designed to " wrap around " .
+a minute 0.1 mm off-centre of the pivot can result in a 0.2 mm worst case alignment .
+the disadvantages of circular slide rules are the difficulty in locating figures along a dish , and limited number of scales .
+another drawback of circular slide rules is that less important scales are closer to the center , and have lower precisions .
+most students learned slide rule use on the linear slide rules .
+one slide rule remains in daily use around the world is the e6b .
+this was a circular slide rule first created in the 1930s for aircraft pilots to help with dead reckoning .
+with the aid of scales printed on the frame it also helps with such tasks as changing time , distance , speed , and temperature values , compass errors , and calculating fuel use .
+while gps has reduced the use of dead reckoning for aerial navigation , and handheld calculators have taken over many of its functions , the e6b remains widely used as a primary or backup device .
+lining up the original and desired size values on the inner and outer wheels will display their ratio as a percentage in a small window .
+they are not as common since computerized layout , but are not as common .
+in 1952 , swiss watch company breitling introduced a pilot 's wristwatch .
+the navitimer circular rule , referred to by breitling as a " navigation computer " , is a navigation computer .
+there are two types of cylindrical slide rules : those with helical scales such as the fuller , the otis king and the bygrave slide rule , and those with bars , such as the thacher and some loga models .
+in either case , the advantage is a much longer scale , and hence greater precision , than afforded by a straight or circular rule .
+at least one high precision instrument was made of steel .
+in 1895 , a japanese firm , hemmi , started to make slide rules from bamboo .
+all premium slide rules had numbers and scales engraved , and then filled with paint or other resin .
+premium slide rules included clever catches so the rule would not fall apart by accident , and bumpers to protect the scales and cursor from rubbing on tabletops .
+the recommended cleaning method for engraved markings is to scrub lightly with steel wool .
+the slide rule was invented around 1620 – 1630 , shortly after john napier 's publication of the concept of the logarithm .
+edmund gunter of oxford developed a calculating device with a single logarithmic scale .
+in 1622 , william oughtred of cambridge combined two handheld gunter rules to make a device that is recognizably the modern slide rule .
+oughtred taught his ideas privately to his students .
+also like newton , he became involved in a vitriolic controversy over priority , with his one-time student richard delamain and the prior claims of wingate .
+oughtred 's ideas were only made public in publications of his student william forster in 1632 and 1653 .
+in 1677 , henry coggeshall created a two-foot folding rule for timber measure .
+in 1755 everard included a slide rule with all of these scales .
+in 1815 , peter roget invented the log log log log log slide rule .
+this allows the user to directly perform calculations involving roots and exponents .
+nathaniel bowditch , in 1821 , a " sliding rule " that contained scales trigonometric functions on the fixed part and a line of log-sines and log-tans on the slider used to solve navigation problems .
+in 1859 , a more modern form of slide rule was created by french artillery lieutenant amedee mannheim , who was fortunate in having his rule made by a firm of national reputation and in having it adopted by the french artillery .
+the duplex rule was invented by william cox in 1891 .
+astronomical work also required precise computations , and in 19th century germany a steel slide rule about two meters long was used at one observatory .
+until the advent of pocket digital calculator , students also might keep a ten-or twenty-inch rule for precision work at home or the office while carrying a five-inch pocket slide rule around with them .
+in 2004 , researchers david b . sher and dean c . nataro created a new type of slide rule based on prosthaphaeresis , an algorithm for rapidly computing products that predates logarithms .
+some slide rules are extremely specialized for very narrow applications .
+for example , the john rabone & sons 1892 catalog lists a " measuring tape and cattle gauge " , a device to estimate the weight of a cow from its measurements .
+there were many specialized slide rules for photographic applications .
+for example , the fisher controls company distributed a customized slide rule adapted to solving the equations used for selecting the proper size of industrial flow control valves .
+pilot balloon slide rules were used by meteorologists in weather services to determine the upper wind velocities from an ascending hydrogen or helium filled pilot balloon .
+in world war ii , bombardiers and navigators who needed quick calculations often used special slide rules .
+one office of the u . s . navy actually designed a generic slide rule " chassis " with an aluminium body and plastic cursor into which celluloid cards printed on both sides sides sides sides sides showed that they could be placed for special calculations .
+the process was invented to calculate range , fuel use and altitude for aircraft , and then adapted to many other purposes .
+the e6-b is a circular slide rule .
+the importance of the slide rule began to diminish as electronic computers , a new but rare resource in the 1950s , became more widely available to technical workers during the 1960s .
+another step away from slide rules was the introduction of electronic calculators .
+the first included the wang laboratories loci-2 , introduced in 1965 .
+as with mainframe computing , the availability of these machines did not affect the ubiquitous use of the slide rule until cheap hand held scientific electronic calculators became available in the mid-1970s , at which point , it rapidly declined .
+this led engineers to use mathematical equations that favored operations that were easy on a slide rule over more accurate but complex functions .
+on the other hand , the spatial , manual operation of slide rules is a key factor for numerical relationships and scale that people who have used only digital calculators often lack .
+a slide rule requires the user to compute the order of magnitude of the answer in order to position the decimal point in the results .
+this separate calculation is less likely to lead to extreme calculation errors , but forces the user to keep track of magnitude in short-term memoryocation .
+the precision of a slide rule is about three digits , compared to many digits on digital calculators .
+as order of magnitude gets the greatest prominence when using a slide rule , users are less likely to make errors of false precision .
+when performing a sequence of multiplications or divisions by the same number , the answer can often be determined by merelyinkles at the slide rule without any manipulation .
+other useful linear conversions such as pounds to kilograms can be easily marked on the rule and used directly in calculations .
+a slide rule does not depend on grid electricity or batteries .
+mechanical imprecision in slide rules that were poorly built or warped by heat will lead to errors .
+many sailors keep slide rules as backups for navigation .
+the e6b circular slide rule used by pilots has been in continuous production and remains available in many models .
+some wrist watches designed for aviation use still feature slide rule scales .
+others keep their old slide rules out of a sense of nostalgia , or collect them as a hobby .
+although a great many slide rules are circulating on the market , specimens in good condition tend to be expensive .
+many rules for sale on are damaged or have missing parts .
+the keuffel and esser rules from the period up to about 1950 are problematic .
+there are still a handful of new slide rules .
+the concise company of tokyo , which began as a manufacturer of circular slide rules in july 1954 , continues to make and sell them today .
+in september 2009 , thinkgeek introduced its own brand of straight slide rules .
+they are available for international purchase through their web store .
+specialized slide rules such as the e6b used in aviation , and gunnery slide rules are still used .
+these rules are used as part of the teaching and instruction process as in learning to use them the student also learns about the principles behind the calculations .
+the keuffel and esser company slide rule collection , from the slide rule manufacturer formerly in brooklyn , new york , was donated to mit around 2005 .

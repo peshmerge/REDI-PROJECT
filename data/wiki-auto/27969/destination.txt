@@ -1,0 +1,51 @@
+Structural isomerism (IUPAC call this constitutional isomerism) is a kind of isomerism.
+Two chemical in this isomerism have the same molecular formula, but the molecules have bonded together in different orders.
+The opposite of structual isomerism is stereoisomerism.
+There are many words that represents structual isomers.
+There are three kinds of constitutional isomers.
+They are skeletal isomers, positional isomers, and functional isomers.
+Positional isomers are also called regioisomers.
+Tautomers are also a kind of functional isomers.
+In skeletal isomerism, or chain isomerism, components of the skeleton (usually carbon) are re-ordered to make different structures.
+Pentane has three isomers.
+They are "n"-pentane (often called simply "pentane"), isopentane (methylbutane) and neopentane (dimethylpropane).
+In position isomerism, a functional group or other substituent changes its position on a parent structure.
+In the table below, the hydroxyl group can stay in three different positions on an n-pentane chain to make three different compounds.
+Many aromatic isomers exist because substituents can be positioned on different parts of the benzene ring.
+Only one isomer of phenol or hydroxybenzene exists but cresol or methylphenol has three isomers where the additional methyl group can be placed on three different positions on the ring.
+Xylenol has one hydroxyl group and two methyl groups and a total of 6 isomers exist.
+Functional isomers are one of the structural isomers.
+Two compounds in functional isomerism have the same molecular formula (the number of each atom is the same, like cyclohexane:C3H6 and 1-hexene:C3H6).
+But, the atoms are connected in other ways so that the groupings are different.
+We call these groups of atoms functional groups, functionalities, or moieties.
+Another way to say this is that two compounds that have the same molecular formula, but have different functional groups, are functional isomers.
+For example, the chemical formula of cyclohexane and 1-hexene are CH.
+We call them functional group isomers because cyclohexane is a cycloalkane and hex-1-ene is an alkene.
+For two molecules to be functional isomers, they must contain key groups of atoms arranged in particular ways.
+Some of the best examples come from organic chemistry.
+CHO is a molecular formula.
+Depending on how the atoms are arranged, it can represent two different compounds dimethyl ether CH-O-CH or ethanol CHCH-O-H.
+Dimethyl ether and ethanol are functional isomers.
+The first is an ether.
+The carbon chain-oxygen-carbon chain functionality is called an ether.
+The second is an alcohol.
+The carbon chain-oxygen-hydrogen functionality is called an alcohol.
+If the functionalities stay the same, but their locations change, the structural isomers are not functional isomers.
+1-Propanol and 2-propanol are structural isomers, but they are not functional isomers.
+Both of them are alcohols.
+The functional group (carbon chain-O-H) is present in both of these compounds, but they are not the same.
+While some chemists use the terms structural isomer and functional isomer interchangeably, not all structural isomers are functional isomers.
+Functional isomers are most often identified in chemistry using infrared spectroscopy.
+Infrared radiation corresponds to the energies associated primarily with molecular vibration.
+The alcohol functionality has a very distinct vibration called OH-stretch that is due to hydrogen bonding.
+All alcohols in liquid and solid form absorb infrared radiation at certain wavelengths.
+Compounds with the same functional groups will all absorb certain wavelengths of infrared light because of the vibrations associated with those groups.
+In fact, the infrared spectrum is divided into two regions.
+The first part is called the functional group region.
+Dimethyl ether and ethanol would have dissimilar infrared spectra in the functional group region.
+The second part of the infrared spectrum is called the fingerprint region; it is associated with types of motion allowed by the symmetry of the molecule and influenced by the bond energies.
+The fingerprint region is more specific to an individual compound.
+Even though 1-propanol and 2-propanol have similar infrared spectra in the functional group region, they differ in the fingerprint region.
+In simple terms, functional isomers are structural isomers that have different functional groups like alcohol and ether.
+As an example of isomer counting, 7 structural isomers exist with molecular formula CHO, each with different bond connectivities and air-stable at ambient temperature.
+An additional two structural isomers are the enol tautomers of the carbonyl isomers, but these are not stable.

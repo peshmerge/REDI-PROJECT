@@ -1,0 +1,45 @@
+the three main categories of electric lights are incandescent lamps , which produce light by a filament heated white-hot by electric current , gas-discharge lamps , which produce light by means of an electric arc through a gas , and led lamps , which produce light by a flow of electrons across a band gap in a band gap in a semiconductor .
+early people used candles , oil lamps , and fires .
+the first incandescent light was made by the english chemist humphry davy in 1802 .
+by the early 20th century , these had completely replaced arc lamps .
+the energy efficiency of electric lighting has increased very much since the first demonstration of arc lamps and the incandescent light bulb of the 19th century .
+electric light sources come in a profusion of types and sizes adapted to many applications .
+battery powered light is often reserved for when lights fail .
+low-pressure sodium lights are favoured for public lighting by astronomers .
+the modern incandescent light bulb , with a coiled filament of tungsten , and commercialized in the 1920s , developed from the carbon filament lamp introduced about 1880 .
+as well as bulbs for normal illumination , there is a very wide range , including low voltage , low-power types often used as parts in equipment .
+incandescent bulbs are being phased out in many countries due to their low energy efficiency .
+less than 3 % of the total energy is changed into usable light .
+nearly all of the input energy ends up as heat that , in warm climates , must then be removed from the building by ventilation or air conditioning , often resulting in more energy consumption .
+in colder climates where heating and lighting is required during the cold and dark winter months , the heat byproduct is at least some point .
+halogen lamps are usually much smaller than incandescent lamps .
+the outer glass is a safety precaution , to reduce ultraviolet emission .
+oily residue from fingerprints may cause a hot quartz envelope to shatter due to too heat buildup at the contamination site .
+the risk of burns or fire is also greater with bare bulbs .
+those designed for 12-or 24-volt operation have compact filaments .
+for the same amount of light , they use around one-quarter to one-third the power of an incandescent .
+the typical luminous efficacy of fluorescent lighting systems is 50 – 100 lumens per watt , several times the efficacy of incandescent bulbs with comparable light output .
+fluorescent lamp fixtures are more costly than incandescent lamps , because they require a ballast to regulate the current through the lamp .
+they are used as an energy-saving alternative in homes .
+because mercury is made of many fluorescent bulbs , some are hazardous waste .
+the united states environmental protection agency -lrb- epa -rrb- recommends that fluorescent lamps should be kept from general waste for recycling or safe disposal .
+the solid-state light emitting diodetious ledorina has been popular as an indicator light in consumer electronics and professional audio gear since the 1970s .
+in the 2000s , efficacy and output have risen to the point where leds are now being used in lighting applications such as car headlights and brake lights , in flashlights and bicycle lights , as well as in decorative applications , such as holiday lighting .
+indicator leds are known for their extremely long life , up to 100,000 hours .
+led technology is useful for lighting designers .
+the lamp can also be used to reduce the temperature of the lamp .
+these lamps have higher efficacy than filament lamps , but the carbon rods are short-lived and require constant adjustment in use .
+the lamps produce significant ultraviolet output .
+it was used commercially in the 1870s for large building and street lighting until it was replaced by the incandescent light .
+they are also a point source of light .
+they remained in use in limited applications that required these properties , such as movie projectors , stage lighting , and searchlights , until after world war ii .
+a discharge lamp is a glass or silica envelope containing two metal electrodes separated by a gas .
+the core operating principle is much the same as the carbon arc lamp .
+after the arc is struck , the internal resistance of the lamp drops to a low level .
+the simplest ballasts are just an inductor , and are chosen where cost is the deciding factor , such as street lighting .
+more advanced electronic ballasts may be designed to maintain constant light output over the life of the lamp .
+lamp units are usually given in standardized shape codes and socket names .
+production tolerances as low as 1 % can create a variance of 25 % in lamp life .
+for leds , lamp life is defined as the operation time at which 50 % of lamps have experienced a 70 % decrease in light output .
+the amount of artificial light enters from street light gives cities to be easily visible at night from the air , and from space .
+electric lamps can be used as heat sources .

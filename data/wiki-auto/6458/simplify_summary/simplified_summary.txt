@@ -1,0 +1,78 @@
+the crystallinity of ceramic materials ranges from highly oriented to semi-crystalline , vitrified , and often amorphous nedra .
+crystallinity and electron composition in the ionic and covalent bonds cause most ceramic materials to be good thermal and electrical insulators logged extensively in ceramic engineering faso faso faso faso .
+with such a large range of possible options for the composition / structure of a ceramic ceramic ceramic ceramic ceramic symbol , nearly all of the elements , nearly all types of bonding , and all levels of crystallinity voltairect , the breadth of the subject is vast , and identifiable attributes .
+general properties such as high melting temperature , high hardness , poor conductivity , high moduli of elasticity , chemical resistance and low ductility are the norm .
+composites , such as fiberglass and carbon fiber , are not considered to be part of the ceramic family .
+the earliest ceramics made by humans were pottery objectshenders or vases made from clay , either by itself or mixed with other materials like silica , hardened and sintered in fire .
+later ceramics were glazed and fired to create smooth , colored surfaces , decreasing porosity through the use of glassy , amorphous ceramic coatings on top of the crystalline ceramic substrates .
+the earliest known mention of the word " ceram " is the mycenaean greek , " workers of ceramics " , written in linear b . c .
+the word " ceramic " can be used as an adjective to describe a material , product or process .
+some elements , such as carbon or silicon , may be considered ceramics .
+the modern ceramic materials , which are classified as advanced ceramics , include silicon carbide and tungsten carbide .
+advanced ceramics are also used in medicine , electrical , electronics industries and body armor .
+crystalline ceramic materials are not amenable to a great range of processing .
+if later heat treatments cause this glass to become partly crystalline , the resulting material is known as a glass-ceramic .
+the physical properties of any ceramic substance are a direct result of its crystalline structure and chemical composition .
+solid-state chemistry reveals the connection between microstructure and properties such as localized density variations , grain size distribution , type of porosity and second-phase content .
+most bulk mechanical , optical , thermal , electrical and magnetic properties are significantly affected by the observed microstructure .
+the fabrication method and process conditions are generally indicated by the microstructure .
+the root cause of many ceramic failures is evident in the cleaved and polished microstructure .
+fracture mechanics is a tool in physics to improve the mechanical performance of materials and components .
+it applies the physics of stress and strain , in particular the theories of elasticity and plasticity , to the microscopic crystallographic defects found in real materials in order to predict the macroscopic mechanical failure of bodies .
+a material held together by either type of bond will tend to fracture before any plastic deformation takes place .
+additionally , because these materials tend to be porous , the pores and other microscopic imperfections act as stress concentrators , decreasing the toughness further , and reducing the tensile strength .
+because of this , it is neglected in many applications of ceramic materials .
+this allows the finite control of the microstructure of the ceramic material and therefore the control of the mechanical properties .
+the applications of this oxide strengthening technique are important for solid oxide fuel cells and also water filtration devices .
+in order to process a sample through ice templating a few steps are needed to be completed by the ceramicist .
+first a colloidal suspension must be prepared containing the dissolved ceramic powder , say yttria stablized zirconiatness yszants .
+after the ceramic precursor is ensured to be evenly spread throughout the colloidal solution then next processing step may begin .
+at this stage of the process we have pure ice crystals lined up in a unidirectional fashion .
+the sample is heated and the pressure is reduced enough to force to ice crystals to subliminate .
+the sample is then further sintered to confirm the evaporation of the residual water and the final consolidation of the ceramic microstructure .
+during the execution of this technique a few variables can be controlled to influence the pore size and shape of the microstructure .
+these important variables of the ice-templating technique are : the first solids loading of the colloid , the cooling rate , the sintering temperature and time length , and it has been shown that certain additives can influence the micro-structural shape during this process .
+while there are prospects of mass-making blue leds from zinc oxide , ceramicists are most interested in the electrical properties that show grain boundary effects .
+once the voltage across the device reaches the threshold , there is a breakdown of the electrical structure in the vicinity of the grain boundaries .
+the best demonstration of their ability can be found in electrical substations , where they are employed to protect the infrastructure from lightning strikes .
+they have rapid response , are low maintenance , and do not appreciably degrade from use .
+when various gases are passed over a polycrystalline ceramic , its electrical resistance changes .
+the exact reason for this is not known , but there are two major families of superconducting ceramics .
+such devices use both properties of piezoelectrics , using electricity to produce a mechanical motion liszt compressor powering the devicedington and then using this mechanical motion to produce electricity generating a signal nmi .
+the unit of time measured is the natural interval required for electricity to be converted into mechanical energy and back again .
+after synthesis in a furnace , a pyroelectric crystal allowed to cool under no applied stress generally builds up a static charge of thousands of volts .
+in turn , pyroelectricity is seen most strongly in materials which also display the ferroelectric effect , in which a stable electric dipole can be turned or reversed by applying an electrostatic field .
+this can be used to store information in ferroelectric capacitors .
+the most common materials are lead zirconate titanate and barium titanate .
+aside from the uses mentioned above , their strong piezoelectric response is exploited in the design of high-frequency loudspeakers , transducers for sonar , and actuators for atomic force and scanning tunneling microscopes .
+increases in temperature can cause grain boundaries to suddenly become insulating in some semiconducting ceramic materials , mostly mixtures of heavy metal titanates .
+the critical transition temperature can be changed over a wide range by different in chemistry .
+in such materials , current will pass through the material until joule heating brings it to the transition temperature , at which point the circuit will be broken and current flow will cease .
+such ceramics are used as self-controlled heating elements in , for example the rear-window defrost circuits of automobiles .
+while a lack of temperature control would rule out any practical use of the material near its critical temperature , the dielectric effect remains very strong even at much higher temperatures .
+titanates with critical temperatures far below room temperature have become synonymous with " ceramic " in the context of ceramic capacitors for just this reason .
+optically transparent materials focus on the response of a material to incoming lightwaves of a range of wavelengths .
+frequency selective optical filters can be used to change the brightness of a digital image .
+guided lightwave transmission by frequency selective waveguides means that the transmission of fiber optics is used to transfer data into optical fibers .
+also of value to the emerging materials scientist is the sensitivity of materials to radiation in the infrared infrared vapor portion of the electromagnetic spectrum .
+in the 1960s , scientists at general electricevsky discovered that under the right manufacturing conditions , some ceramics , especially aluminium oxideloid aluminamonium , could be made translucent .
+during the past two decades , additional types of transparent ceramics have been developed for applications such as nose cones for heat-seeking missiles , windows for fighter aircraft , and scintillation counters for computed tomography scanners .
+in the early 1970s , thomas soules pioneered computer modeling of light transmission through translucent ceramic alumina .
+his model showed that microscopic pores in ceramic , mainly trapped at the junctions of microcrystalline grains , caused light to scatter and prevented true transparency .
+most of the interfaces in a typical metal or ceramic object are in the form of grain boundaries .
+the size of the grain boundaries scales directly with particle size .
+recently , japanese scientists have developed techniques to produce ceramic parts that rival the transparency of traditional crystals fragments grown from a single seed skaters .
+scientists at the japanese firm konoshima ltd . , a producer of ceramic construction materials and industrial chemicals , have been looking for market for their transparent ceramics .
+in particular , a livermore research team began to acquire advanced transparent ceramics from konoshima to determine if they could meet the optical requirements needed for livermore ’ s solid-state heat capacity laser measurements .
+livermore researchers have also been testing applications of these materials for applications such as laser-driven fusion power plants .
+ceramic artifacts have an important role in archaeology for understanding the culture , technology and behavior of peoples of the past .
+they are among the most common artifacts to be found at an archaeological site .
+by creating these typologies it is possible to distinguish between different cultural styles , the purpose of the ceramic and technological state of the people among other conclusions .
+in addition , by looking at stylistic changes of ceramics over time is it possible to separate9th the ceramics into distinct diagnostic groupshend assemblagestrom .
+a comparison of ceramic artifacts with known dated assemblages allows for a chronological assignment of these pieces .
+the technical approach to ceramic analysis involves a finer examination of the composition of ceramic artifacts and sherds to determine the source of the material and through this the possible manufacturing site .
+key criteria are the composition of the clay and temper used in the manufacture of the article under study : temper is a material added to the clay during the initial production stage , and it is used to aid the subsequent drying process .
+types of temper include shell pieces , granite fragments and ground sherd pieces called ' grog ' .
+temper is usually identified by microscopic examination of the temper material .
+clay identification is determined by a process of refiring the ceramic .
+by estimating both the clay and temper compositions , and locating a region where both are known to occur , an assignment of the material source can be made .

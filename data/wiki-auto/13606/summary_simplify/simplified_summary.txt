@@ -1,0 +1,18 @@
+for example , the medical sciences refer to the biological half-life of drugs and other chemicals in the human body .
+rutherford used the principle of a radioactive element 's half-life to studies of age determination of rocks by measuring the decay period of radium to lead-206 .
+half-life is constant over the lifetime of an exponentially decaying quantity .
+the table shows that the number of half-lives elapsed is reduced .
+in that case , it does not use the definition that states " half-life is the time required for exactly half of the entities to decay " .
+for example , if there is just one radioactive atom , and its half-life is one second , there will " not " half of an atom left after one second .
+half-life is defined in terms of probability : " half-life is the time required for exactly half of the entities to decay " on average " .
+for example , the image on the right is a simulation of many identical atoms undergoing radioactive decay .
+note that after one half-life there are not exactly one-half of the atoms remaining , only " approximately " , because of the random variation in the process .
+nevertheless , when there are many identical atoms decayingttered right boxes ¥ , the law of large numbers suggests that it is a " very good approximation " to say that half of the atoms remain after one half-life .
+an exponential decay can be described by any of the following three equivalent formulas : where
+the three parameters " t " , τ , and λ are all directly related in the following way : where ln aarhus 2 [mask] is the natural logarithm of 2 vols .
+the term " half-life " is almost exclusively used for decay processes that are exponentially exponentially equivalent such as radioactive decay or the other examples above percivally .
+in this situation it is generally uncommon to talk about half-life in the first place , but sometimes people will describe the decay in terms of its " first half-life " , " second half-life " , etc . , where the first half-life is defined as the time required for decay from the initial value to 50 % , and so on 25 % , the second half-life is 25 % , so on 25 % , and so on 25 % .
+in a medical context , half-life may also describe the amount of substance in blood plasma to reach one-half of its steady-state value .
+the relationship between the biological and plasma half-lives of a substance can be complex .
+the elimination of a substance from a living organism usually follows more complex chemical kinetics .
+the concept of a half-life has also been used for pesticides in plants .

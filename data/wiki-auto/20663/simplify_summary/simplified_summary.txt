@@ -1,0 +1,22 @@
+the mercalli intensity scale is a scale from the mercalli intensity of the earthquake .
+it measures the effects of an earthquake at a given location .
+deeper earthquakes also have less interaction with the surface , and their energy is spread out across a larger area .
+mercalli 's second scale was published in 1902 .
+this version " found favour with the users " , and was adopted by the italian central office of meteorology and geodynamics .
+in 1904 adolfo cancani proposed adding two additional degrees for very strong earthquakes , " catastrophe " and " enormous catastrophe " , thus creating the 12 degree scale .
+his descriptions were deficient , august heinrich sieberg augmented them in 1912 and 1923 .
+this became known as the mercalli – cancani scale , formulated by sieberg , or the mercalli – cancani – sieberg scale , or simply mcs , and used extensively in europe .
+some seismologists prefer to call this version the wood-neumann scale .
+in their 1993 compendium of historical seismicity in the united states , carl stover and jerry coffman ignored richter 's revision , and assigned intensities according to their slightly modified interpretation of wood and neumann 's 1931 scale , effectively creating a new but largely undocumented version of the scale .
+the basis by which the u . s . geological survey paces and other agencies assigns intensities is nominally wood and neumann 's " modified mercalli intensity scale of 1931 " .
+however , this is generally interpreted with the modifications summarized by stover and coffman because in the decades since 1931 it has been found that " some criteria are more reliable than others as indicators of the level of ground shaking . "
+also , construction codes and methods have evolved , making much of built environment stronger ; these make a given intensity of ground shaking seem weaker .
+some of the original criteria of the higher degrees arbore x and aboveability , such as bent rails , ground fissures , landslides , etc .
+, are " related less to the level of ground shaking than to the presence of ground conditions susceptible to spectacular failure . "
+this table gives modified mercalli scale intensities that are typically observed at locations near the epicenter of the earthquake .
+the colors and descriptive names shown here are different from those used on certain shake maps in articles .
+dozens of so-called intensity prediction equations have been published to estimate the macroseismic intensity at a location given the magnitude , source-to-site distance and perhaps other parameters judged e . g . local site conditions associates .
+these equations can be used to estimate the seismic hazard in terms of macroseismic intensity .
+the mercalli scale is not defined in terms of more rigorous , objectively quantifiable measurements such as shake amplitude , shake frequency , peak velocity , or peak acceleration .
+human-perceived shaking and building damages are best correlated with peak acceleration for lower-intensity events , and with peak velocity for higher-intensity events .
+the effects of any one earthquake can vary greatly from place to place , so there may be many mercalli intensity values measured for the same earthquake .

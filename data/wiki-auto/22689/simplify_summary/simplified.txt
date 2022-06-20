@@ -1,0 +1,41 @@
+an oncogene is a gene that can cause cancer .
+in tumor cells , these genes are often mutated , or expressed at high levels .
+most normal cells will undergo a programmed form of death logged on apoptosis .
+activated oncogenes can cause those cells which are able to survive and proliferate instead .
+most oncogenes began as proto-oncogenes , normal genes involved in cell growth and proliferation or inhibition of apoptosis .
+if normal genes promoting cellular growth , through mutation , they are up-regulated gain-of-function mutation mutation mutation mutation mutationlly , they will predispose the cell to cancer and are thus termed oncogenes .
+usually multiple oncogenes , along with mutated apoptotic or tumor suppressor genes , all act in concert to cause cancer .
+since the 1970s , dozens of oncogenes have been identified in human cancer .
+many cancer drugs target the proteins coded by oncogenes .
+the theory of oncogenes was foreshadowed by the german biologist theodor boveri in his 1914 book " zur frage der entstehung maligner tumoren " .
+oncogeneschaft teilungsfoerdernde chromosomen independently that become amplified amplified amplified amplified amplified sensed im permanenten ubergewichtholders during tumour development .
+later on the term " oncogene " was rediscovered in 1969 by national cancer institute scientists george todaro and robert heubner .
+the first confirmed discovery of oncogene was in 1970 .
+sarcoma was first discovered in a chicken retrovirus .
+the sarcoma was indeed the oncogene of the virus .
+the first sequence of v-sarcoma was sequenced in 1980 by a . p . czernilofsky et al .
+in 1976 , drs dominique stehelin , j . michael bishop and harold e . varmus of the university of california , san francisco showed that oncogenes were activated proto-oncogenes , found in many organisms including humans .
+bishop and varmus were awarded the 1989 nobel prize in physiology or medicine for their discovery of the origin of retroviral oncogenes .
+the resultant protein is called an oncoprotein .
+oncogenes are important in the regulation of proteins linked to cell growth .
+some oncoproteins are accepted and used as tumor markers .
+the spanish biochemist mariano barbacid created the first oncogene .
+his discovery was published in the prestigious journal nature in 1982 .
+he spent the next months extending his research , eventually discovering that such oncogene was the mutation of an allele of the ras subfamily , as well as its activation mechanism .
+a proto-oncogene is a normal gene that can become an oncogene due to mutations or increased expression .
+proto-oncogenes code for proteins that help to regulate cell growth and differentiation .
+proto-oncogenes are often involved in signal transduction and execution of mitogenic signals , usually through their protein products .
+upon acquiring a mutation , a proto-oncogene becomes a tumor-inducing agent , an oncogene .
+examples of proto-oncogenes include ras , wnt , myc , erk , and trk .
+the myc gene is implicated in burkitt 's lymphoma .
+the myc gene codes for widely used transcription factors are used .
+when the enhancer sequence is wrongly placed , these transcription factors are produced at much higher rates .
+another example of an oncogene is the bcr-abl gene found on the philadelphia chromosome , a piece of genetic material seen in chronic myelogenous leukemia caused by the translocation of pieces from chromosomes 9 and 22 .
+bcr-abl codes for a tyrosine kinase , which is active , leading to uncontrolled cell proliferation .
+more information about the philadelphia chromosome belowzes the philadelphia chromosome .
+the proto-oncogene can become an oncogene by a small modification of its original function .
+the expression of oncogenes can be regulated by micrornasarded mirnassovsky , small rnas 21-25 nucleotides in length that control gene expression by downregulating them .
+mutations in such micrornas disorder known as oncomirs <unk> can lead to activation of oncogenes .
+antisense messenger rnas could be used to block the effects of oncogenes .
+there are several systems for classifying oncogenes , but there is not yet a standard .
+they are sometimes grouped both spatially amended and moved from outside the cell inwards .

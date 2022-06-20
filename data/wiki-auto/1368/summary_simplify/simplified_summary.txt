@@ -1,0 +1,109 @@
+an assembly language callahan or assembler language baseman is a programming language in which there is a very strong correspondence between the instructions in the language and the machine code instructions .
+assembly code is changed into executable machine code by a utility program referred to as an " assembler " .
+the conversion process is referred to as assembly , as in " assembling " the source code .
+assembly language usually has one statement per machine instruction arbor , but comments and statements that are assembler directives , macros , and symbolic labels of program and memory locations are often supported .
+each assembly language is specific to a particular computer architecture and sometimes to an operating system .
+however , some assembly languages do not provide specific syntax for operating system calls .
+assembly language uses a mnemonic to represent each low-level machine instruction or opcode , typically also each architectural register , flag , etc .
+depending on the architecture , these elements may also be combined for specific instructions or addressing modes using offsets or other data as well as fixed addresses .
+many assemblers offer additional ways to make program development , to control the assembly process , and to aid debugging .
+the assembler also calculates constant expressions and resolves symbolic names for memory locations and other entities .
+symbolic references are a key feature of assemblers , saving tedious calculations and manual address updates after program modifications .
+most assemblers also include macro facilities for performing textual substitution .
+most of them can perform jump-instruction replacements replacing short jumps with their relative jumps displaying any number of passes on request .
+others may even do simple rearrangement or insertion of instructions .
+like early programming languages such as fortran , algol , cobol and lisp , assemblers have been available since the 1950s and the first generations of text based computer interfaces .
+there have been several classes of translators and semi-automatic code generators with properties similar to both assembly and high level languages , with speedcode as perhaps one of the best known examples .
+for instance , an instruction to add memory data to a register in a x86-family processor might be codice _ 1 , in original " intel syntax " , whereas this would be written codice _ 2 in the " at & t " syntax used by the gnu assembler .
+a single group may also have different modes in order to support variations in syntactic forms .
+in both cases , the assembler must be able to determine the size of each instruction on the first passes in order to calculate the addresses of later symbols .
+if the size of an opera depends on the type or distance of the operand , the assembler will make a guess when first encountering the operation , and if necessary , pad it with one or more " no-operation " instructions in a later pass or the errata .
+in an assembler with peephole optimization , addresses may be recalculated between passes .
+the first reason for the use of one-pass was speed of assembly .
+the advantage of the multi-pass assembler is that the absence of errata makes the linking processocation or the program load if the assembler directly produces executable codebuckleference faster .
+for example : in the following code snippet , a one-pass assembler would be able to determine the address of the backward reference bkwd when assembling statement s2 , but would not be able to determine the address of the forward reference fwd when assembling the branch statement s1 ; indeed , fwd may be undefined .
+these are translated into machine language instructions that can be loaded into memory and executed .
+for example , the instruction below tells an x86 / ia-32 processor to move an immediate 8-bit value into a register .
+this binary computer code can be made more human-readable by expressing it in hexadecimal as follows .
+assembly language for the 8086 family provides the mnemonic mov aarhus an abbreviation of " move " for instructions such as this .
+load al , 61h , which is 61 hexometer , is the largest of all the world 's major decimal companies .
+in some assembly languagesminating the same mnemonic , such as mov , may be used for a family of related instructions for loading , copying and moving data .
+if the same mnemonic is used for different instructions , that means that the mnemonic corresponds to several different binary instruction codes , excluding datahend .
+for example , for x86 / ia-32 cpus , the intel assembly language syntax codice _ 6 represents an instruction that moves the contents of register " ah " into register .
+the first byte , 88h , identifies a move between a byte-sized register and either another register or memory , and the second byte , e0h , is shown with three bits bits bits bits bits bits .
+in the first example , the operand codice _ 5 is a valid hexadecimal numeric constant and is not a valid register name .
+assembly languages are always designed so that this sort of unambiguousness is universally enforced by their syntax .
+for example , in the intel x86 assembly language , a hexadecimal constant must start with a numeral number " a " symbol , so that the hexadecimal number ' a 'hend number ' a ' representing decimal ten gibbons would be written as codice _ 11 or codice _ 11 , not codice _ 11 , not codice _ 1 , not codice _ 1 , not codice _ 1 , not codice _ 1 , not the register of register , specifically so that it appears to be the name of ah .
+transforming machine code into machine code is the job of an assembler , and the reverse can be achieved by a disassembler .
+in some cases , an assembler may provide " pseudoinstructions "erie .
+for example , for a machine that lacks a " branch if greater or equal " instruction , an assembler may provide a pseudoinstruction that expands to the machine 's " set if less than " and " branch if zeroizers on the result of the set instruction instruction instruction instruction instruction instruction instructionbilis " .
+most full-featured assemblers also provide a rich macro language repeal discussed belowzee which is used by vendors and programmers to generate more complex code and data sequences .
+since the information about pseudoinstructions and macros defined in the assembler environment is not present in the object program , a disassemblerhesis reconstructs the macro and pseudoinstruction invocations but can only disassemble the actual machine instructions that the assembler generated from those abstract assembly-language .
+likewise , since comments in the assembly language source file are ignored by the assembler and have no effect on the object code it generates , a disassembler is always unable to recover source comments .
+while most general-purpose computers are able to carry out essentially the same functionality , the ways they do so differ .
+a lot of mnemonics or assembly-language syntax may exist for a single instruction set .
+intel claimed copyright on its assembly language mnemonics fragments on each page of their documentation published in the 1970s and early 1980s , some companies that independently produced cpus compatible with intel instruction sets .
+although it is questionable whether such copyrights can be valid , and later cpu companies such as amd and cyrix republished intel 's x86 / ia-32 instruction mnemonics exactly with neither permission nor legal penalty .
+many people who made the v20 and v30 actually wrote in nec 's assembly language rather than intel 's .
+there is a lot of diversity in the way the authors of assemblers categorize statements and in the nomenclature that they use .
+a mnemonic is a symbolic name for a single machine language instruction instructionplifying an opcodeocation .
+operands can be quickly storing value in the instruction itself legally .
+some disassemblers recognize this and will decode the instruction as .
+some assemblers also support simple built-in macro-instructions that generate two or more machine instructions .
+for instance , with some z80 assemblers the instruction is recognized to generate followed by .
+mnemonics are arbitrary symbols ; in 1985 the ieee published standard 694 for a uniform set of mnemonics to be used by all assemblers .
+there are instructions used to define data elements to hold data and variables .
+these instructions can also define whether the data is available to outside programs aarhus programs assembled separately separatelyiable or only to the program in which the data section is defined .
+assemblys are commands given to an assembler to perform operations other than assembling instructions .
+another common use of pseudo-ops is to reserve storage areas for run-time data and optionally initialize their contents to known values .
+some assemblers , such as nasm , provide flexible symbol management .
+putting comments in assembly language code is very important .
+the raw is difficult to read when changes must be made .
+many assemblers support " predefined macros " , and others support " programmer-defined " aarhus and repeatedly re-definablezong macros involving sequences of text lines in which variables and constants are embedded .
+macros are most commonly a mixture of assembler statements , e . g . , directives , symbolic machine instructions , and templates for assembler statements .
+when the assembler processes such a statement , it replaces the statement with the text lines associated with that macro , then processes them as if they existed in the source code fileographers .
+in assembly language , macro is a more comprehensive concept than it does in some other contexts , such as in the c programming language .
+assembler macros can be lengthy " programs " by themselves , executed by the assembler during assembly .
+since macros can have ' short ' names , they can be used to make assembly language programs appear to be far shorter , requiring fewer lines of source code , as with higher level languages .
+they can also be used to add higher levels of structure to assembly programs .
+some assemblers include quite complicated macro languages , including optional parameters , symbolic variables , conditionals , string manipulation , and arithmetic operations , all usable during the execution of a given macro , and allowing macros to save context or exchange information .
+this can be used to generate record-style data structures or " unrolled " loops , for example , or to generate entire algorithms based on complex parameters .
+for instance , a " sort " macro could accept the specification of a complex sort key and create code crafted for that specific key .
+an organization using assembly language that has been heavily extended using such a macro suite can be considered to be working in a higher-level programming .
+the target machine would translate this to its native code using a macro assembler .
+macros were used to customize large-scale software systems for specific customers in the mainframe era .
+this was done , for example , by systems programmers working with ibm 's conversational monitor system / virtual machineference vm / cmsncies and with ibm 's " real-time transaction processing " add-ons , customer information control system cics , and acp / tpf , the airline / financial system that began in the 1970s and many large computer reservation systems still runs and runs many large reservation systems .
+it is also possible to use the macro processing abilities of an assembler to generate code written in completely different languages .
+the user specifies options by coding a series of assembler macros .
+this is because , as was realized in the 1960s , the concept of " macro processing " is independent of the concept of " assembly " .
+unlike other macro processors inside assemblers , the c preprocessor is not turing-complete .
+despite macro processing , it fell into disuse in many high-level languages .
+macro parameter substitution is strictly by name : at macro processing time , the value of a parameter is substituted for its name .
+the most famous class of bugs resulting was the use of a parameter that itself was an expression and not a simple name when the macro writer expected a name .
+users of macro processors can parenthesize formal parameters inside macro definitions , or callers can parenthesize the input parameters .
+the earliest example of this approach was in the concept-14 macro set , originally proposed by dr . harlan millsbled march 1970 1970 onwards .
+this was a way to reduce or eliminate the use of goto operations in assembly code .
+a curious design was a-natural , a " stream-oriented " assembler for 8080 / z80 processors from whitesmiths ltd . goin ' developers of the unix-like idris operating system , and what was reported to be the first commercial c compiler compiler compiler compiler compiler compiler compiler compiler compiler compiler compiler compiler compiler compiler compiler compiler compiler compiler compiler compiler compiler compiler compiler compiler compiler compiler compiler compiler compiler compiler compiler compiler compiler compiler compiler compiler compiler compiler iec .
+the language was classified as an assembler , because it worked with raw machine elements such as opcodes , registers , and memory references .
+parentheses and other special symbols , along with block-oriented programming constructs , controlled the sequence of the generated instructions .
+in spite of that , resource constraints or peculiarities in the target system 's architecture prevent the effective use of higher-level languages .
+assembly languages were not available at the time when the stored-program computer was introduced .
+in late 1948 , the electronic delay storage automatic calculatorials had an assemblerhesis named " initial orders " agustin integrated into its bootstrap program .
+edsac introduced the term " assembly " for the process of combining fields into an instruction word .
+the burroughs mcpforce 1961 rustling was the first computer for which an operating system was not developed entirely in assembly language ; it was written in executive systems problem oriented language khorasan espologe , an algol dialect .
+many commercial applications were written in assembly language as well , including a large amount of ibm mainframe software written by large corporations .
+this was because these systems had severe resource constraints .
+the first generation of microcomputer programmers retained a hobbyist , " wires and pliers " attitude .
+the biggest reasons for using assembly language were minimal bloat aarhus size size size liszt , minimal overhead , greater speed , reliability , and reliability .
+assembly language was used to get the best performance out of the sega saturn .
+assembly language has long been the primary development language for many popular home computers of the 1980s and 1990s 1990s 1990s including the msx spectrum , commodore 64 , commodore amiga , and atari stpins .
+this was in large part because interpreted basic dialects on these systems offered not enough execution speed , as well as insufficient facilities to take full advantage of the available hardware on these systems .
+some compilers available for the radio shack trs-80 and its successors had the ability to combine inline assembly source with high-level program statements .
+assembly language has specific niche uses where it is important for each party .
+modern optimizing compilers are said to make compilers into code that can run as fast as written assembly .
+modern processors and memory sub-systems make effective optimization difficult for compilers , as well as assembly programmers .
+moreover , increasing processor performance has meant that most cpus sit idle most of the time , with delays caused by cache misses , i / o operations and paging .
+this has made raw code execution speed a non-issue for many programmers .
+such fundamental topics as binary arithmetic , memory allocation , character set encoding , interrupt processing , and compiler design would be hard to study in detail without a grasp of how a computer works at the hardware level .
+since a computer 's behavior is fundamentally defined by its instruction set , the logical way to learn such concepts is to study assembly language .
+i compare the basic concepts ; ii issn to recognize situations where the use of assembly language might be appropriate ; and iii iii alternatively see how efficient code can be created from high-level languages .

@@ -1,0 +1,67 @@
+a tuning fork is a sound resonator made from a u-shaped bar of elastic metalduks .
+it resonates at a specific constant pitch when set vibrating by striking it against an object .
+the pitch depends on the length of the two prongs .
+they are traditional sources of pitch for tuning musical instruments .
+the tuning fork was invented in 1711 by british musician john shore , sergeant trumpeter and lutenist to the court .
+a tuning fork is a fork-shaped acoustic resonator used in many applications to produce a fixed tone .
+the fork shape produces a very pure tone , with most of the vibrational energy at the fundamental frequency .
+the reason for this is that the frequency of the first overtone is about = 6 ⁄ times the fundamentalstrel about 2 ⁄ octaves above ithurst .
+by comparison , the first overtone of a vibrating string is one octave abovequal twiceosis the fundamental , so when the string is plucked or the bar is struck , its vibrations tend to mix the fundamental and overtone frequencies .
+when the tuning fork is struck , little of the energy goes into the overtone modes ; they also die out correspondingly faster , leaving a pure sine wave at the fundamental frequency .
+it is also easier to tune other instruments with a pure tone .
+another reason for using the fork shape is that , when it vibrates in its principal mode , the handle vibrates up and down as the prongs move apart and together .
+there is a node localized point of no vibration spontaneously at the base of each prong .
+the handle motion is small , so the user can hold the fork without damping the vibration , but the handle can still transmit the vibration to a resonator , which amplifies the sound of the fork .
+the user typically strikes the fork , and then presses the handle against a wooden box resonator , table top , bridge of a musical instrument , or just behind their ear .
+string players sometimes use bone conduction , holding the stem of the fork in their teeth , so that both hands are free .
+if just held in open air , the sound of a tuning fork is very faint .
+the sound waves from each prong are 180 180 degrees out of phase with the other .
+if a sound absorbing sheet is slid in between the prongs of a vibrating fork , reducing the waves reaching the ear from one prong , the volume actually increases , due to a reduction of this cancellation .
+commercial tuning forks are tuned to the correct pitch at the factory .
+they can be retuned by filing things off the prongs .
+filing the ends of the prongs raises the pitch , while filing the inside of the base of the prongs lowers it .
+the most common tuning fork sounds the note of a = 440 hz , the standard concert pitch that many orchestras use .
+that is the pitch of the violin 's second string , the first string of the viola , and an octave above the first string of the cello .
+orchestras between 1750 and 1820 mostly used a = 423.5 hz , though there were many forks and many slightly different pitches .
+tuning forks vibrate at all the notes within the central octave of the piano , and also other pitches .
+well-known manufacturers of tuning forks include ragg and john walker , both of sheffield , england .
+tuning fork pitch varies slightly with temperature .
+a change in frequency of 48 parts per million pertyatyatyatyatyatyatyahart is typical for a steel tuning fork .
+the frequency decreases drastically .
+tuning forks are made to have their correct pitch at a standard temperature .
+the standard temperature is 20aldi .
+the pitch of other instruments is also subject to changes with temperature change .
+the ratio in the equation above can be rewritten as if the prongs are cylindrical with radius r , and if the prongs have rectangular cross-section of width a along the direction of motion .
+tuning forks have traditionally been used to tune musical instruments , though electronic tuners have largely replaced them .
+forks can be driven electrically by placing electronic oscillator-driven electromagnets close to the prongs .
+a number of keyboard musical instruments use similar to tuning forks .
+the most popular is the rhodes piano , in which hammers hit metal tines that vibrate in the magnetic field of a pickup , creating a signal that drives electric amplification .
+the previous un-amplified dulcitone , which used tuning forks directly , suffered from low volume .
+the quartz crystal that serves as the timekeeping element in modern quartz clocks and watches is in the form of a tiny tuning fork .
+it usually vibrate at a frequency of 32,768 hz in the ultrasonic range .
+it is made to vibrate by small oscillating voltages applied to metal electrodes plated on the surface of the crystal by an electronic oscillator circuit .
+quartz is piezoelectric , so the tines bend rapidly back and forth .
+the accutron , an electromechanical watch developed by max hetzel and manufactured by bulova beginning in 1960 , used a 360-hertz steel tuning fork as its timekeeper , powered by a battery-powered transistor oscillator circuit .
+the fork gave greater accuracy than conventional balance-wheel watches .
+the humming sound of the tuning fork was audible when the watch was held to the ear .
+alternatives to the common a = 440 standard include philosophical or scientific pitch with standard pitch of c = 512 .
+rayleigh said that pitch was made by rayleigh .
+george frideric handel made c = 512 .
+tuning forks , usually c -512 , are used by doctors to test a patient 's hearing .
+this is most commonly done with two exams .
+lower-pitched ones , usually at c128 , are also used to check vibration sense as part of the examination of the peripheral nervous system .
+orthopedic surgeons have explored using a tuning forktify lowest frequency c = 128cope to assess injuries where bone fracture is suspected .
+they hold the end of the vibrating fork on the skin above the suspected fracture , progressively closer to the suspected fracture .
+if there is a fracture , the periosteum of the bone vibrates , and fire nociceptors ( pain receptors causing a sharp pain .
+this can indicate a fracture , which the practitioner refers to medical x-ray .
+the pain of a local sprain can be false .
+established practice requires an x-ray regardless , because it 's better than missing a real fracture while wondering if a response means a sprain .
+a systematic review in bmj open suggests that this technique is not reliable enough for clinical use .
+tuning forks are also used in alternative therapy practices , such as sonopuncture and polarity therapy .
+a radar gun is a weapon that measures the speed of cars or a ball in sports is usually calibrated with tuning forks .
+instead of the frequency , these forks are labeled with the calibration speed and radar bandication .
+doubled and h-type tuning forks are used for tactical-grade vibrating structure gyroscopes and various types of microelectromechanical systems .
+tuning fork forms the sensing part of vibrating point-level sensors .
+the tuning fork is kept vibrating at its resonant frequency by a piezoelectric device .
+when they come in contact with solids , amplitude of oscillation goes down .
+for liquids , the resonant frequency of tuning fork changes upon coming in contact with the liquids , change in frequency is used to detect level .

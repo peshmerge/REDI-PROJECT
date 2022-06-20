@@ -1,0 +1,50 @@
+an electrical network is a model of such an interconnection .
+an electrical circuit is a network of two or more lines .
+linear electrical networks , a special type consisting only of sourcespeed voltage or currentdilly , linear lumped elements ɔ resistors , capacitors , inductorsodes , and linear distributed elements representing transmission lines .
+they are thus more easily analyzed , using powerful frequency domain methods such as laplace transforms , to determine dc response , ac response , and transient response .
+a resistive circuit is a circuit that has only resistors and the current and voltage sources .
+analysis of resistive circuits is less complicated than analysis of capacitors and inductors .
+if the sources are constant generating dc comics , the result is a dc circuit .
+the effective resistance and current distribution properties of arbitrary resistor networks can be modeled in terms of their graph measures and geometrical properties .
+a network that contains active electronic components is known as an " electronic circuit " .
+such networks are generally nonlinear and require more complex design and analysis tools .
+an active network is a network that contains an active source -lrb- either a voltage source or a voltage source -rrb- .
+a passive network is a network that does not have an active source .
+an active network has one or more sources of electromotive force .
+it has active elements like a battery or a transistor .
+active elements can inject power to the circuit , provide power gain , and control the current flow within the circuit .
+passive networks do not contain any sources of electromotive force .
+they are made of passive resistors and capacitors .
+these elements can not be defined as active elements .
+a network is linear if its signals are used .
+discrete passive componentshesis resistors , capacitors and inductorstorstorstorstorstorstorstorstorstorstors are called " lumped elements " because all of their , respectively , resistance , capacitance and inductance are assumed to be located at one place .
+this design philosophy is called the lumped element model .
+this is conventionally the conventional approach to circuit design .
+at high enough frequencies the lumped assumption no longer holds because there is a significant fraction of a wavelength across the component dimensions .
+a new design model is needed for such cases called the distributed element model .
+networks designed to this model are called " distributed element circuits " .
+a distributed element circuit that includes some lumped components is called a " semi-lumped " design .
+an example of a semi-lumped circuit is the combline filter .
+sources can be classified as independent sources and dependent sources .
+an ideal independent source maintains the same voltage or current regardless of the other elements present in the circuit .
+its value is either constantroller dc galveston or sinusoidalidalidalidalidalidalidal þor .
+the strength of the voltage or current is not changed by any changes in the connected network .
+dependent sources depend upon a particular element of the circuit for delivering power or voltage or current depending upon the type of source it is .
+there are many electrical laws .
+other more complex laws may be needed if the network contains nonlinear or reactive components .
+non-linear self-regenerative heterodyning systems can be approximated .
+applying these laws results in a set of simultaneous equations that can be solved either algebraically or numerically .
+to design any electrical circuit , either analog or digital , electrical engineers need to be able to predict the voltages and currents at all places within the circuit .
+linear circuits can be studied by hand .
+in more complex cases the circuit may be analyzed with specialized computer programs or estimation techniques such as the piecewise-linear model .
+circuit simulation software , such as hspiceigate an analog circuit simulator urbana-champaign , and languages such as vhdl-ams and verilog-ams allow engineers to design circuits without the cost , cost and risk of error involved in building circuit prototypes .
+more complex circuits can be analyzed numerically with software such as spice or gnucap , or symbolically using software such as sapwin .
+when faced with a new circuit , the software first tries to find a steady state solution .
+once the steady state solution is found , the " operating points " of each element in the circuit are known .
+for a small amount of non-linear element can be linearized around its operation point to obtain the small-signal estimate of the voltages and currents .
+this is an example of ohm 's law .
+the resulting linear circuit matrix can be solved with gaussian elimination .
+software such as the plecs interface to simulink uses piecewise-linear approximation of the equations governing the elements of a circuit .
+the circuit is treated as a completely linear network of ideal diodes .
+every diode switches from on to off or vice versa , the configuration of the linear network changes .
+adding more detail to the approximation of equations increases the accuracy of the simulation , but also increases its running time .

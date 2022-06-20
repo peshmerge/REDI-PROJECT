@@ -1,0 +1,17 @@
+A space observatory is any instrument (such as a telescope) in outer space which is used for observation of distant objects.
+Planets, stars, galaxies, and other outer space objects may be viewed and recorded.
+This category does not include observatories in space which are pointed toward the earth for the purpose of reconnaissance, meteorology and other types of information gathering.
+All observation of space from Earth is filtered through the Earth's atmosphere.
+The atmosphere filters and distorts what is seen and recorded.
+Satellite-based telescopes opened up the Universe to human eyes.
+Turbulence in the Earth's atmosphere blurs images taken by ground-based telescopes, an effect known as seeing.
+It is this effect that makes stars "twinkle" in the sky.
+As a result, the pictures taken by satellite telescopes in visible light (for example, by the Hubble Space Telescope) are much clearer than Earth-based telescopes, even though Earth-based telescopes are very large.
+Space-based astronomy is vital for frequency ranges outside the optical and radio windows.
+For example, X-ray astronomy is nearly impossible when done from the Earth.
+It has reached its present importance in astronomy due to orbiting X-ray telescopes.
+Infrared and ultraviolet are also largely blocked by the atmosphere.
+Most space observatories are in low Earth orbit.
+In 1946, American theoretical astrophysicist Lyman Spitzer was the first to propose a telescope in outer space, a decade before the Soviet Union launched the first satellite, "Sputnik".
+Spitzer said a large telescope in space, above the Earth's atmosphere, would see better.
+His efforts resulted in the world's first space-based optical telescope, "Hubble Space Telescope", which was launched on April 20, 1990 by the Space Shuttle "Discovery" (STS-31).

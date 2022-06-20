@@ -1,0 +1,33 @@
+a checksum is a small-sized datum that is used to measure errors that may have been introduced during its transmission or storage .
+it is usually used to refer to an installation file after it is received from the download server .
+checksums are often used to verify data integrity , but are not based on verifying data authenticity .
+the checksum from a data input is called a checksum function .
+a good checksum algorithm will usually output a significantly different value , even for small changes made to the input .
+this is especially true of cryptographic hash functions , which may be used to detect many data corruption errors and verify overall data integrity .
+checksum functions are related to hash functions , fingerprints , randomization functions , and cryptographic hash functions .
+each of those concepts has different applications and therefore different design goals .
+for instance , a function returning the start of a string can provide a hash appropriate for some applications but will never be a good checksum .
+checksums are used in cryptographic and cryptographic systems .
+for cryptographic systems with these two specific design goals , see hmac .
+check digits and parity bits are special cases of checksums , suitable for small blocks of data contents such as bank account numbers , computer words , single bytes , etc .
+some error-correcting codes are based on special checksums which not only detect common errors .
+the simplest checksum algorithm is the longitudinal parity check , which breaks the data into " words " with a fixed number " n " of bits , and then computes the exclusive or regardless of all those words .
+the result is added to the message as an extra word .
+to check the integrity of a message , the receiver computes the exclusive or of all its words , including the checksum .
+any transmission error which flips a single bit of the message , or an odd number of bits , will be detected as an incorrect checksum .
+however , an error which affects two bits will not be detected if those bits are at the same position in two distinct words .
+also swapping of two or more words will not be detected .
+if the affected bits are independently chosen at random , the probability of a two-bit error being undetected is 1 / n .
+a variant of the previous algorithm is to add all the words as unsigned binary numbers , discarding any overflow bits , and append the two 's complement of the total as the checksum .
+if the result is not a word full of zeros , an error must have occurred .
+this version too detects any single-bit error , but the promodular sum is used in sae j1708 .
+the simple checksums do not know some common errors which affect many bits at once , such as changing the order of data words , or adding or deleting words with all bits set to zero .
+the checksum algorithms most used in practice , such as fletcher 's checksum , adler-32 , and cyclic redundancy checksibility , address these weaknesses by considering not only the value of each word but also its position in the sequence .
+this feature generally increases the cost of computing the checksum .
+a message that is " m " bits long can be viewed as a corner of the " m "-dimensional hypercube .
+the checksum algorithm can map each " m "-bit message to a corner of a larger hypercube , with dimension .
+the 2 corners of this hypercube represent all possible received messages .
+the valid received messages ballot numbers are those that have the correct checksumference of a smaller set , with only two corners .
+a single-bit transmission error then corresponds to a displacement from a valid cornerbuckling the correct message and checksumference to one of the " m " adjacent corners .
+an error which affects " k " bits moves the message to a corner which is " k " steps removed from its correct corner .
+the goal of a good checksum algorithm is to spread the valid corners as far from each other as possible .

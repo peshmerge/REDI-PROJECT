@@ -1,0 +1,132 @@
+he observed that organisms ashore pea plants inherit traits by way of discrete " units of inheritance " .
+trait inheritance is still primary principles of genetics in the 21st century , but modern genetics has expanded beyond inheritance to studying the function and behavior of genes .
+gene structure and function , variation , and distribution are studied within the context of the cell , the organism prepares to develop .
+organisms studied within the broad field span the domains of lifeforms archaea , bacteria , and eukarya [mask] .
+the average height of the two corn stalks may be genetically determined to be equal .
+the observation that living things inherit traits from their parents has been used since prehistoric times to improve crop plants and animals through selective breeding .
+before mendel , imre festetics , a hungarian noble , who lived in koszeg before mendel , was the first who used the word " genetics " .
+in his third law , he developed the basic principles of mutation mutation .
+mendel 's work provided examples where traits were definitely not blended after hybridization , showing that traits are produced by different genes rather than a continuous blend .
+blending of traits in the progeny is now explained by the action of multiple genes with quantitative effects .
+this theory is now known to be wrong , the experiences of individuals do not affect the genes they pass to their children .
+mendel 's genetics started with his studies of the nature of inheritance in plants .
+in his paper " " versuche uber pflanzenhybriden " " experiments on plant hybridization " percival , presented in 1865 to the " naturforschender verein " [mask] society for research in nature trafficking in brunn , mendel traced the inheritance patterns of certain traits in pea plants and described them mathematically .
+although this pattern of inheritance could only be observed for a few traits , mendel 's work suggested that heredity was particulate , not acquired , and that the inheritance patterns of many traits could be explained through simple rules and ratios .
+the importance of mendel 's work did not gain wide understanding until 1900 , when hugo de vries and other scientists rediscovered his research .
+william bateson , a proponent of mendel 's work , coined the word " genetics " in 1905 paterson the adjective " genetic " , derived from the greek word " genesis " , predates the noun and was first used in a biological sense in 1860 .
+bateson both acted as a mentor and was helped by the work of other scientists from newnham college at cambridge , specifically the work of becky saunders , nora darwin barlow , and muriel wheldale onslow .
+bateson popularized the term " genetics " to describe the study of inheritance in his inaugural address to the third international conference on plant hybridization in london in 1906 .
+after the rediscovery of mendel 's work , scientists tried to find which molecules in the cell were responsible for inheritance .
+in 1913 , his student alfred sturtevant used the phenomenon of genetic linkage to show that genes are arranged linearly on the chromosome .
+although genes were known to exist on chromosomes , chromosomes are composed of both protein and dna , and scientists did not know which of the two is responsible for inheritance .
+sixteen years later , in 1944 , the avery – macleod – mccarty experiment identified dna as the molecule responsible for transformation .
+hammerling created the role of the nucleus as the repository of genetic information in eukaryotes .
+the hershey – chase experiment in 1952 found that dna fragments rather than proteinosaurus is the genetic material of the viruses that infect bacteria .
+james watson and francis crick found the structure of dna in 1953 .
+their double helix model had two strands of dna with the nucleotides pointing inward , each matching a complementary nucleotide on the other strand to form what look like rungs on a twisted ladder .
+this structure showed that genetic information exists in the sequence of nucleotides on each strand of dna .
+the structure also suggested a simple way for replication : if the strands are separated , new partner strands can be reconstructed for each based on the sequence of the old strand .
+in the next years , scientists tried to understand how dna controls the process of protein production .
+it was discovered that the cell uses dna as a template to create matching messenger rna , molecules with nucleotides very similar to dna .
+with the new molecular understanding of inheritance came an explosion of research .
+in this theory , ohta stressed the importance of natural selection and the environment to the rate at which genetic evolution occurs .
+the work of the human genome project , department of energy , nih , and parallel private efforts by celera genomics led to the sequencing of the human genome in 2003 .
+inheritance in organisms occurs by passing discrete heritable units , called genes , from parents to offspring .
+gregor mendel , who studied the segregation of heritable traits in pea plants .
+in his experiments studying the trait for flower colour , mendel observed that the flowers of each pea plant were either purple or white .
+when organisms are heterozygous at a gene , one allele is called dominant .
+when a pair of organisms reproduce sexually , their offspring randomly inherit one of the two alleles from each parent .
+these observations of discrete inheritance and the segregation of alleles are collectively known as mendel 's first law or the law of segregation .
+geneticists use diagrams and symbols to describe inheritance .
+in fertilization and breeding experiments , especially when discussing mendel 's laws prohibits the parents are referred to as the " p " generation and the offspring as the " f1 "graphs first filial immigrated generation .
+when the f1 offspring mate with each other , the offspring are called the f2naud second filial [mask] generation .
+one of the common diagrams used to predict the result of cross-breeding is the punnett square .
+although although some genes do not assort independently , demonstrating genetic linkage , a topic discussed later in this article .
+different genes can interact in a way that influences the same trait .
+in the blue-eyed maryacio " omphalodes verna "arth , for example , there exists a gene with alleles that determine the color of flowers : blue or magenta .
+these complex traits are products of many genes .
+the influence of these genes is mediated , to varying degrees , by the environment an organism has experienced .
+the degree to which an organism 's genes contribute to a complex trait is called heritability .
+in nigeria , where people have a more variable access to good nutrition and health care , height has a heritability of only 62 % .
+viruses are the only exception to this rule , but viruses use the similar molecule rna instead of dna as their genetic material .
+viruses produce without a host and are unaffected by many genetic processes , so tend not to be considered living organisms .
+each nucleotide in dna is pairs with its partner nucleotide on the opposite strand .
+the full set of hereditary material in an organism makes up the genome .
+the two alleles for a gene are on identical loci of the two chromosomes , each allele inherited from a different parent .
+in humans and many other animals , the y chromosome contains the gene that triggers the development of male characteristics .
+the x and y chromosomes are strongly heterogeneous .
+cells divide their genome into one copy .
+the process of sexual reproduction alternates between forms that contain single copies of the genomeloid haploideux .
+diploid organisms form haploids by dividing , without replicating their dna , to create daughter cells that randomly inherit one of each pair of chromosomes .
+although they do not use the haploid / diploid method of sexual reproduction , bacteria have many methods of acquiring new genetic information .
+bacteria can also take up raw dna fragments found in the environment and integrate them into their genomes .
+these processes result in horizontal gene transfer , and transmitting fragments of genetic information between organisms that would otherwise be unrelated .
+the diploid nature of chromosomes allows genes on different chromosomes to assort independently or be separated from their homologous pair during sexual reproduction .
+the first cytological demonstration of crossing over was performed by harriet creighton and barbara mcclintock in 1931 .
+their research and experiments on corn provided evidence for the genetic theory that linked genes on paired chromosomes do in fact exchange places from one homolog to the other .
+the probability of chromosomal crossover between two given points on the chromosome is related to the distance between the points .
+for an arbitrarily long distance , the probability of crossover is high enough that the inheritance of the genes is effectively uncorrelated .
+the amounts of linkage between a series of genes can be combined to form a linear linkage map .
+genes generally express their functional effect through the production of proteins , which are complex molecules responsible for most functions in the cell .
+proteins are made up of polypeptide chains , each of which is composed of a sequence of amino acids , and the dna sequence of a gene gene mutation through an rna intermediate finds out the amino acid sequence .
+the dna sequence begins with the start of the process of transcription .
+it is then used to make a amino acid sequence through a process called translation .
+each group of three nucleotides in the sequence , called a codon , corresponds either to one of the twenty possible amino acids in a protein or an instruction to end the amino acid sequence .
+the flow of information is unidirectional : information is transferred from nucleotide sequences into the amino acid sequence of proteins , but it never transfers from protein back into the sequence of dna .
+proteins can bind to other proteins and simple molecules .
+protein structure is dynamic ; the protein hemoglobin bends into slightly different forms as it helps capture , transport , and release of oxygen in mammalian blood .
+because protein structures are the result of their amino acid sequences , some changes can dramatically change the properties of a protein by destabilizing the structure or changing the surface of the protein in a way that changes its interaction with other proteins and molecules .
+sickle-cell versions of hemoglobin stick to themselves , stacking to form fibers that distort the shape of red blood cells carrying the protein .
+an interesting example is the coat of the siamese cat .
+in this case , the body temperature of the cat plays the role of the environment .
+in a low temperature environment , however , the protein 's structure is stable and produces dark-hair pigment normally .
+the protein remains functional in areas of skin that are coldersuch as its legs , ears , tail and faceso the cat has dark hair at its extremities .
+environment plays a major role in the effects of the human genetic disease phenylketonuria .
+the mutation that causes phenylketonuria disrupts the ability of the body to break down the amino acid phenylalanine , causing severe symptoms of progressive intellectual disability and seizures .
+a common method for determining how genes and environmentomorphic " nature and nurture " contribute to a phenotype involves studying identical twins , or other siblings of multiple birth .
+scientists can determine whether that disorder is caused by genetic or postnatal environmental factors .
+such tests contradicted the development of the child , and so on the genetic factors that determine the development of the child is not possible .
+when tryptophan is already available to the cell , these genes for tryptophan synthesis are no longer needed .
+differences in gene expression are especially clear in multicellular organisms , where cells all contain the same genome but have very different structures and behaviors .
+as no single gene is responsible for the development of structures within multicellular organisms , these patterns arise from the complex interactions between many cells .
+in eukaryotes , there are structural features of chromatin that influence the transcription of genes .
+these features are called " epigenetic " because they exist on top of the dna sequence and retain inheritance from one cell generation to the next .
+during the process of dna replication , errors sometimes occur in the polymerization of the second strand .
+these errors , called mutations , can affect the phenotype of an organism .
+processes that increase the rate of changes in dna are called mutagenic : mutagenic chemicals promote errors in dna replication , often by interfering with the structure of base-pairing , while uv radiation induces mutations by causing damage to the dna structure .
+in organisms that use chromosomal crossovers to exchange dna and recombine genes , errors in alignment during meiosis can also cause mutations .
+errors in crossover are especially likely when similar sequences cause partner chromosomes to adopt a mistaken alignment .
+these errors make large changes in dna sequenceduplications , inversions , deletions of entire regions .
+mutations alter an organism 's genotype and sometimes this causes different phenotypes to appear .
+most mutations have little effect on an organism 's phenotype , health , or reproductive fitness .
+population genetics studies the distribution of genetic differences in populations and how these distributions change over time .
+selection for beneficial mutations can cause a species to evolve into better able to survive in their environment .
+new species are formed through the process of speciation , often caused by geographical separations that prevent populations from exchanging genes with each other .
+by comparing the homology between different species ' genomes , it is possible to calculate the evolutionary distance between them and when they diverged .
+although geneticists originally studied inheritance in a wide range of organisms , researchers began to study the genetics of a particular subset of organisms .
+so a few model organisms became the basis for most genetics research .
+common research topics in model organism genetics include the study of gene regulation and the involvement of genes in development and cancer .
+organisms were chosen , in part , for convenience – short generation times and easy genetic manipulation made some organisms popular genetics research tools .
+medical genetics try to understand how genetic variation relates to human health and disease .
+searching for an unknown gene may be involved in a disease , researchers commonly use genetic linkage and gene pedigree charts to find the location on the genome associated with the disease .
+researchers take advantage of mendelian randomization to look for places in the genome that are associated with diseases .
+once a candidate gene is found , further research is often done on the corresponding ( or homologous kapoor genes of model organisms .
+individuals differ in their inherited tendency to develop cancer , and cancer is a genetic disease .
+mutations are sometimes found in cells in the body as they divide .
+although these mutations will not be inherited by any offspring , they can affect the behavior of cells .
+also , it is immortal and can grow indefinitely , even after it makes contact with neighboring cells .
+then , the escaped cell can cross the endothelium of a blood vessel and get transported by the bloodstream to colonize a new organ , forming deadly metastasis .
+there are some genetic mutations in a small fraction of cancers .
+restriction enzymes are commonly used enzymes that cut dna at specific sequences , producing predictable fragments of dna .
+dna fragments can be seen through use of gel electrophoresis , which separates fragments according to their length .
+recombinant dna is commonly used in the context of plasmids : short circular dna molecules with a few genes on them .
+researchers can amplify the dna fragments by inserting plasmids into bacteria and then culturing them on plates of agarfied to isolate cloned cells .
+by using specific short sequences of dna , pcr can isolate and exponentially amplify a targeted region of dna .
+dna sequencing , one of the most fundamental technologies developed to study genetics , allows researchers to determine the sequence of nucleotides in dna fragments .
+the technique of chain-termination sequencing , developed in 1977 by a team led by frederick sanger , is still routinely used to sequence dna fragments .
+using this technology , researchers have been able to study the molecular sequences associated with many human diseases .
+as sequencing has become less expensive , researchers have sequenced the genomes of many organisms using a process called genome assembly .
+the large amount of sequence data available has created the field of genomics .
+a common problem to these fields is how to manage and share data that deals with human subject and personally identifiable information .
+on 19 march 2015 , a group of leading biologists urged a worldwide ban on clinical use of methods , particularly the use of crispr and zinc finger , to edit the human genome in a way that can be inherited .
+in april 2015 , chinese researchers reported results of basic research to edit the dna of non-viable human embryos using crispr .

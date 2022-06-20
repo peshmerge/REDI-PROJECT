@@ -1,0 +1,37 @@
+Stereochemistry is the study of how molecules are affected by the way their atoms are arranged in space.
+It is also known as 3D chemistry as the word "stereo" means "three dimensional".
+Using stereochemistry, chemists can work out the relationships between different molecules that are made up from the same atoms.
+They can also study the effect on the physical or biological properties these relationships give molecules.
+When these relationships influence the reactivity of the molecules it is called dynamic stereochemistry.
+In chemistry, some molecules have more than one isomer.
+This means that molecules can have different forms, even though all the forms made up of the same atoms.
+There are two kinds of isonomers.
+Constitutional isomers have the same atoms, but they are joined differently.
+Stereoisomers have the same atoms, they are joined the same way, but the atoms are arranged differently in space.
+An important part of stereochemistry is the study of chiral molecules.
+These molecules look almost identical, except that one molecule is the mirror image of the other.
+In most chemical bonds, the atoms of a molecule free to move around without breaking the bonds.
+When a molecule has a double bond or a ring structure, the molecule can be sorted into different isomers.
+These are molecules with the same chemical structure but different forms.
+The study of stereochemical problems covers the entire range of organic, inorganic, biological, physical and supramolecular chemistries.
+Louis Pasteur was the first person to study stereochemistry.
+He observed in 1849 that salts of tartaric acid collected from wine-making equipment could rotate plane polarized light, but that salts from other sources did not.
+This property was the only difference between the two types of salt.
+It is due to optical isomerism.
+In 1874, Jacobus Henricus van 't Hoff and Joseph Le Bel discovered the difference was caused by the way that the atoms bonded to carbon in a tetrahedral (four faced) shape.
+Stereochemistry was important in solving the thalidomide disaster in the 1960s.
+Thalidomide is a drug that was first produced in 1957 in Germany.
+Doctors used it to treat morning sickness in pregnant women.
+Later, the drug was shown to cause deformations in babies.
+One isomer of the drug was not dangerous, but the other caused serious genetic damage to the embryos.
+In the human body, thalidomide undergoes racemization: even if only one of the two stereoisomers enters a human body, the body changes some of it to other one.
+The thalidomide disaster caused governments to test drugs more carefully.
+Selected people take new drugs in an experiment (clinical trial) first before the drug is made available for public use.
+Thalidomide is now used as a therapy for leprosy.
+Women must use it with contraceptives to prevent pregnancy.
+When an atom can have other atoms connect to it in more than one way, it is called a stereocenter.
+For example, if a carbon atom has four different groups attached to it, it becomes a stereocenter.
+Cahn-Ingold-Prelog priority rules are part of a system for describing a molecule's stereochemistry.
+They rank the atoms around a stereocenter in a standard way.
+This allows the relative position of these atoms in the molecule to be described very clearly.
+A Fischer projection is a simplified way to show the stereochemistry around a stereocenter.

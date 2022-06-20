@@ -1,0 +1,27 @@
+in computer science , a data structure is a data organization , management , and storage format .
+more precisely , a data structure is a collection of data values , relationships among them , and the functions or operations that can be applied to the data .
+data structures are the basis for abstract data typeshendra agnes .
+the adt defines the logical form of the data type .
+the data structure is like the physical form of the data type .
+different types of data structures are suited to different kinds of applications , and some are highly specialized to specific tasks .
+for example , relational databases commonly use b-tree indexes for data retrieval , while compiler implementations usually use hash tables to look up identifiers .
+data structures provide a means to manage large amounts of data efficiently for uses such as large databases and internet indexing services .
+efficient data structures are key to designing efficient algorithms .
+some formal design methods and programming languages emphasize data structure rather than algorithms , as the key organizing factor in software design .
+data structures can be used to organize the storage and retrieval of information stored in both main memory and secondary memory .
+data structures are generally based on the ability of a computer to fetch and store data at any place in its memory .
+the linked data structures are based on storing addresses of data items within the structure itself .
+the implementation of a data structure requires writing a set of procedures that create and manipulate instances of that structure .
+the efficiency of a data structure is analyzed separately from those operations .
+this observation motivates the theoretical concept of an abstract data type , a data structure that is defined indirectly by the operations that may be performed on it , and the mathematical properties of those operations aarhus including their space and time costouts .
+graph and binary trees are other commonly used data structures .
+most assembly languages and some low-level programming languages , such as bcplants basic combined programming language baldwin , lack built-in support for data structures .
+many high-level programming languages and some higher-level assembly languages , such as masm , have special syntax or other built-in support for certain data structures , such as records and arrays .
+for example , the citive a direct descendant of bcpladia and pascal languages support structs and records , respectively , in addition to vectorstick one-dimensional arrays .
+most programming languages have some sort of system mechanism that allows data structure implementations to be reused by different programs .
+modern languages usually come with standard libraries that implement the most common data structures .
+examples are the c + + standard template library , the java collections framework , and the microsoft . n
+modern languages also generally support modular programming .
+some provide opaque data types .
+object-oriented programming languages , such as c + + + , java , and smalltalk , use classes for this purpose .
+many known data structures have concurrent versions which allow multiple computing threads to access a single concrete instance of a data structure simultaneously .

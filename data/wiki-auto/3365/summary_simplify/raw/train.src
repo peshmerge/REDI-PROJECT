@@ -1,0 +1,28 @@
+The six-bit character code was an often used implementation in early encoding systems and computers using six-bit and nine-bit bytes were common in the 1960s.
+In this era, bit groupings in the instruction stream were often referred to as "syllables", before the term "byte" became common.
+The modern "de facto" standard of eight bits, as documented in ISO/IEC 2382-1:1993, is a convenient power of two permitting the binary-encoded values 0 through 255 for one byte—2 to the power 8 is 256.
+Many types of applications use information representable in eight or fewer bits and processor designers optimize for this common usage.
+The unit symbol for the byte was designated as the upper-case letter "B" by the International Electrotechnical Commission (IEC) and Institute of Electrical and Electronics Engineers (IEEE) in contrast to the bit, whose IEEE symbol is a lower-case "b".
+The term "byte" was coined by Werner Buchholz in June 1956, during the early design phase for the IBM Stretch computer, which had addressing to the bit and variable field length (VFL) instructions with a byte size encoded in the instruction.
+Another origin of "byte" for bit groups smaller than a computers's word size, and in particular groups of four bits, is on record by Louis G. Dooley, who claimed he coined the term while working with Jules Schwartz and Dick Beeler on an air defense system called SAGE at MIT Lincoln Laboratory in 1956 or 1957, which was jointly developed by Rand, MIT, and IBM.
+Early computers used a variety of four-bit binary-coded decimal (BCD) representations and the six-bit codes for printable graphic patterns common in the U.S. Army (FIELDATA) and Navy.
+These sets were expanded in 1963 to seven bits of coding, called the American Standard Code for Information Interchange (ASCII) as the Federal Information Processing Standard, which replaced the incompatible teleprinter codes in use by different branches of the U.S. government and universities during the 1960s.
+ASCII included the distinction of upper- and lowercase alphabets and a set of control characters to facilitate the transmission of written language as well as printing device functions, such as page advance and line feed, and the physical or logical control of data flow over the transmission media.
+During the early 1960s, while also active in ASCII standardization, IBM simultaneously introduced in its product line of System/360 the eight-bit Extended Binary Coded Decimal Interchange Code (EBCDIC), an expansion of their six-bit binary-coded decimal (BCDIC) representations used in earlier card punches.
+The prominence of the System/360 led to the ubiquitous adoption of the eight-bit storage size, while in detail the EBCDIC and ASCII encoding schemes are different.
+This large investment promised to reduce transmission costs for eight-bit data.
+Microprocessors such as the Intel 8008, the direct predecessor of the 8080 and the 8086, used in early personal computers, could also perform a small number of operations on the four-bit pairs in a byte, such as the decimal-add-adjust (DAA) instruction.
+Historically, the term "octad" or "octade" was used to denote eight bits as well at least in Western Europe; however, this usage is no longer common.
+In contrast, IEEE 1541 specifies the lower case character "b" as the symbol for the bit, but IEC 80000-13 and Metric-Interchange-Format specify the symbol as "bit", providing disambiguation from B for byte.
+In the International System of Quantities (ISQ), B is the symbol of the "bel", a unit of logarithmic power ratios named after Alexander Graham Bell, creating a conflict with the IEC specification.
+However, little danger of confusion exists, because the bel is a rarely used unit.
+It is used primarily in its decadic fraction, the decibel (dB), for signal strength and sound pressure level measurements, while a unit for one tenth of a byte, the decibyte, and other fractions, are only used in derived units, such as transmission rates.
+The lowercase letter o for octet is defined as the symbol for octet in IEC 80000-13 and is commonly used in languages such as French and Romanian, and is also combined with metric prefixes for multiples, for example ko and Mo.
+The usage of the term "octad(e)" for eight bits is no longer common.
+Despite standardization efforts, ambiguity still exists in the meanings of the SI (or metric) prefixes used with the unit byte, especially concerning the prefixes "kilo" (k or K), "mega" (M), and "giga" (G).
+In some fields of the software and computer hardware industries a binary prefix is used for bytes and bits, while producers of computer storage devices practice adherence to decimal SI multiples.
+While the numerical difference between the decimal and binary interpretations is relatively small for the prefixes kilo and mega, it grows to over 20% for prefix yotta.
+The C and C++ programming languages define "byte" as an ""addressable unit of data storage large enough to hold any member of the basic character set of the execution environment"" (clause 3.6 of the C standard).
+The C standard requires that the integral data type "unsigned char" must hold at least 256 different values, and is represented by at least eight bits (clause 5.2.4.2.1).
+In addition, the C and C++ standards require that there are no "gaps" between two bytes.
+In data transmission systems, the byte is defined as a contiguous sequence of bits in a serial data stream representing the smallest distinguished unit of data.

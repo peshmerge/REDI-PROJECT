@@ -1,0 +1,25 @@
+The Riemann zeta function or Euler–Riemann zeta function, "ζ"("s") , is a function of a complex variable "s" that analytically continues the sum of the Dirichlet series
+which converges when the real part of s is greater than 1.
+As a function of a real variable, Leonhard Euler first introduced and studied it in the first half of the eighteenth century without using complex analysis, which was not available at the time.
+Bernhard Riemann's 1859 article "On the Number of Primes Less Than a Given Magnitude" extended the Euler definition to a complex variable, proved its meromorphic continuation and functional equation, and established a relation between its zeros and the distribution of prime numbers.
+The values at negative integer points, also found by Euler, are rational numbers and play an important role in the theory of modular forms.
+The Riemann zeta function is defined as the analytic continuation of the function defined for "σ" > 1 by the sum of the preceding series.
+Leonhard Euler considered the above series in 1740 for positive integer values of s , and later Chebyshev extended the definition to Re("s") > 1 .
+The above series is a prototypical Dirichlet series that converges absolutely to an analytic function for s such that "σ" > 1 and diverges for all other values of s .
+Riemann showed that the function defined by the series on the half-plane of convergence can be continued analytically to all complex values "s" ≠ 1 .
+For the series is the harmonic series which diverges to +∞ , and
+Thus the Riemann zeta function is a meromorphic function on the whole complex s -plane, which is holomorphic everywhere except for a simple pole at with residue 1.
+where "B" is the 2"n" th Bernoulli number.
+For odd positive integers, no such simple expression is known, although these values are thought to be related to the algebraic K -theory of the integers; see Special values of L -functions.
+For nonpositive integers, one has
+for "n" ≥ 0 (using the NIST convention that )
+In particular, ζ vanishes at the negative even integers because for all odd m other than 1.
+The connection between the zeta function and prime numbers was discovered by Euler, who proved the identity
+Both sides of the Euler product formula converge for Re("s") > 1 .
+Since the harmonic series, obtained when , diverges, Euler's formula (which becomes ∏ ) implies that there are infinitely many primes.
+Now, for distinct primes, these divisibility events are mutually independent because the candidate divisors are coprime (a number is divisible by coprime divisors n and m if and only if it is divisible by nm , an event which occurs with probability ).
+Thus the asymptotic probability that s numbers are coprime is given by a product over all primes,
+where Γ("s") is the gamma function.
+The equation relates values of the Riemann zeta function at the points s and 1 − "s" , in particular relating even positive integers with odd negative integers.
+Owing to the zeros of the sine function, the functional equation implies that "ζ"("s") has a simple zero at each even negative integer , known as the trivial zeros of "ζ"("s") .
+When s is an even positive integer, the product sin Γ(1 − "s") on the right is non-zero because Γ(1 − "s") has a simple pole, which cancels the simple zero of the sine factor.

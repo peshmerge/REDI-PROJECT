@@ -1,0 +1,20 @@
+physical chemistry , in contrast to chemical physics , is mainly mainly timed but not alwaysinski a macroscopic or supra-molecular science , as the majority of the principles on which it was founded relate to the bulk rather than the molecular / atomic structure aloneoslav .
+in classical chemistry , all chemical compounds can be described as groups of atoms bonded together .
+to describe the atoms and bonds precisely , it is necessary to know both where the nuclei of the atoms are , and how electrons are distributed around them .
+quantum chemistry is a subfield of physical chemistry concerned with the application of quantum mechanics to chemical problems .
+another set of important questions in chemistry is how reactions can happen spontaneously and which properties can be possible for a given chemical mixture .
+this sets limits on quantities like how far a reaction can proceed , or how much energy can be converted into work in an internal combustion engine .
+it can be used to assess whether a reactor or engine design is feasible , or to check the validity of experimental data .
+classical thermodynamics is concerned with systems in equilibrium and reversible changes and not what actually happens , or how fast , away from equilibrium .
+a key idea in chemical kinetics is that for reactants to react and form products , most species must go through transition states which are higher in energy than either the reactants or the products and serve as a barrier to reaction .
+a second is that most chemical reactions occur as a sequence of elementary reactions , each with its own transition state .
+the fact that how fast reactions occur can often be specified with just a few concentrations and a temperature , instead of needing to know all the positions and speeds of every molecule in a mixture , is a special case of another key concept in physical chemistry .
+in the preamble to these lectures he explains : physical chemistry is the science that must explain under provisions of physical experiments the reason for what is happening in complex bodies through chemical operations .
+modern physical chemistry was started in the 1860s .
+this paper introduced several of the cornerstones of physical chemistry , such as gibbs energy , chemical potentials , and gibbs ' phase rule .
+developments in the following decades include the application of statistical mechanics to chemical systems and work on colloids and surface chemistry , where irving langmuir made many contributions .
+some of these are used in experimental spectroscopy , such as infrared spectroscopy , microwave spectroscopy , and paramagnetic resonance spectroscopy .
+further development in physical chemistry may be attributed to discoveries in nuclear chemistry , especially in isotope separationockey before and during world war ii gaddafi .
+this method is used to find group contribution , lydersen method , joback method , benson group increment theory , quantitative structure – activity relationship relationship – activity relationship .
+some journals that deal with physical chemistry include zeitschrift fur physikalische chemiegpur ; journal of physical chemistry aology from 1896 as " journal of physical chemistry " , renamed in 1997 .
+it was published under the name given here from 1815-1914 onwards .

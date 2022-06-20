@@ -1,0 +1,48 @@
+a voltmeter is a tool used to measure voltage in an electric circuit .
+analog voltmeters move a pointer across a scale in proportion to the voltage of the circuit .
+a voltmeter in a circuit diagram is represented by the letter " v " in a circle .
+voltmeters are made in many styles .
+a panel is usually mounted on a machine , but it can be fixed .
+portable instruments , usually equipped to also measure current and resistance in the form of a multimeter , are standard test instruments used in electrical and electronics work .
+any measurement that can be converted to a voltage can be displayed on a meter that is suitably calibrated .
+general purpose voltmeters may have an accuracy of a few percent of full scale .
+digital meters can be made with high accuracy , typically better than 1 % .
+specially calibrated test instruments have higher accuracies , with laboratory instruments capable of measuring to accuracies of a few parts per million .
+amplifiers can measure tiny voltages of microvolts or less .
+the problem of making accurate voltmeter is to check how accurate it is .
+in laboratories , the weston cell is used as a standard voltage for precision work .
+voltage references are available based on electronic circuits .
+the coil of galvanometer can be used as a voltmeter by inserting a resistor in series with the instrument .
+the galvanometer has a coil of fine wire suspended in a strong magnetic field .
+when an electric current is applied , the magnetic field of the coil creates a torque .
+the torque is proportional to the current through the coil .
+the coil rotates , compressing a spring that opposes the rotation .
+the deflection of the coil is proportional to the current , which in turn is proportional to the applied voltage , which is indicated by a pointer on a scale .
+one of the design objectives of the instrument is to disturb the circuit as little as possible .
+the entire instrument is connected in parallel with the circuit examined .
+the sensitivity of such a meter can be expressed as ohms per volt , the number of ohms resistance in the meter circuit divided by the full scale measured value .
+for example , a meter with a sensitivity of 1000 ohms per volt would draw 1 milliampere at full-scale voltage .
+for multi-range instruments , the input resistance varies as the instrument is switched to different ranges .
+the magnetic field that is moving-coils with a permanent magnet will respond only to direct current .
+measurement of ac voltage requires a rectifier in the circuit so that the coil deflects in only one direction .
+some moving-coil instruments are also made with the zero position in the middle of the scale instead of at one end ; these are useful if the voltage reverses its polarity .
+voltmeters use the mutual repulsion between two charged plates to deflect a pointer attached to a spring .
+meters of this type draw not current .
+the sensitivity and input resistance of a voltmeter can be increased if the current needed to deflect the meter pointer is supplied by an amplifier and power supply instead of by the circuit under test .
+the electronic amplifier between input and meter gives two benefits ; a rugged moving coil instrument can be used , since its sensitivity need not be high , and the input resistance can be made high , reducing the current drawn from the circuit under test .
+amplified voltmeters often have a resistance of 1,10 , or 20 megohms which is independent of the range selected .
+a once popular form of this instrument used a vacuum tube in the amplifier circuit .
+these were almost always powered by the local ac line current .
+today these circuits use a transistor amplifier , hence fet-vm , and appear in handheld digital multimeters as well as in bench and laboratory instruments .
+these are now so ubiquitous that they have largely replaced multimeters except in the least expensive price ranges .
+most vtvms and fet-vms handle dc voltage , ac voltage , and resistance measurements .
+a specialized form of the vtvm is the ac voltmeter .
+these instruments are optimized for measuring ac voltage .
+they have much wider bandwidth than a typical multifunction device .
+a digital voltmeter measures an unknown input voltage by converting the voltage to a digital value and then displays the voltage in numeric form .
+dvms are usually designed to be used to convert a computer into a special type of analog-to-digital converter .
+dvm is the measure of accuracy in many factors , including temperature , input impedance , and dvm power supply voltage variations .
+less expensive dvms often have input resistance on the order of 10 mω .
+dvms can have input resistances of 1 gω or higher for the lower voltage ranges .
+to ensure that a dvm 's accuracy is within the manufacturer 's specified tolerances , it must be calibrated periodically against a voltage standard such as the weston cell .
+the first digital voltmeter was invented and produced by andrew kay of non-linear systemsrfordrfordrfordrford and later founder of kaypro cpi in 1954 .

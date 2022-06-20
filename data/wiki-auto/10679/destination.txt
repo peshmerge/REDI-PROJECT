@@ -1,0 +1,31 @@
+Five card draw is a popular version of the card game poker.
+It is generally considered one of the easiest to play and learn, so it is good for newer poker players.
+Before any cards are dealt, some of the players will make forced bets.
+The most common method of forced bets is called "blinds", where two players to the left of the dealer make bets which are called the "Small Blind" and "Big Blind".
+These forced bets must be at least matched by the other players in order to keep their hands.
+The big blind is twice as much as the small blind.
+If the big blind was $1000, then it is said that the blinds are 500 and 1000.
+This money is put into a place in the center of the table that is called the "pot".
+The other common forced bet is called an "ante", where every player contributes a small amount to the pot for the right to receive cards.
+Each player is given five cards face down.
+These are called the player's "Hole Cards" or what the player has "in the hole".
+Once all the players have their hole cards, the betting starts.
+If blinds are being used, the player to the left of the Big Blind player starts the betting; if antes are being used, the player to the left of the dealer starts the betting.
+Players may "Check", or bet nothing, if no player before them in the turn has bet; this is only possible in a game where antes are used.
+The lowest amount that can be bet is the amount of the big blind or ante.
+Players can bet more than the minimum if they want.
+This is called "Raising".
+If a player raises, the amount he raised the bet to is the new minimum.
+Each player in turn may either "Call" (pay the current bet amount), Raise, or "Fold" (quit the hand, and give up one's cards into the "muck," the pile of already used cards which won't be used again).
+This action keeps going around the table until each player has called or folded his hand.
+After the first turn of betting is over, each player may swap some of their cards for new ones, which are given by the dealer.
+This is called "drawing", and the cards that the players gave up are put into the muck.
+The number of cards that each player can swap varies depending on the agreed rules.
+The "draw" round begins with the player to left of the dealer and continues clockwise until everyone has drawn, including the dealer.
+After the draw round, another turn of betting takes place.
+There is no starting bet in this turn (no blinds) unless a player makes a bet.
+Players may "Check", or bet nothing, if no player before them in the turn has bet.
+If everyone checks, or if a player bets and all the others call or fold, then the round of betting is over.
+With their five hole cards, the player with the best poker hand wins the round and the pot.
+If two or more players have the same hand, those players split the pot evenly.
+If one person bets and all other players have folded, the hand ends then and that player wins; they don't have to show their cards unless they want to.

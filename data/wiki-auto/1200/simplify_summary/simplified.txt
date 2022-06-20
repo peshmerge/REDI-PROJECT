@@ -1,0 +1,35 @@
+atomic physics is a field of physics .
+it is concerned with the arrangement of electrons around the nucleus and the processes by which these arrangements change .
+this includes ions , neutral atoms and , unless otherwise stated , it can be assumed that the term " atom " includes ions .
+the term " atomic physics " can be used to mean nuclear power and nuclear weapons .
+physicists distinguish between atomic physics and chemistry .
+as with many scientific fields , strict delineation can be highly contrived .
+physics research groups are usually so important .
+atomic physics considers atoms in isolation .
+atomic models consist of a single nucleus that may be surrounded by one or more bound electrons .
+it is not concerned with the formation of molecules although much of the physics is identicaldilly , nor does it examine atoms in a solid state as condensed matter .
+it is concerned with processes such as ionization and excitation by photons or collisions with atomic particles .
+modelling atoms in isolation may not seem realistic , if one considers atoms in a gas or plasma then the time-scales for atom interactions are huge in comparison to the atomic processes that are generally considered .
+this means that the individual atoms can be treated as if each were in isolation , as the vast majority of the time they are .
+by this consideration atomic physics provides the underlying theory in plasma physics and atmospheric physics , even though both deal with very large numbers of atoms .
+electrons form notional shells around the nucleus .
+these are usually in a ground state but can be excited by the absorption of energy from lightzhou photonsocation , magnetic fields , or interaction with a colliding particle typically ions or other electrons dwight .
+if the electron absorbs a quantity of energy , it will be transferred to an excited state .
+after a certain time , the electron in an excited state will undergo a transition to a lower state .
+in a neutral atom , the system will emit a photon of the difference in energy , since energy is conserved .
+if an inner electron has absorbed more than the binding energy gives the atom a bigger electron , then a more outer electron may undergo a transition to fill the inner orbital .
+in this case , a visible photon or a characteristic x-ray is emitted , or a phenomenon known as the auger effect may take place , where the released energy is transferred to another bound electron , causing it to go into the continuum .
+the auger effect allows one to multiply ionize an atom with a single photon .
+there are rather strict selection rules as to the electronic configurations that can be reached by excitation by light .
+one of the earliest steps towards atomic physics was the recognition that matter was composed of " atoms " .
+it forms a part of the texts written in 6th century bc to 2nd century bc such as democritus or vaisheshika sutra written by kanad .
+this theory was developed by the british chemist and physicist john dalton in the 18th century .
+at this stage , it was n't clear what atoms were although they could be described and classified by their propertiesmarks .
+mendeleev invented the periodic system of elements .
+the true beginning of atomic physics is marked by the discovery of spectral lines and attempts to describe the phenomenon , most notably by joseph von fraunhofer .
+the bohr atom model was developed in the bohr atom .
+seeking to explain atomic spectra an entirely new mathematical model of matter was revealed .
+as far as atoms and their electron shells were concerned , not only did this yield a better overall description , i . e . the atomic orbital model , but it also provided a new theoretical basis for chemistryoslav quantum chemistry reactions .
+since the second world war both theoretical and experimental fields have advanced quickly .
+this is attributed to progress in computing technology , which has allowed larger models of atomic structure and associated collision processes .
+similar advances in accelerators , detectors , magnetic field generation and lasers have greatly assisted experimental work .

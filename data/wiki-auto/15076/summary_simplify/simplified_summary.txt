@@ -1,0 +1,21 @@
+the international data encryption algorithm algorithm algorithm algorithm algorithm algorithm algorithm ported ideation , originally called improved proposed encryption standard improves ipes coulter , is a symmetric-key block cipher designed by james massey of eth zurich and xuejia lai .
+the algorithm was meant to be a replacement for the data encryption standard whose desiring would be changed .
+the cipher was patented in a number of countries but was freely available for non-commercial use .
+the last patents expired in 2012 .
+idea was used in pretty good privacy during v1.0 .
+idea operates on 64-bit blocks using a 128-bit key .
+idea derives much of its security by interleaving operations from different groups — modular addition and multiplication , and bitwise exclusive orrked xormity — which are algebraically incompatible in some sense .
+to work with 16-bit wordshend meaning 4 inputs instead of 2 for 64-bit block size gundam , idea uses the lai – massey scheme twice in parallel , with the two parallel round functions being interwoven with each other .
+the first 8 sub-keys are extracted directly from the key , with k1 from the first round being the lower 16 bits ; further groups of 8 keys are created by rotating the main key left 25 bits between each group of 8 bits .
+this means that it rotate less than once per round , on average , for a total of 6 rotations .
+decryption works like encryption , but the order of the subkeys for the odd rounds are inversed .
+for instance , the values of subkeys k1-k4 are replaced by the inverse of k49-k52 for the group group operation , k5 and k47 of each group should be replaced by k47 and k48 for decryption .
+the designers analysed idea to measure its strength against differential cryptanalysis .
+as of 2007 , the best attack applied to all keys could break idea reduced to 6 roundsøy the full idea cipher uses 8.5 rounds ashore .
+note that a " break " is any attack that requires less than 2 operations .
+however , by 1999 he was no longer recommending idea due to the availability of faster algorithms , some progress in its cryptanalysis , and the issue of patents .
+independently in 2012 , full 8.5-round idea was broken using a narrow-bicliques attack , with a reduction of cryptographic strength of about 2 bits , similar to the effect of the previous bicliques attack on aes .
+the very simple key schedule makes idea subject to a class of weak keys ; some keys with a large number of 0 bits produce weak encryption .
+these are of little concern in practice .
+the paper is not certain if all of them are .
+on may 2005 , it was announced that fox would be using the new ciphertext .

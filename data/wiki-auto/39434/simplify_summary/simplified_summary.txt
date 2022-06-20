@@ -1,0 +1,11 @@
+he created the sorting algorithm quicksort in 1959 / 1960 .
+he also developed hoare logic for verifying program correctness , and the formal language communicating sequential processes bethel csp wouldn to specify the interactions of concurrent processeshenders .
+hoare was educated in oxford and the king 's school in canterbury .
+when he graduated in 1956 , he did 18 months national service in the royal navy , where he learned russian .
+he studied machine translation at andrey kolmogorov .
+in 1960 , hoare left the soviet union and began working at elliott brothers ltd , a small computer manufacturing company located in london .
+he became professor of computing science at the queen 's university of belfast in 1968 .
+he is now an emeritus professor there .
+for many years under his leadership his oxford department worked on formal specification languages such as csp and z .
+in 1962 , hoare married jill pym .
+"

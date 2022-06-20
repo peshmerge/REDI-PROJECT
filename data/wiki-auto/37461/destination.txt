@@ -1,0 +1,64 @@
+There are four common states of matter (or "phases") in the universe: solid, liquid, gas, and plasma.
+The state of matter affects a substance's properties, such as density, viscosity (how well it flows), malleability (how easy it is to bend), and conductivity.
+In a "solid", the positions of atoms are fixed relative to each other over a long time.
+That is due to the cohesion or "friction" between molecules.
+This cohesion is provided by metallic, covalent or ionic bonds.
+Only solids can be pushed on by a force without changing shape, which means that they can be resistant to deformation.
+Solids also tend to be strong enough to hold their own shape in a container.
+Solids are generally denser than liquids.
+Solid becoming a gas is sublimation.
+In a "liquid", molecules are attracted to each other strongly enough to keep them in contact, but not strongly enough to hold a particular structure.
+The molecules can continually move with respect to each other.
+This means that liquids can flow smoothly, but not as smoothly as gases.
+Liquids will tend to take the shape of a container that they are in.
+Liquids are generally less dense than solids, but denser than gases.
+In a "gas", the chemical bonds are not strong enough to hold atoms or molecules together, and from this a gas is a collection of independent, unbonded molecules which interact mainly by collision.
+Gases tend to take the shape of their container, and are less dense than both solids and liquids.
+Gases have weaker forces of attraction than solids and liquids.
+Gas becoming a solid directly is deposition.
+Gases can sometimes turn directly into solids without passing through a fluid stage.
+That is called desublimation.
+You see it in the hoary frost which forms on window-panes in cold climates.
+It is the reverse of sublimation.
+"Plasmas" are gases that have so much energy that electrons of an atom cannot stay in orbit around one atomic nucleus.
+The atomic ions and free electrons mix around like a hot soup.
+Because the positive and negative charged particles are not stuck together, plasma is a good conductor of electricity.
+For example, air is not good at conducting electricity.
+However, in a bolt of lightning, the atoms in air get so much energy that they no longer can hold on to their electrons, and become a plasma for a brief time.
+Then an electric current is able to flow through the plasma, making the lightning.
+Plasma is the most common state of matter in the universe.
+Both stars and the interstellar medium are mostly made of plasma.
+Phases of matter can be changed by a number of things.
+The most common ones are temperature and pressure.
+Substances usually become a gas at warm temperatures and/or low pressures, become a solid at cool temperatures, and become a plasma at extremely hot temperatures.
+Substances often become liquid in between solid and gas, but when the pressure is very low (such as the vacuum of outer space) many substances skip the liquid phase, going directly from solid to gas or vice versa.
+Scientists have created graphs called phase change diagrams to show the relationship between pressure, temperature, and phase of many substances.
+When a solid becomes a liquid, it is called melting.
+When a liquid becomes a solid, it is called freezing.
+When a solid becomes a gas, it is called sublimation.
+When a gas becomes a solid, it is called desublimation.
+When a liquid becomes a gas, it is called evaporation.
+When a gas becomes a liquid, it is called condensation.
+The freezing point and the melting point are said to be the same, because any increase in temperature from that point will cause the substance to melt, while any drop in temperature will cause it to freeze.
+Likewise, the vaporization and condensation points (or the sublimation and desublimation points) always match.
+In most substances, as the pressure increases, the vaporization/condensation point also increases, or vice versa.
+For example, the boiling point of water decreases as you go up a mountain, because the air pressure is lower.
+The relationship for freezing and melting can go in different directions depending on the substance.
+Many other states of matter can exist under special conditions, including strange matter, supersolids, and possibly string-net liquids.
+Scientist work on experiments at very high or very low temperatures to learn more about phases of matter.
+Bose-Einstein condensates and fermionic condensates are phases of matter that apply to particles called bosons and fermions, respectively.
+(More than one boson can exist in the same spot at the same time.
+Only one fermion can exist in the same spot at the same time).
+Bose-Einstein condensates and fermionic condensates occur at incredibly low temperatures (about 4° Kelvin, which is the same as -452° Fahrenheit).
+All of the particles in these condensates begin to act like one big quantum state, so they have almost no friction or electrical resistance.
+When the core of a star runs out of light elements (like hydrogen or helium) to sustain fusion, the core will collapse into a very dense state called "degenerate matter".
+Everything is packed very tightly and can barely move.
+If the star isn't too heavy, it becomes a white dwarf.
+In a heavier star, the pressure is so intense that even the protons and electrons are crushed, and it becomes a neutron star.
+The protons and neutrons that make up atoms are made of even smaller things called quarks (which are "glued" together by things called "gluons").
+At incredibly high temperatures over 2 trillion Kelvin, quarks and gluons turn into another state of matter.
+Humans can make a little bit of quark-gluon plasma in the Large Hadron Collider at CERN, but it doesn't last long before cooling down.
+When a substance has enough temperature and pressure at the same time, called the critical point, you can't tell the difference between very dense gas and very energetic liquid.
+This is supercritical fluid, and it behaves like both liquid and gas.
+Superfluids, on the other hand, only happen at very low temperatures, and only for a few special substances like liquid helium.
+Superfluids can do things that regular liquids cannot, like flowing up the side of a bowl and getting out.

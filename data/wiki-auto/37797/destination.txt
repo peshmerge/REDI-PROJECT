@@ -1,0 +1,49 @@
+Hilbert's paradox of the Grand Hotel is a mathematical paradox named after the German mathematician David Hilbert.
+Hilbert used it as an example to show how infinity does not act in the same way as regular numbers do.
+Normal hotels have a set number of rooms.
+This number is finite.
+Once every room has been assigned to a guest, any new guest that wants a room and does not have one yet cannot be served - in other words, the hotel is fully booked.
+Now suppose that there is a hotel that has an infinite number of rooms.
+As a convenience, the rooms have numbers, the first room has the number 1, the second has number 2, and so on.
+If all the rooms are filled, it might appear that no more guests can be taken in, as in a hotel with a finite number of rooms.
+This is wrong, though.
+A room can be provided for another guest.
+This can be done by moving the guest in room 1 to room 2, the guest in room 2 to room 3, and so on.
+In the general case, the guest in room "n" will be moved to room "n+1".
+After all guests have moved, room 1 is empty, and the new guest now has a room to occupy.
+This shows how we can find a room for a new guest even if the hotel is already full, something that could not happen in any hotel with a finite number of rooms.
+Another thing that can be done with this imaginary hotel is to double the number of people inside, again when all the rooms are already full.
+This is done by asking each guest to multiply their room number by two and move to that room.
+(If their previous room number was "n", this time they would move to room number "2n".)
+This would send the guest in room 1 to room 2, the guest in room 2 to room 4, the guest in room 3 to room 6, the guest in room 4 to room 8, and so on.
+After finishing, we find that all the rooms with the odd numbers are empty.
+Then we can put an infinite number of guests into these empty rooms.
+Now the number of guests in the hotel has been doubled without making the hotel bigger.
+The guest at room 11 would move to room 101.
+The second person of group 5 (Address 5-2) would go to room 25.
+This is not really a paradox, it is only counterintuitive.
+In a normal hotel, with a finite number of rooms, the number of "odd-numbered" rooms, is smaller than the total number of rooms.
+In Hilbert's Hotel this does not seem to be the case.
+The guest 1 of group 2 of vehicle 1 (1-2-1) goes to room 121.
+Address 4-7-7-4 goes to room 4774.
+Address 0-1 (hotel dweller) stays because 1-0-0-0-1 moves to room 10,001.
+Each pod holds 10 people.
+Each megapod holds 10 pods.
+Each supermegapod holds 10 megapods.
+Each superdupermegapod holds 10 supermegapods.
+Each ultrasuperdupermegapod holds 10 superdupermegapod.
+Each ultrasuperduperubermegapod holds 10 ultrasuperdupermegapods.
+This assumes that there is never an infinitieth layer.
+(The main ship) Hilbert's paradox is a veridical paradox: it leads to a counter-intuitive result that is provably true.
+The statements "there is a guest to every room" and "no more guests can be accommodated" are not equivalent when there are infinitely many rooms.
+An analogous situation is presented in Cantor's diagonal proof.
+At first, this state of affairs might seem to be counter-intuitive.
+The properties of "infinite collections of things" are quite different from those of "finite collections of things".
+The paradox of Hilbert's Grand Hotel can be understood by using Cantor's theory of transfinite numbers.
+In an ordinary (finite) hotel with more than one room, the number of odd-numbered rooms is obviously smaller than the total number of rooms.
+However, in Hilbert's aptly named Grand Hotel, the quantity of odd-numbered rooms is not smaller than the total "number" of rooms.
+In mathematical terms, the cardinality of the subset containing the odd-numbered rooms is the same as the cardinality of the set of all rooms.
+Indeed, infinite sets are characterized as sets that have proper subsets of the same cardinality.
+For countable sets (sets with the same cardinality as the natural numbers) this cardinality is formula_1.
+Put differently, for any countably infinite set, there exists a bijective function which maps the countably infinite set to the set of natural numbers, even if the countably infinite set contains the natural numbers.
+For example, the set of rational numbers—those numbers which can be written as a quotient of integers—contains the natural numbers as a subset, but is no bigger than the set of natural numbers since the rationals are countable: there is a bijection from the naturals to the rationals.

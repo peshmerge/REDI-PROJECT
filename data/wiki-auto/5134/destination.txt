@@ -1,0 +1,199 @@
+Chess is a board game for two players.
+It is played in a square board, made of 64 smaller squares, with eight squares on each side.
+Each player starts with sixteen pieces: eight pawns, two knights, two bishops, two rooks, one queen and one king.
+The goal of the game is for each player to try and checkmate the king of the opponent.
+Checkmate is a threat ('check') to the opposing king which no move can stop.
+It ends the game.
+During the game the two opponents take turns to move one of their pieces to a different square of the board.
+One player ('White') has pieces of a light color; the other player ('Black') has pieces of a dark color.
+There are rules about how pieces move, and about taking the opponent's pieces off the board.
+The player with white pieces always makes the first move.
+Because of this, White has a small advantage, and wins more often than Black in tournament games.
+Chess is popular and is often played in competitions called chess tournaments.
+It is enjoyed in many countries, and is a national hobby in Russia.
+Most historians agree that the game of chess was first played in northern India during the Gupta Empire in the 6th century .
+This early type of chess was known as "Chaturanga", a Sanskrit word for the military.
+The Gupta chess pieces were divided like their military into the infantry, cavalry, elephants, and chariots.
+In time, these pieces became the pawn, knight, bishop, and rook.
+The English words "chess" and "check" both come from the Persian word "shāh" meaning king.
+The earliest written evidence of chess is found in three romances (epic stories) written in Sassanid Persia around 600.
+The game was known as "chatrang" or "shatranj".
+When Persia was taken over by Muslims (633–644) the game was spread to all parts of the Muslim world.
+Muslim traders carried the game to Russia and to Western Europe.
+By the year 1000 it had spread all over Europe.
+In the 13th century a Spanish manuscript called "Libro de los Juegos" describes the games of "shatranj" (chess), backgammon, and dice.
+The game changed greatly between about 1470 to 1495.
+The rules of the older game were changed in the West so that some of the pieces (queen, bishop) had more scope, development of the pieces was faster, and the game more exciting.
+The new game formed the basis of modern international chess.
+Historians of chess consider this as the most important change since the game was invented.
+The rules of chess are governed by the World Chess Federation, which is known by the initials FIDE, meaning "Fédération Internationale des Échecs".
+The rules are in the section "Laws of Chess" of the "FIDE Handbook".
+FIDE also give rules and guidelines for chess tournaments.
+Chess is played on a square board divided into eight rows of squares called ranks and eight columns called files, with a dark square in each player's lower left corner.
+This is altogether 64 squares.
+The colors of the squares are laid out in a checker (chequer) pattern in light and dark squares.
+To make speaking and writing about chess easy, each square has a name.
+Each rank has a number from 1 to 8, and each file a letter from "a" to "h".
+This means that every square on the board has its own label, such as g1 or f5.
+The pieces are in white and black sets.
+The players are called White and Black, and at the start of a game each player has 16 pieces.
+The 16 pieces are one king, one queen, two rooks, two bishops, two knights and eight pawns.
+in this game out can get up to a quadruple pon, king, knight, queen, and also the king although it is very rare.
+Definitions: vertical lines are "files"; horizontal lines are "ranks"; lines at 45° are "diagonals".
+Each piece has its own way of moving around the board.
+The "X" marks the squares where the piece can move.
+Most pieces capture as they move.
+If a piece lands on an opponent's piece, the opposing piece is taken off the board.
+If a move is made which attacks the opposing king, that king is said to be 'in check'.
+The player whose king is checked must make a move to remove the check.
+The options are: moving the king, capturing the threatening piece, or moving another piece between the threatening piece and the king.
+If the player whose king is in danger cannot do any of these things, it is checkmate, and the player loses the game.
+Once in every game, each king can make a special move, known as "castling".
+When the king castles, it moves two squares to the left or right.
+When this happens, the rook is moved to stand on the opposite side of the King.
+"En passant" ('in passing' in French) is a special capture.
+It is only available when a pawn moves forward two squares past an opposing pawn on an adjacent file.
+The opposing pawn must be on the 5th rank from its own side.
+Then the opponent's pawn can capture the double-mover "as if it had only moved one square forward".
+This option is open on the next move only.
+For example, if the black pawn has just moved up two squares from g7 to g5, then the white pawn on f5 can take it by "en passant" on g6.
+The "en passant" rule was developed when pawns were allowed to make their double move.
+The rule made it more difficult for players to avoid pawn exchanges and blockade the position.
+It kept the game more open.
+When a pawn moves to its eighth rank, it must be changed for a piece: a queen, rook, bishop, or knight of the same color (player's choice).
+Normally, the pawn is "queened", but in some advantageous cases another piece is chosen, called 'under-promotion'.
+Checkmates are rare in competitive chess.
+The most common ends are decisions made by one or both players.
+The FIDE rules for competitive chess include all the above rules, plus several others.
+If players wish to adjust a piece on the board, they must first say "J'adoube" (I adjust) or the equivalent.
+Apart from that, if a piece is touched it must be moved if possible.
+This is the 'touch and move' law.
+If no legal move is possible with the touched piece, the player must make a legal move with another piece.
+When a player's hand leaves a piece after moving it then the move is over and may not be changed (if the move was legal).
+There are a few famous cases where players appeared to break this rule without being punished.
+The most famous example was by the then World Champion Garry Kasparov against Judit Polgar in a top-class tournament.
+Competitive games of chess must be played with special chess clocks which time a player only when it is his/her turn to move.
+The essence is that a player has to make a certain number of moves in a certain total time.
+After moving, the player presses a button on the clock.
+This stops the player's clock, and start's the opponent's clock.
+Usually the clocks are mechanical, but some are electronic.
+Electronic clocks can be set to various programs, and they can count moves made.
+The moves of a chess game are written down by using a special chess notation.
+This is compulsory for any competitive game.
+Usually algebraic chess notation is used.
+In algebraic notation, each square has one and only one name (whether you are looking from White's side of the board or Black's).
+Here, moves are written in the format of: initial of piece moved – file where it moved – rank where it moved.
+For example, Qg5 means "queen moves to the g-file and 5th rank" (that is, to the square g5).
+If there are two pieces of the same type that can move to the same square, one more letter or number is added to show the file or rank from which the piece moved, e.g. Ngf3 means "knight from the g-file moves to the square f3".
+The letter P showing a pawn is not used, so that e4 means "pawn moves to the square e4".
+If the piece makes a capture, "x" is written before the square in which the capturing piece lands on.
+Example: "Bxf3" means "bishop captures on f3".
+When a pawn makes a capture, the file from which the pawn left is used in place of a piece initial.
+For example: exd5 means "pawn captures on d5."
+If a pawn moves to its eighth rank, getting a promotion, the piece chosen is written after the move, for example e1Q or e1=Q. Castling is written by the special notations 0-0 for kingside castling and 0-0-0 for queenside.
+A move which places the opponent's king in check normally has the notation "+" added.
+Checkmate can be written as # or ++.
+At the end of the game, 1-0 means "White won", 0-1 means "Black won" and 1⁄2-1⁄2 is a draw.
+In print, "figurines" (like those in diagrams, but smaller) are used for the pieces rather than initials.
+This has the advantage of being language-free, whereas the initials of pieces are different in every language.
+Typefaces which include figurines can be purchased by chess authors.
+Also, basic notes can be added by using a system of well-known punctuation marks and other symbols.
+means a good move, !!
+means a very good move, ?
+means a bad move, ??
+a very bad move (sometimes called a "blunder"), !?
+a creative move that may be good, and ?!
+The purpose of these methods is to make publications readable in a wider range of countries.
+(3...Qe7 would prevent the mate, with 4...Nf6 next move) 4.
+With figurines in place of the initials, this would be understood by players everywhere.
+Players may not smoke in the playing area, but only in areas designated by the organiser.
+Mobile phones may not be used or even switched on.
+Players may not use any sources of advice, and may not analyse on any device.
+These and other matters are covered by the FIDE Laws on the conduct of the players.
+Chess is an easy game to learn the moves, but a difficult game to master.
+Strategy is an important part of the game.
+First of all comes the "openings", about which a great deal is now known.
+The best-known move, the King's Pawn opening, is the white player moving his king's pawn on e2 forward two spaces to e4.
+Black can reply to that move in various ways.
+The first moves of a chess game are called the "opening".
+A chess opening is a name given to a series of opening moves.
+Recognized patterns of opening moves are "openings" and have been given names such as the Ruy Lopez or Sicilian defence.
+They are listed in reference works such as the "Encyclopaedia of Chess Openings".
+There are dozens of different openings.
+They range from gambits, where a pawn, say, is offered for fast development (e.g. the King's Gambit), to slower openings which lead to a manoeuvring type of game (e.g. the Réti opening).
+In some opening lines, the sequence thought best for both sides has been worked out to 20–30 moves, but most players avoid such lines.
+Expert players study openings throughout their chess career, as opening theory keeps on developing.
+Players think, and chess databases prove, that White, by virtue of the first move, begins the game with a better chance.
+Black normally tries to equalise, or to get some counterplay.
+The middlegame is the part of the game after most pieces have been developed.
+It is where most games are won and lost.
+Many games will end in resignation even before an endgame takes place.
+Hooper D. and Whyld K. 1992.
+"The Oxford companion to chess".
+2nd ed, Oxford University Press.
+A middlegame position has a structure.
+That structure is determined by the opening.
+The simplest way to learn the middlegame is to select an opening and learn it well (see examples in English opening and French defence).
+Here is an example from the borderline between opening and middlegame.
+In the diagram to the left, White will operate mainly on the Q-side, and Black on the K-side.
+White, to play, may wish to cope with Black playing 10...Nf4.
+He can do this by playing 10.g
+g3, or by playing 10.R
+Re1 so that if 10...Nf4 11.B
+Bf1 will preserve the bishop (in this position an important defensive piece).
+Or maybe White will plough ahead with 10.c
+c5, the key move on the Q-side.
+The data base also shows that the overall results were significantly better for 10.R
+What the player does is note the features on the board, and formulate a plan which takes the features into account.
+Then the player works out a sequence of moves.
+Of course, in practice, the opponent is interfering with the plan at every step!
+The endgame (or "end game" or "ending") is the part of the game when there are few pieces left on the board.
+All endgame positions can be put into two camps.
+On the one hand are positions which may be won by force.
+On the other hand, are positions which are drawn, or which should be drawn.
+The ones that are drawn for certain may be legally drawn (mate could not happen) or drawn by chess experience (no sane defence could lose).
+All endgames in master chess revolve around the borderline between winning and drawing.
+Generally, once a 'textbook' drawn position is reached the players will agree a draw; otherwise they play on.
+Endgames can be studied according to the types of pieces that remain on board.
+For example, king and pawn endgames have only kings and pawns on one or both sides and the task of the stronger side is to promote one of the pawns.
+Other endings are studied according to the pieces on board other than kings, e.g. rook and pawn versus rook endgame.
+Basic checkmates are positions in which one side has only a king and the other side has one or two pieces, enough to checkmate the opponent's king.
+They are usually learned at the beginner stage.
+Examples are mate with K+Q v K; K+R v K; K+2B v K; K+B&N v K (this one is quite difficult).
+There are two types of chess programs.
+One is to play against you; the other is to help you become a better player by learning more.
+The two types can be made to work together, though they have different functions.
+Chess engines are computer systems that can play chess games against human opponents.
+Quite a number have been devised; they can play at master level, though their processes are quite different from a human being.
+Fritz is a German chess program by Frans Morsch and Mathias Feist, published by ChessBase.
+It is the current market leader.
+There is also a different kind of Fritz called "Deep Fritz" that is made for multi-processing.
+The latest kinds of the consumer products are Deep Fritz 12 and Fritz 12.
+They came with reviews by Josh Waitzkin, who said that "Fritz is like a woman that you can't get with.
+It just drives (makes) you to think in ways you've never thought before".
+Shredder, also a ChessBase product, is claimed to be the strongest engine at present.
+Rybka, a product by Vasik Rajlich, is Shredder's main rival.
+Chess databases do not actually play.
+They give access to the recorded history of master chess.
+There are two components.
+First, there is the software, which lets one search and organise the database material.
+Then there is the actual database, typically one to four million games.
+In practice, databases are used for two purposes.
+First, for a player to train his/her ability at specific openings.
+Second, to look up specific opponents to see what they play, and prepare against them beforehand.
+The existence of chess databases is one of the reasons young players can achieve mastery at an early age.
+ChessBase is the biggest database, and widely used by masters.
+Although it can be used online, most users download the software and data onto their computer.
+If that computer happens to be a laptop, then they might take the laptop to tournaments, to help prepare for games.
+Players may not use computers or any other aid during games, but much preparation goes on behind the scenes.
+ChessBase has to be purchased, and it is not cheap.
+This is a Dutch magazine for advanced players, which runs an on-line database called NicBase as part of its services.
+NicBase is free, and has over a million games.
+Chessgames.com runs an on-line database of games.
+It is partly free, but requires registration.
+Full access to all its facilities is by a fairly modest subscription.
+It has over half a million games on its database.
+There are websites which a player can join (for a fee) and play on line.
+In this case, the subscriber will play against other subscribers, not a computer.
+All standards of players are amongst the members, and various events are on offer at different rates of play.
+These are endgames for improvers, based on reviews by John Watson.

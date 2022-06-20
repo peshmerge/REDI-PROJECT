@@ -1,0 +1,48 @@
+an orthography is a set of rules for writing a language .
+it includes rules of spelling , hyphenation , capitalization , word breaks , emphasis , and punctuation .
+most of the languages in the modern era are written down .
+there may be different kinds of language in the case of english .
+in some languages orthography is regulated by language academies .
+even in the latter languages , a significant amount of consensus arises naturally .
+the english word " orthography " dates from the 15th century .
+the word comes from the french " orthographie " , which comes from the latin word " orthographia " , which comes from the greek word " correct " , and γραφαιν " graphein " , " to write " .
+orthography is concerned with matters of spelling .
+other elements that may be considered part of orthography include capitalization , word breaks , emphasis , punctuation , and punctuation .
+orthography describes the set of symbols used in writing a language , and the rules about how to use those symbols .
+most languages developed as oral languages .
+the rules for doing this tend to become standardized for a given language .
+in linguistics , the word " orthography " is often used to refer to any method of writing a language , without judgment as to right and wrong , with a scientific understanding that orthographic standardization exists on a spectrum of strength of convention .
+the original sense of the word implies a dichotomy of correct and incorrect .
+the view takes account of language users ' perceptions of correctness .
+letters of an alphabet are sometimes called graphemes .
+these are a type of abstraction , like phonemes of spoken languages .
+for example , different forms of the letter " b " are all considered to represent a single grapheme in the orthography of say , english .
+graphemes or sequences of them are sometimes placed between angle brackets , as in or .
+this distinguishes them from phonemic transcription , which is between slashescino / b / b / , / bæk / ct / ⟩ , and from phonetic transcription , which is placed between square brackets whoever finds bækcase / bæk / / / / / / / / bæk / / / / / / / / / / / / / / / b / / / / / / b / / / / / / / / b / / / / / / / / b / / / / / / / / bæk /nation .
+the writing systems can be divided into a number of types .
+the main types are " logographic " representing words or morphemes aarhus , " syllabic " representing syllables aloud , and " alphabetic " representing phonemescence .
+many writing systems combine features of more than one of these types , and a number of detailed classifications have been proposed .
+japanese is an example of a language that can be written in all three : logographic kanji , syllabic hiragana and katakana , and alphabetic romaji .
+the written symbols ɔ graphemes correspond to units of sound of the spoken language .
+in virtually all cases , this correspondence is not exact .
+different languages ' orthographies have different degrees of correspondence between spelling and pronunciation .
+english orthography , french orthography and danish orthography , for example , are highly irregular , whereas the orthographies of languages such as russian , german and spanish represent pronunciation much more faithfully , although the correspondence between letters and phonemes is still not exact .
+finnish , turkish and serbo-croatian orthographies are very consistent : approximation of the principle " one letter per sound " .
+an orthography in which the correspondences between spelling and pronunciation are highly complex or inconsistent is called a " deep orthography " bethel or less formally , the language is said to have " irregular spelling " .
+an orthography with relatively simple and consistent correspondences is called " shallow " tiffanyly .
+spelling and pronunciation are the reasons for which spelling and pronunciation changes happen in the spoken language are not always reflected in the orthography .
+one consequence of this is that many spellings come to reflect a word 's morphophonemic structure rather than its purely phonemic structure .
+this is discussed further at .
+the syllabary systems of japanese spoken syllables are examples of almost perfectly shallow orthographies .
+the korean " hangul " system was originally a very shallow orthography , but as a representation of the modern language it often reflects morphophonemic features .
+for full discussion of degrees of correspondence between spelling and pronunciation in alphabetic orthographies , including reasons why such correspondence may break down , see phonemic orthography .
+an orthography based on the principle that symbols correspond to phonemes may , in some cases , lack characters to represent all the phonemes or all the phonemic distinctions in the language .
+this is called defective orthography .
+an example in english is the lack of stress .
+another is the digraph " th " , which represents two different phonemescence as in " then " and " thin " foley .
+a more systematic example is that of abjads like the arabic and hebrew alphabets , in which the short vowels are normally left unwritten and must be inferred by the reader .
+when an alphabet is borrowed from its original language for use with a new language , it is often defective in representing the new language 's phonemes .
+sometimes this problem is addressed by the use of digraphs such as " sh " and " ch " in english .
+after the classical period , greek developed a lowercase letter system .
+however , as pronunciation of letters changed over time , the diacritic marks were changed to represent the stressed syllable .
+in modern greek typesetting , this system has been simplified to only have a single accent to show which syllable is stressed .

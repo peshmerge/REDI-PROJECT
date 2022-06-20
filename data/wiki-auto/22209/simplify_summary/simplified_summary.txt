@@ -1,0 +1,25 @@
+most of the languages in the modern era are written down .
+there may be different kinds of language in the case of english .
+orthography is concerned with matters of spelling .
+other elements that may be considered part of orthography include capitalization , word breaks , emphasis , punctuation , and punctuation .
+orthography describes the set of symbols used in writing a language , and the rules about how to use those symbols .
+the rules for doing this tend to become standardized for a given language .
+the original sense of the word implies a dichotomy of correct and incorrect .
+these are a type of abstraction , like phonemes of spoken languages .
+for example , different forms of the letter " b " are all considered to represent a single grapheme in the orthography of say , english .
+the main types are " logographic " representing words or morphemes aarhus , " syllabic " representing syllables aloud , and " alphabetic " representing phonemescence .
+many writing systems combine features of more than one of these types , and a number of detailed classifications have been proposed .
+japanese is an example of a language that can be written in all three : logographic kanji , syllabic hiragana and katakana , and alphabetic romaji .
+the written symbols ɔ graphemes correspond to units of sound of the spoken language .
+english orthography , french orthography and danish orthography , for example , are highly irregular , whereas the orthographies of languages such as russian , german and spanish represent pronunciation much more faithfully , although the correspondence between letters and phonemes is still not exact .
+finnish , turkish and serbo-croatian orthographies are very consistent : approximation of the principle " one letter per sound " .
+an orthography in which the correspondences between spelling and pronunciation are highly complex or inconsistent is called a " deep orthography " bethel or less formally , the language is said to have " irregular spelling " .
+one consequence of this is that many spellings come to reflect a word 's morphophonemic structure rather than its purely phonemic structure .
+the korean " hangul " system was originally a very shallow orthography , but as a representation of the modern language it often reflects morphophonemic features .
+for full discussion of degrees of correspondence between spelling and pronunciation in alphabetic orthographies , including reasons why such correspondence may break down , see phonemic orthography .
+an orthography based on the principle that symbols correspond to phonemes may , in some cases , lack characters to represent all the phonemes or all the phonemic distinctions in the language .
+an example in english is the lack of stress .
+a more systematic example is that of abjads like the arabic and hebrew alphabets , in which the short vowels are normally left unwritten and must be inferred by the reader .
+when an alphabet is borrowed from its original language for use with a new language , it is often defective in representing the new language 's phonemes .
+however , as pronunciation of letters changed over time , the diacritic marks were changed to represent the stressed syllable .
+in modern greek typesetting , this system has been simplified to only have a single accent to show which syllable is stressed .

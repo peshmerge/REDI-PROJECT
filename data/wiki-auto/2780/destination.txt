@@ -1,0 +1,53 @@
+The Atari 5200 SuperSystem, or simply the Atari 5200, was a video game console which came out in 1982.
+It was made by Atari Inc. and was meant as a replacement to the popular Atari 2600.
+Atari wanted the 5200 to compete with the Intellivision, but it competed more closely with the ColecoVision.
+The 5200 was based on Atari Inc.'s 400/800 computers.
+Even though the internal hardware was almost identical, the code in the software was not.
+Design mistakes meant that the 5200 had problems with its use.
+These problems made it a market failure.
+The game's Atari 400-based design made for a design which Atari Inc. could quickly build and sell.
+While it was being designed, the Atari 5200 called the "Atari Video System X - Advanced Video Computer System."
+Atari protected the design with a codename, "Pam," after a female employee at Atari.
+A rumor said that "Pam" or "PAM" actually stood for "Personal Arcade Machine."
+This was because most games for the system were based on existing arcade games.
+Actual working "Atari Video System X" machines, whose hardware is 100% identical to the Atari 5200 do exist, but they are extremely rare.
+The first 1982 release had four controller ports, where nearly all other systems of the day had only two.
+The 5200 also featured a very special new controller with an analog joystick, numeric keypad, two fire buttons on both sides of the controller and game function keys for Start, Pause, and Reset.
+Another special thing was the first automatic TV switchbox.
+Older game systems which attached to a television's antenna leads required the user to slide a switch on the adapter by hand.
+This RF box was also where the game's power supply connected in a unique dual power/television signal setup similar to the RCA Studio II's.
+A single cable coming out of the 5200 plugged into the switch box and was used for both electricity and the television signal.
+The 1983 version of the Atari 5200 has two controller ports instead of four.
+Atari changed back to the a simpler separate power supply and manual RF switch.
+It also had changes in the cartridge port to allow for the Atari 2600 adapter released that year.
+While the adapter was only made to work on the two-port version, modifications can be made to the four-port to make it compatible.
+In fact, towards the end of the four-port model's production run, there were a limited number of consoles produced which included these modifications.
+These consoles can be identified by an asterisk in their serial number.
+The prototypes used to design the controller's electrical systems used a so-called "yoke and gimbal" taken from a radio control system used to fly model airplanes.
+This simple design gave very nice control and was highly reliable.
+The actual controllers sold with the game were quite different and a great disappointment to the development teams.
+The design of the analog joystick, which used a weak rubber boot rather than springs to center the stick, caused many joysticks to have no ability to center.
+Another major flaw of the controllers was that the design did not provide smooth control through the travel of the stick.
+This made controlling games awkward.
+The controllers did, however, include a pause button.
+This was a novelty at the time, but would become standard on almost all future game systems.
+Replacement joysticks were also released by other manufacturers.
+Atari Inc. released the Pro-Line Trak-Ball controller for the system, which was used for titles such as "Centipede" or "Defender".
+A paddle controller and an updated self-centering version of the original controller were also being worked on, but never made it to market.
+In the web-video-game review show, James Rolfe's "The Angry Video Game Nerd", Rolfe's character is shown as being very frustrated with trying to use the controllers and Pro-Line Trak Ball as neither of them work properly.
+Other instances of web game review shows disliking the controller are on shows such as Mark Bussler's "Classic Game Room", where the host is shown stating that the Atari 5200 controllers are the worst game console controllers of all time.
+The controller was ranked the 10th worst video game controller by IGN editor Craig Harris.
+Although the Atari 5200's insides were very much like that of the 400/800 home computers, the differences were enough so that games designed for one would not run directly on the other.
+One of the most obvious differences was the 5200's lack of a keyboard.
+Atari Corp.'s later XE Games System revisited the idea of a console based on the 400/800 hardware.
+However, as this was essentially just a 65XE computer with a keyboard which could be removed, it was able to run most of the home computer titles directly.
+The Atari 5200 could not run software for the still-popular Atari 2600.
+An adapter was later released in 1983 allowing it to play all Atari 2600 games, using the more reliable controllers from the 2600.
+Another problem was the lack of attention that Atari Inc. gave to the console; most of its attention went to the older Atari 2600.
+It faced an uphill battle competing with the ColecoVision's head start and a video game market which was beginning to fade.
+At one point, Atari Inc. planned on developing a smaller, less expensive version of the Atari 5200 which would have gotten rid of the controller storage bin.
+Code-named the "Atari 5100" (a.k.a. "Atari 5200 Jr."), only a few fully-working prototype Atari 5100s were made before the project was canceled.
+On May 21, 1984, during a press conference at which the Atari 7800 was introduced, company executives revealed that the 5200 had been discontinued.
+Total sales of the 5200 were reportedly in excess of 1 million units.
+"Note: These descriptions are very technical.
+They are meant to be understood by people with lots of computer experience."

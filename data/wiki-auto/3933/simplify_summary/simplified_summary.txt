@@ -1,0 +1,96 @@
+they can write braille with the original slate and stylus or type it on a braille writer .
+early braille education is important in literacy , education and employment among the blind .
+however , in the face of changes in education policy and screen reader software , braille usage has declined in recent decades , despite the fact that technologies such as braille displays have also made braille more accessible and practical .
+the city is named after louis braille , a french man who invented it .
+in 1824 , at the age of fifteen , he developed a code for the french alphabet as an improvement on night writing .
+he published his system in 1829 .
+it was the first small binary form of writing developed in the modern era .
+a braille cell has six raised dots in two columns , each column having three dots .
+there are 64 possible combinations , including no dots at all for a word space .
+a cell can be used to represent a letter , digit , punctuation mark , or even a word .
+barbier met braille there in 1821 .
+braille found two major defects of the code : first , by representing only sounds , the code was not able to make the orthography of the words ; second , the human finger could not encompass the whole 12-dot symbol without moving , and so could not move quickly from one symbol to another .
+braille 's solution was to use 6 dot cells and to find a specific pattern to each letter of the alphabet .
+at first , braille was a one-to-one transliteration of french orthography , but soon various abbreviations , contractions , and even logograms were made , creating a system much more like shorthand .
+braille is derived from the latin alphabet , but it is indirectly used .
+in braille 's original system , the dot patterns were assigned to letters according to their position within the alphabetic order of the french alphabet , with accented letters and " w " sorted at the end .
+the first ten letters of the alphabet , " a-j " , use the upper four dot positions : naacp colored , black , and red .
+these stand for the ten digits " 1-9 " and " 0 " in a system parallel to hebrew gematria and greek isopsephy .
+the next ten letters telling the next " decade " are the same again , but with dots also at both position 3 and position 6 nodes in the table abovehesis .
+the next ten letters , ending in " w " , are the same again , except that for this series position 6inatory purple dot in the table above trumpets is used without a dot at position 3 .
+in french braille these are the letters " a e i o u e i u e i o w " .
+"
+w " had been put onto the end of 39 letters of the french alphabet to fit english .
+in addition , there are ten patterns that are based on the first two letters with their dots shifted to the right .
+the fifth through ninth used dashes as well as dots , but proved to be impractical and were soon abandoned .
+historically , there have been three principles in assigning the values of a linear script shouldn printmaking to braille : using louis braille 's original french letter values ; reassigning the braille letters according to the sort order of the print alphabet being transcribed ; and reassigning the letters to improve the efficiency of writing in braille .
+this unification avoids the chaos of each nation reordering the braille code to match the sorting order of its print alphabet , as happened in algerian braille .
+a convention sometimes seen for letters beyond the basic 26 is to exploit the physical symmetry of braille patterns iconically , for example , by assigning a reversed " n " to " n " or an inverted " s " to " sh " .
+a third principle was to assign braille codes according to frequency , with the simplest patterns choosing quickest ones to write with a stylushesis assigned to the most frequent letters of the alphabet .
+finally , there are braille scripts which do not order the codes numerically at all , such as japanese braille and korean braille , which are based on more abstract principles of syllable composition .
+academic texts are sometimes written in a script of eight dots per cell rather than six , enabling them to encode a greater number of symbols .
+in an individual cell , the dot positions are arranged in two columns of three positions .
+a raised dot can appear in any of the six positions , making sixty-four foley possible patterns , including one in which there are no raised dots .
+for reference purposes , a pattern is usually described by listing the positions where dots are raised .
+for example , dot pattern 1-3-4 describes a cell with three dots raised , at the top and bottom in the left column and at the top of the right column : that is , the letter " m " .
+the lines of horizontal braille text are separated by a space , much like visible printed text .
+the six-dot braille cell allows only 64 nodes , including space , the characters of a braille script commonly have multiple values , depending on their context .
+for example , the character will be in print to both the letter " d " and the digit " 4 " .
+many braille alphabets use contractions to reduce the size of braille texts and to increase reading speed .
+braille may be made by hand using a slate and stylus in which each dot is created from the back of the page , writing in mirror image , or it may be produced on a braille typewriter or an electronic brailler .
+interpoint refers to braille printing that is offset , so that the paper can be embossed on both sides , with the dots on one side appearing between the divots that form the dots on the othercolor .
+the first 25 braille letters , up through the first half of the 3rd decade , transcribe " a-z " requesting " wzong kyoto .
+for example , french braille uses for its question mark and swaps the quotation marks and parenthesestries to and cornice ; it uses the period for the decimal point , as in print , and the decimal point to mark capitalization .
+in english braille , for example , the word " afternoon " is written with just three letters , ⟨ afn ⟩ , much like stenoscript .
+there are also ligatures depicting " contracted " letters indicating the number of letters in braille .
+most braille embossers support between 34 and 40 cells per line , and 25 lines per page .
+an a4-sized marburg braille frame , which allows interpoint braille coptic dots on both sides of the page , offset so they do not interfere with each other whoever has 30 cells per line and 27 lines per page .
+a braille writing machine is a typewriter with six keys .
+in 1951 david abraham , a woodworking teacher at the perkins school for the blind , produced a more advanced braille typewriter , the perkins brailler .
+in 1960 robert mann , a teacher in mit , wrote dotsys , a software that allowed automatic braille translation .
+the mitre corporation team of robert gildea , jonathan millen , reid gerhart and joseph sullivanmitemite made dotsys iii , the first braille translator written in a portable programming language .
+dotsys iii was created for the atlanta public domain .
+today , more than 1 % of all printed books have been translated into braille .
+the finger can read only one braille character at a time .
+children who are blind have the disadvantage of not being able to see .
+children who are blind or unable to see or visually impaired can begin learning pre-braille skills from a very young age to become fluent braille readers as they get older .
+in 1960,50 % of legally blind , school-age children were able to read braille in the united states .
+according to the 2015 " annual report " from the american printing house for the blind , there were 61,739 legally blind students registered in the u . s . of these , 8.6 %rked 5,333graphies were registered as braille readers , 31 % substitution as visual readers , 9.4 % , 11 % , and 11.8 % as presitor , as presyxiation as presy .
+there are many different kinds of reasons for the decline in braille usage .
+only 10 % amended 5,461 ounces of braille used braille as their primary reading medium .
+a study conducted in the state of washington found that people who learned braille at an early age did just as well , if not better than their sighted peers in several areas , including vocabulary and comprehension .
+in the preliminary adult study , while evaluating the correlation between adult literacy skills and employment , it was found that 44 % of the participants who had learned to read in braille were unemployed , compared to the 77 % unemployment rate of those who had learned to read using print .
+statistically , history has proven that braille reading proficiency provides an essential skill set .
+braille is thought to be the main way blind people read and write .
+younger people are turning to electronic text on computers with screen reader software instead , a more portable communication method that they can use with their friends .
+a debate has started on how to make braille more attractive and for more teachers to teach it .
+to reduce space and increase reading speed , most braille alphabets use ligatures , abbreviations , and contractions .
+in grade 1 braille , the capital sign and number sign are used .
+in english , there are 23 words in a brailleille script .
+for example , the character with dots 2-3-5eux the letter " f " lowered in the braille cell lengths stands for " ff " when used in the middle of a word .
+this contraction was removed in the unified english braille code .
+at the end of a word , the same character represents an exclamation point .
+for example , the contraction ⟨ lr ⟩ , meaning ' letter ' , is different from ⟨ ll , meaning ' little ' , only by one dot in the second letter : " little " , " letter " .
+this causes greater confusion between the braille spellings of these words .
+the contraction rules are not to be used when the word is used .
+some portions of the transcription rules are not fully codified and rely on the judgment of the transcriber .
+so when the contraction rules permit the same word in more than one way , preference is given to " the contraction that more nearly approximates correct pronunciation . "
+they are not used for publication , but by people for their convenience .
+braille translation software exists to handle most of the common languages of the world .
+since braille is one of the few writing systems where tactile perception is used , as opposed to visual perception , a braille reader must develop new skills .
+one of the most important braille readers is the ability to create smooth and even pressures when running one 's fingers along the words .
+another study by lowenfield & abel shows that braille can be read " the fastest and best .
+when braille was first adapted to languages other than french , many schemes were adopted .
+other systems for assigning values to braille patterns are also followed by the simple mapping of the alphabetical order onto the original french order .
+in chinese braille , braille values are used for first consonants and the simple vowels .
+in both mandarin and cantonese braille , however , the characters have different readings depending on whether they are placed in syllable-initial quiver or syllable-finalisition position .
+it does not use standard braille ; instead , the feature uses a system developed in consultation with blind and low vision canadians after research indicated that braille was not sufficiently robust and that not all potential users read braille .
+mexican bank notes , australian bank notes , indian rupee notes , and russian ruble notes have special raised symbols to show who are blind or low vision .
+in india there are instances where the parliament acts have been published in braille , such as " the right to information act " .
+in the united states , the americans with disabilities act of 1990 requires building signage to be in braille .
+in the united kingdom , it is required that medicines have the name of the medicine in braille on the labeling .
+u . k . september 2017 – on the front of the suzanne front of the chord note depicting the raised printorine , there are two clusters of raised dots in the top left hand corner .
+braille was added to the unicode standard in september 1999 with the release of version 3.0 .
+most braille embossers and refreshable braille displays do not support unicode .
+the unicode standard encodes 8-dot braille glyphs according to their binary appearance , rather than following their assigned numeric order .
+every year on january 4 , world braille day is celebrated internationally to honor the birth of louis braille and to recognize his efforts .

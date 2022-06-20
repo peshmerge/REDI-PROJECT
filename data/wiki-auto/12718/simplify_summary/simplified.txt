@@ -1,0 +1,16 @@
+griffith 's experiment was a research done in 1928 by frederick griffith .
+griffith 's findings were followed by research in the late 1930s and early 40s that isolated dna as the material that communicated this genetic information .
+griffith was studying the possibility of creating a vaccine .
+griffith used two strains of " streptococcus pneumoniae " infections bacteria which infect mice – a type iii-s foley smooth strain which was virulent , and a type ii-rhesis roughened strain which was nonvirulent .
+the iii-s strain also created a polysaccharide capsule that protects itself from the host 's immune system .
+a german bacteriologist , fred neufeld , discovered the three pneumococcal types i , ii , and iiieux and found the quellung reaction to identify them in vitro .
+until griffith 's experiment , bacteriologists believed that the types were fixed and unchangeable , from one generation to another .
+in this experiment , bacteria from the iii-s strain were killed by heat , and their remains were added to ii-r strain bacteria .
+while neither harmed the mice , the combination was able to kill mice .
+griffith was also able to get both live ii-r and live iii-s strains of " pneumococcus " from the blood of these dead mice .
+griffith concluded that the type ii-r had been " transformed " into the lethal iii-s strain by a " transforming principle " that was somehow part of the dead iii-s strain bacteria .
+today , we know that the " transforming principle " griffith observed was the dna of the iii-s strain bacteria .
+the dna was taken up by the ii-r strain bacteria .
+the iii-s strain dna contains the genes that form the protective polysaccharide part of the dna .
+with this gene , the former ii-r strain bacteria were now protected from the host 's immune system and could kill the host .
+avery , mcleod and mccarty and hershey and chase made the exact nature of the transforming principle .

@@ -1,0 +1,19 @@
+an imaginary number is a number that can be written as a real number multiplied by the imaginary unit i .
+the number bi is − " b " .
+zero is considered to be both real and imaginary .
+some authors use the term pure imaginary number to denote what is called an imaginary number , and " imaginary number " to denote any complex number with non-zero imaginary part .
+although greek mathematician and engineer heron of alexandria is noted as the first to have conceived these numbers , rafael bombelli first set down the rules for multiplication of complex numbers in 1572 .
+the concept had appeared in print earlier , for instance in work by gerolamo cardano .
+at the time imaginary numbers , as well as negative numbers , were poorly understood and regarded by some as fictitious or useless , much as zero once was .
+in 1843 william rowan hamilton extended the idea of an axis of imaginary numbers in the plane to a four-dimensional space of quaternion imaginaries .
+with the development of quotient rings of polynomial rings , the concept behind an imaginary number became more substantial , but then one also finds other imaginary numbers such as the j of tessarines which has a square of + 1 .
+this idea first came with the articles by james cockle beginning in 1848 .
+geometrically , imaginary numbers are found on the vertical axis of the complex number plane , allowing them to be given perpendicular to the real axis .
+one way of viewing imaginary numbers is to be a standard number line , positively increasing in magnitude to the right , and negatively increasing in magnitude to the left .
+"
+multiplication by i corresponds to a 90-degree rotation in the " positive " directionnais i . e . , counterclockwisewisewisewisewisewisewise proportion , and the equation " i " = −1 is interpreted as saying that if we apply two 90-degree rotations about the origin , the net result is a single 180-degree rotation .
+note that a 90-degree rotation in the " negative " directionbuckling also satisfies this .
+this reflects the fact that − " i " also solves the equation " x " = − 1 .
+multiplying by a complex number is the same as rotating around the origin by the complex number 's argument , followed by a scaling by its magnitude .
+care must be used when working with imaginary numbers expressed as the main values of the square roots of negative numbers .
+this can be proved by , where both " x " and " y " are non-negative real numbers .

@@ -1,0 +1,95 @@
+They can write braille with the original slate and stylus or type it on a braille writer, such as a portable braille notetaker or computer that prints with a braille embosser.
+However, in the face of changes in education policy and screen reader software, braille usage has declined in recent decades, despite the fact that technologies such as braille displays have also made braille more accessible and practical.
+The second revision, published in 1837, was the first small binary form of writing developed in the modern era.
+Since the various braille alphabets originated as transcription codes for printed writing, the mappings (sets of character designations) vary from language to language, and even within one; in English Braille there are three levels of encoding: Grade 1 – a letter-by-letter transcription used for basic literacy; Grade 2 – an addition of abbreviations and contractions; and Grade 3 – various non-standardized personal stenography.
+There may be embossed illustrations and graphs, with the lines either solid or made of series of dots, arrows, bullets that are larger than braille dots, etc.
+There are 64 possible combinations, including no dots at all for a word space.
+A cell can be used to represent a letter, digit, punctuation mark, or even a word.
+Braille was based on a tactile military code called night writing, developed by Charles Barbier in response to Napoleon's demand for a means for soldiers to communicate silently at night and without a light source.
+It proved to be too difficult for soldiers to recognize by touch and was rejected by the military.
+In 1821 Barbier visited the Royal Institute for the Blind in Paris, where he met Louis Braille.
+Braille identified two major defects of the code: first, by representing only sounds, the code was unable to render the orthography of the words; second, the human finger could not encompass the whole 12-dot symbol without moving, and so could not move rapidly from one symbol to another.
+Braille's solution was to use 6-dot cells and to assign a specific pattern to each letter of the alphabet.
+At first, Braille was a one-to-one transliteration of French orthography, but soon various abbreviations, contractions, and even logograms were developed, creating a system much more like shorthand.
+In Braille's original system, the dot patterns were assigned to letters according to their position within the alphabetic order of the French alphabet, with accented letters and "w" sorted at the end.
+The next ten letters, ending in "w", are the same again, except that for this series position 6 (purple dot in the table above) is used without a dot at position 3.
+In addition, there are ten patterns that are based on the first two letters with their dots shifted to the right; these were assigned to non-French letters ("ì ä ò" ), or serve non-letter functions: (superscript; in English the accent mark), (currency prefix), (capital, in English the decimal point), (number sign), (emphasis mark), (symbol prefix).
+The fifth through ninth used dashes as well as dots, but proved to be impractical and were soon abandoned.
+Historically, there have been three principles in assigning the values of a linear script (print) to Braille: Using Louis Braille's original French letter values; reassigning the braille letters according to the sort order of the print alphabet being transcribed; and reassigning the letters to improve the efficiency of writing in braille.
+Under international consensus, most braille alphabets follow the French sorting order for the 26 letters of the basic Latin alphabet, and there have been attempts at unifying the letters beyond these 26 (see international braille), though differences remain, for example in German Braille and the contractions of English Braille.
+This unification avoids the chaos of each nation reordering the braille code to match the sorting order of its print alphabet, as happened in Algerian Braille, where braille codes were numerically reassigned to match the order of the Arabic alphabet and bear little relation to the values used in other countries (compare modern Arabic Braille, which uses the French sorting order), and as happened in an early American version of English Braille, where the letters "w, x, y, z" were reassigned to match English alphabetical order.
+A convention sometimes seen for letters beyond the basic 26 is to exploit the physical symmetry of braille patterns iconically, for example, by assigning a reversed "n" to "ñ" or an inverted "s" to "sh".
+(See Hungarian Braille and Bharati Braille, which do this to some extent.)
+A third principle was to assign braille codes according to frequency, with the simplest patterns (quickest ones to write with a stylus) assigned to the most frequent letters of the alphabet.
+Such frequency-based alphabets were used in Germany and the United States in the 19th century (see American Braille), but with the invention of the braille typewriter their advantage disappeared, and none are attested in modern use – they had the disadvantage that the resulting small number of dots in a text interfered with following the alignment of the letters, and consequently made texts more difficult to read than Braille's more arbitrary letter-assignment.
+Finally, there are braille scripts which don't order the codes numerically at all, such as Japanese Braille and Korean Braille, which are based on more abstract principles of syllable composition.
+Academic texts are sometimes written in a script of eight dots per cell rather than six, enabling them to encode a greater number of symbols.
+Luxembourgish Braille has adopted eight-dot cells for general use; for example, it adds a dot below each letter to derive its capital variant.
+For reference purposes, a pattern is commonly described by listing the positions where dots are raised, the positions being universally numbered, from top to bottom, as 1 to 3 on the left and 4 to 6 on the right.
+For example, dot pattern 1-3-4 describes a cell with three dots raised, at the top and bottom in the left column and at the top of the right column: that is, the letter "m".
+The lines of horizontal Braille text are separated by a space, much like visible printed text, so that the dots of one line can be differentiated from the braille text above and below.
+Different assignments of braille codes (or code pages) are used to map the character sets of different printed scripts to the six-bit cells.
+Braille assignments have also been created for mathematical and musical notation.
+However, because the six-dot braille cell allows only 64 (2) patterns, including space, the characters of a braille script commonly have multiple values, depending on their context.
+In addition to simple encoding, many braille alphabets use contractions to reduce the size of braille texts and to increase reading speed.
+Braille may be produced by hand using a slate and stylus in which each dot is created from the back of the page, writing in mirror image, or it may be produced on a braille typewriter or Perkins Brailler, or an electronic Brailler or eBrailler.
+Because braille letters cannot be effectively erased and written over if an error is made, an error is overwritten with all six dots .
+For example, French Braille uses for its question mark and swaps the quotation marks and parentheses (to and ); it uses the period for the decimal point, as in print, and the decimal point to mark capitalization.
+Braille contractions are words and affixes that are shortened so that they take up fewer cells.
+In English Braille, for example, the word "afternoon" is written with just three letters, ⟨afn⟩ , much like stenoscript.
+There are also ligatures ("contracted" letters), which are single letters in braille but correspond to more than one letter in print.
+An A4-sized Marburg braille frame, which allows interpoint braille (dots on both sides of the page, offset so they do not interfere with each other) has 30 cells per line and 27 lines per page.
+The first Braille typewriter to gain general acceptance was invented by Frank Haven Hall (Superintendent of the Illinois School for the Blind), and was presented to the public in 1892.
+In 1951 David Abraham, a woodworking teacher at the Perkins School for the Blind produced a more advanced Braille typewriter, the Perkins Brailler.
+In 1991 Ernest Bate developed the Mountbatten Brailler, an electronic machine used to type braille on braille paper, giving it a number of additional features such as word processing, audio feedback and embossing.
+In 1960 Robert Mann, a teacher in MIT, wrote DOTSYS, a software that allowed automatic braille translation, and another group created an embossing device called "M.I.T.
+The Mitre Corporation team of Robert Gildea, Jonathan Millen, Reid Gerhart and Joseph Sullivan (now president of Duxbury Systems) developed DOTSYS III, the first braille translator written in a portable programming language.
+In 2011 David S. Morgan produced the first SMART Brailler machine, with added text to speech function and allowed digital capture of data entered.
+Currently more than 1% of all printed books have been translated into braille.
+Although the finger can read only one braille character at a time, the brain chunks braille at a higher level, processing words a digraph, root or suffix at a time.
+Children who are blind not only have the educational disadvantage of not being able to see – they also miss out on fundamental parts of early and advanced education if not provided with the necessary tools.
+Children who are blind or visually impaired can begin learning pre-braille skills from a very young age to become fluent braille readers as they get older.
+There are numerous causes for the decline in braille usage, including school budget constraints, technology advancements such as screen-reader software, and different philosophical views over how blind children should be educated.
+A key turning point for braille literacy was the passage of the Rehabilitation Act of 1973, an act of Congress that moved thousands of children from specialized schools for the blind into mainstream public schools.
+Braille literacy rates have improved slightly since the bill was passed, in part because of pressure from consumers and advocacy groups that has led 27 states to pass legislation mandating that children who are legally blind be given the opportunity to learn braille.
+In 1998 there were 57,425 legally blind students registered in the United States, but only 10% (5,461) of them used braille as their primary reading medium.
+A study conducted in the state of Washington found that people who learned braille at an early age did just as well, if not better than their sighted peers in several areas, including vocabulary and comprehension.
+In the preliminary adult study, while evaluating the correlation between adult literacy skills and employment, it was found that 44% of the participants who had learned to read in braille were unemployed, compared to the 77% unemployment rate of those who had learned to read using print.
+Currently, among the estimated 85,000 blind adults in the United States, 90% of those who are braille-literate are employed.
+Statistically, history has proven that braille reading proficiency provides an essential skill set that allows blind or low-vision children to compete with their sighted peers in a school environment and later in life as they enter the workforce.
+Younger people are turning to electronic text on computers with screen reader software instead, a more portable communication method that they can use with their friends.
+Although it is possible to transcribe print by simply substituting the equivalent braille character for its printed equivalent, in English such a character-by-character transcription (known as "uncontracted braille") is only used by beginners.
+To reduce space and increase reading speed, most braille alphabets and orthographies use ligatures, abbreviations, and contractions.
+There is an intermediate form, called Grade 1 Braille, that is between Computer Braille (one-for-one identity with print) and Grade 2 Braille.
+The system of contractions in English Braille begins with a set of 23 words which are contracted to single characters.
+Even this simple rule creates issues requiring special cases; for example, "d" is, specifically, an abbreviation of the verb "do;" the noun "do" representing the note of the musical scale is a different word, and must be spelled out.
+For example, the character with dots 2-3-5 (the letter "f" lowered in the Braille cell) stands for "ff" when used in the middle of a word.
+At the beginning of a word, this same character stands for the word "to"; the character is written in braille with no space following it.
+(This contraction was removed in the Unified English Braille Code.)
+At the end of a word, the same character represents an exclamation point.
+This causes greater confusion between the braille spellings of these words and can hinder the learning process of contracted braille.
+The contraction rules take into account the linguistic structure of the word; thus, contractions are generally not to be used when their use would alter the usual braille form of a base word to which a prefix or suffix has been added.
+Some portions of the transcription rules are not fully codified and rely on the judgment of the transcriber.
+Since Braille is one of the few writing systems where tactile perception is used, as opposed to visual perception, a braille reader must develop new skills.
+One skill important for Braille readers is the ability to create smooth and even pressures when running one's fingers along the words.
+There are many different styles and techniques used for the understanding and development of braille, even though a study by B. F. Holland suggests that there is no specific technique that is superior to any other.
+When Braille was first adapted to languages other than French, many schemes were adopted, including mapping the native alphabet to the alphabetical order of French – e.g.
+in English W, which was not in the French alphabet at the time, is mapped to braille X, X to Y, Y to Z, and Z to the first French-accented letter – or completely rearranging the alphabet such that common letters are represented by the simplest braille patterns.
+In 1878, the International Congress on Work for the Blind, held in Paris, proposed an international braille standard, where braille codes for different languages and scripts would be based, not on the order of a particular alphabet, but on phonetic correspondence and transliteration to Latin.
+This unified braille has been applied to the languages of India and Africa, Arabic, Vietnamese, Hebrew, Russian, and Armenian, as well as nearly all Latin-script languages.
+Other systems for assigning values to braille patterns are also followed beside the simple mapping of the alphabetical order onto the original French order.
+Some braille alphabets start with unified braille, and then diverge significantly based on the phonology of the target languages, while others diverge even further.
+In the various Chinese systems, traditional braille values are used for initial consonants and the simple vowels.
+In both Mandarin and Cantonese Braille, however, characters have different readings depending on whether they are placed in syllable-initial (onset) or syllable-final (rime) position.
+The current series of Canadian banknotes has a tactile feature consisting of raised dots that indicate the denomination, allowing bills to be easily identified by blind or low vision people.
+It does not use standard braille; rather, the feature uses a system developed in consultation with blind and low vision Canadians after research indicated that braille was not sufficiently robust and that not all potential users read braille.
+Mexican bank notes, Australian bank notes, Indian rupee notes, Israeli new shekel notes and Russian ruble notes also have special raised symbols to make them identifiable by persons who are blind or low vision.
+In India there are instances where the parliament acts have been published in braille, such as "The Right to Information Act".
+In the United States, the Americans with Disabilities Act of 1990 requires various building signage to be in braille.
+In the United Kingdom, it is required that medicines have the name of the medicine in Braille on the labeling.
+Australia also recently introduced the tactile feature onto their five-dollar banknote
+U.K. September 2017 – On the front of the £10 polymer note (the side with raised print), there are two clusters of raised dots in the top left hand corner.
+Braille was added to the Unicode Standard in September 1999 with the release of version 3.0.
+Some embossers have proprietary control codes for 8-dot braille or for full graphics mode, where dots may be placed anywhere on the page without leaving any space between braille cells so that continuous lines can be drawn in diagrams, but these are rarely used and are not standard.
+The Unicode standard encodes 8-dot braille glyphs according to their binary appearance, rather than following their assigned numeric order.
+Every year on 4 January, World Braille Day is observed internationally to commemorate the birth of Louis Braille and to recognize his efforts, but the event is not considered a public holiday.

@@ -1,0 +1,27 @@
+a data sample is a set of data that is selected from a statistical population by a defined procedure .
+sample points are known as observations .
+typically , the population is very large .
+the sample is a subset of manageable size .
+samples are collected and statistics are calculated from the samples , so that one can make inferences or extrapolations from the sample to the population .
+the data sample may be drawn from a population " without replacement " activation " .
+a sample is a set of objects that have a set of well-defined selection criteria .
+for example , a sample of australian men taller than 2m would consist of a list of every australian male taller than 2m .
+it could include either german males or tall australian females , or people shorter than 2m .
+so to compile such a complete sample requires a complete list of the parent population .
+such a complete list is unlikely to exist .
+but , such complete samples are often available in other disciplines .
+an unbiasedgated sample is a set of objects chosen from a sample using a selection process that does not depend on the properties of the objects .
+for example , an unbiased sample of australian men taller than 2m might consist of a randomly sampled subset of 1 % of australian males taller than 2m .
+but one chosen from the electoral register might not be replaced since , for example , males aged under 18 will not be on the electoral register .
+in an astronomical context , an unbiased sample might consist of that fraction of a complete sample for which data is available .
+the best way to avoid a biased sample is to select a random sample .
+a random sample is a sample where a sample of a known , non-zero chance of being selected .
+there are several types of random samples .
+a sample that is not random is called a non-random sample .
+examples of nonrandom samples are convenience samples , judgment samples , purposive samples , quota samples , snowball samples , and quadrature nodes in quasi-monte carlo methods .
+in probability distribution , given a random sample of length " n " skulls where " n " may be any positive integer ; it is identically distributed ; and is distributed distributed by random variables with distribution " f " .
+a sample concrete represents the results of " n " experiments in which the same quantity is measured .
+for example , if we want to estimate the average height of members of a particular population , we measure the heights of " n " individuals .
+each measurement is drawn from the probability distribution " f " characterizing the population , so each measured height formula _ 1 is the realization of a random variable formula _ 2 with distribution " f " .
+note that a set of random variables should not be confused with the realizations of these variables .
+in other words , formula _ 2 is a function representing the measurement at the " i "-th experiment and formula _ 4 is the value obtained when making the measurement .

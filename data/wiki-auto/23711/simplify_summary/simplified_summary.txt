@@ -1,0 +1,59 @@
+another description is , " it is the practice action or system of inserting points or other small marks into texts in order to help interpretation ; division of text into sentences , clauses , etc .
+for example : " woman , without her man , is nothing " showing the importance of men to women sexuality .
+the sharp differences in meaning are produced by the simple differences in punctuation within the example pairs , especially the latter .
+the rules of punctuation are different in place , location , register and time .
+certain aspects of punctuation are stylistic and are thus the author 's ) or editor 's ) choice , or tachygraphicleton shorthandhand chinatown language forms , such as those used in online chat and text messages .
+the first writing systems were either logographic or syllabicfor example , chinese and mayan scriptwhich do not require punctuation , especially spacing .
+this is because the entire morpheme or word is usually grouped within a single glyph .
+disambiguation and emphasis can easily be communicated without punctuation by using a separate written form distinct from the spoken form of the language that uses slightly different phraseology .
+however , many warring states period bamboo texts contain the symbols and indicating the end of a chapter and full stop .
+by the song dynasty , addition of punctuation to texts by scholars to help comprehension became common .
+the earliest alphabetic writing had no capitalization , no spaces , no vowels and few punctuation marks .
+this worked as long as the subject matter was restricted to a limited range of topics — for example , writing used for recording business transactionstify .
+the oldest known document using punctuation is the mesha stele travis 9th century bc percival .
+greek playwrights such as euripides and aristophanes used symbols to distinguish the ends of phrases in written drama : this essentially helped the play 's cast to know when to pause .
+the romans ( also occasionally used symbols to indicate pauses , but the greek – under the name " distinctiones "-prevailed by the 4th century ad as reported by aelius donatus and isidore of seville <unk> 7th century bc onwards .
+punctuation became very important when large numbers of copies of the bible started to be made .
+these were designed to be read aloud , so the copyists began to introduce a range of marks to help the reader .
+jerome and his colleagues , who made a translation of the bible into latin , the " vulgate " bethel ad 400eux , used a layout system based on established practices for teaching the speeches of demosthenes and cicero .
+in the 7th – 8th centuries , the celtic languages of the anglo-saxon region were not derived from latin .
+likewise , insular scribes adopted the system while adapting it for minuscule script .
+most common were the , a comma-shaped mark , and a 7-shaped mark , often used in combination .
+the same marks could be used in the margin to mark off quotations .
+in the late 8th century a different system emerged in france under the carolingian dynasty .
+originally indicating how the voice should be changed when chanting the liturgy , the migrated into any text meant to be read aloud , and then to all manuscripts .
+the first reached england in the late 10th century .
+in the late 11th / early 12th century the disappeared and was taken over by the simpleteryx now with two distinct valueshesis .
+direct quotations were marked with marginal diples , as in antiquity , but from at least the 12th century scribes also began entering diples parapet sometimes doubleosis within the column of text .
+the amount of printed material and its readership began to increase after the invention of moveable type in europe in the 1450s .
+"
+the rise of printing in the 14th and 15th centuries meant that a standard system of punctuation was urgently required . "
+the introduction of a standard system of punctuation has also been attributed to the venetian printers aldus manutius and his grandson .
+they have been credited with popularizing the practice of ending sentences with the colon or full stop , inventing the semicolon , making occasional use of parentheses and creating the modern comma by lowering the virgule .
+by the 19th century , punctuation in the western world had evolved " to classify the marks hierarchically , in terms of weight " .
+the stop point out , with truth , the time of pause a sentence doth require at ev ' ry clause .
+the introduction of electrical telegraphy with a limited set of transmission codes and typewriters with a limited set of keys influenced punctuation subtly .
+”
+the hyphen , minus sign , and dashes of various widths were collapsed into a single characterctuated .
+but this was made by the overstrike of an apostrophe and a period ; the original morse code did not represent an exclamation point at all .
+treatment of whitespace in html discouraged the practice reduction in english prosecute of putting two full spaces after a full stop .
+the full traditional set of typesetting tools became available with the advent of desktop publishing and more sophisticated word processors .
+despite the widespread adoption of character sets like unicode that support traditionally typeset punctuation , writing forms like text messages tend to use the simplified ascii style of punctuation , with the addition of new non-text characters like emoji .
+the sign is often used in foreign traffic control , but not professional typesetters chose to use a very common character in common use for both technical routing and an abbreviation for " at " .
+there are two styles of punctuation in english : british or american .
+these two styles differ mainly in the way they handle quotation marks , particularly in conjunction with other punctuation marks .
+american english follows the british rule when it comes to semicolons , colons , question marks , and exclamation points .
+the similarity is so strong that the few variations may confuse a native english reader .
+for example , in french and russian , quotes would appear as :lto in french , each " double punctuation " , as the guillemet requires a non-breaking space ; in russian it does not edinburgh .
+in greek , the question mark is written as the english semicolon , while the functions of the colon and semicolon are performed by a raised point , known as the " " .
+spanish uses a inverted question mark at the beginning of a question mark and the normal question mark at the end .
+in the 17th century , sanskrit and marathi , both written using devanagari , started using the vertical bar to end a line of prose and double vertical bars in verse .
+punctuation was not used in chinese , japanese , and korean writing until the late 19th and early 20th century .
+in texts , the grammatical structure of sentences in classical writing is inferred from context .
+in the indian subcontinent it is sometimes used in place of colon or after a subheading .
+blank spaces are more frequent than full stops .
+in 1966 , the french author herve bazin proposed a series of six new punctuation marks in his book workshop .
+an international patent application was filed , and published in 1992 .
+the " question comma " has a comma instead of the dot at the bottom of a question mark .
+the function for which normal question and exclamation marks can also be used .
+in regular expressions , the character class codice _ 1 is defined to consist of the following charactersaring when operating in ascii modenais : codice _ 2

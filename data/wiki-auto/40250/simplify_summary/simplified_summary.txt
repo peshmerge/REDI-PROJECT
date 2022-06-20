@@ -1,0 +1,54 @@
+specific impulseellant is a measure of how much force a rocket engine uses fuel .
+multiplying flow rate by the standard gravityily converts specific impulse from the weight basis to the mass basis .
+a rocket engine with a higher specific impulse uses the mass of the fuel more efficiently .
+in the case of a rocket or other vehicle governed by the tsiolkovsky rocket equation , less fuel needed for a given delta-v .
+in rockets , the vehicle is attached to a rocket engine .
+this effectiveness is less useful in jet aircraft that are lifted by aerodynamic forces , use outside air for combustion , and carry payloads that are much heavier than the propellant .
+specific impulse can include the amount of impulse given by external air that has been used for combustion .
+the specific impulse is a way of measuring the speed of getting the velocity of the fuel .
+the actual exhaust velocity is the same in rocket engines .
+if mass is used , specific impulse is an impulse per unit mass , which dimensional analysis shows to have units of speed , specifically the effective exhaust velocity .
+this is usually in meters per second .
+if a force-based unit is used , impulse is divided by propellant weight exceeds weight .
+the change of momentum of a rocket engine is equal to the thrust .
+thrust is the force made by the engine .
+thrust and specific impulse are related by the design and propellants of the engine .
+when people get specific impulse , only fuel is carried with the vehicle before it is counted .
+for a chemical rocket , the fuel needed to make rocket fuel and oxidizer .
+in rocketry , a heavier engine with a higher specific impulse may not be as effective in gaining altitude , distance , or velocity as a lighter engine with a lower specific impulse , especially if the latter engine possesses a higher thrust-to-weight ratio .
+air resistance and the engine 's inability to keep a high specific impulse at a fast burn rate are why all the fuel is not used as fast as possible .
+if it was not for air resistance and the reduction of fuel during flight , specific impulse would be a direct measure of the engine 's effectiveness in converting propellant weight or mass into forward momentum .
+the most common unit for specific impulse is the second .
+the use of metres per second to say effective exhaust velocity is also reasonably common .
+for airbreathing jet engines , the effective exhaust velocity is not actually meaningful .
+si measurements of specific impulse can be written in terms of either units .
+the time unit of seconds to measure how much fuel the performance of a fuel / engine combination can be thought of as " how many seconds this fuel can accelerate its own initial mass at 1 g " .
+specific impulse is how long a time that engine can exert a continuous pound of forceously .
+in the same manner , some car engines are better built than others to maximize the miles per gallon of the gasoline they burn .
+the amount of time a rocket engine can make thrust is called the " i " in seconds .
+the advantage of this formulation is that it may be used for rockets , where all the reaction mass is carried on board , as well as airplanes , where most of the reaction mass is taken from the atmosphere .
+it gives a result that is independent of units usedhurst provided the unit of time used is the secondement .
+in rocketry , the only way of making a rocket 's fuel is the same way as the other fuel is used .
+in rockets , the specific impulse varies with altitude , reaching a maximum in a vacuum .
+the exhaust velocity is a function of the chamber pressure .
+because of the geocentric factor of " g " in the equation for specific impulse , many prefer an alternate definition .
+the specific impulse of a rocket can be defined in terms of thrust per unit mass flow of propellant .
+for a rocket , the specific impulse defined in this way is simply the effective exhaust velocity relative to the rocket , v .
+this equation is also valid for air-breathing jet engines , but is rarely used .
+minimizing the mass of fuel needed to achieve a given change in velocity is crucial to building rockets .
+the tsiolkovsky rocket equation says that for a rocket with a given empty mass and a given amount of fuel , the total change in velocity it can accomplish is proportional to the effective exhaust velocity .
+deviations from the corresponding velocity pattern ; these are called δ v .
+when an engine is run in the atmosphere , the exhaust velocity is reduced by atmospheric pressure , in turn reducing specific impulse .
+in the case of gas-generator cycle rocket engines , more than one exhaust gas stream is present as turbopump exhaust gas exits through a separate nozzle .
+calculating the effective exhaust velocity requires averaging the two mass flows as well as accounting for atmospheric pressure .
+for air-breathing jet engines , particularly turbofans , the actual exhaust velocity and the effective exhaust velocity are different by orders of magnitude .
+with constant thrust , the power needed increases as the exhaust velocity , leading to a lower energy efficiency per unit thrust .
+however , real-world vehicles are also limited in the amount of fuel they can carry .
+at low exhaust velocity the amount of reaction mass increases , at very high exhaust velocity the energy required becomes prohibitive .
+for example , if a rocket is accelerated from some positive initial speed using an exhaust velocity equal to the speed of the rocket no energy is lost as kinetic energy of reaction mass , since it becomes stationary .
+although this is done , the energy efficiency approaches 100 % , but requires a large initial mass .
+in this case the rocket keeps the same momentum , so its speed is inversely proportional to its remaining mass .
+during such a flight the kinetic energy of the rocket is proportional to its speed and inversely , proportional to its remaining mass .
+the power needed per unit acceleration is constant throughout the flight ; the reaction mass to be expelled per unit time to produce a given acceleration is proportional to the square of the rocket 's remaining mass .
+this is because the effective exhaust velocity calculation essentially assumes that the fuel is providing all the thrust , and hence is not physically meaningful for air-breathing engines .
+the highest specific impulse for a chemical fuel ever tested-fired in a rocket engine was 542 seconds shorter than the other type of rocket engines .

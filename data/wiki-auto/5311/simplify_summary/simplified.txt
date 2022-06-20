@@ -1,0 +1,80 @@
+computer programming is the process of creating a computer program .
+programming involves tasks such as : analysis , generating algorithms , profiling algorithms ' accuracy and resource consumption , and the implementation of algorithms in a chosen programming language .
+the source code of a program is written in one or more languages that are intelligible to programmers , rather than machine code , which is directly executed by the central processing unit .
+the purpose of programming is to find a set of instructions that will automate the performance of a taskful .
+the process of programming requires expertise in several different subjects , including knowledge of the application domain , specialized algorithms , and formal logic .
+tasks related to programming include : testing , debugging , source code maintenance , implementation of build systems , and management of artifacts , such as the machine code of computer programs .
+these might be considered part of the programming process .
+software engineering combines engineering techniques with software development practices .
+reverse engineering is the opposite of normal engineering .
+a " hacker " is a computer scientist who uses their knowledge to overcome a problem , but it can also mean a " security hacker " in common language .
+programmable devices have existed at least as far back as 1206 ad , when the automata of al-jazari were programmable , via pegs and cams , to play various rhythms and drum patterns .
+the first computer program is generally dated to 1843 , when mathematician ada lovelace published an algorithm to calculate a sequence of bernoulli numbers .
+herman hollerith invented the concept of storing data in machine-readable form .
+later a control panelulator allowed it to be programmed for different jobs , and by the late 1940s , unit record equipment such as the ibm 602 and ibm 604 , were programmed by control panels in a similar way ; as were the first electronic computers .
+however , with the idea of the stored-program computers introduced in 1949 , both programs and data were kept in the same way in computer memory .
+machine code was the language of early programs .
+assembly languages were soon developed that let the programmer specify instruction in a text format , add x , total executions , with abbreviations for each operation code and meaningful names for specifying addresses .
+however , because an assembly language is not much more than a different notation for a machine language , any machine with different instruction sets also have different assembly languages .
+high-level languages make the process of making a program simpler and more understandable , and less bound to the underlying hardware .
+fortran was the first widely used high-level language to have a functional implementation .
+programs were mostly made into punched cards or paper tape .
+this is a list of the punch card games .
+by the late 1960s , data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers .
+text editors were developed that allowed changes and changes to be made much more easily than punched cards .
+whatever the way to development may be , the final program must satisfy some fundamental properties .
+readability refers to the ease that a human reader can understand .
+it affects the aspects of quality above , including portability , usability and most importantly maintainability .
+readability is important because programmers spend most of their time reading , trying to understand and modifying existing source code , rather than writing new source code .
+unreadable code often leads to bugs , inefficiencies , and duplicated code .
+a study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it .
+following a consistent programming style often helps readability .
+readability is more than just programming .
+many factors , having little or nothing to do with the ability of the computer to compile and execute the code , contribute to readability .
+the presentation aspects of this altay are such as line breaks , color highlighting , and so onmler are often handled by the source code editor , but the content aspects reflect the programmer 's talent and skills .
+different visual programming languages have also been developed to resolve readability concerns by adopting non-traditional approaches to code structure and display .
+integrated development environmentshend idesbags aim to integrate all such help .
+techniques like code refactoring can improve readability .
+the academic field and the engineering practice of computer programming are largely concerned with discovering and implementing the most efficient algorithms for a given class of problem .
+for this purpose , algorithms are classified into " orders " using so-called big o notation .
+expert programmers are familiar with a variety of well-established algorithms and use this knowledge to choose algorithms that are best suited to the circumstances .
+" programming a computer for playing chess " was a paper that evaluated a " minimax " algorithm that is part of the history of algorithmic complexity ; a course on ibm 's deep bluescopic computer architecture is part of the computer science curriculum at stanford university .
+the first step in most formal software development processes is requirements analysis .
+there are many different approaches for each of those tasks .
+another approach is using case analysis .
+many programmers use forms of agile software development .
+there are many different kinds of software development .
+popular modeling techniques include object-oriented analysis and design feininger .
+unified modeling language uses the ooad and mda .
+a similar technique used for database design is entity-relationship modelingoslav er modeling colleagues .
+some are imperative languages gnomes , functional languages , and logic languages .
+it is difficult to know what is the most popular programming languages .
+methods of measuring programming language popularity include : counting the number of job advertisements that mention the language , the number of books sold and courses teaching the language ; and estimates of the number of existing lines of code written in the language .
+some languages are very popular .
+for example , cobol is still strong in corporate data centers often on large mainframe computers , fortran in engineering applications , scripting languages in web development , and c in embedded software .
+many applications use a mix of several languages in their construction and use .
+new languages are generally designed around the syntax of a prior language with new functionality added .
+debugging is very important in the software development process .
+some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages .
+use of a static code analysis tool helps to detect some possible problems .
+normally the first step in debugging is to try to reproduce the problem .
+this can be a non-trivial task , for example as with parallel processes or some unusual software bugs .
+also , specific user environment and usage history can make it difficult to reproduce the problem .
+after the bug is made , the program may need to be simplified to make it easier to debug .
+for example , a bug in a compiler can make it crash when parsing some large source file .
+however , after simplification of the test case , only few lines from the original source file can be able to reproduce the same crash .
+such simplification can be done manually , using a divide-and-conquer approach .
+the programmer will try to remove some parts of original test case and check if the problem still exists .
+when debugging the problem in a gui , the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear .
+debugging is often done with ides like eclipse , visual studio , xcode , kdevelop , netbeans and .
+standalone debuggers like gdb are also used .
+some text editors such as emacs allow gdb to be used through them , to provide a visual environment .
+different programming languages support different styles of programming programming programming programming programming programming — called " programming paradigms " — — and are different programming languages .
+the choice of language used is subject to many different kinds , such as company policy , suitability to task , availability of third-party packages , or individual preference .
+ideally , the programming language best suited for the task at hand will be selected .
+trade-offs from this ideal means that enough programmers know the language to build a team , the availability of compilers for that language , and the efficiency with which programs written in a given language execute .
+languages are usually more machine-oriented and faster to execute .
+it is usually easier to code in " high-level " languages than in " low-level " ones .
+many computer languages provide a mechanism to call functions provided by shared libraries .
+provided the functions in a library follow the appropriate run-time conventions .
+computer programmers are those who write computer programs .

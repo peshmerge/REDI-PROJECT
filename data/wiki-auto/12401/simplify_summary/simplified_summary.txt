@@ -1,0 +1,4 @@
+a graph in this context is made up of vertices , also called nodes or points .
+a graph is made between undirected graphs , where edges link two vertices , and directed graphs .
+graphs are a number of objects in mathematics .
+refer to the glossary of graph theory for basic definitions in graph theory .

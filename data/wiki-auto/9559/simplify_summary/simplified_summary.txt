@@ -1,0 +1,26 @@
+an electrical circuit is a network of two or more lines .
+linear electrical networks , a special type consisting only of sourcespeed voltage or currentdilly , linear lumped elements ɔ resistors , capacitors , inductorsodes , and linear distributed elements representing transmission lines .
+they are thus more easily analyzed , using powerful frequency domain methods such as laplace transforms , to determine dc response , ac response , and transient response .
+an active network is a network that contains an active source -lrb- either a voltage source or a voltage source -rrb- .
+an active network has one or more sources of electromotive force .
+it has active elements like a battery or a transistor .
+active elements can inject power to the circuit , provide power gain , and control the current flow within the circuit .
+passive networks do not contain any sources of electromotive force .
+discrete passive componentshesis resistors , capacitors and inductorstorstorstorstorstorstorstorstorstorstors are called " lumped elements " because all of their , respectively , resistance , capacitance and inductance are assumed to be located at one place .
+at high enough frequencies the lumped assumption no longer holds because there is a significant fraction of a wavelength across the component dimensions .
+networks designed to this model are called " distributed element circuits " .
+a distributed element circuit that includes some lumped components is called a " semi-lumped " design .
+an example of a semi-lumped circuit is the combline filter .
+an ideal independent source maintains the same voltage or current regardless of the other elements present in the circuit .
+dependent sources depend upon a particular element of the circuit for delivering power or voltage or current depending upon the type of source it is .
+other more complex laws may be needed if the network contains nonlinear or reactive components .
+applying these laws results in a set of simultaneous equations that can be solved either algebraically or numerically .
+to design any electrical circuit , either analog or digital , electrical engineers need to be able to predict the voltages and currents at all places within the circuit .
+in more complex cases the circuit may be analyzed with specialized computer programs or estimation techniques such as the piecewise-linear model .
+once the steady state solution is found , the " operating points " of each element in the circuit are known .
+for a small amount of non-linear element can be linearized around its operation point to obtain the small-signal estimate of the voltages and currents .
+the resulting linear circuit matrix can be solved with gaussian elimination .
+software such as the plecs interface to simulink uses piecewise-linear approximation of the equations governing the elements of a circuit .
+the circuit is treated as a completely linear network of ideal diodes .
+every diode switches from on to off or vice versa , the configuration of the linear network changes .
+adding more detail to the approximation of equations increases the accuracy of the simulation , but also increases its running time .

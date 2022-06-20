@@ -1,0 +1,25 @@
+Theoretical chemistry tries to explain data from chemistry experiments.
+It uses mathematics and computers.
+Theoretical chemistry predicts what happens when atoms combine to form molecules.
+It also predicts chemical properties (characteristics) of molecules.
+An important part of theoretical chemistry is quantum chemistry.
+This is using quantum mechanics to understand valency (the number of bonds formed by an atom of an element).
+Other important parts include molecular dynamics, statistical thermodynamics and theories of electrolyte solutions, reaction networks, polymerization and catalysis.
+Theoretical chemists use a wide range of tools.
+These tools include analytical models (for example, LCAO-MOs to approximate the behaviors of electrons in molecules) and computational and numerical simulations.
+Theorists in chemistry create theoretical models.
+Then, they find things that experimental chemists can measure from those models.
+This helps chemists to look for data that can prove a model not true.
+The data helps to chose between several different or opposite models.
+Theorists also try to generate or modify models to fit any new data, If the data can not fit the model, chemists try to make the smallest change to the model to fit the data.
+In some cases, chemists throw out a model if a lot of data will not fit, over time.
+Theoretical chemistry uses physics to explain or predict chemical observations.
+In recent years, it has been mainly about quantum chemistry (the application of quantum mechanics to problems in chemistry).
+The main parts of theoretical chemistry are electronic structure, dynamics, and statistical mechanics.
+All of these areas are used in the process of predicting chemical reactivities.
+Other less central research areas include the mathematical description of bulk chemistry in various phases.
+Theoretical chemists want to explain chemical kinetics (the pathway that molecules combine).
+Scientists call a lot of this work "computational chemistry".
+Computational chemistry usually uses theoretical chemistry to work on industrial and practical problems.
+Examples of computational chemistry are projects to approximate chemical measurements such as certain types of post Hartree-Fock, Density Functional Theory, semiempirical methods (such as PM3) or force field methods.
+Some chemical theorists use statistical mechanics to create a link between the microscopic phenomena of the quantum world and the macroscopic bulk properties of systems.

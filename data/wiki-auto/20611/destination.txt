@@ -1,0 +1,19 @@
+Monophyly means common descent from a single ancestor.
+Biologists have introduced a kind of taxonomy called cladistics.
+The aim of this is to make biological classification fit what we know about the way organisms evolved.
+If there is a group made of a common ancestor, and all its descendants, that group is monophyletic.
+(Greek: "of one race").
+A group which contains organisms, without their common ancestor, is called polyphyletic.
+Convergent evolution is a usual cause of such groups.
+If a group contains the common ancestor, but leaves out some of its descendants, it is called paraphyletic.
+All living things on this planet are thought, on the basis of DNA analysis, to be monophyletic, that is, to have one origin, not many.
+Example: all species in the genus "Homo" have come from the same ancestral form in the family Hominidae, and no other descendants are known.
+Thus the genus "Homo" is monophyletic.
+If, on the other hand, it were discovered that "Homo habilis" had developed from a different ancestor from "Homo sapiens", and this ancestor were not included in the genus, then the genus would be polyphyletic.
+Since biologists by and large tend to prefer monophyletic groups, in this case, they would likely either split the genus or broaden it to include the additional forms.
+Example of polyphyletic group: Sea slugs.
+Sometimes taxonomists are frustrated fitting plant species into a monophyletic group because of polyploidy.
+There is clear evidence that some polyploid plant species are of multiple origins (the species has arisen more than once).
+For example, "Salsify", the hybrid goat's-beard, ("Tragopogon miscellus") has formed as many as 20 times in eastern Washington.
+Also, it can happen that hybrids between two close plant species undergo polyploidy, and the polyploids continue as a new and distinct species.
+Situations like this are outside the normal rules of descent, and are dealt with by special decisions, guided by the International Commission of Botanical Nomenclature (ICBN).

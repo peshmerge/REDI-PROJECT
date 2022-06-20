@@ -1,0 +1,4 @@
+The gauss (symbol G) is the CGS unit used to measure magnetic fields.
+One gauss is defined as one maxwell per square centimeter.
+There are 10,000 (10) gauss in one tesla.
+The unit is named in honor of the German mathematician and physicist Carl Friedrich Gauss.

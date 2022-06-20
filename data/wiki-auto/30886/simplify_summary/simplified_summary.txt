@@ -1,0 +1,141 @@
+this improvement over a naturally aspirated engine 's power output is due to the fact that the compressor can force more air – and proportionately more fuel — into the combustion chamber than atmospheric pressurepods .
+the difference between a turbocharger and a conventional supercharger is that a supercharger is mechanically driven by the engine .
+the turbocharger was invented by swiss engineer alfred buchigler 1879 – 1959 birmingham , the head of diesel engine research at gebruder sulzerhausen .
+the first use of turbocharging technology based on his design was for large marine engines .
+both ships featured twin ten-cylinder diesel engines with output boosted from 1750 to 2500 horsepower by turbochargers designed by buchi .
+in 1918 , general electric engineer sanford moss attached a turbocharger to a " liberty " aircraft engine .
+the test was tested at pikes peak in colorado at 14000 ft .
+turbochargers were first used in production aircraft engines in the 1930s .
+turbochargers were also used in aviation , most widely used by the united states .
+during world war ii , some examples of u . s . aircraft with turbochargers were made by general electric for american aviation use .
+the technology was also used in experimental fittings by a number of other manufacturers .
+belts , chains , shafts , and gears are common methods of powering a supercharger .
+yet the benefits outweigh the cost ; for the 150 horsepower to drive the supercharger the engine generates an additional 400 horsepower , a net gain of 250 horsepower .
+even under ideal conditions , the compression process always results in high output temperature .
+thus , for a given volume and pressure of air , the turbocharged air is cooler , and as a result denser , containing more oxygen molecules , and therefore more potential power than the supercharged air .
+in practical use the disparity between the two can be dramatic , with turbochargers often producing 15 % to 30 % more power based solely on the differences in adiabatic efficiency .
+in variable output systems such as automobile engines , exhaust gas pressure at idle , low engine speeds , or low throttle is usually not enough to be used to drive the turbine .
+only when the engine reaches sufficient speed , the turbine section starts to " spool up , " or spin fast enough to produce intake pressure above atmospheric pressure .
+the turbocharger uses the mechanical assistance to charge air only at lower speeds and startup .
+a two-stroke engine with a mechanically assisted compressor during idle and low throttle is considered naturally aspirated .
+in naturally aspirated piston engines , the gases that are pushed into the engine by atmospheric pressure filling the volumetric void caused by the downward stroke of the piston extending into a low pressure area .
+the amount of air actually inspired , compared with the theoretical amount of air that can maintain atmospheric pressure , is called volumetric efficiency .
+the goal of a turbocharger is to improve the engine 's volumetric efficiency by increasing density of the intake .
+the turbocharger 's compressor draws in ambient air and compresses it before it enters into the intake manifold at increased pressure .
+this results in a greater mass of air entering the cylinders on each intake stroke .
+the power needed to spin the centrifugal compressor is derived from the kinetic energy of the engine 's exhaust gases .
+in automotive applications , boost refers to the amount of intake by which air pressure exceeds atmospheric pressure .
+this is a representative of the extra air pressure that is achieved over what would be achieved without the forced induction .
+the control of turbocharger boost has changed dramatically over the 100 years of their use .
+in petrol engine turbocharger applications , boost pressure is limited to keep the entire engine system , including the turbocharger , inside its thermal and mechanical design operating range .
+for example , to avoid engine knocking aboard and the related physical damage to the engine , the intake manifold pressure must not get too high .
+opening the wastegate allows the excess energy destined for the turbine to bypass it and pass directly to the exhaust pipe , thus reducing boost pressure .
+the wastegate can be either controlled manually chartered in aircraft nmi or by an actuatorhesis in automotive applications .
+a turbocharger may also be used to increase fuel efficiency without increasing power .
+as the hot turbine side is being driven by the exhaust energy , the cold intake air will be compresses fresh intake air and drives it into the engine 's intake .
+by using this otherwise wasted energy to increase the mass of air , it becomes easier to ensure that all fuel is burned before being vented at the start of the exhaust stage .
+a natural use of the turbocharger is with aircraft engines .
+turbocharts use a turbocharger to maintain the power output of the engines .
+a turbo-normalized system tries to maintain a high pressure of 29.5 inches .
+turbocharger lagforceforceforce is the time required to change power output in response to a throttle change .
+superchargers do not suffer this problem , because the turbine is taken out by the compressor being directly powered by the engine .
+turbocharger applications can be categorized into those that require changes in output power output powerboats such as automotive shareholder .
+sometimes turbo lag is mistaken for engine speeds that are below boost threshold .
+if the engine speed is below a turbocharger 's boost threshold rpm , then the time needed for the vehicle to build speed and rpm could be considerable , maybe even tens of seconds for a heavy vehicle starting at low speed in a high gear .
+this wait for vehicle speed increase is not turbo lag .
+the " boost threshold " of a turbocharger system is the lower bound of the region within which the compressor operates .
+it uses an electric motor to bring the turbocharger up to operate faster than possible using available exhaust gases .
+an alternative to e-boosting is to completely separate the turbine and compressor into a turbine-generator and electric-compressor as in the hybrid turbocharger .
+in 1981 , a similar system that used a hydraulic drive system and overspeed clutch arrangement accelerated the turbocharger of the mv " canadian pioneer " leabling the turbocharger of the mv " canadian pioneer " leashow " say " doxford 76j4crj4crose engineizations .
+turbochargers start to produce boost only when a certain amount of kinetic energy is present in the exhaust gasses .
+without the gas being in the turbine blades , the turbocharger creates the necessary force needed to compress the air going into the engine .
+the boost threshold is determined by the engine displacement , engine rpm , throttle opening , and the size of the turbocharger .
+the operating speed produces enough exhaust gas to compress the air going into the engine is called the " boost threshold rpm " .
+reducing the " boost threshold rpm " can improve throttle response .
+energy provided for the turbine work is converted from the enthalpy and kinetic energy of the gas .
+often the same basic turbocharger assembly is available from the manufacturer with multiple housing choices for the turbine , and sometimes the compressor cover as well .
+the turbine and impeller wheel sizes also dictate the amount of air or exhaust that can flow through the system , and the relative efficiency at which they operate .
+in general , the larger the turbine wheel and compressor wheel the larger the flow capacity .
+measurements and shapes can vary , as well as curvature and number of blades on the wheels .
+large turbochargers take more heat and pressure to spin the turbine , creating lag at low speed .
+small turbochargers can spin quickly , but may not have the same speed at high speeds .
+to achieve the benefits of large and small wheels , advanced schemes are used such as twin-turbochargers , twin-turbochargers , or variable-geometry turbochargers .
+in a sequential setup , a turbocharger runs at low speeds and the second turns on at a predetermined engine speed or load .
+they are connected in a series so that boost pressure from one turbocharger is multiplied by another .
+with high-performance camshaft timing , exhaust valves in different cylinders can be open at the same time .
+in twin-scroll designs , the exhaust is separated by the pipes that can interfere with each other .
+with common firing order 1-3-4-2 , two scrolls of unequal length pair cylinders 1 and 4 , and 3 and 2 .
+this lets the engine use exhaust scavenging techniques , which decreases exhaust gas temperatures and emissions , improves turbine efficiency .
+variable-geometry or variable-nozzle turbochargers use moveable vanes to adjust the air-flow to the turbine , imitating a turbocharger of the optimal size throughout the power curve .
+the angle is changed by an actuator to block or increase air flow to the turbine .
+this variability keeps a comparable exhaust velocity and back pressure throughout the engine 's rev range .
+the result is that the turbocharger improves fuel efficiency without a noticeable level of lag .
+the compressor increases the amount of air entering the combustion chamber .
+it can be moved by allowing air to bleed from a ring of holes or a circular groove around the compressor at a point slightly downstream of the inlet inlet but far closer to the outlet than to the outlet .
+allowing some air to escape at this location stops the onset of surge and widens the operating range .
+the center hub rotating assembly uses the shaft that connects the compressor impeller and turbine .
+it also must contain a bearing system to keep the shaft , allowing it to rotate at very high speed with little friction .
+for instance , in automotive applications the chra typically uses a thrust bearing or ball bearing lubricated by a constant supply of pressurized engine oil .
+the chra may also be considered " water-cooled " by having an entry and exit point for coolant .
+ball bearings designed to support high speeds and temperatures are sometimes used instead of fluid bearings to support the turbine shaft .
+some variable nozzle turbochargers use a rotary electric actuator , which uses a direct stepper motor to open and close the vanes , rather than pneumatic controllers that operate based on air pressure .
+this law states that the pressure of a given amount of gas at constant volume is directly proportional to the kelvin temperature .
+with more pressure being added to the engine through the turbocharger , the temperatures of the engine will rise .
+the warmer the air , the less dense , and the less oxygen available for the combustion event , which reduces volumetric efficiency .
+not only does excessive air temperature reduce efficiency , it also leads to knock , or detonation , which is destructive to engines .
+to compensate for the increase in temperature , turbocharger units often make use of an intercooler between successive stages of boost to cool down the air .
+a charge air cooler is an air cooler between the boost stageholder snulf and the appliance that consumes the boosted air .
+there are two areas on which intercoolers are commonly mounted .
+it can be mounted on top , parallel to the engine , or at the front of the vehicle .
+this closer proximity reduces the time it takes for air to travel through the system , making power sooner .
+the area where a top-mounted intercooler is located is near one of the hottest areas of a car , right above the engine .
+this is why most manufacturers include large hood scoops to help feed air to the intercooler while the car is moving .
+even while moving , when the atmospheric temperatures begin to rise , top-mount intercoolers tend to underperform compared to front-mount intercoolers .
+intercooling is injecting water into the air to reduce the temperature .
+when injecting the mixture into the air , the air is cooled .
+inside the combustion chamber it slows the flame , acting similar to higher octane fuel .
+the extra fuel is not burned ; as there is not enough oxygen to complete the chemical reaction edits .
+a wastegate is a part of the exhaust gas flow that enters the exhaust-side driving turbine and therefore the air intake into the manifold and the degree of boosting .
+it can be controlled by a boost pressure assisted by a boost pressure assisted , generally vacuum hose attachment point diaphragm .
+turbocharged engines at wide open throttle and high rpm require a large volume of air to flow between the turbocharger and the inlet of the engine .
+in this situation , the surge can raise the pressure of the air to a level that can cause damage .
+this is because if the pressure rises high enough , a compressor stall occurs .
+the reverse flow back across the turbocharger makes the turbine shaft reduce in speed more quickly than it would naturally , possibly damaging the turbocharger .
+to prevent this from happening , a valve is fitted between the turbocharger and inlet .
+the primary use of this valve is to keep the spinning of the turbocharger at a high speed .
+recycling back into the turbocharger inlet is needed on an engine that uses a mass-airflow fuel injection system .
+valves that recycle the air also shorten the time needed to re-spool the turbocharger after the turbocharger when the air is much lower than the air charge to atmosphere .
+the first turbocharged passenger car was the oldsmobile jetfire option on the 1962-1963 f85 / cutlass .
+the first production turbocharger diesel passenger car was the mercedes 300sd introduced in 1978 .
+today , most automotive diesels are turbocharged .
+however , the charge in the cylinders is pushed in by this air pressure .
+the size of the turbocharger is chosen to produce a given amount of pressure at high altitude .
+the speed of the turbocharger is controlled by a wastegate .
+as the plane climbs and the air density drops , the wastegate must keep in small increments to maintain full power .
+when the plane climbs above the critical altitude , engine power output decreases as altitude increases , just as it would in a naturally aspirated engine .
+with older supercharged aircraft without automatic control , the pilot must continually adjust the throttle to maintain the required manifold pressure during ascent or descent .
+in contrast , modern turbocharger systems use an automatic wastegate .
+for these systems , as long as the control system is working properly and the pilot 's control commands are smooth and deliberate , a turbochargerizes over-boost the engine and damage it .
+yet the majority of world war ii engines used superchargers , because they had three significant manufacturing advantages over turbochargers .
+turbocharged piston engines are also subject to many of the same operating restrictions as gas turbine engines .
+pilots must make smooth , slow throttle adjustments to avoid overshooting their target manifold pressure .
+the fuel / air mixture must often be adjusted far on the rich side of stoichiometric combustion needs to avoid pre-ignition or detonation in the engine when running at high power settings .
+in systems using a manually operated wastegate , the pilot must be careful not to exceed the turbocharger 's maximum rpm .
+all of the above wwii aircraft engines had mechanically driven centrifugal superchargers as-designed from the start , and the turbosuperchargers changed their design .
+most of the engines are naturally aspirated .
+despite the negative points , turbocharged aircraft will fly higher to make more efficient .
+high cruise flight also allows more time to evaluate issues before a forced landing must be made .
+as the turbocharged aircraft climbs , however , the pilotschaft or automated systemwyl can close the wastegate .
+with such systems , modern high-performance piston aircraft can cruise at altitudes up to 25,000 feet altitude above which , rvsm certification would be required .
+in manually controlled wastegate systems , the pilot must take care not to overboost the engine , which causes detonation .
+turbochargers are also employed in certain two-stroke cycle diesel engines , which would require a roots blower for aspiration .
+in this specific application , mainly electro-motive diesel locomotives emd gibbons 567,645 , and 710 series engines , the turbocharger is driven by the engine 's crankshaft through a gear train and an overrunning clutch .
+after the exhaust gases have reached sufficient heat energy , the clutch is automatically disengaged , and the turbo-compressor is driven only by the exhaust gases .
+it is possible for the turbocharger to revert to compressor mode during commands for large increases in engine power .
+honeywell turbo technologies , borg warner and mitsubishi turbocharger are the biggest manufacturers in europe and the united states .
+in europe 67 % of all vehicles are turbocharged in 2014 .
+historically , more than 90 % of turbochargers were diesel .
+the u . s . coalition for advanced diesel cars is trying to reduce technology for environmentally friendly automotive technology .
+if successful , government subsidies would be based on the corporate average fuel economy exceeds cafecturing standards rather than supporting specific technologies like electric cars .
+turbocharger sales in the united states increased when the federal government boosted corporate average fuel economy targets to 35.5 mpg by 2016 .
+turbocharger failures and high exhaust temperatures are among the causes of car fires .

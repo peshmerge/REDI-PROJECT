@@ -1,0 +1,13 @@
+thermochemistry is the study of the heat energy that changes chemical reactions .
+thermochemistry focuses on these energy changes , especially on the system 's energy exchange with its surroundings .
+thermochemistry is useful in predicting reactant and product quantities throughout the course of a given reaction .
+exothermic reactions give out heat .
+thermochemistry combines the concepts of thermodynamics with the idea of energy in the form of chemical bonds .
+thermochemistry is based on two generalizations .
+gustav kirchhoff showed in 1858 that the variation of the heat of reaction is given by the difference in heat capacity between products and reactants : dδh / dt = δc .
+integration of this equation allows the evaluation of the heat of reaction at one temperature from measurements at another temperature .
+the measure of heat changes is performed using calorimetry .
+the temperature of the chamber is monitored either using a thermometer or thermocouple , and the temperature plotted against time to give a graph from which fundamental quantities can be calculated .
+everything outside the system is considered the surroundings .
+a system changes a lot when one or more of its properties change .
+isobaric callahan same-pressureocation occurs when the pressure of the system remains constant .

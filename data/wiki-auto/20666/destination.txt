@@ -1,0 +1,122 @@
+The Metre Convention is the treaty that set up the International Bureau of Weights and Measures (BIPM).
+The BIPM is an inter-governmental organization that is responsible for harmonizing systems of measurement across the world.
+The treaty was first made in 1875 between 17 countries.
+The member countries agreed to share the costs of running a laboratory on neutral territory.
+The international prototype metre and the international prototype kilogram would be kept at the laboratory.
+Member state's national prototype metres and kilograms would be compared with the international prototypes at regular intervals.
+Member states would have regular meetings to discuss developments in measurement technology.
+In 1921 the treaty was extended to cover electrical and all other physical measurements.
+This enabled the BIPM to published the standards for the International System of Units (SI).
+Under SI, units of measurements that are used in science and engineering were defined in a logical manner.
+The rules for SI also standardized the way in which physical quantities are written.
+In 2014 the BIPM had 55 member countries.
+The metric system was developed in France in the 1790s.
+The length of the metre was made to be one ten millionth of the distance between the North Pole and the equator.
+Between 1791 and 1798 the French men Delambre (a mathematician and astronomer) and Méchain (an astronomer) measured the distance between Dunkirk and Barcelona.
+The measurements were used to make a metal bar exactly 443.296 "lignes" long (the "ligne" is an old French unit of length equal to one twelfth of a French inch).
+The bar would be used as a standard for the metre.
+The bar was later called the "metre des archives".
+By the 1860s it was found that the "metre des archives" was 0.03% shorter than it was supposed to have been.
+The Great Exhibition in London in 1851 and the Paris International Exhibition in 1867 had shown the need for different nations to use the same units of measurement.
+In the 1860s there were many discussions by astronomers and surveyors from outside France whether they should use the "metre des archives" or whether they should use a "new metre" that took account of the 0.03% error.
+Prussia took the lead in organizing conferences in Berlin to discuss the matter.
+France did not take part in the conferences.
+Before any actions could be taken the Franco-Prussian War broke out.
+Prussia defeated France and the German Empire was formed.
+In 1875 France invited representatives to Paris to discuss the matter.
+This helped France to score a diplomatic victory over Prussia and the German Empire.
+The treaty was signed by seventeen of the countries at the conference in Paris on 20 May 1875.
+The United Kingdom and the Netherlands went to the conference but did not sign the treaty at that time.
+After further consideration, the United Kingdom did sign the treaty in 1884.
+The organization set up by the treaty was the International Bureau of Weights and Measures.
+Its French name is "Bureau international des poids et mesures".
+Its abbreviation is BIPM.
+The BIPM has its headquarters at the Pavillon de Breteuil, Sèvres, France (close to Paris).
+About 70 people work at the BIPM.
+The budget for 2013 was over €10 million ($12 million).
+The three organisations were set up under the treaty.
+The Bureau has responsibility for safeguarding the international prototype kilogram.
+The official language for the organisations is French.
+Until 1988 all reports of meetings were only published in French.
+Since then both English and French have been used.
+Abbreviations are based on the French words, not English words.
+Official communications between the BIPM and France are conducted via the French Foreign Ministry.
+Official communications with other countries are conducted via that country's embassy in Paris.
+The General Conference on Weights and Measures was set up under the Metre Convention as an organ of the BIPM.
+It gives the BIPM its mandate and budget on behalf of the member states.
+Its French name is "Conférence générale des poids et mesures".
+Its abbreviation is "CGPM".
+The CGPM meets every four to six years.
+The first meeting was in 1889 and the 24th meeting was in 2011.
+Each member state has one vote.
+France is represented by its foreign minister and by the president of the French Academy.
+The French Foreign minister is the chairman of the opening and closing sessions of any CGPM session.
+The president of the French Academy is the chairman of other meetings of the CGPM.
+The International Committee for Weights and Measures was set up under the Metre Convention as an organ of the BIPM.
+It advises the CGPM and supervise the BIPM.
+Its French name is "Comité international des poids et mesures".
+Its abbreviation is CIPM.
+The CGPM has 18 members.
+These members are well-known measurement experts who are elected by the CGPM.
+They must all come from different countries.
+One of the CIPM members must be French.
+They meet once or twice a year in Paris.
+The CIPM is assisted by a number of Consultative Committees.
+In February 2014 there were ten such committees.
+Nine of the committees are dedicated to special types of measurement such as Electricity and Magnetism, Length, Photometry and Radiometry, Thermometry and Time and Frequency.
+The CIPM appoints people to these committees.
+The tenth committee is called the Consultative Committee for Units (CCU).
+Its chairman is appointed by the CIPM.
+Other members of the committee are appointed by other organizations.
+These organizations include International Organization for Standardization (ISO) and National Institute of Standards and Technology (NIST).
+The CCU's task is to ensure that all the definitions of SI are consistent.
+It also drafts the SI standard which is called the "SI Brochure".
+The BIPM's offices and laboratories art at the Pavillon de Breteuil, Sèvres, France (close to Paris).
+The BIPM looks after the International Prototype Kilogram (IPK) for the CGPM.
+It provides laboratory services for the CGPM and CIPM.
+Member states use the BIPM laboratories when they check their own copy of the kilogram against the IPK.
+The BIPM offices are also the headquarters for the CGPM and CIPM.
+In 1875 the convention only dealt with standardization of the kilogram and the metre.
+The convention was revised in 1921 to accommodate all physical measurements.
+In 1933 the CGPM approved efforts that were being made to merge electrical and photometry units into the metric system.
+During the late nineteenth and early twentieth century many new units of measure were defined using the metric system.
+Units of measure used in electrostatic applications, electromagnetic applications and electrical distribution systems were incompatible with each other.
+The use of standard gravity in force and pressure definitions resulted in more units of measure being defined than were necessary.
+After the Second World War the International Union of Pure and Applied Physics (IUPAP) and the French Government asked the BIPM to look into the matter.
+In 1948, the 9th CGPM asked the CIPM to conduct a study into units of measurement used by member states.
+The CIPM reported back and in 1954 the 10th CGPM decided to set up a new system of units.
+There would be six base units.
+These were the metre, kilogram, second, ampere, degree Kelvin (later renamed kelvin), and candela.
+The new system was published in 1960.
+The 11th CGPM named it the "International System of Units".
+The short name was "SI".
+This came from the French name, .
+The BIPM described SI as "the modern metric system".
+Since 1960 the BIPM has made several refinements to SI.
+Some of the refinements include developing new ways of making high precision measurement.
+Other refinements include small changes to details of definitions.
+The atomic clock has made very precise time-keeping possible.
+The earth is slowing down.
+A the "time of the dinosaurs" the earth rotated once every 23 hours.
+It is now possible to measure variations in the Earth's rotation caused by volcanoes and tsunamis.
+This is done by the International Earth Rotation Service (IERS).
+The IERS proposes leap seconds as and when these are needed.
+Under the Metre Convention, the BIPM has the task of coordinating over 200 atomic clocks around the world.
+These clocks are located in 50 different national laboratories.
+Many measuring devices need to be recalibrated at regular intervals.
+These devices might be petrol pumps.
+They might be weighing scales.
+They might be complex medical equipment like MRI scanners.
+A certificate is issued when the device is recalibrated.
+The device that is used to do the calibration must itself be calibrated.
+These devices are often recalibrated in a national metrology laboratory.
+Legal problems can arise if a calibration done in one country is not recognised in another country.
+Some countries are full members of the CGPM and have a vote at CGPM meetings.
+These countries have their own copy of the prototype kilogram.
+They also take part in the CIPM MRA program.
+Other countries are associate members.
+They take part on the CIPM MRA program.
+They may speak at CGPM meetings but not to vote at these meetings.
+They do not have their own copies of the prototype kilogram.
+At its 21st meeting (October 1999), the CGPM created the category of "associate" for those states not yet members of the BIPM and for economic unions.
+(1970–2012) Dominican Republic (1954-2014) Yemen (2014-2018)

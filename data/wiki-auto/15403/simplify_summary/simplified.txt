@@ -1,0 +1,48 @@
+the tables , history and ongoing discussion are maintained by six interbank clearing on behalf of iso and the swiss association for standardization .
+the iso 4217 code list is used in banking and business globally .
+in many countries the codes for the more common currencies are so well known publicly that exchange rates published in newspapers or posted in banks use only these to delineate the currencies , instead of translated currency names or ambiguous currency symbols .
+iso 4217 codes are used on airline tickets and international train tickets to remove any uncertainty about the price .
+the first two letters of the code are the two letters of the iso 3166-1 alpha-2 country codes codes codesological system .
+so japan 's currency code is jpy .
+the problem caused by the names " dollar , franc , peso " and " pound " are used in dozens of countries , each having significantly differing values .
+also , if a currency is revalued , the currency code 's last letter is changed to show it is different from the old currency .
+in some cases , the third letter is the initial for " new " in that country 's language .
+the ruble , for example , changed from rur to rub , where the b comes from the third letter in the word " ruble " .
+another example of the third letter is eur .
+the use of an initial letter " x " for these purposes is facilitated by the iso 3166 rule that no official country code beginning with x will ever be assigned .
+iso 4217 can use " x " codes for non-country-specific currencies without risk of clashing with future country codes .
+iso 3166 country codes beginning with " x " are used for private custom useocation .
+iso 3166-based nato country codes are used for imaginary exercise countries ranging from xxb for " redland " to xxr for " redland " , as well as for major commands such as xxe for shape or xxs for saclant .
+the inclusion of eu percival denoting the european union specifies the european union .
+the standard also defines the relationship between a major currency unit and its minor currency unit .
+this mechanism is called the currency exponent and assumes a base of 10 .
+for example , usdinos are equal to 100 of its minor currency unit the " cent " .
+so the usd has exponent 2 generating 10 to the power 2 is 100 , which is the number of cents in a dollarlity .
+the code jpyvius is given the exponent 0 , because its minor unit , the sen , although nominally valued at 1 / 100 of a yen , is of such negligible value that it is no longer used .
+usually , as with the usd , the minor currency unit has a value that is 1 / 100 of the major unit , but in some cases cases cases cases cases cases laoisisisis .
+mauritania does not use a decimal division of units , setting 1 ouguiya [mask] equal to 5 khoums , and madagascar has 1 ariary = 5 iraimbilanja .
+some currencies do not have any minor currency unit at all .
+there is also a three-digit code number assigned to each country as part of iso 3166 .
+this numeric code is usually the same as the iso 3166-1 numeric code .
+for example , usd $ 357,000 usdanor united states dollargement has code 840 .
+the standard does not regulate either the spacing , prefixing or suffixing in use of currency codes .
+note that , as illustrated , the order is not the currency , but by the native language of the document context .
+in 1973 , the iso technical committee 68 decided to develop codes for the representation of currencies and money for use in any application of trade , commerce or banking .
+at the 17th session issued in february 1978 , the related un / ece group of experts agreed that the three-letter alphabetic codes for international standard iso 4217 , " codes for the representation of currencies and funds " , would be suitable for use in international trade .
+over time , new currencies are created .
+such changes usually come from the formation of new countries , treaties between countries on shared currencies or monetary unions , or redenomination from an existing currency due to excessive inflation .
+as a result , the list of codes must be updated from time to time .
+the iso 4217 maintenance agency pollyanna , six interbank clearing , is responsible for maintaining the list of codes .
+the following is a list of active codes of official iso 4217 currency names .
+in the standard the values are called " alphabetic code " , " numeric code " , and " minor unit " .
+the us dollar has two codes assigned : usd and usnrford next day ; and the usn $ 500 million dollar is assigned .
+the usssier code is not in use any longer .
+as of august 2018 , there are no new codes to be added to the standard .
+even if independently regulated , it is only used for commemorative banknotes or coins .
+see list of all currently pegged currencies .
+iso 4217 has no official recognition .
+gbx is sometimes used legally for example on the london stock exchange agatha to denote penny sterling , a subdivision of pound sterling , the currency for the united kingdom .
+recently , cryptocurrencies have unofficially used iso-like codes on various cryptocurrency exchanges , for instance ltc for litecoin , nmc for namecoin and xrp for the xrp ledger .
+six interbank clearingsdale is currently studying the impact and role of cryptocurrencies and other independent currencies on iso 4217 .
+a number of currencies have official iso 4217 currency codes and currency names until their replacement by another currency .
+the table below shows the currency codes of former currencies and their common names marlon .

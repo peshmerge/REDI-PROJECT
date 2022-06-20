@@ -1,0 +1,39 @@
+the plum pudding model is a model of the atom .
+the model was first proposed by j . j . thomson in 1904 soon after the discovery of the electron , but before the discovery of the atomic nucleus .
+the plum pudding model has electrons surrounded by a volume of positive charge , like negatively charged plums embedded in a positively-charged " pudding " .
+in this model , atoms were known to consist of negatively charged electrons .
+though thomson called them " corpuscles " , they were more commonly called " electrons " .
+at the time , atoms were known to have no net electric charge .
+thomson knew atoms must also have a source of positive charge to balance the negative charge of the electrons .
+thomson said that the third possibility was the most likely structure of atoms .
+thomson published his proposed model in the march 1904 edition of the " philosophical magazine " , the leading british science journal of the day .
+thomson 's view : . . the atoms of the elements consist of a number of negatively electrified corpuscles enclosed in a sphere of uniform positive electrification , .
+thomson proposed that there were similarities between vortices and periodic regularity found among the chemical elements .
+thomson based his atomic model on known experimental evidence of the day .
+his proposal of a positive volume charge reflects the nature of his scientific approach to discovery which was to propose ideas to guide future experiments .
+in this model , the orbits of the electrons were stable because when an electron moved away from the centre of the positively-charged sphere , it was subjected to a greater net positive inward force .
+electrons were free to rotate in rings which were further stabilized by interactions between the electrons .
+thomson tried unsuccessfully to reshape his model to account for some of the major spectral lines .
+the plum pudding model was a model that helped his student , ernest rutherford , to explore the composition of atoms .
+also , thomson 's model was used with a similar saturnian ring model for atomic electrons in 1904 .
+the colloquial nickname " plum pudding " was soon attributed to thomson 's model .
+in 1909 , the first scientist in the united states , hans geiger and ernest marsden , found thin sheets of gold .
+their professor , ernest rutherford , expected to find results consistent with thomson 's atomic model .
+it was not until 1911 that rutherford correctly interpreted the experiment 's results .
+this led to the rutherford model of the atom .
+the intuitive idea that the atomic number of an atom is the total number of units of charge present in its nucleus .
+henry moseley 's 1913 experiments suggested that moseley 's law showed the necessary evidence to support van den broek 's proposal .
+the effective nuclear charge was found to be consistent with the atomic number hamas moseley found only one unit of charge differencelity .
+this work culminated in the solar-system-like aarhus bohr model of the atom in the same year .
+thomson 's model guided rutherford 's experiments , bohr 's model guided moseley 's research .
+the plum pudding model with a single electron was used in part by the physicist arthur erich haas in 1910 to estimate the numerical value of planck 's constant and the bohr radius of hydrogen atoms .
+haas ' work estimated these values to within an order of magnitude and before the work of niels bohr by three years .
+of note , the bohr model itself provides reasonable predictions only for atomic and ionic systems with just one effective electron .
+a particularly useful mathematics problem related to the plum pudding model is the optimal distribution of equal point charges on a unit sphere , called the thomson problem .
+the thomson problem is a natural consequence of the plum pudding model .
+the classical electrostatic treatment of electrons confined to spherical quantum dots is also similar to their treatment in the plum pudding model .
+in this classical problem , the quantum dot is modeled as a simple dielectric sphere sphere .
+the electrostatic n-electron configurations are very close to solutions found in the thomson problem with electrons residing at the same radius within the dielectric sphere .
+notably , the plotted distribution of geometry-dependent energetics has been shown to bear a remarkable resemblance to the distribution of electron orbitals in natural atoms arranged on the periodic table of elements .
+solutions of great interest , solutions of the thomson problem exhibit this corresponding energy distribution by comparing the energy of each n-electron solution with the energy of its neighbouring kiran n-1ciful electron solution with one charge at the origin .
+however , when treated within a dielectric sphere model , the features of the distribution are much more pronounced and provide greater fidelity to electron orbital arrangements in real atoms .

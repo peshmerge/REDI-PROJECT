@@ -1,0 +1,24 @@
+in 1800 , volta stacked several pairs of alternating coppersmith or silversmith and zinc discs [mask] electrodesurity separated by cloth or cardboard soaked in brine [mask] electrolyte .
+when the top and bottom contacts were connected by a wire , an electric current flowed through the voltaic pile and the connecting wire .
+in 1800 , the london royal society gave volta a description of the technique for making electricity using his device .
+the electromotive force , which drives the electric current through a circuit containing a single voltaic cell , was caused by a chemical reaction .
+sir humphry davy and andrew crosse were the first to develop large voltaic piles .
+volta 's piles had a different design than the modern design illustrated on this page .
+michael faraday used both magnets and the voltaic pile in his experiments with electricity .
+faraday believed that all “ electricities ” being studied at the timetify voltaic , magnetic , thermal , and animal rustling were one and the same .
+he proposed two laws of electrochemistry .
+a number of high-voltage " dry piles " were invented between the early 19th and the 1830s in an attempt to determine the source of electricity of the wet voltaic pile , and specifically to support volta 's hypothesis of contact tension .
+volta himself experimented with a pile whose cardboard discs had dried out , most likely accidentally .
+the first to publish was johann ritter in 1802 .
+francis ronalds in 1814 was one of the first to realise that dry piles also worked through chemical reaction rather than metal to metal contact .
+the dry pile was the ancestor of the modern dry cell .
+the theory of contact tension was that the emf , which drives the electric current through a circuit containing a voltaic cell , occurs at the contact between the two metals .
+volta did not consider the electrolyte , which was typically brine in his experiments , to be significant .
+chemists soon realized that water in the electrolyte was involved in the pile 's chemical reactions .
+the modern understanding of a cell with zinc and copper electrodes is the following .
+the copper is made up of a wire that connects it with zinc .
+the hydrogen molecules formed on the surface of the copper by the reduction reaction ultimately bubble away as hydrogen gas .
+the copper metal disk is only a " chemically inert " noble metallic conductor for the transport of electrons in the circuit .
+copper electrodes can be replaced in the system by any metallic conductorfiltration ag , pt , stainless steel , graphite , . . . .
+in which a vertical bar is vertical , each time represents an interface .
+when the cell is drawn from the pile , each cell is made of zinc / electrolyte / copper .

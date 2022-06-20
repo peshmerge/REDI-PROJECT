@@ -1,0 +1,16 @@
+an imaginary number is a number that can be written as a real number multiplied by the imaginary unit i .
+zero is considered to be both real and imaginary .
+the concept gained wide acceptance following the work of leonhard euler and carl friedrich gauss .
+an imaginary number " bi " can be added to a real number .
+some authors use the term pure imaginary number to denote what is called an imaginary number , and " imaginary number " to denote any complex number with non-zero imaginary part .
+although greek mathematician and engineer heron of alexandria is noted as the first to have conceived these numbers , rafael bombelli first set down the rules for multiplication of complex numbers in 1572 .
+at the time imaginary numbers , as well as negative numbers , were poorly understood and regarded by some as fictitious or useless , much as zero once was .
+rene descartes wrote about them in his " la geometrie " .
+in 1843 william rowan hamilton extended the idea of an axis of imaginary numbers in the plane to a four-dimensional space of quaternion imaginaries .
+with the development of quotient rings of polynomial rings , the concept behind an imaginary number became more substantial , but then one also finds other imaginary numbers such as the j of tessarines which has a square of + 1 .
+geometrically , imaginary numbers are found on the vertical axis of the complex number plane , allowing them to be given perpendicular to the real axis .
+multiplication by − 1 is a rotation of 180 degrees .
+multiplication by i corresponds to a 90-degree rotation in the " positive " directionnais i . e . , counterclockwisewisewisewisewisewisewise proportion , and the equation " i " = −1 is interpreted as saying that if we apply two 90-degree rotations about the origin , the net result is a single 180-degree rotation .
+multiplying by a complex number is the same as rotating around the origin by the complex number 's argument , followed by a scaling by its magnitude .
+care must be used when working with imaginary numbers expressed as the main values of the square roots of negative numbers .
+for example : the fallacy occurs as the equality formula _ 4 does not hold when the variables are not suitably constrained .

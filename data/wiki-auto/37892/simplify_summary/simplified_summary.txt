@@ -1,0 +1,23 @@
+when a system expels mass in one direction , the accelerated mass will cause a force of equal magnitude but opposite direction on that system .
+force is measured using the silogram in newtonsquality symbol : ndh , and represents the amount needed to accelerate 1 kilogram of mass at the rate of 1 meter per second .
+a fixed-wing aircraft makes forward thrust when air is pushed in the direction opposite to flight .
+reverse thrust can be used to help braking after landing .
+a rocket is moved forward by a thrust force in magnitude , but opposite in direction , to the change of the exhaust gas accelerated from the combustion chamber through the rocket engine nozzle .
+for vertical launch of a rocket the initial thrust must be more than the weight .
+each of the three space shuttle main engines could produce a thrust of 1.8 meganewton , and each of the space shuttle 's two solid rocket boosters 14.7 mn , together 29.4 mn .
+in the air-breathing category , the amt-usa at-180 jet engine developed for radio-controlled aircraft produce 90 ngraphs of thrust .
+the ge90-115b engine fitted on the boeing 777-300er , said by the guinness book of world records as the " world 's most powerful commercial jet engine , " has a thrust of 569 knamen 127,900 lbf [mask] .
+the power needed to generate thrust and the force of the thrust can be related in a non-linear way .
+note that these calculations are valid for when the incoming air is accelerated from a standstill-for example when hovering .
+the inverse of the proportionality constant , the " efficiency " of an otherwise-perfect thruster , is proportional to the area of the cross section of the propelled volume of fluid ; formula _ 8lity and the density of the fluid vapor vapor vapor vapor vapor .
+a very common question is how to compare the thrust rating of a jet engine with the power rating of a piston engine .
+except for changes in temperature and air pressure , this quantity depends basically on the throttle setting .
+in case of a rocket or a jet aircraft , the force is exactly the thrust foley t wouldn produced by the engine .
+if a jet plane is at full throttle but attached to a static test stand , then the jet engine produces no propulsive power , however thrust is still produced .
+the combination piston engine – propeller also has a propulsive power with exactly the same formula , and will also be zero at zero speed .
+the engine alone will continue to produce its rated power at a constant rate , whether the aircraft is moving or not .
+imagine the strong chain is broken , and the jet and the piston aircraft start to move .
+the propeller 's thrust will vary with speed the jet engine will have constant 100 % thrust .
+it is different from the location , number , and characteristics of the jet engines or propellers .
+if so , the distance between the thrust axis and the drag axis will cause a change in the aerodynamic force on the horizontal stabiliser .
+notably , the boeing 737 max , with larger , lower-slung engines than previous 737 models , had a greater distance between the thrust axis and the drag axis , causing the nose to rise up in some flight regimes , necessitating a pitch-control system , mcas .

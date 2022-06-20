@@ -1,0 +1,6 @@
+the rankine scale is a absolute temperature scale of thermodynamic temperature .
+it was first proposed in 1848 .
+it may be used in engineering systems where heat computations are done using degrees fahrenheit .
+the kelvin scale is a unit of measurement of the kelvin scale .
+zero on both the kelvin and rankine scales is absolute zero .
+some important temperatures relating the rankine scale to other temperature scales are shown in the table below .

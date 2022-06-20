@@ -1,0 +1,15 @@
+a data sample is a set of data that is selected from a statistical population by a defined procedure .
+sample points are known as observations .
+typically , the population is very large .
+samples are collected and statistics are calculated from the samples , so that one can make inferences or extrapolations from the sample to the population .
+the sample may be drawn from a population " without replacement "
+no element can be selected more than once in the same sample sample inspection .
+an element may appear multiple times in the one sample inspection .
+a sample is a set of objects that have a set of well-defined selection criteria .
+so to compile such a complete sample requires a complete list of the parent population .
+but , such complete samples are often available in other disciplines .
+an unbiasedgated sample is a set of objects chosen from a sample using a selection process that does not depend on the properties of the objects .
+but one chosen from the electoral register might not be replaced since , for example , males aged under 18 will not be on the electoral register .
+in an astronomical context , an unbiased sample might consist of that fraction of a complete sample for which data is available .
+the best way to avoid a biased sample is to select a random sample .
+a random sample is a sample where a sample of a known , non-zero chance of being selected .

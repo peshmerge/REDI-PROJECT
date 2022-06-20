@@ -1,0 +1,31 @@
+the atari 5200 supersystem , commonly known as the atari 5200 , is a video game console that was made by atari in 1982 .
+the 5200 was created to compete with the intellivision .
+the internal hardware is almost identical to that of atari 's 8-bit computers , although software is not directly compatible between the two systems .
+the 5200 's controllers have an analog joystick and a numeric keypad along with start , pause , and reset buttons .
+on may 21,1984 , during a press conference at which the atari 7800 was introduced , company executives revealed that the 5200 had been discontinued after just two years on the market .
+much of the technology in the atari 8-bit family of home computer systems was originally developed as a second-generation games console intended to replace the atari 2600 .
+however , as the system was reaching completion , the personal computer revolution started with the release of machines like the commodore pet , trs-80 and apple ii .
+atari later decided to re-enter the games market with a design that closely matched their original 1978 specifications .
+the atari 5200 was originally called the " atari video system x-advanced video computer system " .
+some people say that pam actually stood for " personal arcade machine " .
+the first 1982 release of the system featured four controller ports , where nearly all other systems of the day had only one or two ports .
+the 5200 also featured a new style of controller with an analog joystick , numeric keypad , two fire buttons on each side of the controller and game function keys for start , pause , and reset .
+the rf box was also where the power supply connected in a dual power / television signal setup similar to the rca studio ii 's .
+atari changed back to the more conventional separate power supply and manual rf switch .
+it also has changes in the cartridge port to allow for the atari 2600 adapter released that year .
+while the adapter was only made to work on the two-port version , modifications can be made to the four-port to make it line-compatible .
+towards the end of the four-port model 's production run , there were a limited number of consoles produced which included these modifications .
+the design of the analog joystick , which used a weak rubber boot rather than springs to provide centering , proved to be ungainly and unreliable .
+another major flaw of the controllers was that the design did not translate into a linear acceleration from the centre through the arc of the stick travel .
+replacement joysticks were also released , including those made by wico .
+atari inc . released the pro-line trak-ball controller for the system , which was used primarily for gaming titles such as " centipede " and " missile command " .
+software designed for one does not run on the other , but porting the source code is difficult as long as it does not use computer-specific features .
+" antic " magazine reported in 1984 that " the similarities grossly outweigh the differences , so that a 5200 program can be developed and almost entirely debugged on an atari 8-bit computer before testing on a 5200 " .
+in 1987 , atari released the xe game system .
+anderson wrote that atari could have released a console compatible with computer software in 1981 .
+some market analysts have speculated that this hurt its sales , especially since an atari 2600 cartridge adapter had been released for the intellivision ii .
+its pack-in game , " super breakout " , was criticized for not doing enough to demonstrate the system 's capabilities .
+ign rated the game a 23 % as the best game consoles of all time .
+david h . ahl of creative computing video & arcade games said in 1983 that the " atari 5200 is , dare i say it , atari 's answer to intellivision , colecovision , and the astrocade " , describing the console as a " true mass market " version of the atari 8-bit computers despite the incompatibility software incompatibility .
+he also wondered why " super breakout " was the pack-in game when it did not use the 5200 's improved graphics .
+atari planned a smaller , cost-reduced version of the atari 5200 , which would have removed the controller storage bin .

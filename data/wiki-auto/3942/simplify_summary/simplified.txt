@@ -1,0 +1,47 @@
+in mathematics , a bijection is a function in which two sets of elements are separated by two sets .
+there are no unpaired elements .
+in mathematical terms , a bijective function " f " : " x " → " y " is a one-to-one numerical numerically injectivehesis and ontooslav surjective mapping of a set " x " to a set " y " .
+the term " one-to-one correspondence " must not be confused with " one-to-one function " whenever it is used .
+a bijection from the set " x " to the set " y " has an inverse function from " y " to " x " .
+if " x " and " y " are finite sets , then the existence of a bijection means they have the same number of elements .
+for infinite sets the picture is more complicated .
+a bijective function is also called a " permutation " .
+bijective functions are essential to many areas of mathematics including isomorphism , homeomorphism , diffeomorphism , permutation group , and projective map .
+satisfying properties propertiesloid and chongqing -lrb- at the end of the sentence -rrb- means that a bijection is a function with domain " x " .
+all element of " x " is paired with exactly one element of " y " .
+functions which satisfy property odin are said to be " onto " y " and are called surjectionsions coulter or surjective functionshend .
+functions which satisfy property odin are said to be " one-to-one functions " and are called injections inquiries or injective functions ashore .
+with this , a bijection is a function which is both a surjection and an injection .
+bijections are sometimes shown by a two-headed rightwards arrow with tail .
+this symbol is a combination of the two-headed rightwards arrow .
+consider the batting line-up of a baseball team batted or cricket team .
+the set " x " will be the players on the team percival size nine in the case of baseballsitor .
+property barak 1 ¥ is satisfied since each player is somewhere in the list .
+propertymaidensils are satisfied since no player bats in two dynasties or more positions in the order .
+propertytucket 3 percival states that for each position in the order , there is some player batting in that position .
+in a classroom there are many different kinds of seats .
+a bunch of students enter the room .
+after a quick look around the room , the teacher says that there is a bijection between the set of students and the set of seats , where each student is sitting in .
+the instructor was able to say that there were just as many seats as there were students , without having to count either set .
+a bijection " f " with domain " x " < " f " : " f " → y " in functional notationlford also defines a converse relation starting in " y " and going to " x " representing the arrows aroundhesis .
+the process of turning the arrows around for an arbitrary function does not , " in general " , yield a function , but properties greenberg 3 aarhus andmined 4 alternatively say that this inverse relation is a function with domain " y " .
+properties propertieshend and chongqing say that this inverse " function " is a surjection and an injection , that is , the inverse function exists and is also a bijection .
+functions that have inverse functions are invertible .
+if the function is invertible , it is only bijection .
+if we say that if we get the condition satisfies the condition , then we can say that if we can not be bijected .
+continuing with the baseball batting line-up example , the function that is being defined takes as input the name of one of the players .
+the function takes as input a position in the batting order and outputs the player who will be batting in that position .
+the composition of two bijections is formula _ 1 .
+conversely , if the composition formula _ 6 of two functions is bijective , it follows that formula _ 2 is injective and g is surjective .
+if " x " and " y " are finite sets , then there exists a bijection between the two sets " x " and " y " if and only if " y " have the same number of elements .
+indeed , in axiomatic set theory , this is the definition of " same number " elements " whenever infinite sets have a cardinal number .
+bijections are precisely the isomorphisms in sets and set functions .
+the bijections are not always the isomorphisms for more complex categories .
+for example , in the category grp of groups , the morphisms must be homomorphisms since they must preserve the group structure .
+the notion of one-to-one correspondence generalizes to partial functions , where they are called partial bijections .
+the reason for this is that a sufficiently partial function is already undefined for a portion of its domain .
+all partial bijections on a given base set are called the symmetric inverse semigroup .
+another way of defining the same notion is to say that a partial bijection from " a " to " b " is any relation " r " whenever " r " becomes a partial function .
+when the partial bijection is on the same set , it is sometimes called a one-to-one partial transformation .
+an example is the mobius transformation simply defined on the complex plane , rather than its completion to the extended complex plane .
+it can be found in any text which includes an introduction to set theory .

@@ -1,0 +1,27 @@
+Physical chemistry uses physics to study chemical systems.
+It studies them at macroscopic, atomic, subatomic, and particulate levels.
+It looks at concepts like motion, energy, force, time, thermodynamics, quantum chemistry, statistical mechanics and dynamics.
+Physical chemistry is not the same as chemical physics.
+Physical chemistry is mostly a macroscopic or supra-molecular science.
+The majority of physical chemistry concepts relate to bulk properties rather than to molecular/atomic structure alone.
+These include chemical equilibrium and colloids.
+The term "physical chemistry" was first used by Mikhail Lomonosov in 1752.
+He presented a lecture course with the title "A Course in True Physical Chemistry" (Russian: «Курс истинной физической химии») to the students of Petersburg University.
+Modern physical chemistry was developed in the 1860s to 1880s with work on chemical thermodynamics, electrolytes in solutions, chemical kinetics and other subjects.
+In 1876, Josiah Willard Gibbs wrote an article called, "On the Equilibrium of Heterogeneous Substances".
+This paper introduced many of the main parts of physical chemistry, such as Gibbs energy, chemical potentials, Gibbs phase rule.
+Other important discoveries include Heike Kamerlingh Onnes' work on enthalpy and macromolecular processes.
+The first scientific journal about physical chemistry was the German journal, "Zeitschrift für Physikalische Chemie".
+It was founded in 1887 by Wilhelm Ostwald and Jacobus Henricus van 't Hoff.
+The two chemists and Svante August Arrhenius were the leading men in physical chemistry in the late 19th century and early 20th century.
+All three were awarded the Nobel Prize in Chemistry.
+Important discoveries were made in the 20th century.
+These include applying statistical mechanics to chemical systems and Irving Langmuir's work on colloids and surface chemistry.
+In the 1930's, Linus Pauling and others applied quantum mechanics to develop quantum chemistry.
+Chemical theories have grown with new experimental discoveries.
+New forms of spectroscopy started in the 20th century including: infrared spectroscopy, microwave spectroscopy, EPR spectroscopy and NMR spectroscopy.
+Physical chemistry also improved with discoveries in nuclear chemistry, especially in isotope separation.
+This happened around the time before and during World War II.
+Chemists discovered important facts in astrochemistry.
+A historical journal that covered both chemistry and physics was Annales de chimie et de physique.
+It started in 1789 and was published under the name given here from 1815–1914.

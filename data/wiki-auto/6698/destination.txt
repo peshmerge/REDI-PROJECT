@@ -1,0 +1,61 @@
+CamelCase (camel case, camel caps or medial capitals) is the practice of writing compound words or phrases so that each next word or abbreviation begins with a capital letter.
+CamelCase usually starts with a capital.
+When used in a programming language, it usually starts with a lowercase letter.
+Common examples are PowerPoint or iPhone.
+There are many variations of CamelCase.
+The first use of medial capitals was the notation for chemical formulae invented by the Swedish chemist Berzelius in 1813.
+He did this to replace the large amount of naming and symbol systems used by chemists at that time.
+He suggested to show each chemical element by a symbol of one or two letters, the first one being capitalized.
+The capitalization allowed formulae like 'NaCl' to be written without spaces and still be read without confusion.
+This system is still in use today.
+Since the early 20th century, medial capitals have occasionally been used for corporate names and product trademarks, such as
+Despite its unclear origins inside the computing world, the practice spread in the 1980s and 1990s, when the personal computer became popular and exposed hacker culture to the world.
+CamelCase then became popular for business names.
+During the late 1990s when the internet became far more popular and easily available, the lowercase prefixes "e" (for "electronic") and "i" (for "Internet", "information", "intelligent", etc.) became quite common, and we began to see names like Apple's iMac and the eBox computer program.
+The original name of the practice, used in media studies, grammars and the "Oxford English Dictionary", was "medial capitals".
+The fancier names such as "InterCaps", "CamelCase" and other variations are pretty recent and seem more common in computer-related communities.
+The earliest known occurrence of the term "InterCaps" on Usenet is in an April 1990 post to the group alt.folklore.computers by Avi Rappoport, with "BiCapitalization" appearing slightly later in a 1991 post by Eric S. Raymond to the same group.
+The earliest use of the name "CamelCase" occurs in 1995, in a post by Newton Love. ""
+"With the advent of programming languages having these sorts of constructs, the humpiness of the style made me call it HumpyCase at first, before I settled on CamelCase.
+I had been calling it CamelCase for years,"" said Love, ""The citation above was just the first time I had used the name on USENET.""
+The use of medial caps for identifiers is recommended by many organizations and software projects.
+For some languages (such as Mesa, Pascal, Modula, Java and Microsoft's .N
+NET) CamelCase is recommended by the language developers or by important manuals and has therefore become part of the language's "culture".
+Style guidelines often distinguish between upper and lower CamelCase.
+They usually specify which one should be used for certain kinds of things: variables, record fields, methods, procedures, types, etc.
+This is sometimes supported by static analysis tools that check source code to make sure it is following these guidelines.
+CamelCase is used in some wiki markup languages for terms that should be automatically linked to other wiki pages.
+This convention was originally used in Ward Cunningham's original wiki software, WikiWikiWeb, and can be activated in most other wikis.
+Some wiki engines such as TiddlyWiki, Trac and PMWiki use it in the default settings.
+They also usually provide an option or plugin to disable it.
+Wikipedia used to use CamelCase linking.
+However, they have switched to explicit link markup using square brackets and many other wiki sites have done the same.
+Some wikis that do not use CamelCase linking may still use the CamelCase as a naming convention, such as AboutUs.
+The NIEM registry requires that XML data elements use upper CamelCase and XML attributes use lower CamelCase.
+Most popular command-line interfaces and scripting languages usually can't handle file names that contain embedded spaces.
+Because of this, users of those systems often use to CamelCase (or underscores, hyphens and other "safe" characters) for compound file names like MyJobResume.pdf.
+Microblogging and social networking sites that limit the number of characters in a message (most famously Twitter, where the 140-character limit can be quite restrictive in languages that rely on alphabets, including English) are usually outlets for medial capitals.
+Using CamelCase between words reduces the number of spaces, and thus the number of characters in a given message.
+This allows more content to fit into the limited space.
+CamelCase has been used in languages other than English for several purposes.
+CamelCase is sometimes used in the writing or translation of certain scripts as a way to tell the difference between ceratin letters or markings.
+An example is the rendering of Tibetan proper names like "rLobsang": the "r" here stands for a prefix glyph in the original script that functions as tone marker rather than a normal letter.
+Another example is "tsIurku", a Latin transcription of the Chechen term for the capping stone of the characteristic Medieval defensive towers of Chechenia and Ingushetia; the capital letter "I" here showing a phoneme different from the one transcribed as "i".
+CamelCase may also be used when writing proper names in languages that add prefixes to words.
+In some of those languages, the custom is to leave the prefix in lower case and capitalize the root.
+This convention is used in Irish orthography e.g., ("in Galway"), from ("Galway"); ("to Ireland"), from ("Ireland).
+Similarly, when translating the Hebrew language, "haIvri" means "the Hebrew person" and "biYerushalayim" means "in Jerusalem".
+This convention is also used by several Bantu languages (e.g., "kiSwahili" = "Swahili language", "isiZulu" = "Zulu language") and several indigenous languages of Mexico (e.g. Nahuatl, Totonacan, Mixe–Zoque and some Oto-Manguean languages).
+Abbreviations of some academic qualifications are sometimes presented in CamelCase without punctuation, e.g. PhD or BSc.
+In French, CamelCase acronyms such as OuLiPo (1960) were favored for a time as alternatives to initialisms.
+CamelCase is often used to transliterate initialisms into alphabets where two letters may be required to represent a single character of the original alphabet, e.g., DShK from Cyrillic ДШК.
+In several languages, including English, pronouns and possessives may be capitalized to show respect.
+For example: when referring to the reader of a formal letter or to God.
+In some of those languages, the capitalization is retained even when those words occur within compound words or suffixed to a verb.
+For example, in Italian one would write ("offering to You respectful salutations") or ("adore Him").
+In German nouns carry a grammatical gender—which, for roles or job titles, is felt usually as masculine.
+Since the feminist movement of the 1980s, some writers and publishers have been using the feminine title suffixes "-in" (singular) and "-innen" (plural) to help boost the inclusion of women; but written with a capital 'I', to indicate that males are not excluded.
+Example: ("co-workers, male or female") instead of ("co-workers", masculine grammatical gender) or ("female co-workers").
+This use is analogous to the use of parentheses in English, for example in the phrase "congress(wo)man."
+In German, the names to statutes are shortened using embedded capitals.
+An example would be: StGB (Strafgesetzbuch) for criminal code, PatG (Patentgesetz) for Patent Act or the very common GmbH (Gesellschaft mit beschränkter Haftung) for Company with Limited Liability.

@@ -1,0 +1,115 @@
+google search is a search engine made by google inc . .
+it is the most used search engine on the world wide web .
+it was created by larry page , sergey brin , and scott hassan in 1997 .
+google voice search is a search for words that are spoken in june 2011 .
+in may 2012 , google introduced a knowledge graph semantic search feature in the u . s .
+analysis of search terms suggests economic , social and health trends .
+data about the frequency of use of search terms on google can be openlylidae via google trends .
+google 's search engine has begun to rely on deep neural networks .
+some smaller search engines have facilities not available with google , e . g . not storing any private or tracking information .
+google 's market leader google generated 63.2 % of all core search queries in the u . s .
+google indexes hundreds of terabytes of information from web pages .
+google indexes some file types , being able to show users pdfs , word documents , excel spreadsheets , powerpoint presentations , certain flash multimedia content , and plain text files .
+despite google search , sources generally assume that google is only indexing less than 5 % of the total internet , with the rest belonging to the deep web , inaccessible through its search tools .
+google changed its search indexing tools to demote sites that have been accused of piracy .
+in october 2016 , gary illyes , a webmaster trends analyst with google , announced that the search engine would be making a separate , primary web index for mobile devices , with a secondary , less up-to-date index for desktop use .
+the change was a response to the growth of mobile usage , and a push for web developers to adopt a mobile-friendly version of their websites .
+in august 2009 , google asked web developers to test a new search architecture , codenamed caffeine , and give their feedback .
+the move was interpreted in some quarters as a response to microsoft 's recent release of an upgraded version of its own search service , renamed bing , as well as the launch of wolfram alpha , a new search engine based on " computational knowledge " .
+as per current analysis done by the industry leaders search engine watch and search engine land , the update was to drop down the medical and health related websites that were not user friendly and were not good to give good user experience .
+this is because someone misinformes money , money , or money that people have hurt .
+therefore , the update targeted particularly those ymyl pages that have low quality content and misinformation .
+some of its features include a link for most searches including dictionary words , the number of results you got on your search , links to other searches .
+google search is a kind of text that is used to choose queries as normal text , as well as individual keywords .
+this technique involves several steps , including : in 2008 , google started to give users autocompleted search suggestions in a list below the search bar while typing .
+this feature originally allowed users to type in their search query , click the button and be taken directly to the first result , bypassing the search results page .
+with the 2010 announcement of google instant , an automatic feature that immediately displays relevant results as users are typing in their query , the " i 'm feeling lucky " button disappears .
+in 2012 , " i 'm feeling lucky " was changed to serve as an advertisement for google services .
+tom chavez of " rapt " , a firm helping to determine the advertising worth of google .
+during google 's developer conference , google i / o , in may 2013 , google chrome and chrome os , users would be able to say " ok google " , with the browser starting an audio-based search , with no button presses required .
+after having the answer presented , users can follow up with additional questions .
+an update to the chrome browser with voice-search functionality rolled out a week later .
+the search was launched by google on may 16,2007 .
+before universal search , a standard google search would have links only to websites .
+all search is shown on the same search results page .
+marissa mayer , vice president of search products and user experience , described the goal of universal search as " we 're attempting to break down the walls that traditionally separated our various search properties .
+google said in may 2009 that they would be parsing a website microformats in order to populate search results with " rich snippets " .
+the knowledge graph is a knowledge base used by google to improve its search engine 's results with information gathered from a variety of sources .
+knowledge graph boxes were added to google 's search engine in may 2012 .
+the information covered by the knowledge graph grew a lot after launch .
+the information is often used as a spoken answer in google assistant and google home searches .
+google allows users to search for content in their google accounts ' various services , including email messages from gmail and photos from google photos .
+google feed is a stream of articles , videos , and other news-related content .
+the feed contains a " mix of cards " which show topics of interest based on users ' interactions with google , or topics they choose to follow directly .
+they include links to news stories , youtube videos , sports scores , recipes , and other content based on what google determined you 's most likely to be interested in at that particular moment . "
+users can also tell google they 're not interested in certain topics to avoid seeing future updates .
+the google feed was launched in december 2016 .
+as of may 2018 , the google feed can be found on google app and by swiping left on the home screen of some android devices .
+google 's rise was largely due to a patented algorithm called pagerank which helps rank web pages that match a given search string .
+other keywords to rank search results , used by many search engines that were once more popular than google , would check how often the search terms occurred in a page , or how strongly associated the search terms were within each resulting page .
+the algorithm computes a recursive score for pages , based on the weighted sum of other pages linking to them .
+this is reported to comprise over 250 different indicators , the specifics of which are kept secret to avoid difficulties created by scammers and help google maintain an edge over its competitors globally .
+li later went on to create the chinese search engine baidu in 2000 .
+in a potential hint of google 's future direction of their search algorithm , google 's then chief executive eric schmidt , said in a 2007 interview with the " financial times " : " the goal is to enable google users to ask the question such as ' what shall i do tomorrow ? '
+schmidt reaffirmed this during a 2010 interview with the wall street journal : " i actually think most people don ’ t want google to answer their questions , they want google to tell them what they should be doing next . "
+in 2013 the european commission found that google search favored google 's own products , instead of the best result for consumers ' needs .
+in february 2015 google announced a major change to its mobile search algorithm which would favor mobile friendly over other websites .
+nearly 60 % of google searches come from mobile phones .
+those websites which lack a mobile friendly interface would be ranked lower and it is expected that this update will cause a shake-up of ranks .
+businesses who fail to update their websites will see a change in their regular websites traffic .
+then it develop a methodology for improving rankings to draw more searchers to their clients ' sites .
+search engine optimization is a process in which search engine optimization is based on both body copy , title elements , h1 heading elements and image alt attribute values directory .
+the general idea is to affect google 's relevance algorithm by adding the keywords in places " on page " .
+it has been thought that the owner of one business about which there have been numerous complaints , that negative publicity may serve as well to elevate page rank on google search as favorable comments .
+according to google , it was not the frequently published consumer complaints about decormyeyes which resulted in the high ranking but mentions on news websites of events which affected the firm such as legal actions against it .
+the upgrade marked the most significant change to google search in years , with more " human " search interactions and a much heavier focus on conversation and meaning .
+thus , web developers and writers were encouraged to optimize their sites with natural writing rather than forced keywords , and make effective use of technical web development for on-site navigation .
+clicking on the doodle links to a string of google search results about the topic .
+the first was a reference to the burning man festival in 1998 .
+some google doodles have interactivity beyond a simple search , such as the famous " google pacman " version that appeared on may 21,2010 .
+google also offers a mobile app for android and ios devices .
+android devices were introduced to a preview of the feed in december 2016 .
+google updated its search app on android to feature " trends " .
+the update received significant backlash , due to encouraging search queries unrelated to users ' interests or intentions , prompting the company to issue an update with an opt-out option .
+until may 2013 , google search has been a feature to translate search queries into other languages .
+a google spokesperson told " search engine land " that " removing features is always tough , but we do think very hard about each decision and its implications for our users .
+instant search was announced in september 2010 .
+the main advantage of the new system was its ability to save time , with marissa mayer , then-vice president of search products and user experience , proclaiming that the feature would save 2-5 seconds per search , elaborating that " that may not seem like a lot at first , but it adds up .
+with google instant , we estimate that we 'll save our users 11 hours with each passing second ! "
+the upgrade also became notable for the company switching google search 's underlying technology from html to ajax .
+instant search can be disabled through google 's " preferences " menu .
+"
+the report further stated that seemingly normal words were also blocked due to pornographic innuendos , most notably " scat " , likely due to having two completely separate contextual meanings , one for music and one for a sexual practice .
+google finished the web search in may 2010 .
+the encrypted search was accessed at codice _ 12 however , the web search is encrypted via transport layer securitybroken tlsocating by default today , thus every search request should be automatically encrypted if tls is supported by the web browser .
+google announced that the address codice _ 12 would be turned off april 30,2018 , stating that all google products and most new browsers use https connections as the reason for the discontinuation .
+the feature was released on december 7,2009 .
+the search was officially launched on february 24,2010 .
+a feature similar to real-time search was already available on microsoft 's bing search engine , which showed results from twitter and facebook .
+the interface for the engine showed a live , descending " river " of posts in the main region .
+in january 2011 , geolocation links of posts were made available alongside results in real-time search .
+posts containing syndicated or attached links were made searchable by the " link : " query option .
+if details of a user 's searches are found , those with access to the information – principally state agencies responsible for law enforcement and similar matters — can make deductions about the user 's activities .
+for example a murderer was found and convicted after searching for terms such as " tips with killing with a baseball bat " .
+when a search engine is passed through a browser program on a computer , search terms and other information may be stored on the computer by default , unless the browser is set not to do this , or they are erased .
+saved terms may be found on forensic analysis of the computer .
+an internet service providermind isphausen or search engine provider ; e . g . , google sentai may store records which relate search terms to an ip address and a time .
+the keywords suggested by the autocomplete feature show a population of users ' research which is made possible by an identity management system .
+volumes of personal data are collected through eddystone web and beacons .
+google 's digital creative director chris wiggins explains : " we ’ re working on a project to bring you a new and improved google experience , and over the next few months , you 'll continue to see more updates to our look and feel . "
+the desktop knowledge graph real estate , which appears in the right-hand rail of the search engine result page , featured elements frequently feature twitter carousels , people also search for , and top storiestagram vertical and horizontal designosomescence modules .
+the local pack and answer box are two of the original features of the google serp that were mainly showcased in this manner , but this new layout creates a previously unseen level of design consistency for google results .
+google also provides services for searching images , usenet newsgroups , news websites , videos , search by locality , maps , and items for sale online .
+gmail , for example , is a webmail application , but still includes search features ; google browser sync does not offer any search facilities , although it aims to organize your browsing time .
+google claims that a search query requires altogether about 1 kj or 0.0003 kw · h .
+the green search engine ecosia says that the industry standard for search engines is about 0.2 grams of co emission per search .
+the united states district court of nevada ruled in favor of google .
+google flags search results with the message " this site may harm your computer " if the site is known to install malicious software in the background or otherwise surreptitiously .
+google does this to protect users against visiting sites that could harm their computers .
+one only sees a small part of what one could see if one also integrates other research tools .
+in 2011 , google search query results have been shown to be tailored to users by eli pariser .
+pariser holds algorithms used in search engines such as google search responsible for catering " a personal ecosystem of information " .
+although contrasting views have mitigated the potential threat of " informational dystopia " and questioned the scientific nature of pariser 's claims , filter bubbles have been mentioned to account for the surprising results of the u . s . presidential election in 2016 alongside fake news and echo chambers , suggesting that facebook and google have designed personalized online realities in which we see only we see what we see .
+in 2012 , the us federal trade commission fined google us $ 22.5 million for violating their agreement not to violate the privacy of users of apple 's safari web browser .
+the ftc is also continuing to investigate if google 's favoring of their own services in their search results violated antitrust regulations .
+as people talk about " googling " rather than searching , the company has taken some steps to defend its trademark .

@@ -1,0 +1,79 @@
+Colossus was a set of computers developed by British codebreakers in the years 1943–1945 to help in the cryptanalysis of the Lorenz cipher.
+Colossus was designed by research telephone engineer Tommy Flowers to solve a problem posed by mathematician Max Newman at the Government Code and Cypher School (GC&CS) at Bletchley Park.
+It has sometimes been erroneously stated that Turing designed Colossus to aid the cryptanalysis of the Enigma.
+An improved Colossus Mark 2 that used shift registers to quintuple the processing speed, first worked on 1 June 1944, just in time for the Normandy landings on D-Day.
+Bletchley Park's use of these machines allowed the Allies to obtain a vast amount of high-level military intelligence from intercepted radiotelegraphy messages between the German High Command ("OKW") and their army commands throughout occupied Europe.
+The existence of the Colossus machines was kept secret until the mid-1970s; the machines and the plans for building them had previously been destroyed in the 1960s as part of the effort to maintain the secrecy of the project.
+This deprived most of those involved with Colossus of the credit for pioneering electronic digital computing during their lifetimes.
+This led the British to call encrypted German teleprinter traffic "Fish", and the unknown machine and its intercepted messages "Tunny" (tunafish).
+Before the Germans increased the security of their operating procedures, British cryptanalysts diagnosed how the unseen machine functioned and built an imitation of it called "British Tunny".
+It was deduced that the machine had twelve wheels and used a Vernam ciphering technique on message characters in the standard 5-bit ITA2 telegraph code.
+It did this by combining the plaintext characters with a stream of key characters using the XOR Boolean function to produce the ciphertext.
+In August 1941, a blunder by German operators led to the transmission of two versions of the same message with identical machine settings.
+Then Bill Tutte, a newly arrived member of the Research Section, used this key stream to work out the logical structure of the Lorenz machine.
+With a sufficiently random key stream, a Vernam cipher removes the natural language property of a plaintext message of having an uneven frequency distribution of the different characters, to produce a uniform distribution in the ciphertext.
+However, the cryptanalysts worked out that by examining the frequency distribution of the character-to-character changes in the ciphertext, instead of the plain characters, there was a departure from uniformity which provided a way into the system.
+These patterns were set up on the Lorenz machine and then used for a fixed period of time for a succession of different messages.
+The second task was "wheel setting", which worked out the start positions of the wheels for a particular message, and could only be attempted once the cam patterns were known.
+To discover the start position of the "chi" wheels for a message, Colossus compared two character streams, counting statistics from the evaluation of programmable Boolean functions.
+The two streams were the ciphertext, which was read at high speed from a paper tape, and the key stream, which was generated internally, in a simulation of the unknown German machine.
+After a succession of different Colossus runs to discover the likely "chi"-wheel settings, they were checked by examining the frequency distribution of the characters in processed ciphertext.
+By using differencing and knowing that the "psi" wheels did not advance with each character, Tutte worked out that trying just two differenced bits (impulses) of the "chi"-stream against the differenced ciphertext would produce a statistic that was non-random.
+If this number exceeded a pre-defined threshold value known as the "set total", it was printed out.
+The cryptanalyst would examine the printout to determine which of the putative start positions was most likely to be the correct one for the "chi"-1 and "chi"-2 wheels.
+This technique would then be applied to other pairs of, or single, impulses to determine the likely start position of all five "chi" wheels.
+This was the section at Bletchley Park led by Major Ralph Tester where the bulk of the decrypting work was done by manual and linguistic methods.
+Colossus could also derive the start position of the "psi" and motor wheels, but this was not much done until the last few months of the war, when there were plenty of Colossi available and the number of Tunny messages had declined.
+Colossus was developed for the "Newmanry", the section headed by the mathematician Max Newman that was responsible for machine methods against the twelve-rotor Lorenz SZ40/42 on-line teleprinter cipher machine (code named Tunny, for tunafish).
+Although it proved the concept of machine analysis for this part of the process, it was initially unreliable.
+The electro-mechanical parts were relatively slow and it was difficult to synchronise two looped paper tapes, one containing the enciphered message, and the other representing part of the key stream of the Lorenz machine, also the tapes tended to stretch when being read at up to 2000 characters per second.
+Tommy Flowers MBE was a senior electrical engineer and Head of the Switching Group at the Post Office Research Station at Dollis Hill.
+Prior to his work on Colossus, he had been involved with GC&CS at Bletchley Park from February 1941 in an attempt to improve the Bombes that were used in the cryptanalysis of the German Enigma cipher machine.
+He was not impressed by the system of a key tape that had to be kept synchronised with the message tape and, on his own initiative, he designed an electronic machine which eliminated the need for the key tape by having an electronic analogue of the Lorenz (Tunny) machine.
+He presented this design to Max Newman in February 1943, but the idea that the one to two thousand thermionic valves (vacuum tubes and thyratrons) proposed, could work together reliably, was greeted with great scepticism, so more Robinsons were ordered from Dollis Hill.
+Flowers persisted with the idea and obtained support from the Director of the Research Station, W Gordon Radley.
+Flowers and his team of some fifty people in the switching group spent eleven months from early February 1943 designing and building a machine that dispensed with the second tape of the Heath Robinson, by generating the wheel patterns electronically.
+It performed satisfactorily at Dollis Hill on 8 December 1943 and was dismantled and shipped to Bletchley Park, where it was delivered on 18 January and re-assembled by Harry Fensom and Don Horwood.
+Four of these were ordered in March 1944 and by the end of April the number on order had been increased to twelve.
+Dollis Hill was put under pressure to have the first of these working by 1 June.
+By the time of V-E Day there were ten Colossi working at Bletchley Park and a start had been made on assembling an eleventh.
+Most of the design of the electronics was the work of Tommy Flowers, assisted by William Chandler, Sidney Broadhurst and Allen Coombs; with Erie Speight and Arnold Lynch developing the photoelectric reading mechanism.
+Coombs remembered Flowers, having produced a rough draft of his design, tearing it into pieces that he handed out to his colleagues for them to do the detailed design and get their team to manufacture it.
+This was arranged in a continuous loop so that it could be read and re-read multiple times – there being no internal store for the data.
+The design overcame the problem of synchronizing the electronics with the speed of the message tape, by generating a clock signal from reading its sprocket holes.
+The speed of operation was thus limited by the mechanics of reading the tape.
+Flowers designed a 6-character shift register, which was used both for computing the delta function (ΔZ) and for testing five different possible starting points of Tunny's wheels in the five processors.
+This was performed by the Wrens who stuck the two ends together using Bostik glue, ensuring that there was a 150-character length of blank tape between the end and the start of the message.
+Using a special hand punch they inserted a start hole between the third and fourth channels 2 ⁄ sprocket holes from the end of the blank section, and a stop hole between the fourth and fifth channels 1 ⁄ sprocket holes from the end of the characters of the message.
+These were read by specially positioned photocells and indicated when the message was about to start and when it ended.
+The two-tape bedstead design had been carried on from Heath Robinson so that one tape could be loaded whilst the previous one was being run.
+After performing various resetting and zeroizing tasks, the Wren operators would, under instruction from the cryptanalyst, operate the "set total" decade switches and the K2 panel switches to set the desired algorithm.
+The input data for the five parallel processors was read from the looped message paper tape and the electronic pattern generators for the "chi", "psi" and motor wheels.
+The programs for the processors were set and held on the switches and jack panel connections.
+Each processor could evaluate a Boolean function and count and display the number of times it yielded the specified value of "false" (0) or "true" (1) for each pass of the message tape.
+Input to the processors came from two sources, the shift registers from tape reading and the thyratron rings that emulated the wheels of the Tunny machine.
+The characters on the paper tape were called Z and the characters from the Tunny emulator were referred to by the Greek letters that Bill Tutte had given them when working out the logical structure of the machine.
+On the selection panel, switches specified either Z or ΔZ, either formula_1 or Δformula_1 and either formula_5 or Δformula_5 for the data to be passed to the jack field and 'K2 switch panel'.
+These signals from the wheel simulators could be specified as stepping on with each new pass of the message tape or not.
+Such a two-wheel run was called a long run, taking on average eight minutes unless the parallelism was utilised to cut the time by a factor of five.
+Initially, after the initial long run, the choice of next algorithm to be tried was specified by the cryptanalyst.
+Although the Colossus was the first of the electronic digital machines with programmability, albeit limited by modern standards, it was not a general-purpose machine, being designed for a range of cryptanalytic tasks, most involving counting the results of evaluating Boolean algorithms.
+However, University of San Francisco professor Benjamin Wells has shown that if all ten Colossus machines made were rearranged in a specific cluster, then the entire set of computers could have simulated a universal Turing machine, and thus be Turing complete.
+The notion of a computer as a general purpose machine — that is, as more than a calculator devoted to solving difficult but specific problems — did not become prominent until after World War II.
+Colossus and the reasons for its construction were highly secret, and remained so for 30 years after the War.
+Consequently, it was not included in the history of computing hardware for many years, and Flowers and his associates were deprived of the recognition they were due.
+Colossi 1 to 10 were dismantled after the war and parts returned to the Post Office.
+Some parts, sanitised as to their original purpose, were taken to Max Newman's Royal Society Computing Machine Laboratory at Manchester University.
+A small number of people who were associated with Colossus—and knew that large-scale, reliable, high-speed electronic digital computing devices were feasible—played significant roles in early computer work in the UK and probably in the US.
+However, being so secret, it had little direct influence on the development of later computers; it was EDVAC that was the seminal computer architecture of the time.
+In 1972 Herman Goldstine, who was unaware of Colossus and its legacy to the projects of people such as Alan Turing (ACE), Max Newman (Manchester computers) and Harry Huskey (Bendix G-15), wrote that,
+Randell's efforts started to bear fruit in the mid-1970s, after the secrecy about Bletchley Park was broken when Group Captain Winterbotham published his book "The Ultra Secret" in 1974.
+The optical tape reader might have posed the biggest problem, but Dr. Arnold Lynch, its original designer, was able to redesign it to his own original specification.
+In November 2007, to celebrate the project completion and to mark the start of a fundraising initiative for The National Museum of Computing, a Cipher Challenge pitted the rebuilt Colossus against radio amateurs worldwide in being first to receive and decode three messages enciphered using the Lorenz SZ42 and transmitted from radio station DL0HNF in the "Heinz Nixdorf MuseumsForum" computer museum.
+The challenge was easily won by radio amateur Joachim Schüth, who had carefully prepared for the event and developed his own signal processing and code-breaking code using Ada.
+The Colossus team were hampered by their wish to use World War II radio equipment, delaying them by a day because of poor reception conditions.
+Nevertheless, the victor's 1.4 GHz laptop, running his own code, took less than a minute to find the settings for all 12 wheels.
+The German codebreaker said: "My laptop digested ciphertext at a speed of 1.2 million characters per second—240 times faster than Colossus.
+"On the strength of today's performance Colossus is as good as it was six decades ago", commented Tony Sale.
+"We are delighted to have produced a fitting tribute to the people who worked at Bletchley Park and whose brainpower devised these fantastic machines which broke these ciphers and shortened the war by many months."
+This was sheer coincidence as it pre-dates the public release of information about Colossus, or even its name.

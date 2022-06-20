@@ -1,0 +1,56 @@
+Camel case (stylized as camelCase; also known as camel caps or more formally as medial capitals) is the practice of writing phrases such that each word or abbreviation in the middle of the phrase begins with a capital letter, with no intervening spaces or punctuation.
+It is also sometimes used in online usernames such as "johnSmith", and to make multi-word domain names more legible, for example in advertisements.
+Camel case is often used for variable names in computer programming.
+Some people and organizations, notably Microsoft, use the term "camel case" only for lower camel case.
+Camel case is distinct from Title Case, which capitalises all words but retains the spaces between them, and from Tall Man lettering, which uses capitals to emphasize the differences between similar-looking words such as "predniSONE" and "predniSOLONE".
+The original name of the practice, used in media studies, grammars and the "Oxford English Dictionary", was "medial capitals".
+The earliest known occurrence of the term "InterCaps" on Usenet is in an April 1990 post to the group alt.folklore.computers by Avi Rappoport.
+The earliest use of the name "CamelCase" occurs in 1995, in a post by Newton Love.
+Love has since said, "With the advent of programming languages having these sorts of constructs, the humpiness of the style made me call it HumpyCase at first, before I settled on CamelCase.
+The use of medial capitals as a convention in the regular spelling of everyday texts is rare, but is used in some languages as a solution to particular problems which arise when two words or segments are combined.
+In Italian, pronouns can be suffixed to verbs, and because the honorific form of second-person pronouns is capitalized, this can produce a sentence like "non ho trovato il tempo di risponderLe" ("I have not found time to answer you" – where "Le" means "to you").
+However, mid-word capitalisation does not conform to German orthography; the previous example could be correctly written using parentheses as "Student(inn)en", analogous to "congress(wo)man" in English.
+In their English style guide "The King's English", first published in 1906, H. W. and F. G. Fowler suggested that medial capitals could be used in triple compound words where hyphens would cause ambiguity—the examples they give are "KingMark-like" (as against "King Mark-like") and "Anglo-SouthAmerican" (as against "Anglo-South American").
+Another example is "tsIurku", a Latin transcription of the Chechen term for the capping stone of the characteristic Medieval defensive towers of Chechenia and Ingushetia; the capital letter "I" here denoting a phoneme distinct from the one transcribed as "i".
+Medial capitals are traditionally used in abbreviations to reflect the capitalization that the words would have when written out in full, for example in the academic titles PhD or BSc.
+In this context, there can even be three or more "CamelCase" capitals, e.g.
+In French, camel case acronyms such as OuLiPo (1960) were favored for a time as alternatives to initialisms.
+Camel case is often used to transliterate initialisms into alphabets where two letters may be required to represent a single character of the original alphabet, e.g., DShK from Cyrillic ДШК.
+The first systematic and widespread use of medial capitals for technical purposes was the notation for chemical formulae invented by the Swedish chemist Jacob Berzelius in 1813.
+To replace the multitude of naming and symbol conventions used by chemists until that time, he proposed to indicate each chemical element by a symbol of one or two letters, the first one being capitalized.
+Berzelius' system continues to be used, augmented with three-letter symbols such as "Uue" for unconfirmed or unknown elements and abbreviations for some common substituents (especially in the field of organic chemistry, for instance "Et" for "ethyl-").
+This has been further extended to describe the amino acid sequences of proteins and other similar domains.
+Since the early 20th century, medial capitals have occasionally been used for corporate names and product trademarks, such as
+In the 1970s and 1980s, medial capitals were adopted as a standard or alternative naming convention for multi-word identifiers in several programming languages.
+The precise origin of the convention in computer programming has not yet been settled.
+Multiple-word descriptive identifiers with embedded spaces such as codice_3 or codice_4 cannot be used in most programming languages because the spaces between the words would be parsed as delimiters between tokens.
+The alternative of running the words together as in codice_5 or codice_6 is difficult to understand and possibly misleading; for example, codice_6 is an English word (able to be charted).
+Some early programming languages, notably Lisp (1958) and COBOL (1959), addressed this problem by allowing a hyphen ("-") to be used between words of compound identifiers, as in "END-OF-FILE": Lisp because it worked well with prefix notation (a Lisp parser would not treat a hyphen in the middle of a symbol as a subtraction operator) and COBOL because its operators were individual English words.
+However, this feature was not very useful since the early versions of the language restricted identifiers to no more than six characters.
+It was only in the late 1960s that the widespread adoption of the ASCII character set made both lowercase and the underscore character codice_8 universally available.
+Some languages, notably C, promptly adopted underscores as word separators, and identifiers such as codice_9 are still prevalent in C programs and libraries (as well as in later languages influenced by C, such as Perl and Python).
+However, some languages and programmers chose to avoid underscores—among other reasons to prevent confusing them with whitespace—and adopted camel case instead.
+Charles Simonyi, who worked at Xerox PARC in the 1970s and later oversaw the creation of Microsoft's Office suite of applications, invented and taught the use of Hungarian Notation, one version of which uses the lowercase letter(s) at the start of a (capitalized) variable name to denote its type.
+One account claims that the camel case style first became popular at Xerox PARC around 1978, with the Mesa programming language developed for the Xerox Alto computer.
+This machine lacked an underscore key (whose place was taken by a left arrow "←"), and the hyphen and space characters were not permitted in identifiers, leaving camel case as the only viable scheme for readable multiword names.
+The PARC Mesa Language Manual (1979) included a coding standard with specific rules for upper and lower camel case that was strictly followed by the Mesa libraries and the Alto operating system.
+Niklaus Wirth, the inventor of Pascal, came to appreciate camel case during a sabbatical at PARC and used it in Modula, his next programming language.
+This language became quite popular in the early 1980s, and thus may also have been instrumental in spreading the style outside PARC.
+In the 1980s and 1990s, after the advent of the personal computer exposed hacker culture to the world, camel case then became fashionable for corporate trade names in non-computer fields as well.
+became quite common, giving rise to names like Apple's iMac and the eBox software platform.
+The use of medial caps for compound identifiers is recommended by the coding style guidelines of many organizations or software projects.
+For some languages (such as Mesa, Pascal, Modula, Java and Microsoft's .N
+NET) this practice is recommended by the language developers or by authoritative manuals and has therefore become part of the language's "culture".
+Style guidelines often distinguish between upper and lower camel case, typically specifying which variety should be used for specific kinds of entities: variables, record fields, methods, procedures, types, etc.
+The original Hungarian notation for programming, for example, specifies that a lowercase abbreviation for the "usage type" (not data type) should prefix all variable names, with the remainder of the name in upper camel case; as such it is a form of lower camel case.
+Programming identifiers often need to contain acronyms and initialisms that are already in uppercase, such as "old HTML file".
+By analogy with the title case rules, the natural camel case rendering would have the abbreviation all in uppercase, namely "oldHTMLFile".
+However, this approach is problematic when two acronyms occur together (e.g., "parse DBM XML" would become "parseDBMXML") or when the standard mandates lower camel case but the name begins with an abbreviation (e.g.
+Wikipedia formerly used camel case linking as well, but switched to explicit link markup using square brackets and many other wiki sites have done the same.
+Most popular command-line interfaces and scripting languages cannot easily handle file names that contain embedded spaces (usually requiring the name to be put in quotes).
+Microblogging and social networking sites that limit the number of characters in a message are potential outlets for medial capitals.
+Using camel case between words reduces the number of spaces, and thus the number of characters, in a given message, allowing more content to fit into the limited space.
+In website URLs, spaces are percent-encoded as "%20", making the address longer and less human readable.
+Camel case has been criticised as negatively impacting readability due to the removal of spaces and uppercasing of every word.
+A 2009 study comparing snake case to camel case found that camel case identifiers could be recognised with higher accuracy among both programmers and non-programmers, and that programmers already trained in camel case were able to recognise those identifiers faster than underscored snake-case identifiers.
+A 2010 follow-up study, under the same conditions but using an improved measurement method with use of eye-tracking equipment, indicates: "While results indicate no difference in accuracy between the two styles, subjects recognize identifiers in the underscore style more quickly."

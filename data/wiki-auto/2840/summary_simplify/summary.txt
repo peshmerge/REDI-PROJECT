@@ -1,0 +1,21 @@
+The plum pudding model is one of several historical scientific models of the atom.
+First proposed by J. J. Thomson in 1904 soon after the discovery of the electron, but before the discovery of the atomic nucleus, the model tried to explain two properties of atoms then known: that electrons are negatively-charged particles and that atoms have no net electric charge.
+To account for this, Thomson knew atoms must also have a source of positive charge to balance the negative charge of the electrons.
+In Thomson's view: ... the atoms of the elements consist of a number of negatively electrified corpuscles enclosed in a sphere of uniform positive electrification, ...
+With this model, Thomson abandoned his 1890 "nebular atom" hypothesis based on the vortex atomic theory in which atoms were composed of immaterial vortices and suggested that there were similarities between the arrangement of vortices and periodic regularity found among the chemical elements.
+In this model, the orbits of the electrons were stable because when an electron moved away from the centre of the positively-charged sphere, it was subjected to a greater net positive inward force, because there was more positive charge inside its orbit (see Gauss's law).
+Thomson attempted unsuccessfully to reshape his model to account for some of the major spectral lines experimentally known for several elements.
+The colloquial nickname "plum pudding" was soon attributed to Thomson's model as the distribution of electrons within its positively-charged region of space reminded many scientists of plums in the common English dessert, plum pudding.
+It was not until 1911 that Rutherford correctly interpreted the experiment's results which implied the presence of a very small nucleus of positive charge at the center of gold atoms.
+Immediately after Rutherford published his results, Antonius Van den Broek made the intuitive proposal that the atomic number of an atom is the total number of units of charge present in its nucleus.
+This work culminated in the solar-system-like (but quantum-limited) Bohr model of the atom in the same year, in which a nucleus containing an atomic number of positive charges is surrounded by an equal number of electrons in orbital shells.
+The plum pudding model with a single electron was used in part by the physicist Arthur Erich Haas in 1910 to estimate the numerical value of Planck's constant and the Bohr radius of hydrogen atoms.
+Haas' work estimated these values to within an order of magnitude and preceded the work of Niels Bohr by three years.
+Of note, the Bohr model itself provides reasonable predictions only for atomic and ionic systems with just one effective electron.
+The Thomson problem is a natural consequence of the plum pudding model in the absence of its uniform positive background charge.
+The classical electrostatic treatment of electrons confined to spherical quantum dots is also similar to their treatment in the plum pudding model.
+In this classical problem, the quantum dot is modeled as a simple dielectric sphere (in place of a uniform, positively-charged sphere as in the plum pudding model) in which free, or excess, electrons reside.
+The electrostatic N-electron configurations are found to be exceptionally close to solutions found in the Thomson problem with electrons residing at the same radius within the dielectric sphere.
+Notably, the plotted distribution of geometry-dependent energetics has been shown to bear a remarkable resemblance to the distribution of anticipated electron orbitals in natural atoms as arranged on the periodic table of elements.
+Of great interest, solutions of the Thomson problem exhibit this corresponding energy distribution by comparing the energy of each N-electron solution with the energy of its neighbouring (N-1)-electron solution with one charge at the origin.
+However, when treated within a dielectric sphere model, the features of the distribution are much more pronounced and provide greater fidelity with respect to electron orbital arrangements in real atoms.

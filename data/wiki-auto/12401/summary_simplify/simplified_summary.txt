@@ -1,0 +1,4 @@
+graph theory is the study of graphs .
+a graph is made between undirected graphs , where edges link two vertices , and directed graphs .
+graphs are a number of objects in mathematics .
+this is a list of the most basic kinds of graphs .

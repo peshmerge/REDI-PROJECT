@@ -1,0 +1,145 @@
+writing is a medium of human communication .
+for languages that use a writing system , inscriptions can complement spoken language by creating a durable version of speech that can be stored for future reference or transmitted across distance .
+writing is a language used to make languages readable .
+in a language system , writing is based on many of the same things as speech , such as grammar , and semantics .
+the recipient of text is called a " reader " .
+h . g . wells argued that writing has the ability to " put agreements , laws , commandments on record .
+it made the growth of states bigger than the old city states possible .
+it made a continuous historical consciousness possible .
+the priest or king could go far beyond his sight and voice and could survive his death .
+as human societies emerged , collective motivations for the development of writing were driven by pragmatic exigencies like keeping history , maintaining culture , codifying knowledge through curricula and lists of texts deemed to contain foundational knowledge through curricula .
+for example , around the 4th millennium bc , the complexity of trade and administration in mesopotamia outgrew human memory , and writing became a more dependable method of recording and presenting transactions in a permanent form .
+in both ancient egypt and mesoamerica , writing may have evolved through calendric and political necessities .
+the proper sequence for a complicated task or important ritually , dissemination of ideas as in an essay , monograph , broadside , petition , manifesto , or other forms of lifewriting , a journal or organization of correspondence , is also present .
+the major writing systems — methods of inscription — broadly fall into five categories : logographic , syllabic , alphabetic , featural , and ideographic symbols for ideashend .
+a sixth category , pictographic , is not to be used to represent language on its own , but often forms the core of logographicies .
+a logogram is a written symbol that represents a word or morpheme .
+there is a vast number of logograms needed to write chinese characters , cuneiform , and mayan , where a glyph may stand for a morpheme , a syllable , or both .
+many logograms have an ideographic component representing chinese " radicals " , hieroglyphic " determiners " goin " elsewhere .
+for example , in mayan , the glyph for fin was also used to represent the syllable " ka " whenever the pronunciation of a logogram needed to be written .
+in chinese , about 90 % of characters are compounds of a semantically meaning radical element called a " phonetic " with an existing character to show the pronunciation , called a " phonetic " .
+however , such phonetic elements complement the logographic elements , rather than vice versa .
+the main logographic system in use today is chinese characters .
+a syllabary is a set of written symbols that represent floating or approximate syllables .
+a glyph in a syllabary typically represents a consonant followed by a vowel , or just a vowel alone .
+phonetically related syllables are not in the script .
+for instance , the syllable " ka " may look nothing like the syllable " ki " , nor will syllables with the same vowels be similar .
+syllabaries are best suited to languages with a relatively simple syllable structure , such as japanese .
+other languages that use syllabic writing include the linear b script for mycenaean greek ; sequoyan , ndjuka , an english-based creole language of surinam ; and the vai script of liberia .
+most logographic systems have a strong syllabic component .
+ethiopic , though technically an abugida , has fused consonants and vowels together to the point where it is learned as if it were a syllabary .
+an alphabet is a set of symbols .
+in a perfectly phonological alphabet , the phonemes and letters would correspond perfectly in two directions : a writer could predict the spelling of a word given its pronunciation , and a speaker could predict the pronunciation of a word given its pronunciation .
+as languages often evolve independently of their writing systems , and writing systems have been borrowed for languages they were not designed for .
+in most of the writing systems of the middle east , it is usually only the consonants of a word that are written , although vowels may be added by adding different letters .
+writing systems based primarily on marking the consonant phonemes alone date back to the hieroglyphs of ancient egypt .
+such systems are called " abjads " , derived from the arabic word for alphabet .
+in most of the alphabets of india and southeast asia , vowels are indicated through diacritics or modification of the shape of the consonant .
+these are called " abugidas " .
+some are learned by children as syllabaries .
+however , unlike true syllabaries , there is not an independent glyph for each syllable .
+sometimes the word " alphabet " is used only for consonants and vowels .
+because of this use , greek is often considered to be the first alphabet .
+it does not make a consistent way the building blocks of the phonemes that make up a language .
+for instance , all sounds pronounced with the lipstively " labial " sounds may have some element in common .
+in the latin alphabet , this is accidentally the case with the letters " b " and " p " .
+in korean hangul , all four labial consonants are based on the same basic element .
+signwriting is the most used writing system for many sign languages .
+featural scripts are common in fictional or invented systems , such as j . r . tolkien 's tengwar .
+historians draw a sharp distinction between prehistory and history , with history defined by the advent of writing .
+cave paintings and petroglyphs of prehistoric peoples are considered precursors of writing , but they are not considered true writing because they did not represent language directly .
+writing systems develop and change based on the needs of the people who use them .
+sometimes the shape , orientation , and meaning of individual signs changes over time .
+it is possible to learn about the needs of the people who used the script as well as how the script changed over time .
+the many tools and writing materials used throughout history are : stone tablets , clay tablets , bamboo slats , papyrus , wax tablets , vellum , parchment , paper , copperplate , stylus , quills , ink brushes , pencils , pens , and many styles of lithography .
+the incas used knotted cords known as quipurwood or khipurford for keeping records .
+the typewriter and various forms of word processors have subsequently become widespread writing tools .
+while neolithic writing is a current research topic , conventional history assumes that the writing process first evolved from economic necessity in the ancient near east .
+writing most likely began as a consequence of political expansion in ancient cultures , which needed reliable means for transmitting information , keeping historical records , and similar activities .
+around the 4th millennium bc , the complexity of trade and administration outgrew the power of memory , and writing became a more dependable method of recording and presenting transactions in a permanent form .
+the first writing systems came from the bronze age .
+the sumerian archaic cuneiform script and the egyptian hieroglyphs are generally considered the earliest writing systems .
+it is generally agreed that sumerian writing was an independent invention .
+archaeologist denise schmandt-besserat found the link between previously uncategorized clay " tokens " , the oldest of which have been found in the zagros region of iran , and the first known writing , mesopotamian cuneiform .
+in about 8000 bc , the mesopotamians began using clay tokens to count their agricultural and manufactured goods .
+later they began placing these tokens inside large , hollow clay containers depicting bulla .
+the quantity of tokens in each container came to be expressed by impressing , on the container 's surface , one picture for each instance of the token inside .
+they next dispensed with the tokens , using symbols for the tokens , drawn on clay surfaces .
+to avoid making a picture for each instance of the same object cubic inch , for example : 100 pictures of a hat to represent 100 hatsigraphy , they ' counted ' the objects by using various small marks .
+in this way the sumerians added " a system for enumerating objects to their incipient system of symbols " .
+the original mesopotamian writing system was developed around 3200 bc from this method of keeping accounts .
+triangular marks were pressed into soft clay tablets .
+this system was gradually augmented with using a sharp stylus to show what was being counted by means of pictographs .
+round-stylus and sharp-stylus writing was gradually replaced by writing using a wedge-shaped stylusylusylushesis .
+around 2700 bc , cuneiform began to represent syllables of spoken sumerian .
+later , mesopotamian cuneiform became a general purpose writing system for writing words , syllables , and numbers .
+this script was adapted to another mesopotamian language , the east semitic akkadian lilith assyrian and babylonian whistled around 2600 bc , and then to others such as hattian , hurrian and hittite .
+scripts similar in appearance to this writing system include those for ugaritic and old persian .
+old aramaic was also adapted to mesopotamian cuneiform .
+the last cuneiform scripts in akkadian discovered so far date from the first century ad .
+the earliest known hieroglyphic date back to the second half of the 4th millennium bc , such as the clay labels of a predynastic ruler called " scorpion i " .
+the hieroglyphic script was logographic with phonetic adjuncts that included an effective alphabet .
+the world 's oldest deciphered sentence was found in the tomb of seth-peribsen at umm el-qa ' ab , which dates from the second dynasty egyptologist 8th to 27th century bc .
+there are around 800 hieroglyphs dating back to the old kingdom , middle kingdom and new kingdom eras .
+by the greco-roman period , there are more than 5,000 people .
+writing was very important in maintaining the egyptian empire .
+only people from certain backgrounds were allowed to train to become scribes .
+the hieroglyph system was always difficult to learn , but in later centuries was purposely made even more so , as this preserved the scribes status .
+the world 's oldest known alphabet appears to have been developed by canaanite turquoise miners in the sinai desert around the mid-19th century bc .
+there are many inscriptions on the clay of the egyptian language , about 30 million years ago .
+this site was also home to a temple of hathor , the " mistress of turquoise " .
+a later , two line inscriptions have also been found at wadi el-hol in central egypt .
+based on hieroglyphic prototypes , but also including entirely new symbols , each sign seems to stand for a consonant rather than a word .
+it was not until the 12th to 9th centuries , however , that the alphabet became widely used .
+over the centuries , there were three different elamite scripts .
+proto-elamite is the oldest known writing system from iran .
+clay tablets with proto-elamite writing have been found at different sites across iran .
+the proto-elamite script developed from early cuneiformiformiformiformiformiformiformiformiformiformiformiformiformiformitions .
+the proto-elamite script has more than 1,000 signs and is thought to be partly logographic .
+linear elamite is a writing system in a few monumental inscriptions in iran .
+it was used for a brief period during the last quarter of the 3rd millennium bc .
+linear elamite is a syllabic writing system derived from proto-elamite .
+several scholars have attempted to decipher the script , most notably and .
+the elamite cuneiform script was used from about 2500 to 331 bc .
+there are about 130 symbols , far fewer than most other cuneiform script .
+cretan hieroglyphs are found on artifacts of crete during the 2nd millennium bc , mm i to mm iii .
+linear b , the writing system of the mycenaean greeks , has been deciphered while linear a has yet to be deciphered .
+cretan hieroglyphs were used in crete from c . 1625 to 1500 bc .
+the earliest surviving examples of writing in china date from around 1200 bc in the late shang dynasty .
+a small number of bronze inscriptions from the same period have also survived .
+historians have found that the type of media used had an effect on what the writing was documenting and how it was used .
+in 2003 , archaeologists found isolated tortoise-shell carvings from the 7th millennium bc , but whether or not these symbols are related to the characters of the later oracle-bone script is disputed .
+indus script refers to short strings of symbols associated with the indus valley civilization .
+in spite of many tries at decipherments and claims , it is as uniphered .
+the term ' indus script ' is mainly used for that used in the mature harappan phase .
+it is written from right to left .
+since the number of principal signs is about 400 – 600 , many scholars accept the script to be logo-syllabic scripts have about 50 – 100 signs .
+several scholars maintain that structural analysis suggests that an agglutinative language underlies the script .
+in 2001 , archaeologists found that there was a civilization in central asia that used writing .
+an excavation near ashgabat , the capital of turkmenistan , revealed an inscription on a piece of stone that was used as a stamp seal .
+the proto-sinaitic script is found in egypt , north america , and south asia .
+the phoenician writing system was adapted from the proto-canaanite script sometime before the 14th century bc .
+the writing system was an odd sort of syllabary in which only consonants are written .
+the script was adapted by the greeks , who adapted certain consonantal signs to represent their vowels .
+the cumae alphabet is a form of the early greek alphabet .
+other languages that use the greek alphabet include cyrillic , used to write the bulgarian language , russian and serbian language .
+the aramaic script is also used in the phoenician language .
+the tifinagh script is descended from the libyco-berber script .
+a stone slab with 3,000-year-old writing , known as the cascajal block , was discovered in the mexican state of veracruz .
+it is thought to be olmec .
+the only one to be deciphered is the maya script .
+the earliest written document recognized as maya dates to the 3rd century bc .
+maya writing used logograms with a set of syllabic glyphs , somewhat similar in function to modern japanese writing .
+the incas had no known script .
+their quipu system of recording information was apparently used for inventory and accountancy purposes .
+stone slabs were found in the mid-20th centuryference of the tartariatify area of transylvania , romania , ancient land of dacia , inhabited by dacia .
+one of the slabs has 4 groups of pictographs divided by lines .
+some of the characters are also found in ancient greek , as well as in etruscan , old italic and iberian .
+the origin and the timing of the writings are disputed .
+there are indirect carbon dates found near the slabs .
+in many parts of the world , writing has become more important in daily life as digital technologies have helped connect people from across the globe through e-mail and social media .
+such technologies have brought substantial amounts of routine reading and writing into most modern workplaces .
+in the united states , for example , the ability to read and write is necessary for most jobs .
+for example , the emergence of the writing center and community-wide literacy councils aim to help students and community members sharpen their writing skills .
+these resources span across different age groups in order to offer each individual a better understanding of their language and how to express themselves by writing in order to perhaps improve their socioeconomic status .
+other parts of the world have seen an increase in writing abilities as a result of programs such as the world literacy foundation and the international literacy foundation .

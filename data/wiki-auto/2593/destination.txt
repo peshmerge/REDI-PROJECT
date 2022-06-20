@@ -1,0 +1,81 @@
+Accountancy or accounting is the job of sharing financial information about a business to managers and shareholders (people who have invested in the business).
+Accounting is often called the "language of business".
+Accountants are people who do accounting, and also carry out the auditing or checking of a company's books and records.
+In Britain, this auditing is often carried out by a qualified person called a "chartered accountant".
+In the United States, the professional designation is Certified Public Accountant or "CPA".
+When accountants do accounting work, they write in the books of account (ledgers) that belong to a company.
+Every time money is spent or earned, it is written in the ledger.
+The information in the ledger is used to prepare the company accounts monthly, quarterly (every three months) and annually (every year).
+These annual accounts show what money the company has taken in over time and what it has spent money on.
+It also shows if the company made a profit in the year (if it made more money than it spent), who owes the company money, who the company owes money to, and any big expensive items the company has bought which they expect to use for many years.
+Lenders, managers, investors, tax authorities (the people who collect taxes for the government) and other decision-makers look at these annual accounts.
+Managers and investors look at the ledger and make decisions about how to spend money in the future.
+Lenders like banks look at the accounts before they lend money to the company.
+Tax authorities look at them to check that the company is paying the correct amount of taxes.
+The word "accountant" originally comes from the Latin word "computare" – "to reckon, count, number", via French.
+"Accomptant" was the original spelling and pronunciation of the word "accountant".
+However, over time, people began to drop the "p" in the word "accomptant".
+Over time, the word changed both in the way it was said and spelled to how it is today.
+The basic accounting equation is assets=liabilities+equity.
+Accountancy is very old.
+It started when humans first started to farm and form towns and cities.
+People who thought about economics (keeping track of money and valuable things) thought of a way to write down the sizes and values of crops.
+The earliest accounting records were found among the ruins of ancient Babylon, Assyria and Sumeria, which are more than 7,000 years old.
+The people of that time relied on primitive accounting methods to record the growth of crops and herds.
+Because there is a natural season for farming and herding, it is easy to count and determine if a surplus had been gained after the crops had been harvested or the young animals weaned.
+The invention of a form of bookkeeping using clay tokens represented a huge cognitive leap for mankind.
+In the twelfth-century A.D., the Arab writer, Ibn Taymiyyah, wrote a book called "Hisba".
+This book has details about accounting systems that were used by Muslims before the mid-seventh century A.D. Muslim accounting was influenced (changed) by Romans and Persians.
+In his book, Ibn Taymiyyah gives details of a complex governmental accounting system.
+The "Res Gestae Divi Augusti" (Latin: "The Deeds of the Divine Augustus") is a remarkable account to the Roman people of the Emperor Augustus' stewardship.
+It listed and quantified his public expenditure, which encompassed distributions to the people, grants of land or money to army veterans, subsidies to the "aerarium" (treasury), building of temples, religious offerings, and expenditures on theatrical shows and gladiatorial games.
+It was not an account of state revenue and expenditure, but was designed to demonstrate Augustus' munificence.
+The significance of the "Res Gestae Divi Augusti" from an accounting perspective lies in the fact that it illustrates that the executive authority had access to detailed financial information, covering a period of some forty years, which was still retrievable after the event.
+The scope of the accounting information at the emperor's disposal suggests that its purpose encompassed planning and decision-making.
+The Roman historians Suetonius and Cassius Dio record that in 23 BC, Augustus prepared a "rationarium" (account) which listed public revenues, the amounts of cash in the "aerarium" (treasury), in the provincial "fisci" (tax officials), and in the hands of the "publicani" (public contractors); and that it included the names of the freedmen and slaves from whom a detailed account could be obtained.
+The closeness of this information to the executive authority of the emperor is attested by Tacitus' statement that it was written out by Augustus himself.
+Records of cash, commodities, and transactions were kept scrupulously by military personnel of the Roman army.
+An account of small cash sums received over a few days at the fort of Vindolanda circa 110 CE shows that the fort could compute revenues in cash on a daily basis, perhaps from sales of surplus supplies or goods manufactured in the camp, items dispensed to slaves such as "cervesa" (beer) and "clavi caligares" (nails for boots), as well as commodities bought by individual soldiers.
+The basic needs of the fort were met by a mixture of direct production, purchase and requisition; in one letter, a request for money to buy 5,000 "modii" (measures) of "braces" (a cereal used in brewing) shows that the fort bought provisions for a considerable number of people.
+The Heroninos Archive is the name given to a huge collection of papyrus documents, mostly letters, but also including a fair number of accounts, which come from Roman Egypt in 3rd century CE.
+The bulk of the documents relate to the running of a large, private estate is named after Heroninos because he was "phrontistes" (Koine Greek: manager) of the estate which had a complex and standarised system of accounting which was followed by all its local farm managers.
+Each administrator on each sub-division of the estate drew up his own little accounts, for the day-to-day running of the estate, payment of the workforce, production of crops, the sale of produce, the use of animals, and general expenditure on the staff.
+This information was then summarized as pieces of papyrus scroll into one big yearly account for each particular sub—division of the estate.
+Entries were arranged by sector, with cash expenses and gains extrapolated from all the different sectors.
+Accounts of this kind gave the owner the opportunity to take better economic decisions because the information was purposefully selected and arranged.
+Luca Pacioli (1445–1517), also known as Friar Luca dal Borgo, is said to be the "Father" of accountancy.
+He wrote a textbook in Latin called "Summa de arithmetica, geometrica, proportioni et proportionalita" ("Summa on arithmetic, geometry, proportions and proportionality", Venice 1494).
+This textbook was used in the abbaco schools in northern Italy.
+Sons of merchants and craftsmen were taught in these schools.
+This textbook was written about math.
+It has the first printed description of how merchants from Venice kept their accounts.
+Merchants from Venice used a system called the double-entry bookkeeping system.
+Double-entry bookkeeping is where there is a debit and credit entry for every transaction.
+Pacioli wrote down this system but he did not invent it, but he is still called the "Father of Accounting".
+The system he wrote had most of the accounting cycle as it is known today.
+He wrote about using journals and ledgers, and warned that a person should not go to sleep at night until the debits were the same as the credits.
+His ledger had accounts for assets (things that have value), liabilities (debts and loans that are to be paid to someone else), capital (money), income and expenses.
+He showed how to write year-end closing entries and suggested that a trial balance be used to prove that a ledger is balanced.
+His treatise (long essay) in the book also has info about other topics, such as accounting ethics and cost accounting.
+The first book written in the English language on accounting was published in London, England by John Gouge in 1543.
+In 1588 John Mellis from Southwark, England wrote a short book of instructions for keeping accounts.
+There was another book written in 1635 that was described as "The Merchants Mirrour, or directions for the perfect ordering and keeping of his accounts formed by way of Debitor and Creditor".
+This book was written by Richard Dafforne, who was an accountant.
+This book has many references to books about accountancy that were written much earlier.
+One chapter of this book is titled "Opinion of Book-keeping's Antiquity".
+In this chapter the author says that, according to another author, the bookkeeping he wrote about was used two-hundred years earlier in Venice.
+There were several editions of Richard Dafforne's book.
+The second edition was published in 1636.
+The third edition was published in 1656.
+Another edition was published in 1684.
+The book is very complete in how it describes scientific accountancy.
+It contains a lot of detail and explanation.
+The science that supports accountancy was liked by many people in the seventeenth century.
+This is supported by the fact that there were so many editions.
+Starting at this point in history, there have been many books written about accountancy.
+Many authors claim to be professional accountants and teachers of accountancy.
+Because of this, it shows that there were professional accountants who were employed in the seventeenth century.
+A financial audit is where an internal audit and an external audit are done.
+For an external audit, an independent (unrelated) auditor takes a look at financial statements and accounting records.
+By looking at these records, the auditor can find out if these records are true, fair and follow Generally Accepted Accounting Principles (GAAP), or International Financial Reporting Standards (IFRS).
+"Internal audit" tries to get info for management usage, and is done by employees.

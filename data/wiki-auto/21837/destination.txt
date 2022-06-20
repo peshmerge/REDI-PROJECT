@@ -1,0 +1,9 @@
+The nanometre (symbol: nm) is a unit used to measure length in the metric system.
+It is equal to one billionth of a metre (1 m / 1,000,000,000).
+The name combines the SI prefix "nano-" (from the Ancient Greek , ', "dwarf") with the parent unit name "metre" (from Greek , ', "unit of measurement").
+It can be written in scientific notation as 1×10 m.
+The nanometre is often used to express very tiny dimensions, such as measuring atoms.
+The nanometre is also commonly used to measure the wavelength of electromagnetic radiation near the part of the spectrum that can be seen by humans.
+Visible light ranges from around 400 to 800 nm.
+The nanometre was formerly called the millimicrometre (or the millimicron).
+This is because it is 1/1000 of a micrometre, and was written with the symbol mμ (or sometimes μμ).

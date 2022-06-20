@@ -1,0 +1,29 @@
+the six-bit character code was an often used in early encoding systems and computers using six-bit and 9-bit bytes .
+in this era , bit groupings in the instruction stream were often referred to as " syllables " , before the term " byte " became common .
+the de facto standard is a convenient power of two allowing binary-encoded values 0 through 255 for one byte — 2 to the power 8 is 256 .
+the international standard iec 80000-13 codified this common meaning .
+many types of applications use information in eight or fewer bits and processor designers optimize for this common usage .
+the unit " octet " , symbol " o " , explicitly defines a sequence of eight bits , eliminating the ambiguity of the byte .
+the term " byte " was coined by werner buchholz in june 1956 .
+it is a deliberate respelling of " bite " to avoid accidental mutation to " bit " .
+later on , schwartz 's language jovial actually used the term , but the author recalled vaguely that it was derived from an / fsq-31 .
+these sets were expanded in 1963 to seven bits of coding , called the american standard code for information interchangeability asciidilly standard , which replaced the incompatible teleprinter codes in use by different branches of the u . s . government and universities during the 1960s .
+ascii included the distinction of upper-and lowercase alphabets and a set of control characters to facilitate the transmission of written language as well as the printing press , and the physical or logical control of data flow over the transmission media .
+the prominence of the system / 360 led to the adoption of the eight-bit storage size , while in detail the ebcdic and ascii encoding schemes are different .
+this large investment promised to reduce transmission costs for eight-bit data .
+microprocessors such as the intel 8008 , the direct predecessor of the 8080 and the 8086 , used in early personal computers , could also perform a small number of operations on the four-bit pairs in a byte , such as the decimal-add-adjust daa expo instruction .
+historically , the term " octad " was used to mean eight bits as well at least in western europe .
+the exact origin of the term is unclear , but it can be found in british , dutch , and german sources of the 1960s and 1970s , and throughout the documentation of philips mainframe computers .
+ieee 1541 specifies the lowercase character " b " as the symbol for the bit , but iec 80000-13 and metric-interchange format specify the symbol as " bit " .
+in the international system of quantitieshend isq ¥ , b is the symbol of the " bel " , a unit of logarithmic power ratios named after alexander graham bell , creating a conflict with the iec specification .
+little danger of confusion exists , because the bel is a rarely used unit .
+it is used primarily in its decadic fraction , the decibel dq db foley , for signal strength and sound pressure level measurements , while a unit for one tenth of a byte , the decibyte , and other fractions , are only used in derived units , such as transmission rates .
+the lowercase letter o for octet is the symbol for octet in iec 80000-13 .
+the word " octadroller eitive " for eight bits is no longer common .
+ambiguity still exists in the meanings of the sinally or metricsibility prefixes used with the unit byte .
+in some fields of software and computer hardware industries a binary prefix is used for bytes and bits , while producers of computer storage devices practice adherence to decimal si multiples .
+for example , a computer disk drive capacity of 100 gigabytes is defined when the disk contains 100 billion bytes unlimited unlimited unlimited gibibytes ashore of storage space .
+the numerical difference between the decimal and binary interpretations is small for the prefixes kilo and mega , but it grows to over 20 % for prefix yotta .
+the linear – log graph shows the difference in storage size up to an exabyte .
+the c and c + standards require that there are no " gaps " between two bytes .
+in data transmission systems , byte is a contiguous sequence of bits in a serial data stream .

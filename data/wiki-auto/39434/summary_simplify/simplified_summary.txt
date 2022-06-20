@@ -1,0 +1,9 @@
+he also developed hoare logic for verifying program correctness , and the formal language communicating sequential processes bethel csp wouldn to specify the interactions of concurrent processeshenders .
+hoare was born in colombo , sri lanka lanka lanka lanka lanka lanka .
+he returned to the university of oxford in 1958 to study for a postgraduate certificate in statistics .
+he studied machine translation at andrey kolmogorov .
+in 1960 , hoare left the soviet union and began working at elliott brothers ltd , a small computer manufacturing company located in london .
+he became professor of computing science at the queen 's university of belfast in 1968 .
+he is now an emeritus professor there .
+hoare 's most significant work has been in the following areas : his sorting and selection algorithm improves quicksort and quickselectectectectectectectectectectectectectect cpi , hoare logic , the formal language communicating sequential processes processes processes processes processes processes processes processes processes processes processes processestation cspumber and structuring computer operating systems using the concept of specification .
+for many years under his leadership his oxford department worked on formal specification languages such as csp and z .

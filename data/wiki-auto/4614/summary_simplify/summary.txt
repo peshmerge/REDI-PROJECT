@@ -1,0 +1,204 @@
+Its distinctive hump upper deck along the forward part of the aircraft has made it one of the most recognizable aircraft.
+Manufactured by Boeing's Commercial Airplane unit in the United States, the 747 was originally planned to have 150 percent greater capacity than the Boeing 707, a common large commercial aircraft of the 1960s.
+The quadjet 747 uses a double-deck configuration for part of its length and is available in passenger, freighter, and other versions.
+Boeing designed the 747's hump-like upper deck to serve as a first-class lounge or extra seating, and to allow the aircraft to be easily converted to a cargo carrier by removing seats and installing a front cargo door.
+Boeing expected supersonic airliners—the development of which was announced in the early 1960s—to render the 747 and other subsonic airliners obsolete, while the demand for subsonic cargo aircraft would remain robust well into the future.
+The newest version of the aircraft, the 747-8, is in production and received certification in 2011.
+Although the C-141 Starlifter was being introduced, officials believed that a much larger and more capable aircraft was needed, especially to carry cargo that would not fit in any existing aircraft.
+In May 1964, airframe proposals arrived from Boeing, Douglas, General Dynamics, Lockheed, and Martin Marietta; engine proposals were submitted by General Electric, Curtiss-Wright, and Pratt & Whitney.
+Boeing, Douglas, and Lockheed were given additional study contracts for the airframe, along with General Electric and Pratt & Whitney for the engines.
+All of the companies solved this problem by moving the cockpit above the cargo area; Douglas had a small "pod" just forward and above the wing, Lockheed used a long "spine" running the length of the aircraft with the wing spar passing through it, while Boeing blended the two, with a longer pod that ran from just behind the nose to just behind the wing.
+In 1965, Lockheed's aircraft design and General Electric's engine design were selected for the new C-5 Galaxy transport, which was the largest military aircraft in the world at the time.
+The nose door and raised cockpit concepts would be carried over to the design of the 747.
+The 747 was conceived while air travel was increasing in the 1960s.
+The era of commercial jet transportation, led by the enormous popularity of the Boeing 707 and Douglas DC-8, had revolutionized long-distance travel.
+Even before it lost the CX-HLS contract, Boeing was asked by Juan Trippe, president of Pan American World Airways (Pan Am), one of their most important airline customers, to build a passenger aircraft more than twice the size of the 707.
+During this time, airport congestion, worsened by increasing numbers of passengers carried on relatively small aircraft, became a problem that Trippe thought could be addressed by a larger new aircraft.
+In 1965, Joe Sutter was transferred from Boeing's 737 development team to manage the design studies for the new airliner, already assigned the model number 747.
+At the time, it was widely thought that the 747 would eventually be superseded by supersonic transport aircraft.
+Boeing responded by designing the 747 so that it could be adapted easily to carry freight and remain in production even if sales of the passenger version declined.
+In the freighter role, the clear need was to support the containerized shipping methodologies that were being widely introduced at about the same time.
+This meant that it would be possible to support a 2-wide 2-high stack of containers two or three ranks deep with a fuselage size similar to the earlier CX-HLS project.
+During the ceremonial 747 contract-signing banquet in Seattle on Boeing's 50th Anniversary, Juan Trippe predicted that the 747 would be "... a great weapon for peace, competing with intercontinental missiles for mankind's destiny".
+As launch customer, and because of its early involvement before placing a formal order, Pan Am was able to influence the design and development of the 747 to an extent unmatched by a single airline before or since.
+However, concern over evacuation routes and limited cargo-carrying capability caused this idea to be scrapped in early 1966 in favor of a wider single deck design.
+The cockpit was, therefore, placed on a shortened upper deck so that a freight-loading door could be included in the nose cone; this design feature produced the 747's distinctive "bulge".
+(A different configuration that had been considered in order to keep the flight deck out of the way for freight loading had the pilots below the passengers, and was dubbed the "anteater".)
+One of the principal technologies that enabled an aircraft as large as the 747 to be drawn up was the high-bypass turbofan engine.
+General Electric had pioneered the concept but was committed to developing the engine for the C-5 Galaxy and did not enter the commercial market until later.
+Pratt & Whitney was also working on the same principle and, by late 1966, Boeing, Pan Am and Pratt & Whitney agreed to develop a new engine, designated the JT9D to power the 747.
+The project was designed with a new methodology called fault tree analysis, which allowed the effects of a failure of a single part to be studied to determine its impact on other systems.
+Additionally, some of the most advanced high-lift devices used in the industry were included in the new design, to allow it to operate from existing airports.
+The wing's complex three-part flaps increase wing area by 21 percent and lift by 90 percent when fully deployed compared to their non-deployed configuration.
+As Boeing did not have a plant large enough to assemble the giant airliner, they chose to build a new plant.
+The company considered locations in about 50 cities, and eventually decided to build the new plant some 30 mi north of Seattle on a site adjoining a military base at Paine Field near Everett, Washington.
+Boeing president William M. Allen asked Malcolm T. Stamper, then head of the company's turbine division, to oversee construction of the Everett factory and to start production of the 747.
+The plant is the largest building by volume ever built, and has been substantially expanded several times to permit construction of other models of Boeing wide-body commercial jets.
+One important test involved the evacuation of 560 volunteers from a cabin mock-up via the aircraft's emergency chutes.
+The first full-scale evacuation took two and a half minutes instead of the maximum of 90 seconds mandated by the Federal Aviation Administration (FAA), and several volunteers were injured.
+Most problematic was evacuation from the aircraft's upper deck; instead of using a conventional slide, volunteer passengers escaped by using a harness attached to a reel.
+While the first 747s were still being built, the device allowed pilots to practice taxi maneuvers from a high upper-deck position.
+On September 30, 1968, the first 747 was rolled out of the Everett assembly building before the world's press and representatives of the 26 airlines that had ordered the airliner.
+Over the following months, preparations were made for the first flight, which took place on February 9, 1969, with test pilots Jack Waddell and Brien Wygle at the controls and Jess Wallick at the flight engineer's station.
+The 747 was found to be largely immune to "Dutch roll", a phenomenon that had been a major hazard to the early swept-wing jets.
+During later stages of the flight test program, flutter testing showed that the wings suffered oscillation under certain conditions.
+However, a particularly severe high-speed flutter problem was solved only by inserting depleted uranium counterweights as ballast in the outboard engine nacelles of the early 747s.
+This measure caused anxiety when these aircraft crashed, for example El Al Flight 1862 at Amsterdam in 1992 with 282 kg of uranium in the tailplane (horizontal stabilizer).
+Difficulties included engine stalls caused by rapid throttle movements and distortion of the turbine casings after a short period of service.
+The problems delayed 747 deliveries for several months; up to 20 aircraft at the Everett plant were stranded while awaiting engine installation.
+The program was further delayed when one of the five test aircraft suffered serious damage during a landing attempt at Renton Municipal Airport, site of the company's Renton factory.
+On December 13, 1969 a test aircraft was being taken to have test equipment removed and a cabin installed when pilot Ralph C. Cokely undershot the airport's short runway.
+The 747's right, outer landing gear was torn off and two engine nacelles were damaged.
+However, these difficulties did not prevent Boeing from taking a test aircraft to the 28th Paris Air Show in mid-1969, where it was displayed to the public for the first time.
+The huge cost of developing the 747 and building the Everett factory meant that Boeing had to borrow heavily from a banking syndicate.
+During the final months before delivery of the first aircraft, the company had to repeatedly request additional funding to complete the project.
+The firm's debt exceeded $2 billion, with the $1.2 billion owed to the banks setting a record for all companies.
+Ultimately, the gamble succeeded, and Boeing held a monopoly in very large passenger aircraft production for many years.
+On January 15, 1970, First Lady of the United States Pat Nixon christened Pan Am's first 747, at Dulles International Airport (later Washington Dulles International Airport) in the presence of Pan Am chairman Najeeb Halaby.
+Instead of champagne, red, white, and blue water was sprayed on the aircraft.
+The 747 entered service on January 22, 1970, on Pan Am's New York–London route; the flight had been planned for the evening of January 21, but engine overheating made the original aircraft unusable.
+Finding a substitute delayed the flight by more than six hours to the following day when Clipper Victor was used.
+The 747 enjoyed a fairly smooth introduction into service, overcoming concerns that some airports would not be able to accommodate an aircraft that large.
+After the aircraft's introduction with Pan Am, other airlines that had bought the 747 to stay competitive began to put their own 747s into service.
+Boeing estimated that half of the early 747 sales were to airlines desiring the aircraft's long range rather than its payload capacity.
+While the 747 had the lowest potential operating cost per seat, this could only be achieved when the aircraft was fully loaded; costs per seat increased rapidly as occupancy declined.
+A moderately loaded 747, one with only 70 percent of its seats occupied, used more than 95 percent of the fuel needed by a fully occupied 747.
+Nonetheless, many flag-carriers purchased the 747 due to its prestige "even if it made no sense economically" to operate.
+During the 1970s and 1980s, there was often over 30 regularly scheduled 747s at John F. Kennedy International Airport.
+For the year and a half after September 1970 it only sold two 747s in the world, and did not sell any to an American carrier for almost three years.
+When economic problems in the US and other countries after the 1973 oil crisis led to reduced passenger traffic, several airlines found they did not have enough passengers to fly the 747 economically, and they replaced them with the smaller and recently introduced McDonnell Douglas DC-10 and Lockheed L-1011 TriStar trijet wide bodies (and later the 767 and A300/A310 twinjets).
+Having tried replacing coach seats on its 747s with piano bars in an attempt to attract more customers, American Airlines eventually relegated its 747s to cargo service and in 1983 exchanged them with Pan Am for smaller aircraft; Delta Air Lines also removed its 747s from service after several years.
+Later, Delta acquired 747s again in 2008 as part of its merger with Northwest Airlines, although it retired the 747-400 fleet in December 2017.
+International flights bypassing traditional hub airports and landing at smaller cities became more common throughout the 1980s, thus eroding the 747's original market.
+In Japan, 747s on domestic routes were configured to carry nearly the maximum passenger capacity.
+After the initial 747-100, Boeing developed the -100B , a higher maximum takeoff weight (MTOW) variant, and the -100SR (Short Range), with higher passenger capacity.
+The -200 model followed in 1971, featuring more powerful engines and a higher MTOW.
+The shortened 747SP (special performance) with a longer range was also developed, and entered service in 1976.
+The 300 series resulted from Boeing studies to increase the seating capacity of the 747, during which modifications such as fuselage plugs and extending the upper deck over the entire length of the fuselage were rejected.
+The variant had a new glass cockpit, which allowed for a cockpit crew of two instead of three, new engines, lighter construction materials, and a redesigned interior.
+The 747 remained the heaviest commercial aircraft in regular service until the debut of the Antonov An-124 Ruslan in 1982; variants of the 747-400 surpassed the An-124's weight in 2000.
+The Antonov An-225 "Mriya" cargo transport, which debuted in 1988, remains the world's largest aircraft by several measures (including the most accepted measures of maximum takeoff weight and length); one aircraft has been completed and is in service as of 2017 .
+The new variants would have cost more than US$5 billion to develop, and interest was not sufficient to launch the program.
+However, the 747X family was unable to attract enough interest to enter production.
+A year later, Boeing switched from the 747X studies to pursue the Sonic Cruiser, and after the Sonic Cruiser program was put on hold, the 787 Dreamliner.
+Similar in nature to the 747-X, the stretched 747 Advanced used technology from the 787 to modernize the design and its systems.
+The 747 remained the largest passenger airliner in service until the Airbus A380 began airline service in 2007.
+The last 747-400s were completed in 2009.
+s of 2011 , most orders of the 747-8 have been for the freighter variant.
+The first delivery of the 747-8 went to Cargolux in 2011.
+On January 29, 2016, Boeing announced that it had begun the preliminary work on the modifications to a commercial 747-8 for the next Air Force One Presidential aircraft, expected to be operational by 2020.
+On July 12, 2016, Boeing announced that it had finalized terms of acquisition with Volga-Dnepr Group for 20 747-8 freighters, valued at $7.58 billion at list prices.
+The new 747-8 freighters will replace AirBridgeCargo's current 747-400 aircraft and expand the airline's fleet and will be acquired through a mix of direct purchases and leasing over the next six years, Boeing said.
+On July 27, 2016, in its quarterly report to the Securities and Exchange Commission, Boeing discussed the potential termination of 747 production due to insufficient demand and market for the aircraft.
+With a firm order backlog of 21 aircraft and a production rate of six per year, program accounting has been reduced to 1,555 aircraft, and the 747 line could be closed in the third quarter of 2019.
+The backlog then stood at 25 aircraft, though several of these are orders from airlines that no longer intend to take delivery.
+Its wings have a high sweep angle of 37.5 degrees for a fast, efficient cruise speed of Mach 0.84 to 0.88, depending on the variant.
+The "stretched upper deck" became available as an alternative on the 747-100B variant and later as standard beginning on the 747-300.
+The 747 has redundant structures along with four redundant hydraulic systems and four main landing gears each with four wheels; these provide a good spread of support on the ground and safety in case of tire blow-outs.
+The 747 also has split control surfaces and was designed with sophisticated triple-slotted flaps that minimize landing speeds and allow the 747 to use standard-length runways.
+Virgin Orbit's 747-400, dubbed Cosmic Girl, carries the orbital-class rocket to cruise altitude, where the rocket is deployed and then carries its small satellite payload the rest of the way to space.
+Several versions of each variant have been produced, and many of the early variants were in production simultaneously.
+The first 747-100s were built with six upper deck windows (three per side) to accommodate upstairs lounge areas.
+Later, as airlines began to use the upper deck for premium passenger seating instead of lounge space, Boeing offered a ten-window upper deck as an option.
+No freighter version of this model was developed, but many 747-100s were converted into freighters.
+Responding to requests from Japanese airlines for a high-capacity aircraft to serve domestic routes between major cities, Boeing developed the 747SR as a short-range version of the 747-100 with lower fuel capacity and greater payload capability.
+With increased economy class seating, up to 498 passengers could be carried in early versions and up to 550 in later models.
+The 747SR had an economic design life objective of 52,000 flights during 20 years of operation, compared to 24,600 flights in 20 years for the standard 747.
+The initial 747SR model, the -100SR, had a strengthened body structure and landing gear to accommodate the added stress accumulated from a greater number of takeoffs and landings.
+The -100SR entered service with JAL, the type's sole customer, on October 7, 1973, and typically operated flights within Japan.
+Following the -100SR, Boeing produced the -100BSR, a 747SR variant with increased takeoff weight capability.
+The -100BSR first flew on November 3, 1978, with first delivery to All Nippon Airways (ANA) on December 21, 1978.
+ANA operated this variant on domestic Japanese routes with 455 or 456 seats until retiring its last aircraft in March 2006.
+JAL operated the -100BSR SUD with 563 seats on domestic routes until their retirement in the third quarter of 2006.
+While only two -100BSR SUDs were produced, in theory, standard -100Bs can be modified to the SUD certification.
+The 747-100B model was developed from the -100SR, using its stronger airframe and landing gear design.
+This aircraft first flew on June 20, 1979, received FAA certification on August 1, 1979, and was delivered the next day.
+The development of the 747SP stemmed from a joint request between Pan American World Airways and Iran Air, who were looking for a high-capacity airliner with enough range to cover Pan Am's New York–Middle Eastern routes and Iran Air's planned Tehran–New York route.
+The 747SP, compared to earlier variants, had a tapering of the aft upper fuselage into the empennage, a double-hinged rudder, and longer vertical and horizontal stabilizers.
+The 747SP was granted a supplemental certificate on February 4, 1976 and entered service with launch customers Pan Am and Iran Air that same year.
+In 1987, Boeing re-opened the 747SP production line after five years to build one last 747SP for an order by the United Arab Emirates government.
+In addition to airline use, one 747SP was modified for the NASA/German Aerospace Center SOFIA experiment.
+Iran Air is the last civil operator of the type; its final 747-SP (EP-IAC) was to be retired in June 2016.
+While the 747-100 powered by Pratt & Whitney JT9D-3A engines offered enough payload and range for medium-haul operations, it was marginal for long-haul route sectors.
+The demand for longer range aircraft with increased payload quickly led to the improved -200, which featured more powerful engines, increased MTOW, and greater range than the -100.
+A few early -200s retained the three-window configuration of the -100 on the upper deck, but most were built with a ten-window configuration on each side.
+The 747-200B was the basic passenger version, with increased fuel capacity and more powerful engines; it entered service in February 1971.
+In its first three years of production, the -200 was equipped with Pratt & Whitney JT9D-7 engines (initially the only engine available).
+Range with a full passenger load started at over 5000 nmi and increased to 6000 nmi with later engines.
+Most -200Bs had an internally stretched upper deck, allowing for up to 16 passenger seats.
+The convertible version, the 747-200C, could be converted between a passenger and a freighter or used in mixed configurations, and featured removable seats and a nose cargo door.
+The -200C could also be fitted with an optional side cargo door on the main deck.
+The combi model, the 747-200M, could carry freight in the rear section of the main deck via a side cargo door.
+A removable partition on the main deck separated the cargo area at the rear from the passengers at the front.
+As on the -100, a stretched upper deck (SUD) modification was later offered.
+After launching the -200 with Pratt & Whitney JT9D-7 engines, on August 1, 1972 Boeing announced that it had reached an agreement with General Electric to certify the 747 with CF6-50 series engines to increase the aircraft's market potential.
+The -200 was the first 747 to provide a choice of powerplant from the three major engine manufacturers.
+The stretched upper deck has two emergency exit doors and is the most visible difference between the -300 and previous models.
+Before being made standard on the 747-300, the stretched upper deck was previously offered as a retrofit, and appeared on two Japanese 747-100SR aircraft.
+The 747-300 introduced a new straight stairway to the upper deck, instead of a spiral staircase on earlier variants, which creates room above and below for more seats.
+Minor aerodynamic changes allowed the -300's cruise speed to reach Mach 0.85 compared with Mach 0.84 on the -200 and -100 models, while retaining the same takeoff weight.
+The -300 could be equipped with the same Pratt & Whitney and Rolls-Royce powerplants as on the -200, as well as updated General Electric CF6-80C2B1 engines.
+The variant revived the 747-300 designation, which had been previously used on a design study that did not reach production.
+The 747-300M features cargo capacity on the rear portion of the main deck, similar to the -200M, but with the stretched upper deck it can carry more passengers.
+The 747-300SR, a short range, high-capacity domestic model, was produced for Japanese markets with a maximum seating for 584.
+No production freighter version of the 747-300 was built, but Boeing began modifications of used passenger -300 models into freighters in 2000.
+In 1985, just two years after the -300 entered service, the type was superseded by the announcement of the more advanced 747-400.
+Air France, Air India, Pakistan International Airlines, and Qantas were some of the last major carriers to operate the 747-300.
+On December 29, 2008, Qantas flew its last scheduled 747-300 service, operating from Melbourne to Los Angeles via Auckland.
+The 747-400 is an improved model with increased range.
+It has wingtip extensions of 6 ft and winglets of 6 ft , which improve the type's fuel efficiency by four percent compared to previous 747 versions.
+The 747-400 introduced a new glass cockpit designed for a flight crew of two instead of three, with a reduction in the number of dials, gauges and knobs from 971 to 365 through the use of electronics.
+The longer range has been used by some airlines to bypass traditional fuel stops, such as Anchorage.
+As a result of the Boeing 767 development overlapping with the 747-400's development, both aircraft can use the same three powerplants and are even interchangeable between the two aircraft models.
+The passenger version first entered service in February 1989 with launch customer Northwest Airlines on the Minneapolis to Phoenix route.
+In January 2004, Boeing and Cathay Pacific launched the Boeing 747-400 Special Freighter program, later referred to as the Boeing Converted Freighter (BCF), to modify passenger 747-400s for cargo use.
+In March 2007, Boeing announced that it had no plans to produce further passenger versions of the -400.
+However, orders for 36 -400F and -400ERF freighters were already in place at the time of the announcement.
+The last passenger version of the 747-400 was delivered in April 2005 to China Airlines.
+Some of the last built 747-400s were delivered with Dreamliner livery along with the modern Signature interior from the Boeing 777.
+At various times, the largest 747-400 operator has included Singapore Airlines, Japan Airlines, and British Airways with 36 as of July 2018 .
+s of July 2018 , 339 747-400s remain in service.
+Evergreen Aviation Technologies Corporation of Taiwan was contracted to complete modifications of 747-400s into Dreamlifters in Taoyuan.
+The Dreamlifters have been placed into service transporting sub-assemblies for the 787 program to the Boeing plant in Everett, Washington, for final assembly.
+Referred to as the 747 Advanced prior to its launch, the 747-8 uses the same engine and cockpit technology as the 787, hence the use of the "8".
+The 747-8's fuselage is lengthened from 232 to 251 feet (70.8 to 76.4 m), marking the first stretch variant of the aircraft.
+As on previous 747 freighters, the 747-8F features an overhead nose-door and a side-door on the main deck plus a side-door on the lower deck ("belly") to aid loading and unloading.
+The variant received its amended type certificate jointly from the FAA and the European Aviation Safety Agency (EASA) on August 19, 2011.
+As a derivative of the already common 747-400, the 747-8 has the economic benefit of similar training and interchangeable parts.
+During the late 1960s and early 1970s, Boeing studied the development of a shorter 747 with three engines, to compete with the smaller Lockheed L-1011 TriStar and McDonnell Douglas DC-10.
+The center engine would have been fitted in the tail with an S-duct intake similar to the L-1011's.
+Overall, the 747 trijet would have had more payload, range, and passenger capacity than both of them.
+In January 1986, Boeing outlined preliminary studies to build a larger, ultra-long haul version named the 747-500, which would enter service in the mid- to late-1990s.
+The derivative would use more efficient unducted fan (UDF) engines (propfans) made by General Electric, be stretched (including the upper deck section) to a capacity of 500 seats, have a new wing to reduce drag, cruise at a faster speed to reduce flight times, and have a range of at least 10000 mi , which would allow airlines to fly nonstop between London, England and Sydney, Australia.
+This aircraft design would have combined the advanced technology used on the 747-400 with the foreshortened 747SP fuselage.
+However, airlines were not interested in the project and it was canceled in 1988 in favor of the 777.
+Other changes included adding more powerful engines and increasing the number of tires from two to four on the nose landing gear and from 16 to 20 on the main landing gear.
+A third study concept, the 747-700X, would have combined the wing of the 747-600X with a widened fuselage, allowing it to carry 650 passengers over the same range as a 747-400.
+The cost of the changes from previous 747 models, in particular the new wing for the 747-500X and -600X, was estimated to be more than US$5 billion.
+Boeing was not able to attract enough interest to launch the aircraft.
+As Airbus progressed with its A3XX study, Boeing offered a 747 derivative as an alternative in 2000; a more modest proposal than the previous -500X and -600X that retained the 747's overall wing design and add a segment at the root, increasing the span to 229 ft .
+Power would have been supplied by either the Engine Alliance GP7172 or the Rolls-Royce Trent 600, which were also proposed for the 767-400ERX.
+Like its predecessor, the 747X family was unable to garner enough interest to justify production, and it was shelved along with the 767-400ERX in March 2001, when Boeing announced the Sonic Cruiser concept.
+The 747X did not make it beyond the drawing board, but the 747-400X being developed concurrently moved into production to become the 747-400ER.
+After the end of the 747X program, Boeing continued to study improvements that could be made to the 747.
+The 747-400XQLR (Quiet Long Range) was meant to have an increased range of 7,980 nmi (9,200 mi, 14,800 km), with improvements to boost efficiency and reduce noise.
+Improvements studied included raked wingtips similar to those used on the 767-400ER and a sawtooth engine nacelle for noise reduction.
+Although the 747-400XQLR did not move to production, many of its features were used for the 747 Advanced, which has now been launched as the 747-8.
+s of July 2018 , 462 Boeing 747s are in airline service, with British Airways being the largest operator with 36 747-400s.
+The last US passenger Boeing 747 was retired from Delta Air Lines in December 2017, after it flew for every American major carrier since its 1970 introduction.
+Delta flew three of its last four aircraft on a farewell tour, from Seattle to Atlanta on December 19 then to Los Angeles and Minneapolis/St Paul on December 20.
+As the IATA forecast an increase in air freight from 4% to 5% in 2018 fuelled by booming trade for time-sensitive goods, from smartphones to fresh flowers, demand for freighters is strong while passenger 747s are phased out.
+Of the 1,544 produced, 890 are retired; as of 2018 , a small subset of those which were intended to be parted-out get $3 million D-checks before flying again.
+This comeback helped the airframer financing arm Boeing Capital to shrink its exposure to the 747-8 from $1.07 billion in 2017 to $481 million.
+There were also 24 deaths in 32 aircraft hijackings, such as Pan Am Flight 73 where a Boeing 747-121 was hijacked by four terrorists and resulted in 20 deaths.
+United Airlines Flight 811, which suffered an explosive decompression mid-flight on February 24, 1989, led the National Transportation Safety Board (NTSB) to issue a recommendation that the Boeing 747-100 and 747-200 cargo doors similar to those on the Flight 811 aircraft be modified to those featured on the Boeing 747-400.
+Korean Air Lines Flight 007 was shot down by a Soviet fighter aircraft in 1983 after it had strayed into Soviet territory, causing U.S. President Ronald Reagan to authorize the then-strictly military global positioning system (GPS) for civilian use.
+Accidents due to design deficiencies included TWA Flight 800, where a 747-100 exploded in mid-air on July 17, 1996, probably due to sparking electricity wires inside the fuel tank; this finding led the FAA to propose a rule requiring installation of an inerting system in the center fuel tank of most large aircraft that was adopted in July 2008, after years of research into solutions.
+As increasing numbers of "classic" 747-100 and 747-200 series aircraft have been retired, some have found their way into museums or other uses.
+Upon its retirement from service, the 747 number two in the production line was dismantled and shipped to Hopyeong, Namyangju, Gyeonggi-do, South Korea where it was re-assembled, repainted in a livery similar to that of Air Force One and converted into a restaurant.
+A former British Airways 747-200B, G-BDXJ, is parked at the Dunsfold Aerodrome in Surrey, England and has been used as a movie set for productions such as the 2006 James Bond film, "Casino Royale".
+The plane also appears frequently in the BBC television series "Top Gear", which is filmed at Dunsfold.
+The "Jumbohostel", using a converted 747-200 formerly registered as 9V-SQE, opened at Arlanda Airport, Stockholm in January 2009.
+The wings of a 747 have been recycled as roofs of a house in Malibu, California.
+Appearing in over 300 film productions the 747 is one of the most widely depicted civilian aircraft and is considered by many as one of the most iconic in film history.
+The aircraft entered the cultural lexicon as the original "Jumbo Jet", a term coined by the aviation media to describe its size, and was also nicknamed "Queen of the Skies".

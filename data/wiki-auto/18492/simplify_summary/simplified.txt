@@ -1,0 +1,16 @@
+a lexeme is a unit of lexical meaning that is underlies a set of words that are related through inflection .
+it is a basic unit of meaning .
+for example , in english , " run " , " runs " , " ran " and " running " are forms of the same lexeme , which can be represented as run .
+one form , the lemma aarhus or citation formocation , is chosen by convention as the canonical form of a lexeme .
+lemmas are used in dictionaries as the headwords .
+other forms of a lexeme are usually listed later in the entry .
+a lexeme belongs to a particular syntactic category .
+in many languages , like english , there are many different forms .
+for example , the lexeme run has a present-person singular form " runs " .
+it does not include " runner , runners , runnable " etc .
+in english , verbs such as run are subject-verb agreement and compound rules .
+in many formal theories of language , lexemes have subcategorization frames to account for the number and types of complements .
+they occur within sentences and other syntactic structures .
+the lexeme is the basis for defining other concepts in that field .
+the compound root morpheme + derivational morphemes is often called the stem .
+the decomposition stem + desinence can then be used to study inflection .

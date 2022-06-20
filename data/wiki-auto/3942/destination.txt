@@ -1,0 +1,36 @@
+In mathematics, a bijective function or bijection is a function "f" : "A" → "B" that is both an injection and a surjection.
+This means: for every element "b" in the codomain "B" there is exactly one element "a" in the domain "A" such that "f"("a")="b".
+Another name for bijection is 1-1 correspondence.
+The term "bijection" and the related terms "surjection" and "injection" were introduced by Nicholas Bourbaki.
+In the 1930s, he and a group of other mathematicians published a series of books on modern advanced mathematics.
+Formally: The element formula_5 is called the image of the element formula_6.
+The element formula_6 is called a pre-image of the element formula_5.
+Note: Surjection means minimum one pre-image.
+Injection means maximum one pre-image.
+So bijection means exactly one pre-image.
+Cardinality is the "number" of elements in a set.
+The cardinality of "A"={X,Y,Z,W} is 4.
+Formally: Let "f" : "A" → "B" be a bijection.
+The inverse function "g" : "B" → "A" is defined by if "f"("a")="b", then "g"("b")="a".
+(See also Inverse function.)
+Note: The notation for the inverse function of "f" is confusing.
+Let "f"("x"):R→R be a real-valued function "y"="f"("x") of a real-valued argument "x".
+(This means both the input and output are numbers.)
+Example: The linear function of a slanted line is a bijection.
+That is, "y"="ax"+"b" where "a"≠0 is a bijection.
+Example: The polynomial function of third degree: "f"("x")="x" is a bijection.
+Image 2 and image 5 thin yellow curve.
+Its inverse is the cube root function "f"("x")= ∛"x" and it is also a bijection "f"("x"):R→R. Image 5: thick green curve.
+Example: The quadratic function "f"("x") = "x" is not a bijection (from R→R).
+It is not a surjection.
+It is not an injection.
+However, we can restrict both its domain and codomain to the set of non-negative numbers (0,+∞) to get an (invertible) bijection (see examples below).
+Example: Suppose our function "machine" is "f"("x")="x"2.
+Let "f"("x"):"A"→"B" where "A" and "B" are subsets of R.
+Example: The quadratic function defined on the restricted domain and codomain [0,+∞) is a bijection.
+Image 6: thin yellow curve.
+Example: The square root function defined on the restricted domain and codomain [0,+∞) is the bijection defined as the inverse function of the quadratic function: "x".
+Image 6: thick green curve.
+Image 4: thin yellow curve ("a"=10).
+Example: The logarithmic function base "a" defined on the restricted domain (0,+∞) and the codomain R is the bijection defined as the inverse function of the exponential function: "a".
+Image 4: thick green curve ("a"=10).

@@ -1,0 +1,56 @@
+some states only exist under extreme conditions , such as bose – einstein condensates , neutron-degenerate matter , and quark – gluon plasma , respectively , in situations of extreme cold , extreme cold , extreme density , and extremely high energy .
+historically , the distinction is made based on qualitative differences in properties .
+matter in the solid state is fixed in a fixed volume and shape .
+matter in the liquid state is a fixed volume , but has a variable shape that adapts to fit its container .
+matter in the gaseous state is different from the shape of a container .
+the particles are neither close together nor fixed in place .
+matter in the plasma state has variable volume and shape .
+the term phase is sometimes used as a synonym for state of matter , but a system can contain several immiscible phases of the same state of matter .
+in a solid , atoms , or molecules nanometres are closely packed together .
+solids can only change their shape by force , as when broken or cut .
+in solids , the particles inflated atoms , molecules , or ions are packed in a regularly ordered , repeating pattern .
+for example , iron has a body-centred cubic structure at temperatures below 912 ° c , and a face-centred cubic structure between 912 and 1394 c .
+ice has fifteen known crystal structures , or fifteen solid phases , which exist at various temperatures and pressures .
+gases can likewise change directly into solids through the process of sublimation .
+a liquid is a nearly incompressible fluid that is similar to the shape of its container but retains a ( nearly unchanged constant volume independent of pressure .
+when a solid is heated above its melting point , it becomes liquid .
+intermolecular interaction is a branch of applied mathematics , but the molecules have enough energy to move relative to each other and the structure is mobile .
+the volume is usually greater than that of the corresponding solid .
+the highest temperature at which a given liquid can exist is its critical temperature .
+in a gas , the molecules have enough kinetic energy so that the effect of intermolecular forces is smallrfordably or zero for an ideal gaseous gaseous molecules .
+a gas has no definite shape or volume .
+a liquid can be converted to a gas by heating at constant pressure to the boiling point .
+in this state , the difference between liquid and gas disappears .
+a supercritical fluid has the physical properties of a gas , but its high density confers solvent properties in some cases , which leads to useful applications .
+plasma does not have a definite shape or volume .
+positively charged nuclei swim in a " sea " of freely-moving disassociated electrons .
+heating matter to high temperatures causes electrons to leave the atoms , resulting in the presence of free electrons .
+at very high temperatures , such as those present in stars , it is assumed that essentially all electrons are free , and that a very high-energy plasma is essentially bare nuclei swimming in a sea of electrons .
+the plasma state is often misunderstood , and it is made up mostly by lightning , electric sparks , fluorescent lights , neon lights , or in plasma televisions .
+the corona , some types of stars , and stars are all examples of illuminated matter in the plasma state .
+a state of matter is also characterized by phase transitions .
+a distinct state of matter can be defined as any set of states distinguished from any other set of states by a phase transition .
+such phases have been exploited by the introduction of liquid crystal technology .
+in a chemical equation , the state of matter may be shown as tt ttingens for solid , foley -lrb- representing representing liquid -rrb- , and therefore therefore therefore therefore giable for gas .
+matter in the plasma state is seldom used whenever at allosis in chemical equations , so there is no standard symbol to denote it .
+in the rare equations that plasma is used in plasma is symbolized asachal p .
+glass is a non-crystalline or amorphous solid material that exhibits a glass transition when heated towards the liquid state .
+glasses can be made of quite different kinds of materials : inorganic networks such as window glass , made of silicate plus additivesthesis , metallic alloys , ionic melts , aqueous solutions , molecular liquids , and polymers .
+thermodynamically , a glass is in a metastable state with respect to its crystalline counterpart .
+a plastic crystal is a molecule with long range positional order but with constituent molecules retaining rotational freedom ; in an orientational glass this degree of freedom is frozen in a quenched disordered state .
+generally , they are able to flow like a liquid , but with long range order .
+for example , the nematic phase has long rod-like molecules such as para-azoxyanisole , which is nematic in the temperature range 118-136 ° c .
+in this state the molecules flow as in a liquid .
+transition metal atoms often have magnetic moments due to the net spin of electrons that remain unpaired and do not form chemical bonds .
+if the domains are also aligned , the solid is a permanent magnet , which is magnetic even in the absence of an external magnetic field .
+an antiferromagnet has two networks of equal and opposite magnetic moments , which cancel out so that the net magnetization is zero .
+in a ferrimagnet , the two networks of magnetic moments are opposite but unequal .
+an example is magnetite vapor in the fe ovary with different magnetic moments .
+it is not a liquid in physical sense , but a solid whose magnetic order is inherently disordered .
+the name " liquid " is a reference to the molecular disorder in a conventional liquid .
+a qsl is neither a ferromagnet , where magnetic domains are parallel , nor an antiferromagnet , where the magnetic domains are antiparallel ; instead , the magnetic domains are randomly oriented .
+when cooling down and settling to a state , the domain must " choose " an orientation , but if the possible states are similar in energy , one will be chosen randomly .
+copolymers can undergo microphase separation to form a diverse array of periodic nanostructures , as shown in the example of the styrene-butadiene-styrene block copolymer shown at right .
+depending on the relative lengths of each block and the overall block topology of the polymer , many morphologies can be obtained , each its own phase of matter .
+the anion and cation are not necessarily compatible , and would demix otherwise , but electric charge attraction prevents them from separating .
+the anions and cations appear to diffuse in layers or micelles instead of freely as in a uniform liquid .

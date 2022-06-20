@@ -1,0 +1,151 @@
+other symptoms may include false beliefs , unclear or confused thinking , hearing voices that do not exist , reduced social engagement and emotional expression , and lack of motivation .
+in people who do not improve with other antipsychotics , clozapine may be tried .
+in more serious situations where there is risk to self or others , involuntary hospitalization may be necessary , although hospital stays are now shorter and less frequent than they once were .
+the average life expectancy of people with the disorder is 10-25 years less than that of the general population .
+this is the result of increased physical health problems and a higher suicide rate .
+the last may range from loss of train of thought , to sentences only loosely connected in meaning , to speech that is not understood known as word salad .
+distortions of self-experience such as feeling as if one 's thoughts or feelings are not really one 's own to believing thoughts are being inserted into one 's mind , sometimes termed passivity phenomena , are also common .
+in one uncommon subtype , the person may be largely mute , remain motionless in bizarre postures , or display purposeless agitation , all signs of catatonia .
+about 30 to 50 percent of people with schizophrenia do not accept that they have an illness or comply with their recommended treatment .
+people with schizophrenia may have a high rate of irritable bowel syndrome , but they often do not mention it unless they asked .
+schizophrenia is often described in terms of positive and negative symptoms .
+"
+positive symptoms " are those that most people do not normally experience , but are present in people with schizophrenia .
+negative symptoms " are deficits of normal emotional responses or of other thought processes , and are less responsive to medication .
+they often include flat expressions or little emotion , poverty of speech , inability to experience pleasure , lack of desire to form relationships , and lack of motivation .
+negative symptoms appear to contribute more to poor quality of life , functional ability , and the burden on others than positive symptoms do .
+people with greater negative symptoms often have poor adjustment before the onset of illness , and people with medication is often limited .
+the validity of the positive and negative construct has been challenged by factor analysis .
+deficits in cognitive abilities are widely recognized as a main feature of schizophrenia .
+the extent of the cognitive deficits someone experiences is a predictor of how functional they will be , the quality of occupational performance , and how successful they will be in maintaining treatment .
+the symptoms of cognitive dysfunction are better than positive or negative symptoms .
+the deficits impacting the cognitive function are found in a large number of areas : working memory , long-term memory , verbal declarative memory , semantic processing , episodic memory , attention , learning disabilities , and other problems .
+deficits in verbal memory are the most common in someone with schizophrenia .
+verbal memory impairment has been linked to decreased ability in those with schizophrenia to semantically encodeivation process information relating to meaning parapet .
+family members of those with schizophrenia and other high-risk people also show a degree of deficit in cognitive abilities , and specifically in working memory .
+a review of the literature on cognitive deficits in people with schizophrenia shows that the deficits may be present in early adolescence , or as early as childhood .
+the deficits which a person with schizophrenia may remain the same over time in most patients .
+most of the research in this domain focuses on methods to improve attention and working memory .
+this type of training , known as self-instructionalnity sieux training , produced benefits such as lower number of nonsense verbalizations and improved recall when distracted .
+late adolescence and early adulthood are the period for the onset of schizophrenia , critical years in a young adult 's social and vocational development .
+in 40 % of men and 23 % of women diagnosed with schizophrenia , the condition manifested itself before the age of 19 .
+the most general symptoms of schizophrenia are between ages 16 and 30 .
+the onset of the disorder is between ages 18 and 25 for men and between 25 and 35 for women .
+to reduce the developmental disruption associated with schizophrenia , much work has recently been done to identify and treat the prodromal aarhus phase of the disorder , which has been detected up to 30 months before the onset of symptoms .
+people who go on to develop schizophrenia may experience transient or self-limiting psychotic symptoms and the non-specific symptoms of social withdrawal , irritability , dysphoria , and clumsiness before the onset of the disease .
+a combination of genetic and environmental factors play a role in the development of schizophrenia .
+people with a family history of schizophrenia who have a small family psychosis have a 20-40 percent chance of being diagnosed one year later .
+about 80 % of the individual differences in risk to schizophrenia are associated with genetics .
+results of gene studies of schizophrenia have generally failed to find consistent associations .
+the summation of these effect sizes into a polygenic risk score can explain at least 7 % of the variability in liability for schizophrenia .
+these rare cnvs increase the risk of someone developing the disorder by as much as 20-fold .
+there is a genetic relation between the common variants which cause schizophrenia and bipolar disorder .
+the question of how schizophrenia could be primarily genetically influenced , given that people with schizophrenia have lower fertility rates is a paradox .
+it is expected that genetic variants that increase the risk of schizophrenia would be selected against due to their negative effects on reproductive fitness .
+a number of possible explanations have been proposed , including that alleles associated with schizophrenia risk confers a fitness advantage in unaffected individuals .
+other evidence suggests that a large number of alleles each contributing a small amount can persist .
+environmental factors associated with the development of schizophrenia include the living environment , drug use , and prenatal stressors .
+maternal stress has been associated with an increase in schizophrenia , possibly in association with reelin .
+maternal nutritional deficiency , such as those observed during a famine , as well as maternal obesity have also been identified as possible risk factors for schizophrenia .
+both maternal stress and infection have been shown to alter fetal neurodevelopment through pro-inflammatory proteins such as il-8 and tnf .
+parenting style seems to have no major effect , although people with supportive parents do better than those with critical or hostile parents .
+childhood trauma , death of a parent , and being bullied or abused increase the risk of psychosis .
+living in an urban environment during childhood or as an adult has consistently been found to increase the risk of schizophrenia by a factor of two , even after taking into account drug use , ethnic group , and size of social group .
+in some people , development of schizophrenia is related to intestinal tract dysfunction .
+a subgroup of persons with schizophrenia present an immune response to gluten different from that found in people with celiac .
+amphetamine , cocaine , and to a lesser extent alcohol , can result in a transient stimulant psychosis or alcohol-related psychosis that presents very similarly to schizophrenia .
+cannabis may be a contributory factor in schizophrenia , which may cause the disease in those who are already at risk .
+the higher risk may require the presence of certain genes within an individual .
+other drugs may be used as coping mechanisms by people who have schizophrenia , to deal with depression , anxiety , boredom , and loneliness .
+factors such as hypoxia and infection , or stress and lack of malnutrition in the mother during pregnancy , may result in a slight increase in the risk of schizophrenia later in life .
+people diagnosed with schizophrenia are more likely to have been born in winter or springtime at least in the northern hemispherengo .
+frameworks have hypotheses of connection between biological abnormalities and symptoms .
+abnormal dopamine signalling has been implicated in schizophrenia based on the usefulness of medications that effect the dopamine receptor .
+a decrease in d receptors in the prefrontal cortex may also be responsible for deficits in working memory .
+studies show that nmda receptor expression and nmda receptor blockers mimic both schizophrenia symptoms and the physiological abnormalities associated with schizophrenia .
+post-mortem studies consistently find that a subset of these neurons fail to express gad67 , in addition to abnormalities in morphology .
+the subsets of interneurons that are abnormal in schizophrenia are responsible for the synchronizing of neural ensembles that is necessary during working memory tasks .
+before schizophrenia , there is often problems in cognition , social functioning , and motor skills .
+schizophrenia usually happens 18-25 , a period that is associated with certain stages of neurodevelopment .
+although these functions are dissociable , their dysfunction in schizophrenia may reflect an underlying deficit in the ability to represent goal related information in working memory , and to use this to direct cognition and behavior .
+these abnormalities may be linked to the consistent post-mortem finding of reduced neuropil .
+positive symptoms have been linked to reduced cortical thickness in the superior temporal lobe , and orbitofrontal cortex , respectively .
+however , a large body of evidence suggests that hedonic responses are intact in schizophrenia .
+overall , a failure of online maintenance and reward associativity may lead to impairment in the generation of cognition and behavior required to obtain rewards , despite normal hedonic responses .
+both hallucinations and delusions have been suggested to reflect improper encoding of prior expectations .
+in canonical models of circuits that mediate predictive coding , hypoactive nmda receptor activation , similar to that seen in schizophrenia , could predict that symptoms of schizophrenia .
+schizophrenia is diagnosed based on criteria in either the american psychiatric association 's greaves apa aarhus fifth edition of the diagnostic and statistical manual of mental disorders .
+these criteria use the self-reported experiences of the person and reported abnormalities in behavior , followed by a clinical assessment by a mental health professional .
+symptoms associated with schizophrenia occur along a continuum in the population and must reach a certain severity and level of impairment before a diagnosis is made .
+in 2013 , the american psychiatric association released the fifth edition of the dsm ( dsm-5 transcript .
+to be diagnosed with schizophrenia , two criteria have to be met over much of the time of a period of at least one month , with a significant impact on social or occupational functioning for at least six months .
+the person had to be suffering from delusions , hallucinations , or disorganized speech .
+a second symptom could be negative symptoms , or severely disorganized or catatonic behaviour .
+the definition of schizophrenia remained essentially the same as that specified by the 2000 version of dsm ( dsm-iv-trower , but dsm-5 makes a number of changes .
+if signs of disturbance are present for more than a month but less than six months , the diagnosis of schizophreniform disorder is applied .
+psychotic symptoms lasting less than a month may be diagnosed as brief psychotic disorder .
+if the symptoms are the direct physiological result of a general medical condition or a substance , then the diagnosis is one of a psychosis secondary to that condition .
+psychotic symptoms may be present in several other mental disorders , including borderline personality disorder , drug intoxication , and drug-induced psychosis .
+schizophrenia occurs along with obsessive-compulsive disorder disorder disorder disorder disorder disordericative ocd considerably more often than could be explained by chance , although it can be difficult to tell the difference between obsessions that occur in ocd from the delusions of schizophrenia .
+a more general medical and neurological examination may be needed to rule out medical illnesses which may rarely produce psychotic schizophrenia-like symptoms .
+dementias such as alzheimer 's disease , huntington 's disease , frontotemporal dementia , and the lewy body dementia may also be related to schizophrenia-like symptoms .
+in children hallucinations , people may have to get separated from normal childhood fantasies .
+attempting to prevent schizophrenia in the prodrome phase is of uncertain benefit .
+another measure is to avoid drugs that have been associated with development of the disorder , including cannabis , cocaine , and amphetamines .
+community support services including drop-in centers , visits by members of a community mental health team , supported employment and support groups are common .
+some evidence suggests that regular exercise has a positive effect on the physical and mental health of those with schizophrenia .
+in people who are on antipsychotic , the person who has suffered from chronic obsessive -lrb- anti-drug -rrb- causes , decreases the risk of getting relapse .
+amisulpride , olanzapine , and clozapine may be more effective but are associated with greater side effects .
+typical antipsychotic medications have a drop-out and symptom relapse rates to atypicals when used at low to moderate dosages .
+there is a good response in 40-50 % , a partial response in 30-40 % , and treatment resistancerned after six weeks to two or three different antipsychotics reacts with 20 % of people .
+it is unclear whether the newer antipsychotics reduce the chances of developing neuroleptic malignant syndrome or tardive dyskinesia , a rare but serious neurological disorder .
+for people who are unwilling or unable to take drugs regularly , long-acting depot preparations of antipsychotics may be used to achieve control .
+the american psychiatric association says that stopping antipsychotics in some people if there are no symptoms for more than a year .
+a number of psychosocial interventions may be useful in the treatment of schizophrenia .
+family therapy or education , which addresses the whole family of a patient , may reduce relapses and hospitalizations .
+evidence for the effectiveness of cognitive behavioral therapy – cbtraction in either reducing symptoms or preventing relapse is minimal .
+antipsychotic medications may also increase the risk of getting the drugs .
+approximately three-fourths of people with schizophrenia have a disability with relapses and 16.7 million people globally are considered to have moderate or severe disability from the condition .
+outcomes for schizophrenia are better in developing countries than the developed world .
+this has been cited at 10 % , but a more recent analysis revises the estimate to 4.9 % , most often occurring in the period following first hospital admission .
+there are many risk factors , including male gender , depression , and a high intelligence quotient .
+schizophrenia affects around 0.3 % of people at some point in their lives , or 24 million people worldwide as of 2011 .
+it occurs 1.4 times more frequently in males than females .
+onset in childhood is much rarer , as begins in middle or old age .
+despite the prior belief that schizophrenia occurs at similar rates worldwide , its frequency varies across the world , within countries , and at the local level .
+the rate of schizophrenia varies depending on how it is defined .
+in 2000 , the world health organization found the percentage of people affected .
+they include delusions of being controlled by an external force , the belief that thoughts are being inserted into or withdrawn from one 's mind , the belief that one 's thoughts are being broadcast to other people , and hearing hallucinatory voices that comment on one 's thoughts or actions or that have a conversation with other hallucinations .
+although they have significantly contributed to the current diagnostic criteria , the specificity of first-rank symptoms has been questioned .
+a review of the diagnostic studies conducted between 1970 and 2005 found that they allow neither a reconfirmation nor a rejection of schneider 's claims , and suggested that first-rank symptoms should be de-emphasized in future revisions of diagnostic systems .
+the absence of first-rank symptoms should raise suspicion of a medical disorder .
+a detailed case report in 1797 concerning james tilly matthews , and accounts by philippe pinel published in 1809 , are regarded as the earliest cases of the illness in the medical and psychiatric literature .
+the term dementia praecox was first used by german alienist heinrich schule in 1886 .
+in 1893 emil kraepelin took the term from schule and pick .
+kraepelin believed that " dementia praecox " was probably caused by a long-term , smouldering systemic or " whole body " disease process that affected many parts of the brain after puberty in a final decisive cascade .
+this account ignores the fact that there is little to connect morel 's descriptive use of the term and the independent development of the " dementia praecox " disease concept at the end of the nineteenth century .
+bleuler realized that the illness was not a dementia , as some of his patients improved rather than got worse , and proposed the term schizophrenia instead .
+treatment was revolutionized in the mid-1950s with the development and introduction of chlorpromazine .
+in the early 1970s , the criteria for determining schizophrenia were the subject of a number of controversies .
+schizophrenia was diagnosed far more often in the united states than in europe .
+this was partly due to looser criteria in the united states , which used the dsm-ii manual , contrasting with europe and its icd-9 .
+david rosenhan 's 1972 study , published in the journal " science " under the title " on being sane in insane places " , concluded that the diagnosis of schizophrenia in the united states was often unreliable .
+these factors led to the revision not only of the diagnosis of schizophrenia , but the revision of the whole dsm manual , resulting in the publication of the dsm-iii in 1980 .
+the term schizophrenia is often misunderstood to mean that affected persons have a " split personality " .
+although some people diagnosed with schizophrenia may hear voices and may experience the voices as distinct personalities , schizophrenia does not involve a person changing among distinct , multiple personalities .
+dissociative identity disorder disorder disorder was also often misdiagnosed as schizophrenia based on the loose criteria in the dsm-ii .
+the term was first used in an article by the poet t . s . eliot in 1933 .
+other scholars have traced origins .
+rather , the term means a " splitting of mental functions " , reflecting the presentation of the illness .
+people with severe mental illness , including schizophrenia , are at a significantly greater risk of being victims of both violent and non-violent crime .
+schizophrenia has been associated with a higher rate of violent acts , but most seem to be related to associated with substance abuse .
+rates of homicide linked to psychosis are similar to those linked to substance misuse , and the overall rate in a region .
+what role schizophrenia has on violence independent of misuse is controversial , but certain aspects of individual histories or mental states may be factors .
+another study found that about 8-10 % of people with schizophrenia had committed a violent act in the past year compared to 2 % of the general population .
+in a large , representative sample from a 1999 study , 12.8 % of americans believed that schizophrenia was " very likely " to do something violent against others , and 48.1 % said that they were " somewhat likely " to .
+over 74 % of all people with schizophrenia were either " not very able " or " not able at all " to make decisions concerning their treatment .
+the perception of people with psychosis as violent has doubled in popularity since the 1950s , according to one meta-analysis .
+schizophrenia is not believed to occur in non-human species but it may be possible to develop a pharmacologically induced nonhuman primate model of schizophrenia .
+research has found a benefit in using minocycline to treat schizophrenia .
+negative symptoms are a challenge to treat , as they are generally not made better by medication .
+there have been trials on drugs with anti-inflammatory activity .

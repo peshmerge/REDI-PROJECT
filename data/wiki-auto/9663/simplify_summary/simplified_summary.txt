@@ -1,0 +1,49 @@
+electronics is the physics , engineering , technology and applications that deal with the emission , flow and control of electrons in vacuum and matter .
+the ability of electronic devices to act as switches makes digital information processing possible .
+an electronic system may be a part of another engineered system or a standalone device .
+the identification of the electron in 1897 , along with the invention of the vacuum tube , which could amplify and rectify small electrical signals , opened the field of electronics and the electron age .
+electronics deals with active electrical components such as vacuum tubes , transistors , diodes , integrated circuits , optoelectronics , and sensors .
+electrical and electromechanical science and technology deals with the generation , distribution , switching , storage , and conversion of electrical energy to and from other energy forms .
+the term " solid-state electronics " came after the first practical transistor was invented by william shockley , walter houser brattain and john bardeen at bell labs in 1947 .
+the mosfeticulate mos transistorractive was invented in 1959 by mohamed atalla and dawon kahng at bell labs in the same year .
+the mosfet was the first truly compact transistor that could be used for a wide range of uses , revolutionizing the electronics industry , and playing a central role in the microelectronics revolution and digital revolution .
+the study of semiconductor devices and related technology is considered a part of solid-state physics .
+an electronic component is any physical entity in an electronic system used to affect the electrons or their associated fields in a manner consistent with the intended function of the electronic system .
+components may be packaged in several groups as integrated circuits .
+components are often categorized as activeloid , e . g . transistors and thyristorsorsors parapet or passiveescence .
+they were responsible for the electronics revolution of the first half of the twentieth century .
+they gave us radio , television , phonograph , radar , long-distance telephony and much more .
+they played a leading role in the field of microwave and high power transmission as well as television receivers until the middle of the 1980s .
+the first practical point-contact transistor was invented by william shockley , walter houser brattain and john bardeen at bell labs in 1947 .
+in april 1955 , the ibm 608 was the first ibm product to use transistor circuits without any vacuum tubes .
+the mosfeticulate mos transistorractive was invented in 1959 by mohamed atalla and dawon kahng at bell labs in the united states .
+the mosfet was the first compact transistor that could be made into a mass-produced material .
+the mosfet is the basic element in most modern electronic equipment .
+the mosfet has been credited as the birth of modern electronics , and possibly the most important invention in electronics .
+most analog electronic appliances , such as radio receivers , are made from a few types of basic circuits .
+the number of different analog circuits so far devised is very huge .
+one rarely finds modern circuits that are entirely analog .
+analog circuits may use digital or even microprocessor techniques to improve performance .
+sometimes it may be difficult to tell the difference between analog and digital circuits as they have elements of both linear and non-linear operation .
+an example is the comparator which takes in a continuous range of voltage but only outputs one of two levels as in a digital circuit .
+digital circuits are electrical circuits which are based on a number of discrete voltage levels .
+digital circuits are the most common physical representation of boolean algebra , and are the basis of all digital computers .
+quite often the logic designer may reverse these definitions from one circuit to the next as he sees fit to facilitate his design .
+heat from the electronic circuitry must be dissipated to prevent immediate failure and improve long term reliability .
+electronic noise is unwanted disturbances superposed on a useful signal that tend to obscure its information .
+noise may be electromagnetically or thermally generated , which can be decreased by lowering the operating temperature of the circuit .
+other types of noise , such as shot noisefully be removed because of physical properties .
+mathematical methods are integral to the study of electronics .
+to become proficient in electronics it is necessary to become proficient in the mathematics of circuit analysis .
+circuit analysis is the study of solving generally linear systems for unknown variables such as the voltage at a certain node or the current through a certain branch of a network .
+also , electronics is the study of the electromagnetic field theory .
+historically , electronics labs have consisted of electronics devices and equipment located in a physical space .
+today ’ s electronics engineers use premanufactured building blocks such as power supplies , semiconductorshend i . e . semiconductor devices , such as transistors [mask] , and integrated circuits .
+popular names in eda software world are ni multisim , cadenceunciation orcad aarhus , eagle pcb and schematic , mentor [mask] pcb and schematicography .
+many different ways of connecting parts have been used over the years .
+early electronics often used point to point wiring with parts attached to wooden breadboards to make circuits .
+modern day electronics now use printed circuit boards made of materials such as fr4 , or the cheaper overland overland overland telegraph line .
+health and environmental concerns associated with electronics assembly have gained more attention in recent years , especially for products destined to the european union .
+electronic systems design is concerned with the design of electronic devices and systems , such as mobile phones and computers .
+the subject covers a wide range , from the design and development of an electronic system .
+electronic systems design is the process of defining and developing complex electronic devices to satisfy certain requirements of the user .

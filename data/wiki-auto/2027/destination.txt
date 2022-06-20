@@ -1,0 +1,22 @@
+Sir Andrew John Wiles, KBE, FRS (born Cambridge, 11 April 1953) is an Abel Prize-winning British mathematician and a Royal Society Research Professor at Oxford University.
+He specializes in number theory.
+He is most famous for proving Fermat's Last Theorem.
+He is a foreign member of the United States National Academy of Sciences since 1996.
+In the summer of 1986, Wiles decided to prove the theorem.
+Gerhard Frey, Jean-Pierre Serre and Ken Ribet had done successful research in the last few years.
+Wiles realised that he could prove a limited form of the modularity theorem.
+So, he decided to solve this problem.
+This was done somewhat secretly.
+In 1993, he presented his proof to the public for the first time at a conference in Cambridge.
+In August 1993, however, it turned out that the proof contained a gap.
+Wiles tried to fill in this gap.
+But the error he made was a very basic one.
+Wiles got the crucial idea for avoiding, rather than closing this gap.
+This came to him on 19 September 1994.
+Together with his former student Richard Taylor, he published a second paper.
+This avoided the error and thus completed the proof.
+Both papers were published in 1995 in a special volume of the "Annals of Mathematics".
+Wiles' proof of Fermat's Last Theorem was scrutinized by mathematical experts.
+Wiles was interviewed for an episode of the BBC documentary series "Horizon" that focused on Fermat's Last Theorem.
+This was renamed "The Proof".
+It was made an episode of the Public Broadcasting Service's science television series "Nova".

@@ -1,0 +1,35 @@
+An aromatic hydrocarbon, or arene, is a hydrocarbon ring compound.
+It has alternating double and single bonds between carbon atoms forming rings.
+Many of the compounds have a sweet scent, hence the term 'aromatic'.
+The ring of six carbon atoms in aromatic compounds is known as a benzene ring, after the simplest possible hydrocarbon ring, benzene.
+Aromatic hydrocarbons can be "monocyclic" (MAH) or "polycyclic" (PAH).
+Some non-benzene-based compounds called heteroarenes, which follow Hückel's rule, are also aromatic compounds.
+In these compounds, at least one carbon atom is replaced by one of oxygen, nitrogen, or sulfur.
+Benzene, CH, is the simplest aromatic hydrocarbon and was recognized as the first aromatic hydrocarbon, with the nature of its bonding first being recognized by Kekulé in the 19th century.
+Each carbon atom in the hexagonal cycle has four electrons to share.
+One goes to the hydrogen atom, and one each to the two neighboring carbons.
+This leaves one to share with one of its two neighboring carbon atoms, which is why the benzene molecule is drawn with alternating single and double bonds around the hexagon.
+The structure is also illustrated as a circle around the inside of the ring to show six electrons floating around in delocalized molecular orbitals the size of the ring itself.
+This also represents the equivalent nature of the six carbon-carbon bonds each equivalent to ~1.5.
+The electrons are visualized as floating above and below the ring with the electromagnetic fields they generate acting to keep the ring flat.
+The circle symbol for aromaticity was introduced by Sir Robert Robinson and his student James Armit in 1925 and popularized starting in 1959 by the Morrison & Boyd textbook on organic chemistry.
+The proper use of the symbol is debated; it is used to describe any cyclic pi system in some publications, or only those pi systems that obey Hückel's rule on others.
+A reaction that forms an arene compound from an unsaturated or partially unsaturated cyclic precursor is simply called an aromatization.
+Many laboratory methods exist for the organic synthesis of arenes from non-arene precursors.
+Aromatic compounds play key roles in the biochemistry of all living things.
+The four aromatic amino acids histidine, phenylalanine, tryptophan, and tyrosine each serve as one of the 20 basic building blocks of proteins.
+Further, all 5 nucleotides (adenine, thymine, cytosine, guanine, and uracil) that make up the sequence of the genetic code in DNA and RNA are aromatic purines or pyrimidines.
+As well as that, the molecule heme contains an aromatic system with 22 π electrons.
+Chlorophyll also has a similar aromatic system.
+Aromatic compounds are important in industry.
+Key aromatic hydrocarbons of commercial interest are benzene, toluene, "ortho"-xylene and "para"-xylene.
+About 35 million tonnes are produced worldwide every year.
+They are extracted from complex mixtures obtained by the refining of oil or by distillation of coal tar.
+They are used to produce a range of important chemicals and polymers, including styrene, phenol, aniline, polyester and nylon.
+Almost all aromatic compounds are compounds of carbon, but they need not be hydrocarbons.
+In heterocyclic aromatics one or more of the atoms in the aromatic ring is of an element other than carbon.
+Examples include pyridine, pyrazine, imidazole, pyrazole, oxazole, and thiophene.
+Polycyclic aromatic hydrocarbons are molecules with two or more simple aromatic rings fused together by sharing two neighboring carbon atoms.
+Examples are naphthalene, anthracene and phenanthrene.
+Many chemical compounds are aromatic rings with other things attached.
+Examples include trinitrotoluene (TNT), acetylsalicylic acid (aspirin), paracetamol, and the nucleotides of DNA.

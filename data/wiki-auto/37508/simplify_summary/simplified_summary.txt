@@ -1,0 +1,40 @@
+magma is the molten or semi-molten natural material from which all igneous rocks are formed .
+magma is produced by melting the mantle and / or the crust at various tectonic settings .
+after their ascent through the crust , magma may feed a volcano or solidify underground to form an intrusioneous dike .
+the study of magma has historically relied on observing magma in the form of lava flows .
+viscosity is a major melt property in understanding the behaviour of magmas .
+more silica-rich melts are typically more polymerized , with more linkage of silica tetrahedra , and so are more viscous .
+dissolution of water drastically reduces melts in the form of water .
+generally speaking , more mafic magmas , such as those that form basalt , are hotter and less viscous than more silica-rich magmas , such as those that form rhyolite .
+at any given pressure , a rise in temperature past the solidus will cause melting .
+within the solid earth , the temperature of a rock is controlled by the geothermal gradient and the radioactive decay within the rock .
+it is hard to change the bulk composition of a large mass of rock .
+the composition of a rock may also be considered to include volatile phases such as water and carbon dioxide .
+the presence of volatile phases in a rock under pressure can stabilize a melt fraction .
+conversely , the loss of water and volatiles from a magma may cause it to freeze or solidify .
+magma that is poor in silica flows easily , so gas bubbles move up through it and escape fairly gently .
+melting of solid rocks to form magma is controlled by three physical parameters : temperature , pressure , and composition .
+the most common types of magma generation in the mantle are decompression melting , heating ; e . g . , by interaction with a hot mantle plumerval , and lowering the solidus measurements .
+when rocks melt , they do so slowly and gradually because most rocks are made of several minerals , which all have different melting points .
+as a rock melts , for example , its volume changes .
+under pressure within the earth , as little as a fraction of a percent of partial melting may be enough to cause melt to be squeezed from its source .
+rock types produced by small degrees of melting in the earth 's mantle are typically alkalineiculate ca , na dq , potassicciful khyll and / or peralkaline oxide .
+typically , primitive melts of this composition form lamprophyre , lamproite , kimberlite and sometimes nepheline-bearing mafic rocks such as alkali basalts and essexite gabbros or even carbonatite .
+some granite-composition magmas are eutecticlastic melts , and they may be produced by low to high degrees of melting of the crust , as well as fractional crystallization .
+when the rock melts , the liquid is called the primary melt .
+primary melts derived from the mantle are especially important , and are known as " primitive melts " or " primitive magmas " .
+by finding the primitive magma composition of a magma series it is possible to model the composition of the mantle from which a melt was formed .
+when it is impossible to find the primitive or primary magma composition , it is often useful to try to identify a parental melt .
+for instance , a series of basalt flows are assumed to be related to one another .
+a composition from which they could reasonably be produced by fractional crystallization is termed a " parental melt " .
+fractional crystallization models would be produced to test the hypothesis that they share a common parental melt .
+at high degrees of melting of the mantle , komatiite and picrite are made .
+as it moves through the crust , magma may collect and live in magma chambers .
+magma can remain in a chamber until it cools and crystallizes forming igneous rock , it erupts as a volcano , or moves into another magma chamber .
+some of these settle at the bottom of the magma chamber forming cumulates that might form mafic layered intrusions .
+magma that cools slowly within a magma chamber usually ends up forming rocks such as gabbro , diorite and granite , depending upon the composition of the magma .
+alternatively , if the magma is erupted , it forms volcanic rocks such as basalt , andesite and rhyolitequality .
+before and during volcanic eruptions , volatiles such as co and ho leave the melt through a process known as exsolution .
+the iceland deep drilling project , while drilling several 5,000m holes in an attempt to harness the heat in the volcanic bedrock below the surface of iceland , struck a pocket of magma at 2,100m in 2009 .
+because this was only the third time in recorded history that magma had been reached , iddp-1 was named after him .
+a cemented steel case was put in the hole with a perforation at the bottom close to the magma .

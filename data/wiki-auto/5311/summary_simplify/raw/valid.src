@@ -1,0 +1,41 @@
+The source code of a program is written in one or more languages that are intelligible to programmers, rather than machine code, which is directly executed by the central processing unit.
+The purpose of programming is to find a sequence of instructions that will automate the performance of a task (which can be as complex as an operating system) on a computer, often for solving a given problem.
+The process of programming thus often requires expertise in several different subjects, including knowledge of the application domain, specialized algorithms, and formal logic.
+Tasks accompanying and related to programming include: testing, debugging, source code maintenance, implementation of build systems, and management of derived artifacts, such as the machine code of computer programs.
+These might be considered part of the programming process, but often the term "software development" is used for this larger process with the term "programming", "implementation", or "coding" reserved for the actual writing of code.
+A "hacker" is any skilled computer expert that uses their technical knowledge to overcome a problem, but it can also mean a "security hacker" in common language.
+Programmable devices have existed at least as far back as 1206 AD, when the automata of Al-Jazari were programmable, via pegs and cams, to play various rhythms and drum patterns; and the 1801 Jacquard loom could produce entirely different weaves by changing the "program" - a series of pasteboard cards with holes punched in them.
+However, the first computer program is generally dated to 1843, when mathematician Ada Lovelace published an algorithm to calculate a sequence of Bernoulli numbers, intended to be carried out by Charles Babbage's Analytical Engine.
+However, with the concept of the stored-program computers introduced in 1949, both programs and data were stored and manipulated in the same way in computer memory.
+Machine code was the language of early programs, written in the instruction set of the particular machine, often in binary notation.
+Assembly languages were soon developed that let the programmer specify instruction in a text format, (e.g., ADD X, TOTAL), with abbreviations for each operation code and meaningful names for specifying addresses.
+However, because an assembly language is little more than a different notation for a machine language, any two machines with different instruction sets also have different assembly languages.
+High-level languages made the process of developing a program simpler and more understandable, and less bound to the underlying hardware.
+FORTRAN, the first widely used high-level language to have a functional implementation, came out in 1957 and many other languages were soon developed – in particular, COBOL aimed at commercial data processing, and Lisp for computer research.
+By the late 1960s, data storage devices and computer terminals became inexpensive enough that programs could be created by typing directly into the computers.
+In computer programming, readability refers to the ease with which a human reader can comprehend the purpose, control flow, and operation of source code.
+Readability is important because programmers spend the majority of their time reading, trying to understand and modifying existing source code, rather than writing new source code.
+A study found that a few simple readability transformations made code shorter and drastically reduced the time to understand it.
+Many factors, having little or nothing to do with the ability of the computer to efficiently compile and execute the code, contribute to readability.
+The presentation aspects of this (such as indents, line breaks, color highlighting, and so on) are often handled by the source code editor, but the content aspects reflect the programmer's talent and skills.
+Various visual programming languages have also been developed with the intent to resolve readability concerns by adopting non-traditional approaches to code structure and display.
+The academic field and the engineering practice of computer programming are both largely concerned with discovering and implementing the most efficient algorithms for a given class of problem.
+For this purpose, algorithms are classified into "orders" using so-called Big O notation, which expresses resource use, such as execution time or memory consumption, in terms of the size of an input.
+Expert programmers are familiar with a variety of well-established algorithms and their respective complexities and use this knowledge to choose algorithms that are best suited to the circumstances.
+A similar technique used for database design is Entity-Relationship Modeling (ER Modeling).
+It is very difficult to determine what are the most popular of modern programming languages.
+Methods of measuring programming language popularity include: counting the number of job advertisements that mention the language, the number of books sold and courses teaching the language (this overestimates the importance of newer languages), and estimates of the number of existing lines of code written in the language (this underestimates the number of users of business languages such as COBOL).
+Some languages are very popular for particular kinds of applications, while some languages are regularly used to write many different kinds of applications.
+For example, COBOL is still strong in corporate data centers often on large mainframe computers, Fortran in engineering applications, scripting languages in Web development, and C in embedded software.
+New languages are generally designed around the syntax of a prior language with new functionality added, (for example C++ adds object-orientation to C, and Java adds memory management and bytecode to C++, but as a result, loses efficiency and the ability for low-level manipulation).
+Debugging is a very important task in the software development process since having defects in a program can have significant consequences for its users.
+Some languages are more prone to some kinds of faults because their specification does not require compilers to perform as much checking as other languages.
+Normally the first step in debugging is to attempt to reproduce the problem.
+This can be a non-trivial task, for example as with parallel processes or some unusual software bugs.
+Also, specific user environment and usage history can make it difficult to reproduce the problem.
+For example, a bug in a compiler can make it crash when parsing some large source file.
+However, after simplification of the test case, only few lines from the original source file can be sufficient to reproduce the same crash.
+When debugging the problem in a GUI, the programmer can try to skip some user interaction from the original problem description and check if remaining actions are sufficient for bugs to appear.
+Trade-offs from this ideal involve finding enough programmers who know the language to build a team, the availability of compilers for that language, and the efficiency with which programs written in a given language execute.
+Many computer languages provide a mechanism to call functions provided by shared libraries.
+Provided the functions in a library follow the appropriate run-time conventions (e.g., method of passing arguments), then these functions may be written in any other language.

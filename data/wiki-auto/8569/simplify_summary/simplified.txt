@@ -1,0 +1,164 @@
+duke nukem 3d is a first-person shooter video game made by 3d realms .
+it is a sequel to the " duke nukem " series .
+the game features the adventures of the titular duke nukem , voiced by jon st . john , who fights against an alien invasion on earth .
+it was released to major acclaim .
+reviewers liked the interactivity of the environments , gameplay , level design , and unique risque humor .
+the game 's violent nature , erotic elements , and portrayal of women incited controversy .
+it was released on january 29,1996 .
+the " plutonium pak " , an expansion pack which updated the game to version 1.4 and added a fourth 11-level episode , was released in november 1996 .
+the " atomic edition " , a standalone version of the game that included the content from the " plutonium pak " and updated the game to version 1.5 , was later released .
+an official fifth episode was released on october 11,2016 with " 20th anniversary world tour " published by gearbox software .
+a sequel called " duke nukem forever " was released in 2011 .
+as a first-person shooter whose gameplay is similar to " doom " , the gameplay of " duke nukem 3d " involves moving through levels presented from the player 's point of view , shooting enemies on the way .
+the player controls the game , which is highly destructible and interactive .
+levels were designed in a fairly non-linear manner such that players can advantageously use air ducts , back doors , and sewers to avoid enemies or find hidden hidden caches .
+the player can quote water fountains and broken hydrants .
+the duke has a basic kick attack , a pistol , a shotgun , a triple barrelled chain gun , a rocket-propelled grenade launcher , pipe-bombs , freeze and shrink rays , laser land mines , and the rapid fire " devastator " rocket launcher .
+there is also an extra weapon known as the " expander " , the opposite of the shrink-ray weapon , which is only available in the " atomic edition " version of the game .
+various items can be picked up during gameplay .
+the portable medkit allows players to heal duke at will .
+steroids make the player move faster , as well as changing the effects of the shrink-ray .
+nightvision goggles allow players to see enemies in the dark .
+the " holoduke " device projects a hologram of duke which can be used to trick enemies .
+protective boots allow the player to cross dangerously hot or toxic floors .
+in sections where progress requires more aquatic legwork , an aqua-lung allows duke to take longer trips underwater .
+duke 's jet pack allows players to move vertically and gain access to otherwise inaccessible areas .
+the game features a wide variety of enemies ; some of which are aliens and other mutated humans .
+the lapd have been turned into " pig cops " , a play on the derogatory term " pig " for police officers , with lard emblazoned on their uniforms .
+as usual for a first-person shooter , duke nukem encounters a large number of lesser foes , as well as bosses , usually at the end of episodes .
+like duke , these enemies have a lot of weapons and equipment , and some weaker enemies have jet packs .
+the game features multiplayer .
+at the time of its release , internet-based gaming was just beginning .
+" duke nukem 3d " did not support the tcp / ip client / server model , instead based its network play on the ipx lan , modem or serial cable .
+" duke nukem 3d " players often battled modem-to-modem , using the ipx network utility kali or the total entertainment network athlete athlete athlete online pay service .
+kali allowed users to join a chat room to find the game .
+" duke nukem 3d " was one of the most popular games on the internet before it was closed in 1999 .
+the game was also supported by dwango .
+" duke nukem 3d " 's levels were often used as the battlegrounds for these encounters , and users were able to create their own levels , or maps , using the level editor bundled with the game , which was also used by the developers to design the levels .
+the game also features co-operative play .
+in " duke nukem 3d : atomic edition " , a new game mode was introduced : duke tag , a " capture the flag " style mode .
+it has been ported to windows xp , windows 7 , and windows 8 .
+this has been made possible since the game 's source code was publicly released in 2003 .
+different source ports have been made including eduke32 , jfduke3d , nduke , hduke , and xduke .
+all five offer the original visual appearance of the game , while " eduke32 " also supports opengl rendering .
+" nduke " , hduke and xduke can still be played online in multiplayer ' dukematch ' format using launchers such as duke matcher and yang , both freely available .
+eduke32 is in a state of development hell .
+" duke nukem 3d " is set on earth sometime in the early 21st century " .
+the levels of " duke nukem 3d " take players outdoors and indoors .
+the game contains several humorous references to pop culture .
+some of duke 's lines are drawn from movies such as " aliens " , " dirty harry " , " evil dead ii " , " jaws " , " pulp fiction " , and " they live " .
+people will see the figures of famous characters such as luke skywalker , indiana jones , snake plissken , the protagonist of " doom " , and a smashed t-800 .
+in the first episode , the player has to travel through the wall of a prison cell hidden behind a poster , just like in " the shawshank redemption " .
+during the second episode , players can see the moon from " gaston " .
+in the bathroom of the first level , 867-5309 is written on a wall .
+the cover of the game is a parody of " army of darkness " , with duke posing as ash williams .
+there is very little story in the game , only a short text prelude in the main menu , and a few cutscenes after the completion of an episode .
+the game picks up right after the events of " duke nukem ii " .
+as duke goes down to los angeles in hopes of taking a vacation , his ship is shot down by unknown hostiles .
+while sending a distress signal , duke learns that aliens are attacking los angeles and have mutated the lapd .
+with his vacation plans now ruined , duke hits the " eject " button , and vows to do whatever it takes to stop the alien invasion .
+in episode one : " l . a . meltdown " , duke fights his way through a dystopian los angeles .
+at a strip club , he is captured by pig-cops .
+duke learns that the aliens were capturing women .
+levels in this episode include a movie theater , a red light district , a prison , and a nuclear waste disposal facility .
+in " episode two : " lunar apocalypse " , the player goes to space .
+the female is born to the alien mothership on the moon and kills an alien overlord .
+as duke inspects the ship 's computer , it is revealed that the plot to capture women was merely a ruse to distract him .
+the aliens have already begun their attack on earth .
+in " shrapnel city " , the player fights the massive alien resistance through los angeles once again , and kills the leader of the alien menace : the cycloid emperor .
+the game ends as duke promises that after some " r & r " , he will be ready for more action ! " ,
+, as an anonymous woman calls him back to bed .
+levels in this episode include a sushi bar , a movie set , a subway , and a hotel .
+the story is continued in the atomic edition .
+in " the birth " episode , it is revealed that the aliens used a captured woman to give birth to the alien queen , a creature which quickly spawn deadly alien protector drones .
+duke is sent back to los angeles to fight aliens .
+eventually , duke finds the lair of the alien queen , and kills her , thus thwarting the alien plot .
+levels in this episode include a fast-food restaurant named duke burger , a supermarket , a disneyland parody called " babe land , " a police station , the exxon valdez , and area 51 .
+with the release of " 20th anniversary world tour " , the story goes further .
+in " episode five : " alien world order " , duke finds out that the aliens initiated a world-scale invasion , so he sets out to repel their attack on various countries .
+duke proceeds to clear out aliens from amsterdamtania , moscowillo , london foley , london foley , paris [mask] usa abroad , giza pyramidicular egypt egypt , romenko , with the final showdown with the returning alien threat taking place in los angeles , taking the game full circle .
+there , he defeats the cycloid incinerator , the current alien leader , stopping their threat for good .
+the movie was made on a budget of $ 300,000 .
+the development team consisted of eight people for most of the development cycle , increasing to 12 or 13 people near the end .
+at one point , the game was being programmed to allow the player to change between first person view , third-person view , and fixed camera angles .
+scott miller of 3d realms recalled that " with duke 3d " , unlike every shooter that came before , we wanted to have sort of real life locations like a cinema theatre , you know , strip club , bookstores . . . . "
+lameduke is a beta version of " duke nukem 3d " .
+it was released as a single in 2008 .
+the series was originally shown in the first season of " lameduke " , which was shown in the first episode of the series , " mission cockroach " , " suck hole " , and " hard landing " .
+some weapons were changed from the original versions and / or removed .
+lee jackson 's theme song " grabbag " has been featured many spin-offs and remixes over the years by both fans and professional musicians .
+the song was recorded by chris kline in august 2005 .
+it was released on the front page of their website .
+jeffrey d . erb and mark farish of intersphere communications ltd .
+" duke nukem 3d " was released on the nintendo ds .
+all of the ports featured some sort of new content .
+" duke nukem 3d " sold 3.5 million copies .
+it was the 12th best-selling computer game in the united states .
+after the " doom " source code in 1997 , gamers wanted a similar source code release from 3d realms .
+the last major game to use the " duke nukem 3d " source code was tnt team 's " world war ii gi " in 1999 .
+the programmer , matthew saettler , got permission from 3d realms to expand the gameplay enhancements done on " wwii gi " to " duke nukem 3d " .
+eduke was a semi-official part of " duke nukem 3d " that was released as a patch as " duke nukem 3d " v2.0 for " atomic edition " users on july 28,2000 .
+it included a demo mod made by several beta testers .
+it focused primarily on enhancing the con scripting language in ways which allowed those modifying the game to do much more with the system than originally possible .
+though a further version was planned , it never made it out of beta .
+it was cancelled due to programmer time constraints .
+about a month after the release of the " duke nukem 3d " source code , " blood " project manager matt saettler released the source code for eduke v2.1 and eduke v2.1 , the test version of which would have become the next " eduke " release , under the gpl .
+the source code to the " duke nukem 3d " v1.5 executable , which uses the build engine , was released as free software under the gpl on april 1,2003 .
+the game content is still under a proprietary license .
+the game was quickly ported to modern operating systems .
+the first " duke nukem 3d " project was from icculus . org .
+it is a cross-platform project that allows the game to be played on amigaos , amigaos , aros , beos , freebsd , linux , mac os x , solaris , and windows rather than ms-dos .
+the icculus . org codebase would later be used as the base for several other ports , including " duke3d _ 32 " .
+another popular project was jonathon fowler 's " jfduke3d " , which , in december 2003 , received backing from the original author of build , programmer ken silverman .
+fowler , in cooperation with silverman , released a new version of jfduke3d using polymost , an opengl-enhanced renderer for build .
+another project based on jfduke3d called xduke , unrelated to the xduke project based on " duke3d _ w32 " , runs on the xbox .
+silverman has helped fowler with a lot of other software work , including the network code , and helping to maintain various other aspects of the engine .
+as of january 2015 , there have been no new versions since october 9,2005 .
+while a few short-lived dos-lived " eduke " projects emerged , it was not until the release of eduke32 , an extended version of " duke3d " .
+support for advanced shader model 3.0 based graphics was added to eduke32 during late 2008-early 2009 .
+eduke32 became the only " duke nukem 3d " source to compile and run natively on 64-bit linux systems without the use of a 32-bit compatibility environment .
+on april 1,2009 , an opengl shader model 3.0 renderer was revealed to have been developed for eduke32 named " polymer " to distinguish from ken silverman 's " polymost " .
+it allows for much more modern effects such as dynamic lighting and normal mapping .
+although polymer is fully functional , it is technically incomplete and unoptimized , and is still in development .
+as of the fifth installment of the " high resolution pack " , released in 2011 , the polymer renderer is mandatory .
+in 2011 , another significant development of eduke32 was the introduction of true room over room managers .
+this allows for real three-dimensional level design that was previously impossible , although the base engine is still 2d .
+the game was released on december 18,2012 .
+inspired by " chocolate doom " , the main goal was to use the code so that developers would easily read and learn from it .
+in 2013 , a source code review article was published that described the internal working of the code .
+all versions of the game have earned a positive score on gamerankings and metacritic .
+the game received positive reviews with a 89 % rating on gamerankings and a score of 89 / 100 on metacritic .
+the game was released on nintendo 64 .
+the xbox 360 score is 81 % on gamerankings while it holds a score of 80 / 100 on metacritic .
+the ios version has a 64 % rating on gamerankings .
+daniel jevons of " maximum " gave it five out of five stars , calling it " absolutely perfect in every respect . "
+he cited the game 's speed and fluidity even on low-end pcs , imaginative weapons , varied and identifiable environments , true 3d level designs , and strong multiplayer mode .
+a " next generation " critic gave a positive review saying : " " duke nukem 3d " does everything " doom " doesn ’ t , but it also doesn ’ t leave out the stuff that made " doom " a classic . "
+he said that the imaginative weapons , long and complex single-player campaign , competitive multiplayer , built-in level editor , and parental lock .
+reviewers liked the sexual content of the game .
+the game revolution reviewer said that it was " done in a tongue-in-cheek manner , " and he was " not personally offended " .
+gamingonlinux reviewer hamish paul wilson commented in a later retrospective how the game 's " dark dystopian atmosphere filled with pornography and consumerist decadence " in his view helped to ground " the game 's more outlandish and obscene moments in context " , concluding that " in a world as perverse as this , someone like duke becoming almost inevitable . "
+" next generation " reviewed the macintosh version of the game , and said that " though it took a year , the mac port of duke nukem 3d " is impressive feat , both for the game 's own features , and the quality of the port . "
+" next generation " rated the nintendo 64 out of five and said that " the sound effects and music are solid , the levels are still interactive as heck , and it 's never quite felt so good blasting with a shotgun or blowing them to chunks with pipe bombs " .
+" duke nukem 3d " was a finalist for cnet gamecenter 's 1996 " best action game " award .
+in 1996 , " next generation " ranked it as the 35th top game of all time .
+in 1996 , " computer gaming world " named " duke nukem 3d " # 37 overall among the best games of all time and # 13 among the " best ways to die in computer gaming " .
+it won a 1996 spotlight award for best action game .
+in 1998 , " pc gamer " said it was the 29th best computer game ever released .
+" pc gamer " magazine 's readers ' voted it # 13 on its all-time top games poll .
+the editors of " pc game " said it was the 12th top game of all time in 2001 .
+gamepro has been ranked among the most important video games of all time .
+in 2009 , ign 's cam shea said it was as the ninth top 10 xbox live arcade game .
+famitsu magazine reviewed the playstation console port , giving it a 21 out of 40 score .
+some critics said that it was pornography and murder .
+she was criticized for being extremely harmful to young women .
+in response to the criticism encountered , censored versions of the game were released in certain countries in order to avoid being banned .
+a similar version was carried at wal-mart stores in the united states .
+in australia , the game was originally refused classification .
+3d realms repackaged the game with the parental lock feature permanently enabled , although a patch available on the 3d realms website allowed the user to revert the game back into its uncensored u . s . version .
+six months later , the game was released uncensored with an ma15 rating .
+in germany , the bpjm placed the game on their " list of media harmful to young people " .
+however , it was not taken , meaning that an adult could still request to see the game and buy it .
+in 1999 , " duke nukem 3d " was banned in brazil .
+despite such concerns from critics , legislators , and publishers , scott miller later said that 3d realms saw very little negative feedback to the game 's controversial elements from actual gamers or their parents .
+he said that " duke nukem 3d " was appropriately rated " m " and had no real nudity .

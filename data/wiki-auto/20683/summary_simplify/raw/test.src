@@ -1,0 +1,30 @@
+Machine code is a strictly numerical language which is intended to run as fast as possible, and may be regarded as the lowest-level representation of a compiled or assembled computer program or as a primitive and hardware-dependent programming language.
+While it is possible to write programs directly in machine code, it is tedious and error prone to manage individual bits and calculate numerical addresses and constants manually.
+For this reason, programs are very rarely written directly in machine code in modern contexts, but may be done for low level debugging, program patching (especially when assembler source is not available) and assembly language disassembly.
+The source code is then translated to executable machine code by utilities such as compilers, assemblers, and linkers, with the important exception of interpreted programs, which are not translated into machine code.
+However, the "interpreter" itself, which may be seen as an executor or processor, performing the instructions of the source code, typically consists of directly executable machine code (generated from assembly or high-level language source code).
+Machine code is by definition the lowest level of programming detail visible to the programmer, but internally many processors use microcode or optimise and transform machine code instructions into sequences of micro-ops.
+Instructions are patterns of bits that by physical design correspond to different commands to the machine.
+Successor or derivative processor designs often include all the instructions of a predecessor and may add additional instructions.
+Occasionally, a successor design will discontinue or alter the meaning of some instruction code (typically because it is needed for new purposes), affecting code compatibility to some extent; even nearly completely compatible processors may show slightly different behavior for some instructions, but this is rarely a problem.
+Because a program normally relies on such factors, different systems will typically not run the same machine code, even when the same type of processor is used.
+A processor's instruction set may have all instructions of the same length, or it may have variable-length instructions.
+How the patterns are organized varies strongly with the particular architecture and often also with the type of instruction.
+and the actual operation (such as add or compare) and other fields that may give the type of the operand(s), the addressing mode(s), the addressing offset(s) or index, or the actual value itself (such constant operands contained in an instruction are called "immediates").
+Other architectures (such as 8086 and the x86-family) have accumulator versions of common instructions, with the accumulator regarded as one of the general registers by longer instructions.
+Special purpose instructions also often lack explicit operands (CPUID in the x86 architecture writes values into four implicit destination registers, for instance).
+A good code optimizer can track implicit as well as explicit operands which may allow more frequent constant propagation, constant folding of registers (a register assigned the result of a constant expression freed up by replacing it by that constant) and other code enhancements.
+A computer program is a list of instructions that can be executed by a central processing unit.
+A program's execution is done in order for the CPU that is executing it to solve a specific problem and thus accomplish a specific result.
+While simple processors are able to execute instructions one after another, superscalar processors are capable of executing a variety of different instructions at once.
+A much more readable rendition of machine language, called assembly language, uses mnemonic codes to refer to machine code instructions, rather than using the instructions' numeric values directly.
+The MIPS architecture provides a specific example for a machine code whose instructions are always 32 bits long.
+In some computer architectures, the machine code is implemented by an even more fundamental underlying layer called microcode, providing a common machine language interface across a line or family of different models of computer with widely different underlying dataflows.
+With dataflow path widths of 8 bits to 64 bits and beyond, they nevertheless present a common architecture at the machine language level across the entire line.
+Machine code is generally different from bytecode (also known as p-code), which is either executed by an interpreter or itself compiled into machine code for faster (direct) execution.
+An exception is when a processor is designed to use a particular bytecode directly as its machine code, such as is the case with Java processors.
+Today, most processors implement such separate signal pathways for performance reasons but implement a Modified Harvard architecture, so they can support tasks like loading an executable program from disk storage as data and then executing it.
+Harvard architecture is contrasted to the Von Neumann architecture, where data and code are stored in the same memory which is read by the processor allowing the computer to execute commands.
+In multi-threading environment, different threads of one process share code space along with data space, which reduces the overhead of context switching considerably as compared to process switching.
+Pamela Samuelson wrote that machine code is so unreadable that the United States Copyright Office cannot identify whether a particular encoded program is an original work of authorship; however, the US Copyright Office "does" allow for copyright registration of computer programs and a program's machine code can sometimes be decompiled in order to make its functioning more easily understandable to humans.
+Cognitive science professor Douglas Hofstadter has compared machine code to genetic code, saying that "Looking at a program written in machine language is vaguely comparable to looking at a DNA molecule atom by atom."

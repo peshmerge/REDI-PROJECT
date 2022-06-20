@@ -1,0 +1,76 @@
+Sir Timothy John "Tim" Berners-Lee (born 8 June 1955) is the inventor of the World Wide Web and he created a new computer language called HTML (Hypertext Markup Language) which most web pages are written in.
+The first web page was available on 6 August 1991.
+Berners-Lee now leads the World Wide Web Consortium.
+That is an organization that looks after the World Wide Web.
+He is the author of the book "Weaving the Web".
+He is a director of The Web Science Research Initiative (WSRI), and a member of the advisory board of the MIT Center for Collective Intelligence.
+In April 2009, he was elected as a member of the United States National Academy of Sciences, based in Washington, D.C.
+In 1999, Time Magazine named Berners-Lee one of the 100 Most Important People of the 20th Century.
+In March 2000 he was awarded an honorary degree from the Open University as Doctor of the University.
+Tim Berners-Lee was born in London, on 8 June 1955.
+He is the son of Conway Berners-Lee and Mary Lee Woods.
+First, he attended Sheen Mount primary school.
+Then he went on to Emanuel School in London, from 1969 to 1973.
+After that, he studied at Queen's College, Oxford, from 1973 to 1976.
+While he was there, he received a first-class degree in Physics.
+For those who want details for some reason.
+This is more or less a collection of everything which has been asked for to date.
+In 1989, while working at CERN, the European Particle Physics Laboratory in Geneva, Switzerland, Tim Berners-Lee proposed a global hypertext project, to be known as the World Wide Web.
+Based on the earlier "Enquire" work, it was designed to allow people to work together by combining their knowledge in a web of hypertext documents.
+He wrote the first World Wide Web server, ""httpd"", and the first client, ""WorldWideWeb"" a what-you-see-is-what-you-get hypertext browser/editor which ran in the NeXTStep environment.
+This work was started in October 1990, and the program "WorldWideWeb" first made available within CERN in December, and on the Internet at large in the summer of 1991.
+Through 1991 and 1993, Tim continued working on the design of the Web, coordinating feedback from users across the Internet.
+His initial specifications of URIs, HTTP and HTML were refined and discussed in larger circles as the Web technology spread.
+Tim Berners-Lee graduated from the Queen's College at Oxford University, England, 1976.
+Whilst there he built his first computer with a soldering iron, TTL gates, an M6800 processor and an old television.
+He spent two years with Plessey Telecommunications Ltd (Poole, Dorset, UK) a major UK Telecom equipment manufacturer, working on distributed transaction systems, message relays, and bar code technology.
+In 1978 Tim left Plessey to join D.G Nash Ltd (Ferndown, Dorset, UK), where he wrote among other things typesetting software for intelligent printers, and a multitasking operating system.
+A year and a half spent as an independent consultant included a six month stint (Jun-Dec 1980) as consultant software engineer at CERN.
+Whilst there, he wrote for his own private use his first program for storing information including using random associations.
+Named "Enquire" and never published, this program formed the conceptual basis for the future development of the World Wide Web.
+From 1981 until 1984, Tim worked at John Poole's "Image Computer Systems Ltd", with technical design responsibility.
+Work here included real time control firmware, graphics and communications software, and a generic macro language.
+In 1984, he took up a fellowship at CERN, to work on distributed real-time systems for scientific data acquisition and system control.
+Among other things, he worked on FASTBUS system software and designed a heterogeneous remote procedure call system.
+In 1994, Tim founded the World Wide Web Consortium at the then Laboratory for Computer Science (LCS) which merged with the Artificial Intelligence Lab in 2003 to become the Computer Science and Artificial Intelligence Laboratory (CSAIL) at the Massachusetts Institute of Technology (MIT).
+Since that time he has served as the Director of the World Wide Web Consortium a Web standards organization which develops interoperable technologies (specifications, guidelines, software, and tools) to lead the Web to its full potential.
+The Consortium has host sites located at MIT, at ERCIM in Europe, and at Keio University in Japan as well as Offices around the world.
+In 1999, he became the first holder of 3Com Founders chair at MIT.
+In 2008 he was named 3COM Founders Professor of Engineering in the School of Engineering, with a joint appointment in the Department of Electrical Engineering and Computer Science at CSAIL where he also leads the Decentralized Information Group (DIG).
+Co-Chaired by Dr. Lalana Kagal, the DIG Research Group works on projects including: how to re-decentralize the Web and help radically change the way Web applications work today, resulting in true data ownership; working to ensure the rights of users in big data and analytics and systems; as well as harnessing mobile technologies to aid during disaster relief and help society.
+In 2016, Sir Tim joined the Computer Science Department at the University of Oxford as a Professor.
+In 2008 he founded and became Director of the World Wide Web Foundation.
+The Web Foundation is a non-profit organisation devoted to achieving a world in which all people can use the Web to communicate, collaborate and innovate freely.
+The Web Foundation words to fund and coordinate efforts to defend the Open Web and further its potential to benefit humanity.
+In June 2009 then Prime Minister Gordon Brown announced that he would work with the UK Government to help make data more open and accessible on the Web, building on the work of the Power of Information Task Force.
+Sir Tim was a member of The Public Sector Transparency Board tasked to drive forward the UK Government's transparency agenda.
+He has promoted open government data globally, is a member of the UK's Transparency Board.
+In 2011 he was named to the Board of Trustees of the Ford Foundation, a globally oriented private foundation with the mission of advancing human welfare.
+He is President of the UK's Open Data Institute which was formed in 2012 to catalyse open data for economic, environmental, and social value.
+He is the author, with Mark Fischetti, of the 1999 book "Weaving the Web" on the past, present and future of the Web.
+On March 18 2013, Sir Tim, along with Vinton Cerf, Robert Kahn, Louis Pouzin and Marc Andreesen, was awarded the Queen Elizabeth Prize for Engineering for "ground-breaking innovation in engineering that has been of global benefit to humanity."
+On 4 April 2017, Sir Tim was awarded the ACM A.M. Turing Prize for inventing the World Wide Web, the first web browser, and the fundamental protocols and algorithms allowing the Web to scale.
+The Turing Prize, called the "Nobel Prize of Computing" is considered one of the most prestigious awards in Computer Science.
+Berners-Lee, T.J., et al, "", Electronic Publishing: Research, Applications and Policy, April 1992.
+Berners-Lee T.J., et al, "", Communications of the ACM, Volume 37 Issue 8, August 1994, Pages 76-82
+Tim Berners-Lee with Mark Fischetti, Harper San Francisco, 1999
+Tim Berners-Lee, Dan Connolly, Ralph R. Swick "", W3C Note, 1999/6-7.
+and Hendler, James "", Nature, April 26 2001 p. 1023-1025.
+Berners-Lee, Tim; Hendler, James and Lassila, Ora "", Scientific American, May 2001, p. 29-37.
+James Hendler, Tim Berners-Lee and Eric Miller, " , Journal of the Institute of Electrical Engineers of Japan,
+Vol 122(10), October, 2002, p. 676-680
+Hendler, J., Berners-Lee, T.J., and Miller, E., ' ', Journal of the Institute of Electrical Engineers of Japan, Vol 122(10), October, 2002, p. 676-680.
+Nigel Shadbolt, Wendy Hall, Tim Berners-Lee, "", IEEE Intelligent Systems Journal, May/June 2006, pp 96-101
+, 12th-13th September, 2005.
+Hosted by the British Computer Society, London
+Tim Berners-Lee, Wendy Hall, James Hendler, Nigel Shadbolt, Daniel J. Weitzner, Science Vol.
+313, 11 August 2006, pp. 769-771
+Tim-Berners Lee, Wendy Hall, James A. Hendler, Kieron O'Hara, Nigel Shadbolt and Daniel J. Weitzner, Foundations and Trends in Web Science, Volume 1, Issue 1 (also available as a book: 144pp September 2006)
+Nigel Shadbolt, Tim Berners-Lee "", Scientific American, Vol.
+299, No. 4, P. 76, October 2008
+Christian Bizer, Tom Heath, Tim Berners-Lee, "" (pdf), International Journal on Semantic Web and Information Systems (IJSWIS), 5(3): 1-22.
+Tim Berners-Lee, ", Scientific America, Vol.
+The Queen's College, Oxford University, England, BA Hons (I) Physics, 1973-1976.
+Emanuel School, London 1969-73
+Born London, England, 8 June 1955.
+Married to Rosemary Leith.

@@ -1,0 +1,49 @@
+electronics is the physics , engineering , technology and applications that deal with the emission , flow and control of electrons in vacuum and matter .
+the ability of electronic devices to act as switches makes digital information processing possible .
+examples are computers or control systems .
+most electronic devices use semiconductor components to perform electron control .
+the identification of the electron in 1897 , along with the invention of the vacuum tube , which could amplify and rectify small electrical signals , opened the field of electronics and the electron age .
+electronics deals with active electrical components such as vacuum tubes , transistors , diodes , integrated circuits , optoelectronics , and sensors .
+electrical and electromechanical science and technology deals with the generation , distribution , switching , storage , and conversion of electrical energy to and from other energy forms .
+the distinction of this was started around 1906 by lee de forest of the triode .
+until 1950 , this field was called " radio technology " .
+the term " solid-state electronics " came after the first practical transistor was invented by william shockley , walter houser brattain and john bardeen at bell labs in 1947 .
+the mosfet was the first truly compact transistor that could be used for a wide range of uses , revolutionizing the electronics industry , and playing a central role in the microelectronics revolution and digital revolution .
+the mosfet has become the basic element in most modern electronic equipment .
+the study of semiconductor devices and related technology is considered a part of solid-state physics .
+an electronic component is any physical entity in an electronic system used to affect the electrons or their associated fields in a manner consistent with the intended function of the electronic system .
+parts are usually soldered to a printed circuit boardographerstown .
+they gave us radio , television , phonograph , radar , long-distance telephony and much more .
+vacuum tubes are still used in some special applications .
+transistors were mostly used for computer logic and peripherals .
+this limited them to a number of specialised applications .
+it revolutionized the electronics industry .
+the mosfet is the basic element in most modern electronic equipment .
+the mosfet has been credited as the birth of modern electronics , and possibly the most important invention in electronics .
+most analog electronic appliances , such as radio receivers , are made from a few types of basic circuits .
+analog circuits use a continuous range of voltage or current .
+the number of different analog circuits so far devised is very huge .
+analog circuits are sometimes called linear circuits .
+one rarely finds modern circuits that are entirely analog .
+analog circuits may use digital or even microprocessor techniques to improve performance .
+sometimes it may be difficult to tell the difference between analog and digital circuits as they have elements of both linear and non-linear operation .
+an overdriven transistor amplifier can be a transistor amplifier that has two levels of output .
+digital effects are only realized by constraining analog behavior .
+digital circuits are the most common physical representation of boolean algebra , and are the basis of all digital computers .
+heat from the electronic circuitry must be dissipated to prevent immediate failure and improve long term reliability .
+this means that the cooling of a computer is better than the other things that the computer is cooling .
+noise may be electromagnetically or thermally generated , which can be decreased by lowering the operating temperature of the circuit .
+other types of noise , such as shot noisefully be removed because of physical properties .
+mathematical methods are integral to the study of electronics .
+to become proficient in electronics it is necessary to become proficient in the mathematics of circuit analysis .
+circuit analysis is the study of solving generally linear systems for unknown variables such as the voltage at a certain node or the current through a certain branch of a network .
+also , electronics is the study of the electromagnetic field theory .
+experiments are important in the development of electronic devices .
+historically , electronics labs have consisted of electronics devices and equipment located in a physical space .
+today ’ s electronics engineers use premanufactured building blocks such as power supplies , semiconductorswyl i . e .
+popular names in eda software world are ni multisim , cadenceunciation orcad aarhus , eagle pcb and schematic , mentor [mask] pcb and schematicography .
+early electronics often used point to point wiring with parts attached to wooden breadboards to make circuits .
+modern day electronics now use printed circuit boards made of materials such as fr4 , or the cheaper overland overland overland telegraph line .
+health and environmental concerns associated with electronics assembly have gained more attention in recent years , especially for products destined to the european union .
+electronic systems design is concerned with the design of electronic devices and systems , such as mobile phones and computers .
+the subject covers a wide range , from the design and development of an electronic system .

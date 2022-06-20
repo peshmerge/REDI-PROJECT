@@ -1,0 +1,21 @@
+gregor mendel discovered that the white and purple flower colors in pea plants were the result of " pure line " traits which could be used as a control for future experiments .
+if alleles at a genetrix on the homologous chromosomes are the same , they and the organism are homozygous with respect to that gene mutation or locustland .
+the word " allele " is a short form of allelomorph southampton " other forms " .
+in many cases , genotypic interactions between the two alleles at a locus can be described as dominant or recessive .
+however , many traits defy this simple categorization and the phenotypes are modeled on co-dominance and polygenic inheritance .
+the term " wild type " allele is sometimes used to describe an allele that is thought to contribute to the typical phenotypic character as seen in " wild " populations of organisms , such as fruit fliesloid " drosophila melanogaster " spp .
+such a " wild type " allele was historically regarded as leading to a dominantisk-always expressed expressed expressedance , common , and normal phenotype .
+it was formerly thought that most individuals were homozygous for the " wild type " allele at most gene loci .
+a great deal of genetic variation is hidden in the form of alleles that do not produce obvious phenotypic differences .
+allelic variation at a locus is measurable as the number of alleleseleseleseles johannesburg polymorphism present , or the proportion of heterozygotes in the population .
+a null allele is a gene variant which lacks the gene 's normal function .
+for example , at the gene locus for the abo blood type carbohydrate antigens in humans , classical genetics recognizes three alleles , i , i , and i , which determine compatibility of blood transfusions .
+each of the a , b , and o alleles is a class of multiple alleles with different dna sequences that produce proteins with identical properties .
+hence an individual with " type a " blood may be an ao heterozygote , an aa heterozygote , or an aa heterozygote with two different " a " alleles .
+the frequency of alleles in a diploid population is used to predict the frequency of alleles at the same time .
+for a simple model , with two alleles ;
+where " p " is the frequency of one allele and " q " is the frequency of the alternative allele , which necessarily sum to unity .
+genetic disorders are caused when a person inherits two recessive alleles for a single-gene trait .
+other disorders are also due to recessive alleles , but because the gene locus is on the x chromosome .
+heritable traits are typically studied in terms of genetic alleles , but epigenetic marks such as dna methylation can be inherited at specific regions in certain species , a process termed transgenerational epigenetic inheritance .
+the term " epialle " is used to distinguish these marks from traditional alleles , which are defined by nucleotide sequence .

@@ -1,0 +1,16 @@
+An imaginary number is a complex number that can be written as a real number multiplied by the imaginary unit i , which is defined by its property "i" = −1 .
+Zero is considered to be both real and imaginary.
+Originally coined in the 17th century by René Descartes as a derogatory term and regarded as fictitious or useless, the concept gained wide acceptance following the work of Leonhard Euler and Carl Friedrich Gauss.
+An imaginary number "bi" can be added to a real number a to form a complex number of the form "a" + "bi" , where the real numbers a and b are called, respectively, the "real part" and the "imaginary part" of the complex number.
+Some authors use the term pure imaginary number to denote what is called here an imaginary number, and "imaginary number" to denote any complex number with non-zero imaginary part.
+Although Greek mathematician and engineer Heron of Alexandria is noted as the first to have conceived these numbers, Rafael Bombelli first set down the rules for multiplication of complex numbers in 1572.
+At the time imaginary numbers, as well as negative numbers, were poorly understood and regarded by some as fictitious or useless, much as zero once was.
+Many other mathematicians were slow to adopt the use of imaginary numbers, including René Descartes, who wrote about them in his "La Géométrie", where the term "imaginary" was used and meant to be derogatory.
+In 1843 William Rowan Hamilton extended the idea of an axis of imaginary numbers in the plane to a four-dimensional space of quaternion imaginaries, in which three of the dimensions are analogous to the imaginary numbers in the complex field.
+With the development of quotient rings of polynomial rings, the concept behind an imaginary number became more substantial, but then one also finds other imaginary numbers such as the j of tessarines which has a square of +1 .
+Geometrically, imaginary numbers are found on the vertical axis of the complex number plane, allowing them to be presented perpendicular to the real axis.
+In this representation, multiplication by –1 corresponds to a rotation of 180 degrees about the origin.
+Multiplication by i corresponds to a 90-degree rotation in the "positive" direction (i.e., counterclockwise), and the equation "i" = −1 is interpreted as saying that if we apply two 90-degree rotations about the origin, the net result is a single 180-degree rotation.
+In general, multiplying by a complex number is the same as rotating around the origin by the complex number's argument, followed by a scaling by its magnitude.
+Care must be used when working with imaginary numbers expressed as the principal values of the square roots of negative numbers.
+For example: Sometimes this is written as: The fallacy occurs as the equality formula_4 does not hold when the variables are not suitably constrained.

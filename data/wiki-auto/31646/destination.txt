@@ -1,0 +1,328 @@
+Article One of the United States Constitution establishes the legislative branch of the federal government, the United States Congress.
+The Congress is a bicameral legislature consisting of a House of Representatives and a Senate
+Section 1: Legislative power vested in Congress All legislative Powers herein granted shall be vested in a Congress of the United States, which shall consist of a Senate and House of Representatives.
+Section 1 gives federal legislative power exclusively to Congress.
+Similar clauses are found in Articles II and III.
+The former gives executive power to the President.
+The latter grants judicial power to the federal judiciary.
+These three articles create a separation of powers among the three branches of the federal government.
+The separation of powers was intended to limit Congress to making law, the President to enforcing the law and the courts as interpreting the law in different cases.
+There is no provision in the Constitution that gives Congress the power to investigate.
+However, before the adoption of the Constitution, assemblies| in the American colonies exercised that power.
+Before them, the British Parliament had investigative powers.
+Congress has always considered an implicit power in the Constitution.
+In "McGrain v. Daugherty" (1927), the Supreme Court held that Congress did have the power to investigate.
+The House of Representatives shall be composed of Members chosen every second Year by the People of the several States, and the Electors in each State shall have the Qualifications requisite for Electors of the most numerous Branch of the State Legislature.
+Section Two provides for the election every two years of members of the House of Representatives by the people of the respective states.
+The "electors" (voters) in the state are those who the state decides are eligible to vote for "the most numerous Branch of the State Legislature" are eligible to vote for members of the House of Representatives from that state.
+No Person shall be a Representative who shall not have attained to the Age of twenty five Years, and been seven Years a Citizen of the United States, and who shall not, when elected, be an Inhabitant of that State in which he shall be chosen.
+The Constitution provides three requirements for Representatives.
+A Representative must be at least 25 years old.
+He or she must live in the state in which he or she is elected.
+A Representative must also have been a citizen of the United States for the previous seven years.
+Representatives and direct Taxes shall be apportioned among the several States which may be included within this Union, according to their respective Numbers, which shall be determined by adding to the whole Number of free Persons, including those bound to Service for a Term of Years, and excluding Indians not taxed, three fifths of all other Persons.
+The actual Enumeration shall be made within three Years after the first Meeting of the Congress of the United States, and within every subsequent Term of ten Years, in such Manner as they shall by Law direct.
+The number of Representatives shall not exceed one for every thirty Thousand, but each State shall have at Least one Representative; and until such enumeration shall be made, the State of New Hampshire shall be entitled to chuse "sic" three, Massachusetts eight, Rhode-Island and Providence Plantations one, Connecticut five, New-York six, New Jersey four, Pennsylvania eight, Delaware one, Maryland six, Virginia ten, North Carolina five, South Carolina five, and Georgia three.
+After much debate, the framers of the Constitution compromised and made population the basis of determining the number of seats (called apportionment) in the House of Representatives.
+It also used apportionment to determine the tax liability among the states.
+To accomplish this, the Constitution requires that a census be conducted every ten years.
+This is to determine the population of each state and of the nation as a whole.
+It also establishes a rule for who should and who should not be included in the count.
+Because the Constitution would go into effect before the completion of a national census, it provides for a temporary apportionment of seats in the House of Representatives.
+Originally, the population of each state and of the nation as a whole was determined by adding to the whole number of free Persons, three-fifths the number of all other persons (slaves), but excluding non-taxed Native Americans.
+This Constitutional rule was known as the three-fifths compromise.
+It was used to determine the number of Representatives in the House.
+Larger states contributed more money and would have more seats in the House of Representatives.
+The Fourteenth Amendment removed the three-fifths rule and ordered the census to count everyone regardless of skin color.
+It stipulated that males over the age of twenty-one could vote.
+The Sixteenth Amendment removed the connection between apportionment and direct taxes.
+The 19th Amendment removed the restriction by sex allowing women to vote.
+The 26th Amendment reduced the voting age requirement to those 18 years of age and older.
+But none of these amendments changed congressional apportionment.
+Since enactment of the Reapportionment Act of 1929, Congress set the number of House seats at 435, except in 1959 when Alaska and Hawaii were admitted as states.
+Then the number became 437 temporarily.
+When vacancies happen in the Representation from any State, the Executive Authority thereof shall issue Writs of Election to fill such Vacancies.
+Section two, Clause four, provides that when vacancies occur in the House of Representatives, it is not the job of the House of Representatives to arrange for a replacement.
+It is the job of the State whose vacant seat is up for refilling.
+In addition, the Constitution does not authorize a State Governor to appoint a temporary replacement.
+He is to arrange for a special election to fill the vacancy.
+The original qualifications and procedures for holding that election are still valid.
+The House of Representatives shall choose "sic" their Speaker and other Officers; and shall have the sole Power of Impeachment.
+Section Two also provides that the House of Representatives may choose its Speaker and its other officers.
+The Constitution does not require it but every Speaker has been a member of the House of Representatives.
+The Speaker rarely presides over routine House sessions.
+Instead he chooses to deputize a junior member to accomplish the task.
+Finally, Section Two grants to the House of Representatives the sole power of impeachment.
+Although the Supreme Court has not had an occasion to interpret this specific provision, the Court has suggested that the grant to the House of the ""sole"" power of impeachment makes the House the exclusive interpreter of what constitutes an impeachable offense.
+This power, which is analogous to the bringing of criminal charges by a grand jury, has been used only rarely.
+The House of Representatives has initiated impeachment proceedings 62 times since 1789, and nineteen federal officials have been formally impeached as a result, including: two Presidents (Andrew Johnson and Bill Clinton), one Cabinet Secretary (William W. Belknap), one Senator (William Blount), one Supreme Court Associate Justice (Samuel Chase), and fourteen federal judges.
+The Constitution does not specify how impeachment proceedings are to be initiated.
+Until the early 20th century, a House member could rise and propose an impeachment, which would then be assigned to a committee for investigation.
+Presently, it is the House Judiciary Committee that initiates the process.
+It does this only after investigating the allegations, prepares recommendations for the whole House's consideration.
+If the House votes to adopt an impeachment resolution, the Chairman of the Judiciary Committee recommends a slate of "managers," whom the House subsequently approves by resolution.
+These Representatives then become the prosecution team in the impeachment trial in the Senate (see Section 3, Clause 6 below).
+The Senate of the United States shall be composed of two Senators from each State, chosen by the Legislature thereof, for six Years; and each Senator shall have one Vote.
+The first Clause of Section Three provides that each state is entitled to have two Senators.
+It states they would be elected by its state legislature and serve six-year terms.
+Each Senator has one vote.
+By these provisions, the framers of the Constitution intended to protect the interests of the states as states.
+However, this clause has been superseded by the Seventeenth Amendment, ratified in 1913.
+Due to problems in the Senate, it was changed to Senators would now be elected by the people instead of the state legislatures.
+Immediately after they shall be assembled in Consequence of the first Election, they shall be divided as equally as may be into three Classes.
+The Seats of the Senators of the first Class shall be vacated at the Expiration of the second Year, of the second Class at the Expiration of the fourth Year, and of the third Class at the Expiration of the sixth Year, so that one third may be chosen every second Year; and if Vacancies happen by Resignation, or otherwise, during the Recess of the Legislature of any State, the Executive thereof may make temporary Appointments until the next Meeting of the Legislature, which shall then fill such Vacancies.
+Approximately one-third of the Senate is up for re-election every two years.
+But the entire body is never up for re-election in the same year.
+The Seventeenth Amendment changed how vacancies would be filled.
+Under the Seventeenth Amendment, if a Senator dies or has to leave office, his state governor may appoint a temporary Senator until a special election can be held.
+No Person shall be a Senator who shall not have attained to the Age of thirty Years, and been nine Years a Citizen of the United States, and who shall not, when elected, be an Inhabitant of that State for which he shall be chosen.
+A Senator must be at least 30 years of age, must have been a citizen of the United States for at least nine years before being elected, and must reside in the State he or she will represent at the time of the election.
+As with Representatives in the House, the Constitution sets the qualifications to be a Senator.
+The Vice President of the United States shall be President of the Senate, but shall have no Vote, unless they be equally divided.
+Section Three provides that the Vice President is the President of the Senate.
+When serving in this capacity, the Vice President, who is not a member of the Senate, may cast a vote to break a tie.
+Early in the nation's history, Vice Presidents frequently presided over the Senate.
+In modern times, the Vice President usually does so only during ceremonial occasions or when a tie in the voting is anticipated.
+A tie-breaking vote has been cast 243 times by 35 different Vice Presidents.
+The Senate shall chuse "sic" their other Officers, and also a President pro tempore, in the Absence of the Vice President, or when he shall exercise the Office of the President of the United States.
+Clause five provides for a President "pro tempore of the Senate" (meaning temporary), a Senator elected to the post by the Senate, to preside over the body when the Vice President is either absent or exercising the Office of the President.
+The Senate's current practice is to elect a full-time President pro tempore at the beginning of each Congress, as opposed to making it a temporary office only existing during the Vice President's absence.
+Since World War II, the senior (longest serving) member of the majority party has filled this position.
+As is true of the Speaker of the House, the Constitution does not require that the President pro tempore be a senator, but by tradition, a senator is always chosen.
+The Senate shall have the sole Power to try all Impeachments.
+When sitting for that Purpose, they shall be on Oath or Affirmation.
+When the President of the United States is tried, the Chief Justice shall preside: And no Person shall be convicted without the Concurrence of two thirds of the Members present.
+The House of Representatives votes to impeach a president, vice president or other civil officer, but the Senate serves as judge and jury.
+The defendant in the trial can be removed from office by a two-thirds vote of the Senate.
+Only two times has the Senate brought impeachment charges against a president still in office.
+This was in 1868 against Andrew Johnson and in 1998 against Bill Clinton.
+In both cases the president was not convicted and allowed to serve out his term of office.
+Judgment in Cases of Impeachment shall not extend further than to removal from Office, and disqualification to hold and enjoy any Office of honor, Trust or Profit under the United States: but the Party convicted shall nevertheless be liable and subject to Indictment, Trial, Judgment and Punishment, according to Law.
+If any officer is convicted on impeachment, he or she is immediately removed from office.
+He or she may be barred from holding any public office in the future.
+No other punishments may be used.
+Any person removed from office may still be criminally prosecuted.
+They may also be subject to lawsuits.
+The Times, Places and Manner of holding Elections for Senators and Representatives, shall be prescribed in each State by the Legislature thereof; but the Congress may at any time by Law make or alter such Regulations, except as to the Places of chusing "sic" Senators.
+State legislatures have the task of deciding how congressional elections are held.
+They may decide the scheduling of an election, where voters may cast ballots and how voters are to register.
+Congress has the right to change these rules.
+The Congress shall assemble at least once in every Year, and such Meeting shall be on the first Monday in December, unless they shall by Law appoint a different Day.
+Clause 2 fixes an annual date upon which Congress must meet.
+By doing so, the Constitution gives Congress the power to meet, whether or not the President called it into session.
+Each House shall be the Judge of the Elections, Returns and Qualifications of its own Members, and a Majority of each shall constitute a Quorum to do Business; but a smaller Number may adjourn from day to day, and may be authorized to compel the Attendance of absent Members, in such Manner, and under such Penalties as each House may provide.
+Section Five states that a majority of each House constitutes a quorum to do business; a smaller number may adjourn the House or compel the attendance of absent members.
+In practice, the quorum requirement is all but ignored.
+A quorum is assumed to be present unless a quorum call, requested by a member, proves otherwise.
+Rarely do members ask for quorum calls to demonstrate the absence of a quorum; more often, they use the quorum call as a delaying tactic.
+Each House may determine the Rules of its Proceedings, punish its Members for disorderly Behavior, and, with the Concurrence of two thirds, expel a member.
+Each House can determine its own Rules (assuming a quorum is present), and may punish any of its members.
+A two-thirds vote is necessary to expel a member.
+Section 5, Clause 2 does not provide specific guidance to each House regarding when and how each House may change its rules, leaving details to the respective chambers.
+Each House shall keep a Journal of its Proceedings, and from time to time publish the same, excepting such Parts as may in their Judgment require Secrecy; and the Yeas and Nays of the Members of either House on any question shall, at the desire of one fifth of those present, be entered on the Journal.
+Each House must keep and publish a Journal, though it may choose to keep any part of the Journal secret.
+The decisions of the House—not the words spoken during debates—are recorded in the Journal; if one-fifth of those present (assuming a quorum is present) request it, the votes of the members on a particular question must also be entered.
+Neither House, during the Session of Congress, shall, without the Consent of the other, adjourn for more than three days, nor to any other Place than that in which the two Houses shall be sitting.
+Neither House may adjourn, without the consent of the other, for more than three days.
+Often, a House will hold "pro forma" sessions every three days.
+Such sessions are held just to fulfill the constitutional requirement.
+They are not for the purpose of conducting business.
+Neither House may meet in any place other than that designated for both Houses (the Capitol), without the consent of the other House.
+The Senators and Representatives shall receive a Compensation for their Services, to be ascertained by Law, and paid out of the Treasury of the United States.
+They shall in all Cases, except Treason, Felony and Breach of the Peace, be privileged from Arrest during their Attendance at the Session of their respective Houses, and in going to and returning from the same; and for any Speech or Debate in either House, they shall not be questioned in any other Place.
+Senators and Representatives set their own compensation.
+Under the Twenty-seventh Amendment, any change in their compensation will not take effect until after the next congressional election.
+Members of both Houses have certain privileges, based on those enjoyed by the members of the British Parliament.
+Members attending, going to or returning from either House are privileged from arrest, except for treason, felony or breach of the peace.
+One may not sue a Senator or Representative for slander that may happen during Congressional debate, nor may speech by a member of Congress during a Congressional session be the basis for criminal prosecution.
+No Senator or Representative shall, during the Time for which he was elected, be appointed to any civil Office under the Authority of the United States, which shall have been created, or the Emoluments whereof shall have been increased during such time; and no Person holding any Office under the United States, shall be a Member of either House during his Continuance in Office.
+Senators and Representatives may not simultaneously serve in Congress and hold a position in the executive branch.
+This restriction is meant to protect legislative independence by preventing the president from using patronage to buy votes in Congress.
+It is a major difference from the political system in the British Parliament, where cabinet ministers are required to be members of parliament.
+All Bills for raising Revenue shall originate in the House of Representatives; but the Senate may propose or concur with Amendments as on other Bills.
+This establishes the method for making Acts of Congress that involve taxation.
+Accordingly, any bill may originate in either House of Congress, except for a revenue bill, which may originate only in the House of Representatives.
+This clause of the U.S. Constitution stemmed from an English parliamentary practice that all money bills must have their first reading in the House of Commons.
+This practice was intended to ensure that the power of the purse is possessed by the legislative body most responsive to the people, although the English practice was modified in America by allowing the Senate to amend these bills.
+Every Bill which shall have passed the House of Representatives and the Senate, shall, before it become a Law, be presented to the President of the United States; If he approve he shall sign it, but if not he shall return it, with his Objections to that House in which it shall have originated, who shall enter the Objections at large on their Journal, and proceed to reconsider it.
+If after such Reconsideration two thirds of that House shall agree to pass the Bill, it shall be sent, together with the Objections, to the other House, by which it shall likewise be reconsidered, and if approved by two thirds of that House, it shall become a Law.
+But in all such Cases the Votes of both Houses shall be determined by yeas and Nays, and the Names of the Persons voting for and against the Bill shall be entered on the Journal of each House respectively.
+If any Bill shall not be returned by the President within ten Days (Sundays excepted) after it shall have been presented to him, the Same shall be a Law, in like Manner as if he had signed it, unless the Congress by their Adjournment prevent its Return, in which Case it shall not be a Law.
+This clause is known as the Presentment Clause.
+Before a bill becomes law, it must be presented to the President, who has ten days (excluding Sundays) to act upon it.
+If the President signs the bill, it becomes law.
+If he disapproves of the bill, he must return it to the House in which it originated together with his objections.
+This procedure has become known as the veto, although that particular word does not appear in the text of Article One.
+The bill does not then become law unless both Houses, by two-thirds votes, override the veto.
+If the President neither signs nor returns the bill within the ten-day limit, the bill becomes law, unless the Congress has adjourned in the meantime, thereby preventing the President from returning the bill to the House in which it originated.
+In the latter case, the President, by taking no action on the bill towards the end of a session, exercises a "pocket veto", which Congress may not override.
+In the former case, where the President allows a bill to become law unsigned, there is no common name for the practice, but recent scholarship has termed it a "default enactment."
+What exactly constitutes an adjournment for the purposes of the pocket veto has been unclear.
+In the "Pocket Veto Case" (1929), the Supreme Court held that "the determinative question in reference to an 'adjournment' is not whether it is a final adjournment of Congress or an interim adjournment, such as an adjournment of the first session, but whether it is one that 'prevents' the President from returning the bill to the House in which it originated within the time allowed."
+Since neither House of Congress was in session, the President could not return the bill to one of them, thereby permitting the use of the pocket veto.
+In "Wright v. United States" (1938), however, the Court ruled that adjournments of one House only did not constitute an adjournment of Congress required for a pocket veto.
+In such cases, the Secretary or Clerk of the House in question was ruled competent to receive the bill.
+Every Order, Resolution, or Vote to which the Concurrence of the Senate and House of Representatives may be necessary (except on a question of Adjournment) shall be presented to the President of the United States; and before the Same shall take Effect, shall be approved by him, or being disapproved by him, shall be repassed by two thirds of the Senate and House of Representatives, according to the Rules and Limitations prescribed in the Case of a Bill.
+In 1996, Congress passed the Line Item Veto Act, which permitted the President, at the time of the signing of the bill, to rescind certain expenditures.
+The Congress could disapprove the cancellation and reinstate the funds.
+The President could veto the disapproval, but the Congress, by a two-thirds vote in each House, could override the veto.
+In the case "Clinton v. City of New York", the Supreme Court found the Line Item Veto Act unconstitutional because it violated the Presentment clause.
+First, the procedure delegated legislative powers to the President, thereby violating the nondelegation doctrine.
+Second, the procedure violated the terms of Section Seven, which state, "if he approve the bill he shall sign it, but if not he shall return it."
+Thus, the President may sign the bill, veto it, or do nothing, but he may not amend the bill and then sign it.
+Every bill, order, resolution, or vote that must be passed by both Houses, except on a question of adjournment, must be presented to the President before becoming law.
+However, to propose a constitutional amendment, two-thirds of both Houses may submit it to the states for the ratification, without any consideration by the President, as prescribed in Article V.
+The Congress shall have power Many powers of Congress have been interpreted broadly.
+Most notably, the Taxing and Spending, Interstate Commerce, and Necessary and Proper Clauses have been deemed to grant expansive powers to Congress.
+Congress may lay and collect taxes for the "common defense" or "general welfare" of the United States.
+The U.S. Supreme Court has not often defined "general welfare," leaving the political question to Congress.
+In "United States v. Butler" (1936), the Court for the first time construed the clause.
+The dispute centered on a tax collected from processors of agricultural products such as meat; the funds raised by the tax were not paid into the general funds of the treasury, but were rather specially earmarked for farmers.
+The Court struck down the tax, ruling that the general welfare language in the Taxing and Spending Clause related only to "matters of national, as distinguished from local, welfare".
+Congress continues to make expansive use of the Taxing and Spending Clause; for instance, the social security program is authorized under the Taxing and Spending Clause.
+Congress has the power to borrow money on the credit of the United States.
+In 1871, when deciding "Knox v. Lee," the Court ruled that this clause permitted Congress to emit bills and make them legal tender in satisfaction of debts.
+Whenever Congress borrows money, it is obligated to repay the sum as stipulated in the original agreement.
+However, such agreements are only "binding on the conscience of the sovereign", as the doctrine of sovereign immunity prevents a creditor from suing in court if the government reneges its commitment.
+The Congress shall have Power ... To regulate Commerce with foreign Nations, and among the several States, and with the Indian Tribes;
+The Supreme Court has seldom restrained the use of the "commerce clause" for widely varying purposes.
+The first important decision related to the commerce clause was "Gibbons v. Ogden", decided by a unanimous Court in 1824.
+The case involved conflicting federal and state laws: Thomas Gibbons had a federal permit to navigate steamboats in the Hudson River, while the other, Aaron Ogden, had a monopoly to do the same granted by the state of New York.
+Ogden contended that "commerce" included only buying and selling of goods and not their transportation.
+Chief Justice John Marshall rejected this notion.
+Marshall suggested that "commerce" included navigation of goods, and that it "must have been contemplated" by the Framers.
+Marshall added that Congress's power over commerce "is complete in itself, may be exercised to its utmost extent, and acknowledges no limitations other than are prescribed in the Constitution".
+The expansive interpretation of the Commerce Clause was restrained during the late nineteenth and early twentieth centuries, when a "laissez-faire" attitude dominated the Court.
+In "United States v. E. C. Knight Company" (1895), the Supreme Court limited the newly enacted Sherman Antitrust Act, which had sought to break up the monopolies dominating the nation's economy.
+The Court ruled that Congress could not regulate the manufacture of goods, even if they were later shipped to other states.
+Chief Justice Melville Fuller wrote, "commerce succeeds to manufacture, and is not a part of it."
+The U.S. Supreme Court sometimes ruled New Deal programs unconstitutional because they stretched the meaning of the commerce clause.
+In "Schechter Poultry Corp. v. United States," (1935) the Court unanimously struck down industrial codes regulating the slaughter of poultry, declaring that Congress could not regulate commerce relating to the poultry, which had "come to a permanent rest within the State."
+As Chief Justice Charles Evans Hughes put it, "so far as the poultry here in question is concerned, the flow of interstate commerce has ceased."
+Judicial rulings against attempted use of Congress's Commerce Clause powers continued during the 1930s.
+In 1937, the Supreme Court began moving away from its laissez-faire attitude concerning Congressional legislation and the Commerce Clause, when it ruled in "National Labor Relations Board v. Jones & Laughlin Steel Company", that the National Labor Relations Act of 1935 (commonly known as the Wagner Act) was constitutional.
+The legislation under scrutiny, prevented employers from engaging in "unfair labor practices" such as firing workers for joining unions.
+In sustaining this act, the Court, signaled its return to the philosophy espoused by John Marshall, that Congress could pass laws regulating actions that even indirectly influenced interstate commerce.
+This new attitude became firmly set into place in 1942.
+In "Wickard v. Filburn", the Court ruled that production quotas under the Agricultural Adjustment Act of 1938 were constitutionally applied to agricultural production (in this instance, home-grown wheat for private consumption) that was consumed purely intrastate, because its effect upon interstate commerce placed it within the power of Congress to regulate under the Commerce Clause.
+This decision marked the beginning of the Court's total deference to Congress' claims of Commerce Clause powers, which lasted into the 1990s.
+"United States v. Lopez" (1995) was the first decision in six decades to invalidate a federal statute on the grounds that it exceeded the power of the Congress under the Commerce Clause.
+The Court held that while Congress had broad lawmaking authority under the Commerce Clause, the power was limited, and did not extend so far from "commerce" as to authorize the regulation of the carrying of handguns, especially when there was no evidence that carrying them affected the economy on a massive scale.
+In a later case, "United States v. Morrison" (2000), the justices ruled that Congress could not make such laws even when there was evidence of aggregate effect.
+In contrast to these rulings, the Supreme Court also continues to follow the precedent set by "Wickard v. Filburn".
+In "Gonzales v. Raich" it ruled that the Commerce Clause granted Congress the authority to criminalize the production and use of home-grown cannabis even where states approve its use for medicinal purposes.
+The court held that, as with the agricultural production in the earlier case, home-grown cannabis is a legitimate subject of federal regulation because it competes with marijuana that moves in interstate commerce.
+Congress may establish uniform laws relating to naturalization and bankruptcy.
+It may also coin money, regulate the value of American or foreign currency and punish counterfeiters.
+Congress may fix the standards of weights and measures.
+Furthermore, Congress may establish post offices and post roads (the roads, however, need not be exclusively for the conveyance of mail).
+Congress may promote the progress of science and useful arts by granting copyrights and patents of limited duration.
+Section eight, clause eight of Article One, known as the Copyright Clause, is the only instance of the word "right" used in the original constitution (though the word does appear in several Amendments).
+Though perpetual copyrights and patents are prohibited, the Supreme Court has ruled in "Eldred v. Ashcroft" (2003) that repeated extensions to the term of copyright do not constitute perpetual copyright; also note that this is the only power granted where the means to accomplish its stated purpose is specifically provided for.
+Courts inferior to the Supreme Court may be established by Congress.
+Congress has several powers related to war and the armed forces.
+Under the War Powers Clause, only Congress may declare war, but in several cases it has, without declaring war, granted the President the authority to engage in military conflicts.
+Five wars have been declared in United States' history: the War of 1812, the Mexican–American War, the Spanish–American War, World War I and World War II.
+Some historians argue that the legal doctrines and legislation passed during the operations against Pancho Villa constitute a sixth declaration of war.
+Congress may grant letters of marque and reprisal.
+Congress may establish and support the armed forces, but no appropriation made for the support of the army may be used for more than two years.
+This provision was inserted because the Framers feared the establishment of a standing army, beyond civilian control, during peacetime.
+Congress may regulate or call forth the state militias, but the states retain the authority to appoint officers and train personnel.
+Congress also has exclusive power to make rules and regulations governing the land and naval forces.
+Although the executive branch and the Pentagon have asserted an ever-increasing measure of involvement in this process, the U.S. Supreme Court has often reaffirmed Congress's exclusive hold on this power (e.g. Burns v. Wilson, 346 U.S. 137 (1953)).
+Congress used this power twice soon after World War II with the enactment of two statutes: the Uniform Code of Military Justice to improve the quality and fairness of courts martial and military justice, and the Federal Tort Claims Act which among other rights had allowed military service persons to sue for damages until the U.S. Supreme Court repealed that section of the statute in a divisive series of cases, known collectively as the Feres Doctrine.
+Congress has the exclusive right to legislate "in all cases whatsoever" for the nation's capital, the District of Columbia.
+Congress chooses to devolve some of such authority to the elected mayor and council of District of Columbia.
+Nevertheless, Congress remains free to enact any legislation for the District so long as constitutionally permissible, to overturn any legislation by the city government, and technically to revoke the city government at any time.
+Congress may also exercise such jurisdiction over land purchased from the states for the erection of forts and other buildings.
+The Congress shall have Power ... To make all Laws which shall be necessary and proper for carrying into Execution the foregoing Powers, and all other Powers vested by this Constitution in the Government of the United States, or in any Department or Officer thereof.
+Finally, Congress has the power to do whatever is "necessary and proper" to carry out its enumerated powers and, crucially, all others vested in it.
+This has been interpreted to authorize criminal prosecution of those whose actions have a "substantial effect" on interstate commerce in "Wickard v. Filburn" ; however, Thomas Jefferson, in the Kentucky Resolutions, supported by James Madison, maintained that a penal power could not be inferred from a power to regulate, and that the only penal powers were for treason, counterfeiting, piracy and felony on the high seas, and offenses against the law of nations.
+The necessary and proper clause has been interpreted extremely broadly, thereby giving Congress wide latitude in legislation.
+The first landmark case involving the clause was "McCulloch v. Maryland" (1819), which involved the establishment of a national bank.
+Alexander Hamilton, in advocating the creation of the bank, argued that there was "a more or less direct" relationship between the bank and "the powers of collecting taxes, borrowing money, regulating trade between the states, and raising and maintaining fleets and navies".
+Thomas Jefferson countered that Congress's powers "can all be carried into execution without a national bank.
+A bank therefore is not necessary, and consequently not authorized by this phrase".
+Chief Justice John Marshall agreed with the former interpretation.
+Marshall wrote that a Constitution listing "all" of Congress's powers "would partake of a prolixity of a legal code and could scarcely be embraced by the human mind".
+Since the Constitution could not possibly enumerate the "minor ingredients" of the powers of Congress, Marshall "deduced" that Congress had the authority to establish a bank from the "great outlines" of the general welfare, commerce and other clauses.
+Under this doctrine of the necessary and proper clause, Congress has sweepingly broad powers (known as implied powers) not explicitly enumerated in the Constitution.
+However, the Congress cannot enact laws solely on the implied powers, any action must be necessary and proper in the execution of the enumerated powers.
+The Migration or Importation of such Persons as any of the States now existing shall think proper to admit, shall not be prohibited by the Congress prior to the Year one thousand eight hundred and eight, but a Tax or duty may be imposed on such Importation, not exceeding ten dollars for each Person.
+The Privilege of the Writ of "Habeas Corpus" shall not be suspended, unless when in Cases of Rebellion or Invasion the public Safety may require it.
+No Bill of Attainder or ex post facto Law shall be passed.
+No Capitation, or other direct, Tax shall be laid, unless in Proportion to the Census or Enumeration herein before directed to be taken.
+No Tax or Duty shall be laid on Articles exported from any State.
+No Preference shall be given by any Regulation of Commerce or Revenue to the Ports of one State over those of another: nor shall Vessels bound to, or from, one State, be obliged to enter, clear, or pay Duties in another.
+No Money shall be drawn from the Treasury, but in Consequence of Appropriations made by Law; and a regular Statement and Account of Receipts and Expenditures of all public Money shall be published from time to time.
+No Title of Nobility shall be granted by the United States: And no Person holding any Office of Profit or Trust under them, shall, without the Consent of the Congress, accept of any present, Emolument, Office, or Title, of any kind whatever, from any King, Prince, or foreign State.
+The first clause in this section prevents Congress from passing any law that would restrict the importation of slaves into the United States prior to 1808.
+Congress could however, levy a "Per capita" duty of up to ten dollars for each slave imported into the country.
+This clause was further entrenched into the Constitution by Article V, where it is explicitly shielded from constitutional amendment prior to 1808.
+On January 1, 1808, the first day it was permitted to do so, Congress approved legislation prohibiting the importation of slaves into the United States.
+A writ of "habeas corpus" is a legal action against unlawful detainment that commands a law enforcement agency or other body that has a person in custody to have a court inquire into the legality of the detention.
+The court may order the person released if the reason for detention is deemed insufficient or unjustifiable.
+The Constitution further provides that the privilege of the writ of "habeas corpus" may not be suspended "unless when in cases of rebellion or invasion the public safety may require it".
+In "Ex parte Milligan" (1866), the Supreme Court ruled that the suspension of "habeas corpus" in a time of war was lawful, but military tribunals did not apply to citizens in states that had upheld the authority of the Constitution and where civilian courts were still operating.
+A bill of attainder is a law by which a person is immediately convicted without trial.
+An "ex post facto" law is a law which applies retroactively, punishing someone for an act that was only made criminal after it was done.
+The "ex post facto" clause does not apply to civil matters.
+Section Nine reiterates the provision from Section Two that direct taxes must be apportioned by state populations.
+This clause was also explicitly shielded from constitutional amendment prior to 1808 by Article V.
+In 1913, the 16th Amendment exempted income taxes from this clause.
+Furthermore, no tax may be imposed on exports from any state.
+Congress may not, by revenue or commerce legislation, give preference to ports of one state over those of another; neither may it require ships from one state to pay duties in another.
+All funds belonging to the Treasury may not be withdrawn except according to law.
+Modern practice is that Congress annually passes a number of appropriations bills authorizing the expenditure of public money.
+The Constitution requires that a regular statement of such expenditures be published.
+The Title of Nobility Clause prohibits Congress from granting any title of nobility.
+In addition, it specifies that no civil officer may accept, without the consent of Congress, any gift, payment, office or title from a foreign ruler or state.
+However, a U.S. citizen may receive foreign office before or after their period of public service.
+No State shall enter into any Treaty, Alliance, or Confederation; grant Letters of Marque and Reprisal; coin Money; emit Bills of Credit; make any Thing but gold and silver Coin a Tender in Payment of Debts; pass any Bill of Attainder, ex post facto Law, or Law impairing the Obligation of Contracts, or grant any Title of Nobility.
+States may not exercise certain powers reserved for the federal government: they may not enter into treaties, alliances or confederations, grant letters of marque or reprisal, coin money or issue bills of credit (such as currency).
+Furthermore, no state may make anything but gold and silver coin a tender in payment of debts, which expressly forbids any state government (but not the federal government) from "making a tender" (i.e., authorizing something that may be offered in payment) of any type or form of money to meet any financial obligation, unless that form of money is coins made of gold or silver (or a medium of exchange backed by and redeemable in gold or silver coins, as noted in "Farmers & Merchants Bank v. Federal Reserve Bank").
+Much of this clause is devoted to preventing the States from using or creating any currency other than that created by Congress.
+In Federalist no. 44, Madison explains that "... it may be observed that the same reasons which shew the necessity of denying to the States the power of regulating coin, prove with equal force that they ought not to be at liberty to substitute a paper medium in the place of coin.
+Had every State a right to regulate the value of its coin, there might be as many different currencies as States; and thus the intercourse among them would be impeded."
+Moreover, the states may not pass bills of attainder, enact "ex post facto" laws, impair the obligation of contracts, or grant titles of nobility.
+The Contract Clause was the subject of much contentious litigation in the 19th century.
+It was first interpreted by the Supreme Court in 1810, when "Fletcher v. Peck" was decided.
+The case involved the Yazoo land scandal, in which the Georgia legislature authorized the sale of land to speculators at low prices.
+The bribery involved in the passage of the authorizing legislation was so blatant that a Georgia mob attempted to lynch the corrupt members of the legislature.
+Following elections, the legislature passed a law that rescinded the contracts granted by the corrupt legislators.
+The validity of the annulment of the sale was questioned in the Supreme Court.
+In writing for a unanimous court, Chief Justice John Marshall asked, "What is a contract?"
+His answer was: "a compact between two or more parties."
+Marshall argued that the sale of land by the Georgia legislature, though fraught with corruption, was a valid "contract".
+He added that the state had no right to annul the purchase of the land, since doing so would impair the obligations of contract.
+The definition of a contract propounded by Chief Justice Marshall was not as simple as it may seem.
+In 1819, the Court considered whether a corporate charter could be construed as a contract.
+The case of "Trustees of Dartmouth College v. Woodward" involved Dartmouth College, which had been established under a Royal Charter granted by King George III.
+The Charter created a board of twelve trustees for the governance of the College.
+In 1815, however, New Hampshire passed a law increasing the board's membership to twenty-one with the aim that public control could be exercised over the College.
+The Court, including Marshall, ruled that New Hampshire could not amend the charter, which was ruled to be a contract since it conferred "vested rights" on the trustees.
+The Marshall Court determined another dispute in "Sturges v. Crowninshield".
+The case involved a debt that was contracted in early 1811.
+Later in that year, the state of New York passed a bankruptcy law, under which the debt was later discharged.
+The Supreme Court ruled that a retroactively applied state bankruptcy law impaired the obligation to pay the debt, and therefore violated the Constitution.
+In "Ogden v. Saunders" (1827), however, the court decided that state bankruptcy laws "could" apply to debts contracted after the passage of the law.
+State legislation on the issue of bankruptcy and debtor relief has not been much of an issue since the adoption of a comprehensive federal bankruptcy law in 1898.
+No State shall, without the Consent of the Congress, lay any Imposts or Duties on Imports or Exports, except what may be absolutely necessary for executing it's "sic" inspection Laws: and the net Produce of all Duties and Imposts, laid by any State on Imports or Exports, shall be for the Use of the Treasury of the United States; and all such Laws shall be subject to the Revision and Controul of the Congress.
+Still more powers are prohibited of the states.
+States may not, without the consent of Congress, tax imports or exports except for the fulfillment of state inspection laws (which may be revised by Congress).
+The net revenue of the tax is paid not to the state, but to the federal Treasury.
+No State shall, without the Consent of Congress, lay any Duty of Tonnage, keep Troops, or Ships of War in time of Peace, enter into any Agreement or Compact with another State, or with a foreign Power, or engage in War, unless actually invaded, or in such imminent Danger as will not admit of delay.
+Under the Compact Clause, states may not, without the consent of Congress, keep troops or armies during times of peace.
+They may not enter into alliances nor compacts with foreign states, nor engage in war unless invaded.
+States may, however, organize and arm a militia according to the discipline prescribed by Congress.
+(Article I, Section 8, enumerated powers of Congress.)
+The National Guard, whose members are also members of the militia of the United States as defined by § 311, fulfill this function, as do persons serving in State Militias with federal oversight under § 109.
+The idea of allowing Congress to have say over agreements between states traces back to the numerous controversies that arose between various colonies.
+Eventually compromises would be created between the two colonies and these compromises would be submitted to the Crown for approval.
+After the American Revolutionary War, the Articles of Confederation allowed states to appeal to Congress to settle disputes between the states over boundaries or "any cause whatever".
+The Articles of Confederation also required Congressional approval for "any treaty or alliance" in which a state was one of the parties.
+There have been a number of Supreme Court cases concerning what constitutes valid congressional consent to an interstate compact.
+In "Virginia v. Tennessee", 148 U.S. 503 (1893), the Court found that some agreements among states stand even when lacking the explicit consent of Congress.
+(One example the court gave was a state moving some goods from a distant state to itself, it would not require Congressional approval to contract with another state to use its canals for transport.)
+According to the Court, the Compact Clause requires congressional consent only if the agreement among the states is "directed to the formation of any combination tending to the increase of political power in the States, which may encroach upon or interfere with the just supremacy of the United States".
+The congressional consent issue is at the center of the current debate over the constitutionality of the not yet effective National Popular Vote Interstate Compact entered into by several states plus the District of Columbia.

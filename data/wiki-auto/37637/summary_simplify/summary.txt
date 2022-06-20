@@ -1,0 +1,31 @@
+Nucleophile is a chemical species that donates an electron pair to form a chemical bond in relation to a reaction.
+All molecules or ions with a free pair of electrons or at least one pi bond can act as nucleophiles.
+Nucleophilicity, sometimes referred to as nucleophile strength, refers to a substance's nucleophilic character and is often used to compare the affinity of atoms.
+Nucleophiles may take part in nucleophilic substitution, whereby a nucleophile becomes attracted to a full or partial positive charge.
+The terms "nucleophile" and "electrophile" were introduced by Christopher Kelk Ingold in 1933, replacing the terms "anionoid" and "cationoid" proposed earlier by A. J. Lapworth in 1925.
+The word nucleophile is derived from nucleus and the Greek word φιλος, philos for love.
+In general, in a row across the periodic table, the more basic the ion (the higher the pK of the conjugate acid) the more reactive it is as a nucleophile.
+Sulfur is in general a better nucleophile than oxygen.
+The following empirical data have been obtained by measuring reaction rates for a large number of reactions involving a large number of nucleophiles and electrophiles.
+Nucleophiles displaying the so-called alpha effect are usually omitted in this type of treatment.
+This free-energy relationship relates the pseudo first order reaction rate constant (in water at 25 °C), "k", of a reaction, normalized to the reaction rate, "k", of a standard reaction with water as the nucleophile, to a nucleophilic constant "n" for a given nucleophile and a substrate constant "s" that depends on the sensitivity of a substrate to nucleophilic attack (defined as 1 for methyl bromide).
+The equation predicts that, in a nucleophilic displacement on benzyl chloride, the azide anion reacts 3000 times faster than water.
+The equation states that two nucleophiles react with the same relative reactivity regardless of the nature of the electrophile, which is in violation of the reactivity–selectivity principle.
+For this reason, this equation is also called the "constant selectivity relationship".
+or (not displayed) ions based on Malachite green.
+The values for the relative cation reactivities are −0.4 for the malachite green cation, +2.6 for the benzenediazonium cation, and +4.5 for the tropylium cation.
+The second order reaction rate constant "k" at 20 °C for a reaction is related to a nucleophilicity parameter "N", an electrophilicity parameter "E", and a nucleophile-dependent slope parameter "s".
+In short, nucleophilicities towards sp or sp centers follow the same pattern.
+Examples of nucleophiles are anions such as Cl, or a compound with a lone pair of electrons such as NH (ammonia).
+In the example below, the oxygen of the hydroxide ion donates an electron pair to form a new chemical bond with the carbon at the end of the bromopropane molecule.
+Because of this backside attack, S2 reactions result in a reversal of the configuration of the electrophile.
+An ambident nucleophile is one that can attack from two or more places, resulting in two or more products.
+For example, the thiocyanate ion (SCN) may attack from either the S or the N .
+For this reason, the S2 reaction of an alkyl halide with SCN often leads to a mixture of an alkyl thiocyanate (R-SCN) and an alkyl isothiocyanate (R-NCS).
+Similar considerations apply in the Kolbe nitrile synthesis.
+While the halogens aren't nucleophilic in their diatomic form (e.g.
+I is not a nucleophile), their anions are good nucleophiles.
+In polar, protic solvents, F is the weakest nucleophile, and I the strongest; this order is reversed in polar, aprotic solvents.
+These reagents are often used to perform nucleophilic additions.
+Enols are ambident nucleophiles, but, in general, nucleophilic at the alpha carbon atom.
+In general, "sulfur is very nucleophilic because of its large size", which makes it readily polarizable, and its lone pairs of electrons are readily accessible.

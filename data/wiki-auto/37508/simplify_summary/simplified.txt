@@ -1,0 +1,78 @@
+magma is the molten or semi-molten natural material from which all igneous rocks are formed .
+magma is found beneath the surface of the earth .
+besides molten rock , magma may also contain suspended crystals and gas bubbles .
+magma is produced by melting the mantle and / or the crust at various tectonic settings .
+the crust then moves through the crust where they are thought to be stored in magma chambers or crystal-rich mush zones .
+during their storage in the crust , magma compositions may be changed by fractional crystallization , contamination with crustal melts , magma mixing , and degassing .
+after their ascent through the crust , magma may feed a volcano or solidify underground to form an intrusioneous dike .
+the study of magma has historically relied on observing magma in the form of lava flows .
+most magmatic liquids are rich in silica .
+silicate melts are made mainly of silicon , oxygen , aluminium , iron , magnesium , calcium , sodium , and potassium .
+the physical behaviours of melts depend on their atomic structure as well as temperature and pressure .
+viscosity is a major melt property in understanding the behaviour of magmas .
+more silica-rich melts are typically more polymerized , with more linkage of silica tetrahedra , and so are more viscous .
+dissolution of water drastically reduces melts in the form of water .
+higher temperature melts are less viscous .
+generally speaking , more mafic magmas , such as those that form basalt , are hotter and less viscous than more silica-rich magmas , such as those that form rhyolite .
+low viscosity leads to gentler , less explosive eruptions .
+very rare carbonatite magmas may be as cool as 490 mph -lrb- ~ 500 km -rrb- , and komatiite magmas may have been as hot as 1600000 km -lrb- 1000 – 98 ° f -rrb- .
+at any given pressure , a rise in temperature past the solidus will cause melting .
+within the solid earth , the temperature of a rock is controlled by the geothermal gradient and the radioactive decay within the rock .
+the geothermal gradient averages about 25typic / km .
+it is hard to change the bulk composition of a large mass of rock .
+the composition of a rock may also be considered to include volatile phases such as water and carbon dioxide .
+the presence of volatile phases in a rock under pressure can stabilize a melt fraction .
+the presence of even 0.8 % water may reduce the temperature of melting by as much as 100 residues .
+conversely , the loss of water and volatiles from a magma may cause it to freeze or solidify .
+also a major portion of almost all magma is silica , which is a compound of silicon and oxygen .
+magma also rises as the magma rises .
+magma that is high in silica resists flowing .
+pressure builds up until the gases blast out in a violent explosion .
+magma that is poor in silica flows easily , so gas bubbles move up through it and escape fairly gently .
+melting of solid rocks to form magma is controlled by three physical parameters : temperature , pressure , and composition .
+the most common types of magma generation in the mantle are decompression melting , heating ; e . g . , by interaction with a hot mantle plumerval , and lowering the solidus measurements .
+mechanisms are discussed further in the entry for igneous rock .
+when rocks melt , they do so slowly and gradually because most rocks are made of several minerals , which all have different melting points .
+as a rock melts , for example , its volume changes .
+when enough rock is melted , the small globules of meltium are generally between mineral grainsrford .
+under pressure within the earth , as little as a fraction of a percent of partial melting may be enough to cause melt to be squeezed from its source .
+melts can stay in place long enough to melt to 20 % or even 35 % .
+the melting of the melting is important to the differences of the material from the melts .
+some examples of this are potassium , barium , caesium , and rubidium .
+rock types produced by small degrees of melting in the earth 's mantle are typically alkalineiculate ca , na dq , potassicciful khyll and / or peralkaline oxide .
+typically , primitive melts of this composition form lamprophyre , lamproite , kimberlite and sometimes nepheline-bearing mafic rocks such as alkali basalts and essexite gabbros or even carbonatite .
+pegmatite may be made by heating the crust .
+some granite-composition magmas are eutecticlastic melts , and they may be produced by low to high degrees of melting of the crust , as well as fractional crystallization .
+other mechanisms are typically important in making them .
+when the rock melts , the liquid is called the primary melt .
+primary melts have not undergone any differentiation and represent the starting composition of a magma .
+it is rare to find primary melts .
+the leucosomes of migmatites are examples of primary melts .
+primary melts derived from the mantle are especially important , and are known as " primitive melts " or " primitive magmas " .
+by finding the primitive magma composition of a magma series it is possible to model the composition of the mantle from which a melt was formed .
+when it is impossible to find the primitive or primary magma composition , it is often useful to try to identify a parental melt .
+a parental melt is a type of magma that is made out of a glass of rocks .
+it is not a primitive melt .
+for instance , a series of basalt flows are assumed to be related to one another .
+a composition from which they could reasonably be produced by fractional crystallization is termed a " parental melt " .
+fractional crystallization models would be produced to test the hypothesis that they share a common parental melt .
+at high degrees of melting of the mantle , komatiite and picrite are made .
+magma starts in the crust where the temperature and pressure conditions are the same .
+after its formation , magma buoyantly rises toward the earth 's surface .
+as it moves through the crust , magma may collect and live in magma chambers .
+magma can remain in a chamber until it cools and crystallizes forming igneous rock , it erupts as a volcano , or moves into another magma chamber .
+when magma cools it , it forms a rock called a rock .
+some of these settle at the bottom of the magma chamber forming cumulates that might form mafic layered intrusions .
+magma that cools slowly within a magma chamber usually ends up forming rocks such as gabbro , diorite and granite , depending upon the composition of the magma .
+alternatively , if the magma is erupted , it forms volcanic rocks such as basalt , andesite and rhyolitequality .
+when magma comes out of the volcano , it is called lava .
+lava cools relatively quickly and forms underground bodies of magma .
+this fast cooling does not allow crystals to grow large , and a part of the melt does not crystallize at all , becoming glass .
+the most common type of rock is obsidian , scoria and pumice .
+before and during volcanic eruptions , volatiles such as co and ho leave the melt through a process known as exsolution .
+magma with low water becomes increasingly viscous .
+if massive exsolution occurs when magma goes upwards during a volcanic eruption , the resulting eruption is usually explosive .
+the iceland deep drilling project , while drilling several 5,000m holes in an attempt to harness the heat in the volcanic bedrock below the surface of iceland , struck a pocket of magma at 2,100m in 2009 .
+because this was only the third time in recorded history that magma had been reached , iddp-1 was named after him .
+a cemented steel case was put in the hole with a perforation at the bottom close to the magma .
+the high temperatures and pressure of the magma steam were used to generate 36mw of power , making iddp-1 the world 's first magma-enhanced geothermal system .

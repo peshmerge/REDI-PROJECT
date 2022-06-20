@@ -1,0 +1,34 @@
+the atari 5200 supersystem , commonly known as the atari 5200 , is a video game console that was made by atari in 1982 .
+the 5200 was created to compete with the intellivision .
+the internal hardware is almost identical to that of atari 's 8-bit computers , although software is not directly compatible between the two systems .
+the 5200 's controllers have an analog joystick and a numeric keypad along with start , pause , and reset buttons .
+the 360-degree non-centering joystick was to say that it was more control than the joystick controller offered with the atari 2600 .
+on may 21,1984 , during a press conference at which the atari 7800 was introduced , company executives revealed that the 5200 had been discontinued after just two years on the market .
+much of the technology in the atari 8-bit family of home computer systems was originally developed as a second-generation games console intended to replace the atari 2600 .
+however , as the system was reaching completion , the personal computer revolution started with the release of machines like the commodore pet , trs-80 and apple ii .
+atari 's management decided to enter this market , and the technology was changed to the atari 400 and 800 .
+the chipset used in these machines was created with the mindset that the 2600 would likely be obsolete by the 1980 time frame .
+atari later decided to re-enter the games market with a design that closely matched their original 1978 specifications .
+the atari 5200 was originally called the " atari video system x-advanced video computer system " .
+actual working " atari video system x " machines , whose hardware is 100 % identical to the atari 5200 do exist , but are extremely rare .
+the 5200 also featured a new style of controller with an analog joystick , numeric keypad , two fire buttons on each side of the controller and game function keys for start , pause , and reset .
+the 5200 also featured the first automatic tv switchbox , allowing it to automatically switch from regular tv viewing to the game system signal when the system was activated .
+the rf box was also where the power supply connected in a dual power / television signal setup similar to the rca studio ii 's .
+a single cable coming out of the 5200 plugged into the switch box and was used for both electricity and the television signal .
+it also has changes in the cartridge port to allow for the atari 2600 adapter released that year .
+while the adapter was only made to work on the two-port version , modifications can be made to the four-port to make it line-compatible .
+towards the end of the four-port model 's production run , there were a limited number of consoles produced which included these modifications .
+the design of the analog joystick , which used a weak rubber boot rather than springs to provide centering , proved to be ungainly and unreliable .
+another major flaw of the controllers was that the design did not translate into a linear acceleration from the centre through the arc of the stick travel .
+atari inc . released the pro-line trak-ball controller for the system , which was used primarily for gaming titles such as " centipede " and " missile command " .
+software designed for one does not run on the other , but porting the source code is difficult as long as it does not use computer-specific features .
+"
+antic " magazine reported in 1984 that " the similarities grossly outweigh the differences , so that a 5200 program can be developed and almost entirely debugged on an atari 8-bit computer before testing on a 5200 " .
+anderson wrote that atari could have released a console compatible with computer software in 1981 .
+the atari 5200 did not cost much money .
+some market analysts have speculated that this hurt its sales , especially since an atari 2600 cartridge adapter had been released for the intellivision ii .
+many of the 5200 's games appeared simply as updated versions of 2600 titles , which failed to excite consumers .
+its pack-in game , " super breakout " , was criticized for not doing enough to demonstrate the system 's capabilities .
+david h . ahl of creative computing video & arcade games said in 1983 that the " atari 5200 is , dare i say it , atari 's answer to intellivision , colecovision , and the astrocade " , describing the console as a " true mass market " version of the atari 8-bit computers despite the incompatibility software incompatibility .
+he also wondered why " super breakout " was the pack-in game when it did not use the 5200 's improved graphics .
+atari planned a smaller , cost-reduced version of the atari 5200 , which would have removed the controller storage bin .

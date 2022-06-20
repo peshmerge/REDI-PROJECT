@@ -1,0 +1,87 @@
+in mathematics , the fundamental theorem of arithmetic states that every integer greater than 1 is a prime number itself or can be represented as the product of prime numbers .
+the theorem says that 1200 can be written as a product of primes , and second , that no matter how this is done , there will always be exactly four 2s , one 3,5s , and no other primes in the product .
+factorizations containing composite numbers may not be unique ; e . g . , 12 = 2 × 6 = 3 × 4 substitutions
+for example , 2 = 2 × 1 = 2 × 1 = 2 × 1 = 2 .
+proposition 14 of euclid 's " elements " are the statement and proof of the fundamental theorem .
+if a prime " p " divides the product " ab " then " p " divides either " a " or " b " .
+proposition 30 is the key in the proof of the fundamental theorem of arithmetic .
+every integer greater than one is divided by some prime number .
+proposition 31 is proved by infinite descent .
+proposition 32 is derived from proposition 31 .
+in modern terminology , a least common multiple of several prime numbers is not a multiple of any other prime number .
+proposition 14 is derived from book vii , proposition 30 .
+in this proposition , the exponents are all equal to one , so nothing is said for the general case .
+article 16 of gauss ' " disquisitiones arithmeticae " is an early modern statement .
+every positive integer " n " > 1 can be written as a product of prime powers : " p " < " p " are primes and the " n " are positive integers .
+the empty product is usually extended to all positive integers , including 1 .
+this is called the canonical representation of " n " , or the standard form of " n " .
+note that factors " p " = 1 may be inserted without changing the value of " n " taluka e . g . , 1000 = 2 preparations .
+in fact , any positive integer can be an infinite product taken over all the positive prime numbers : where a finite number of the " n " are positive integers , and the rest are zero .
+the canonical form is defined as a canonical form for positive rational numbers .
+integer factorization , especially of large numbers , is much more difficult than computing products , gcds , or lcms .
+so these formulas are not used very often .
+many arithmetic functions are defined using canonical representation .
+the values of additive and multiplicative functions are determined by their values on the powers of prime numbers .
+the proof uses euclid 's lemmality " elements " vii , 30 foley : if a prime " p " divides the product of two natural numbers " a " and " b " , then " p " divides " a " or " p " divides " b " .
+so it must be shown that every number greater than 1 is either prime or a product of primes .
+first , 2 is prime .
+then , by strong induction , assume that all numbers are greater than 1 and less than " n " .
+if " n " is prime , there is no proof .
+otherwise , there are integers " a " and " b " , where " n " = " ab " , and 1 < " a " ≤ " b " < " n " .
+by the induction hypothesis , " a " = " p " p " . . " p " and " b " = " q " .
+but then " n " = " ab " = " p " .
+suppose , to the contrary , there is an integer that has two distinct prime factorizations .
+let " n " be the least such integer and write " n " = " p " .
+j and k are both at least 2 .
+we see " p " divides " q " . . " q " , so " p " divides some " q " by euclid 's lemma .
+without loss of generality , say " p " divides " q " .
+since " p " and " q " are both prime , it follows that " p " = " q " .
+returning to our factorizations of " n " , we may cancel these two terms to conclude " p " . . " p " = " q " .
+we now have two distinct prime factorizations of some integer strictly smaller than " n " .
+assume that " s " > 1 is the smallest positive integer which is the product of prime numbers in two different ways .
+if any " p " = " q " then , by cancellation , " s " / " p " = " s " q " = " s " / " q " = " s " / " q " / " q "
+but " s " is smaller than " s " , meaning " s " would not actually be the smallest such integer .
+so every " p " must be distinct from every " q " .
+without loss of generality , take " p " < " q " < " q " denote that the case , switch the " p " and " q " designations .
+and note that 1 < " q " ≤ " t " < " s " .
+therefore " t " must have a unique prime factorization .
+by rearrangement we see
+here " u " = < < < < " p " . . " p " ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′ ′
+so " u " is either 1 or factors into primes .
+in either case , " t " = " p " u " yields a prime factorization of " t " , so " p " appears in the prime factorization of " t " .
+if if ifaurus " q "-" p " ⟩ equaled 1 then the prime factorization of " t " would be all " q " 's , which would preclude " p " from appearing .
+thus < " q "-" p " ⟩ is not 1 , but is positive , so it factors into primes : whenever " q "-" p " ⟩ = waived .
+this gives a prime factorization of the factor .
+which we know is unique .
+now , " p " is in the prime factorization of " t " , and it is not equal to any " q " , so it must be one of the " r " 's .
+so " p " is a factor of < " q "-" p " m " foley .
+but that means " q " has a proper factorization , so it is not a prime number .
+this contradiction shows that " s " does not actually have two different prime factorizations .
+as a result , there is no positive integer with multiple prime factorizations .
+the first generalization of the theorem is found in gauss 's second monographition , after reciprocity .
+the set of all complex numbers " a " + " bi " where " a " and " b " are integers .
+he showed that this ring has the four units ±1 and ± " i " , that the non-zero , non-unit numbers fall into two classes , primes and composites , and that existence excluding order spp , the composites have unique factorization as a product of primes .
+in 1844 , while working on cubic reciprocity , eisenstein introduced the ring formula _ 12 , where formula _ 12 is a cube root of unity .
+he proved it has the six units formula _ 13 and that it has unique factorization .
+however , it was also found that unique factorization does not always hold .
+an example is given by formula _ 14 .
+in this ring one has a ring of ten .
+examples like this caused the notion of " prime " to be modified .
+in formula _ 14 it can be proven that if any of the factors above can be represented as a product , e . g . , 2 = ab , then one of " a " or " b " must be a unit .
+this is the traditional definition of prime .
+it can also be proven that none of these factors obeys euclid 's lemma ; e . g . , 2 divides neither liszt 1 + ljubljana nor hampson 1 − noses even though it divides their product 6 .
+in algebraic number theory 2 is called irreducible in formula _ 14 .
+the mention of formula _ 14 is required because formula _ 1 is prime and irreducible in formula _ 20 using these definitions it can be proven that in any integral domain a prime must be irreducible .
+euclid 's classical lemma can be rephrased as formula _ 1 .
+this is also true in formula _ 22 and formula _ 23 but not in formula _ 18
+the rings in which factorization into irreducibles are unique are called unique factorization domains .
+important examples are polynomial rings over the integers or over a field , euclidean domains and principal ideal domains .
+in 1843 , kummer introduced the concept of ideal number .
+the rings are called dedekind domains .
+there is a version of unique factorization for ordinals .
+the " disquisitiones arithmeticae " has been translated from latin into english and german .
+the german edition includes all of his papers on number theory : all the proofs of quadratic reciprocity , the determination of the sign of the gauss sum , the investigations into biquadratic reciprocity , and unpublished notes .
+the two monographs gauss published on biquadratic reciprocity have numbered sections : the first contains § 1 – 23 and the second § § 24 – 76 .
+the letters referencing these are of the form " gauss , bq , § " n " .
+the footnotes referencing the " disquisitiones arithmeticae " are of the form " gauss , da , art .
+these are in gauss 's " werke " , vol ii , 65 – 92 and 93 – 148 ; german translations are pp . 511 – 533 and 534 – 586 of the german edition of the " disquisitiones " .

@@ -1,0 +1,72 @@
+Lars Onsager (November 27, 1903 – October 5, 1976) was a Norwegian-born American physical chemist and theoretical physicist.
+He held the Gibbs Professorship of Theoretical Chemistry at Yale University.
+He was awarded the Nobel Prize in Chemistry in 1968.
+Lars Onsager was born in Kristiania (now Oslo), Norway.
+His father was a lawyer.
+After completing secondary school in Oslo, he attended the Norwegian Institute of Technology (NTH) in Trondheim, graduating as a chemical engineer in 1925.
+In 1925 he discovered that the Debye-Hückel theory of electrolytic solutions was wrong.
+This theory explained Brownian movement of ions in solution.
+In 1926 he published a correction to the theory.
+He traveled to Zürich, where Peter Debye was teaching, and told him his theory was wrong.
+Debye was so impressed by Onsager's work that he asked him to become his assistant.
+Onsager stayed at the Eidgenössische Technische Hochschule (ETH) until 1928.
+In 1928 Onsager went to the United States to teach at the Johns Hopkins University in Baltimore, Maryland.
+He was a genius in developing theories, he was not a very good chemistry teacher, and he was dismissed after one semester.
+His next job was teaching statistical mechanics at Brown University in Providence, Rhode Island.
+Again he was found to be no good at teaching.
+He did make significant contributions to statistical mechanics and thermodynamics.
+The only student who could really understand his lectures on electrolyte systems was Raymond Fuoss.
+Fuoss eventually joined him at Yale University.
+In 1933, during the Great Depression Brown's decided they could not afford to employ someone who could not teach and he was dismissed.
+His research at Brown was on the effects on diffusion of temperature gradients.
+He came up with a set of equations in 1929 now called Onsager reciprocal relations.
+The importance of these equations in statistical mechanics was not realized for many years.
+However by 1968 they were considered important for Onsager to win the Nobel Prize in Chemistry.
+In 1933, after leaving Browns, Onsager traveled to Austria to visit electrochemist Hans Falkenhagen.
+He met Falkenhagen's sister-in-law, Margrethe Arledter.
+They were married on September 7, 1933, and had three sons and a daughter.
+His next job was at Yale University, where he remained for most of the rest of his life, retiring in 1972.
+At Yale, it was discovered that he had never received a Ph.D.
+The Norwegian Institute of Technology found that his his work in reciprocal relations was too incomplete to qualify as a doctoral dissertation.
+Yale said they would accept one of his published papers instead, but Onsager insisted on doing a new research project.
+His dissertation, called "Solutions of the Mathieu equation of period 4 pi and certain related functions", was too hard for the chemistry and physics faculty to understand.
+It was only after the mathematics department said they would give him the doctorate instead, that he was granted a Ph.D. in chemistry in 1935.
+He was appointed assistant professor in 1934, and associate professor in 1940.
+At Yale he produced brilliant theoretical research, but could not teach or explain ideas to students.
+He was also unable to direct the research of graduate students, except for the occasional outstanding one.
+During the late 1930s, Onsager researched the dipole theory of dielectrics.
+He again improved on earlier work by Peter Debye.
+However, when he gave his paper to a journal that Debye edited in 1936, it was rejected.
+Debye would not accept Onsager's ideas until after World War II.
+During the 1940s, Onsager studied the statistical-mechanical theory of phase transitions in solids.
+He came up with a mathematical theory which was enthusiastically received.
+In a tour de force of mathematical physics, he obtained the exact solution for the two dimensional Ising model in zero field in 1944.
+In 1935 he was awarded an honorary degree from the Norwegian Institute of Technology, later part of Norwegian University of Science and Technology.
+In 1945, Onsager was naturalized as an American citizen.
+He was awarded the title of "J. Willard Gibbs Professor of Theoretical Chemistry".
+Willard Gibbs worked on using mathematics to solve problems in physics and chemistry.
+Onsager continuing in the same areas Gibbs had pioneered.
+In 1947, Onsager was elected to the National Academy of Sciences, and in 1950 he joined the ranks of Alpha Chi Sigma.
+After World War II, Onsager researched new topics of interest.
+He came up with a theoretical explanation of the superfluid properties of liquid helium in 1949.
+Two years later the physicist Richard Feynman independently proposed the same theory.
+He also worked on the theories of liquid crystals and the electrical properties of ice.
+While on a Fulbright scholarship to the University of Cambridge, he worked on the magnetic properties of metals.
+He developed important ideas on the quantization of magnetic flux in metals.
+He was awarded the Lorentz Medal in 1958, Willard Gibbs Award in 1962, and the Nobel Prize in Chemistry in 1968.
+He was elected a Foreign Member of the Royal Society (ForMemRS) in 1975.
+In 1972 Onsager retired from Yale.
+He became a member of the Center for Theoretical Studies, University of Miami, and was appointed Distinguished University Professor of Physics.
+At the University of Miami he guided and inspired postdoctoral students as his teaching skills had improved.
+He developed interests in semiconductor physics, biophysics and radiation chemistry.
+However, his death came before he could produce any breakthroughs comparable to those of his earlier years.
+He died from an aneurysm while living in Coral Gables, Florida in 1976.
+Onsager was buried next to John Gamble Kirkwood at New Haven's Grove Street Cemetery.
+Onsager's tombstone simply said "Nobel Laureate".
+When Onsager's wife Gretel died in 1991 and was buried there, his children added an asterisk after "Nobel Laureate," and "*etc." in the lower right corner of the stone.
+The Norwegian Institute of Technology established the Lars Onsager Lecture and The Lars Onsager Professorship in 1993 to award outstanding scientists in the scientific fields of Chemistry, Physics and Mathematics.
+In 1997 his sons and daughter donated his scientific works and professional belongings to NTNU (before 1996 NTH) in Trondheim, Norway as his Alma Mater.
+These are now organized as "The Lars Onsager Archive" at the Gunnerus Library in Trondheim.
+The Lars Onsager Prize is a prize in theoretical statistical physics.
+It is awarded annually by the American Physical Society.
+It was established in 1993 by Drs. Russell and Marian Donnelly.

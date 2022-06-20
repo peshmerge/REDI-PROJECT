@@ -1,0 +1,14 @@
+theoretical chemistry is the branch of chemistry which develops theoretical generalizations that are part of the theoretical arsenal of modern chemistry : for example , the concepts of chemical bonding , chemical reaction , valence , the surface of potential energy , molecular orbitals , orbital interactions , molecule activation , etc .
+theoretical chemistry tries to explain how much of the chemistry works .
+in theoretical chemistry , there is a system of systems of law , principles and rules , their refinement and detailing , the construction of a hierarchy .
+the central place in theoretical chemistry is the doctrine of the interconnection of the structure and properties of molecular systems .
+it uses mathematical and physical methods to explain the structures and dynamics of chemical systems .
+it is the most general explanation of chemical phenomena .
+in addition to theoretical physics , theoretical chemistry uses semi-empirical and empirical methods .
+in recent years , it has been mainly about quantum chemistry .
+other important parts include molecular dynamics , statistical thermodynamics and theories of electrolyte solutions , reaction networks , polymerization , catalysis , molecular magnetism and spectroscopy .
+modern theoretical chemistry may be the study of chemical structure and the study of chemical dynamics .
+the two studies of the theory are electronic structure , potential energy surfaces , and force fields .
+bimolecular kinetics and the collision theory of reactions and energy transfer are examples of this .
+theoretical chemistry is a branch of research .
+with the rise of the density functional theory and other methods like molecular mechanics , the range of application has been extended to chemical systems which are relevant to other fields of chemistry and physics , including biochemistry , nanotechnology or molecular biology .

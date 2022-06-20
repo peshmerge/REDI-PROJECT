@@ -1,0 +1,80 @@
+Article Five of the United States Constitution outlines how the Constitution can be changed.
+Changes to the Constitution are called Constitutional amendments.
+Article Five also says that there are certain clauses, or parts, of Article One of the Constitution that could not be amended right away.
+These clauses are explained in the "Protected clauses" section.
+Before the Constitution was approved, the United States was covered by its first constitution, the Articles of Confederation.
+Under the Articles of Confederation, amendments had to be approved by a unanimous vote in all 13 state legislatures.
+Not only did every state legislature have to agree on the amendment.
+If a single state Senator or Representative in the country disagreed with an amendment, the amendment would fail.
+This made it basically impossible to get any amendments passed.
+When the Founding Fathers wrote Article Five, they were trying to make sure changing the Constitution was not too hard, but not too easy either.
+James Madison later explained that the amendment process in the Constitution "guards equally against that extreme facility which would render the Constitution too mutable; and that extreme difficulty which might perpetuate its discovered faults."
+There are two steps in the process for changing the Constitution.
+The first step is proposing (formally suggesting) an amendment.
+Article Five of the Constitution allows this to be done in two different ways.
+The first way is the most common way.
+Any member of Congress can suggest an amendment.
+However, two-thirds (67%) of both the United States Senate and the United States House of Representatives have to agree that the amendment is needed.
+If this happens, the proposed amendment moves to Step 2 in the process.
+As of 2016, the second way has never been used.
+However, it exists to protect the rights of the state legislatures.
+If two-thirds of the state legislatures ask them to, Congress has to call a Constitutional Convention.
+Delegates would come to the Convention from each state.
+The Constitutional Convention could propose as many amendments as they wanted to.
+All of the amendments they proposed would move to Step 2 in the process.
+At first, when the Founding Fathers were writing the Constitution, they were only going to give Congress the power to propose amendments.
+However, some of the Founders, like Alexander Hamilton and James Madison, worried that this gave Congress too much power.
+Madison and Hamilton re-wrote Article Five to add the second option for proposing an amendment, and the rest of the Founders agreed.
+Adding the second option helped make sure the states had power too – the power to propose amendments if enough of their legislatures agreed.
+Step 2 starts when an amendment has been proposed, either by Congress or by a Constitutional Convention.
+The proposed amendment now has to be ratified.
+Like with Step 1, Article Five gives two choices for how an amendment can be ratified.
+Congress gets to choose which way to use.
+Congress has almost always chosen the first way: letting the state legislatures ratify the amendment.
+If three-fourths (75%) of the state legislatures ratify the amendment, it becomes part of the Constitution.
+The second option is for Congress to ask each state to create a "ratifying convention."
+This is a group of people – not members of the state legislature – who would decide whether or not to ratify the amendment.
+If ratifying conventions in three-fourths of the states ratify the amendment, it becomes part of the Constitution.
+Congress has only used the second option once: after it proposed the 21st Amendment.
+(This amendment cancelled the 18th Amendment, which made alcohol illegal in the United States.
+The 21st Amendment made alcohol legal again.)
+At the time, Congress thought that this would be the more democratic option.
+A large majority of the people in the United States wanted the 21st Amendment to pass.
+However, Congress thought the state legislators would refuse to pass the amendment because of pressure from powerful groups that were against alcohol.
+In other words, Congress did not think that the state legislatures would vote the way the people of the United States would want.
+This example shows why the Founding Fathers included the "ratifying convention" option in the amendment process.
+If the state legislatures get too powerful, or do not represent what the people who elected them want, the people have the power to pass amendments too.
+Article Five protects two clauses in Article One from being amended until 1808.
+Article Five also puts one absolute limit on Constitutional amendments.
+It completely protects Section 3, Clause 1 of Article One.
+This clause says that every state will have the same number of United States Senators.
+It does not set a time limit on how long this clause is protected for.
+It just says: "no state, without its consent, shall be deprived of its equal suffrage in the Senate."
+As of 1808, when the protections on the other two clauses expired, this is the only limit that the Constitution puts on suggested amendments.
+Any amendment, about anything else, could be suggested.
+Article Five gives all of the power for creating Constitutional amendments to the Legislative Branch: the United States Congress and the state legislatures.
+The President of the United States cannot amend the Constitution.
+He has no part in the process of changing the Constitution.
+The United States Supreme Court confirmed this in a 1798 case called "Hollingsworth v. Virginia".
+In its decision, the Court wrote: "The President ... has nothing to do with the proposition, or adoption, of amendments to the Constitution."
+However, the Supreme Court cannot create an amendment either.
+This is an example of the separation of powers (also called "checks and balances") that the Founding Fathers built into the new American government.
+If the President or the Supreme Court could change the Constitution any time they wanted to, they would have too much power.
+One person (or nine Supreme Court Justices) could make decisions that would affect every American.
+Instead, the Founders gave the job of creating Constitutional amendments to the Legislative Branch.
+By requiring that two-thirds of both Houses of Congress, and three-quarters of the states, approve of every Constitutional amendment, they made sure that there would have to be a lot of debate, compromise, and thought before an amendment was approved.
+Also, because so many legislators have to approve every amendment, it is very difficult for small "special interest" groups (like people who only care about a certain part of the country, or a certain issue) cannot control the vote.
+The Founders even put checks and balances on the Legislative Branch's powers.
+If Congress gets too powerful, the states can make it call a Constitutional Convention.
+If the states get too powerful, ordinary Americans can vote on a Constitutional amendment through ratifying conventions.
+As a legal scholar wrote later: "The ratification of the Twenty-First Amendment by ratifying conventions might be called one of the most democratic moments in American history.
+... Almost all voters in America had the unprecedented opportunity to support or condemn a federal constitutional amendment directly.
+... The conventions ratified the choices of the people without fail."
+Almost right away, the amendments process became very important.
+North Carolina and Rhode Island refused to ratify the Constitution without a Bill of Rights.
+This meant they would not be a part of the new United States Government.
+In 1789, James Madison wrote the Bill of Rights.
+They were ratified together, as the first ten amendments to the Constitution, in 1791.
+Having a Bill of Rights convinced North Carolina and Rhode Island to ratify the Constitution.
+The amendments process set out in Article Five has allowed for many other important amendments to be added to the Constitution.
+If Article Five had made the Constitution too hard to change, African-American people might still be slaves, and women might still not have the right to vote.

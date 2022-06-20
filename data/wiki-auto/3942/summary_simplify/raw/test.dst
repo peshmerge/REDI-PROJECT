@@ -1,0 +1,26 @@
+In mathematics, a bijection, bijective function, or one-to-one correspondence is a function between the elements of two sets, where each element of one set is paired with exactly one element of the other set, and each element of the other set is paired with exactly one element of the first set.
+If "X" and "Y" are finite sets, then the existence of a bijection means they have the same number of elements.
+For infinite sets the picture is more complicated, leading to the concept of cardinal number, a way to distinguish the various sizes of infinite sets.
+Bijective functions are essential to many areas of mathematics including the definitions of isomorphism, homeomorphism, diffeomorphism, permutation group, and projective map.
+It is more common to see properties (1) and (2) written as a single statement: Every element of "X" is paired with exactly one element of "Y".
+Functions which satisfy property (3) are said to be "onto "Y" " and are called surjections (or surjective functions).
+Functions which satisfy property (4) are said to be "one-to-one functions" and are called injections (or injective functions).
+This symbol is a combination of the two-headed rightwards arrow sometimes used to denote surjections and the rightwards arrow with a barbed tail sometimes used to denote injections.
+Consider the batting line-up of a baseball or cricket team (or any list of all the players of any sports team where every player holds a specific spot in a line-up).
+The set "X" will be the players on the team (of size nine in the case of baseball) and the set "Y" will be the positions in the batting order (1st, 2nd, 3rd, etc.)
+Property (3) says that for each position in the order, there is some player batting in that position and property (4) states that two or more players are never batting in the same position in the list.
+In a classroom there are a certain number of seats.
+A bunch of students enter the room and the instructor asks them all to be seated.
+After a quick look around the room, the instructor declares that there is a bijection between the set of students and the set of seats, where each student is paired with the seat they are sitting in.
+What the instructor observed in order to reach this conclusion was that: The instructor was able to conclude that there were just as many seats as there were students, without having to count either set.
+The process of "turning the arrows around" for an arbitrary function does not, "in general", yield a function, but properties (3) and (4) of a bijection say that this inverse relation is a function with domain "Y".
+Moreover, properties (1) and (2) then say that this inverse "function" is a surjection and an injection, that is, the inverse function exists and is also a bijection.
+Stated in concise mathematical notation, a function "f": "X → Y" is bijective if and only if it satisfies the condition
+Continuing with the baseball batting line-up example, the function that is being defined takes as input the name of one of the players and outputs the position of that player in the batting order.
+Since this function is a bijection, it has an inverse function which takes as input a position in the batting order and outputs the player who will be batting in that position.
+Indeed, in axiomatic set theory, this is taken as the definition of "same number of elements" (equinumerosity), and generalising this definition to infinite sets leads to the concept of cardinal number, a way to distinguish the various sizes of infinite sets.
+Bijections are precisely the isomorphisms in the category Set of sets and set functions.
+The notion of one-to-one correspondence generalizes to partial functions, where they are called partial bijections, although partial bijections are only required to be injective.
+The reason for this relaxation is that a (proper) partial function is already undefined for a portion of its domain; thus there is no compelling reason to constrain its inverse to be a total function, i.e.
+The set of all partial bijections on a given base set is called the symmetric inverse semigroup.
+When the partial bijection is on the same set, it is sometimes called a one-to-one partial transformation.

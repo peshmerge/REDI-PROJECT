@@ -1,0 +1,61 @@
+halophiles are organisms that live in salt concentrations .
+they are a type of extremophile organism .
+the name comes from the greek word for " salt-loving " .
+while most halophiles are classified into the archaea domain , there are also bacterial halophiles and some eukaryota , such as the alga " dunaliella salina " or fungus " wallemia ichthyophaga " .
+some well-known species give off a red color from carotenoid compounds , notably bacteriorhodopsin .
+halophiles can be found anywhere with a salt amount of salt in the ocean .
+halophiles are categorized as slight halophiles .
+slight halophiles prefer 0.3 to 4.8 m ; seawater is 0.6 m or 3.5 %ference , moderate halophiles 0.7 to 20 % ashore , and extreme halophiles 3.4 to 20 % salt contents .
+halophiles require sodium chloridethermalthermalthermality for growth , in contrast to halotolerant organisms , which do not require salt but can grow under saline conditions .
+high salinity is a kind of salinity .
+most halophilic and all halotolerant organisms use energy to exclude salt from their cytoplasm to avoid protein aggregation ' salting out ' .
+to survive the high salinities , halophiles employ two strategies to prevent desiccation through osmotic movement of water out of their cytoplasm .
+both strategies work by increasing the internal osmolarity of the cell .
+organic compounds are accumulated in the cytoplasm — osmoprotectants which are known as compatible solutes .
+these can be either synthesised or accumulated from the environment .
+the most common solutes are neutral or zwitterionic , and include amino acids , sugars , polyols , betaines , and ectoines .
+the second , more radical adaptation involves the selective influx of potassium liszt liszt liszt ’ s klaze ions into the cytoplasm .
+this adaptation is restricted to the moderately halophilic bacterial order halanaerobiales , the extremely halophilic archaeal family halobacteriaceae , and the extremely halophilic bacterium " salinibacter ruber " .
+it is unlikely to be an ancient retained in only scattered groups or passed on through massive lateral gene transfer .
+the main reason for this is the entire intracellular machinery morphologically assembly must be adapted to high salt levels .
+of particular note are the extreme halophiles or haloarchaeatland often known as haloarchaeacise , a group of archaea , which require at least a 2 m salt concentration and are usually found in saturated solutions .
+these are the primary inhabitants of salt lakes , inland seas , and evaporating ponds of seawater , such as the deep salterns , where they tint the water column and sediments bright colors .
+these species most likely perish if they are exposed to anything other than a very high-concentration , salt-conditioned environment .
+these prokaryotes need salt for growth .
+sodium chloride is used in the environment to limit the amount of oxygen available for respiration .
+their cellular machinery is adapted to high salt concentrations by having charged amino acids on their surfaces .
+they are heterotrophs that normally respire by aerobic means .
+most halophiles can not survive outside their high-salt native environments .
+many cells are so fragile that when placed in distilled water , they immediately lyse from the change in osmotic conditions .
+halophiles use many different kinds of energy sources .
+they can be aerobic or anaerobic .
+anaerobic halophiles include phototrophic , fermentative , sulfate-reducing , homoacetogenic , and methanogenic species .
+the haloarchaea , and particularly the family halobacteriaceae , are members of the domain archaea .
+there are currently 14 known genera in the family .
+the domain bacteriatify mainly " salinibacter ruber " can make up to 25 % of the prokaryotic community .
+at times , the alga " dunaliella salina " can also live in this environment .
+a comparatively wide range of taxa have been isolated from saltern crystalliser ponds , including members of these genera : " haloferax , halococcus , haloterrigena , haloarcula " , and " haloarcula " .
+the viable counts in these cultivation studies have been small when compared to total counts .
+only recently , it can be possible to determine the identities and relative abundances of organisms in natural populations .
+while comparatively few studies of this type have been performed , results from these suggest that some of the most readily isolated and studied genera may not in fact be significant in the " in situ " community .
+this is seen in cases such as the genus " haloarcula " , which makes up less than 0.1 % of the " in situ " community , but commonly appears in isolation studies .
+the comparative genomic and proteomic analysis showed different molecular signatures exist for environmental adaptation of halophiles .
+at the protein level , the halophilic species are characterized by low hydrophobicity , overrepresentation of acidic residues , underrepresentation of cys , lower propensities for helix formation , and higher propensities for coil structure .
+the core of these proteins is less hydrophobic .
+at the dna level , the halophiles are unique .
+halobacterium is a genus of bacteria .
+some species of halobacteria have acidic proteins that resist the effects of salt .
+halococcus is a genus of bacteria .
+some hypersaline lakes are a habitat to many families of halophiles .
+for example , the makgadikgadikgadi pans in botswana form a vast , seasonal , high-salinity water body .
+owens lake in california also contains a large population of the halophilic bacterium " halobacterium halobium " .
+wallemia ichthyophaga is a fungus that requires at least 1.5 m sodium chloride for " in vitro " growth .
+obligate requirement for salt is an exception in fungi .
+even species that can tolerate salt concentrations close to saturationreate for example " hortaea werneckii "arth in almost all cases grow well in standard microbiological media without the addition of salt .
+the fermentation of salty foods includes soy sauce , salted cod , salted anchovies , salted anchovies , etc .
+one example is " chromohalobacter beijerinckii " , found in salted beans preserved in brine and in salted herring .
+" tetragenococcus halophilus " is found in salted anchovies and soy sauce .
+" artemia " is a ubiquitous genus of small halophilic crustaceans living in salt lakeshore .
+north ronaldsay sheep is a breed of sheep .
+they have limited access to fresh water sources on the island .
+they have adapted to handle salt concentrations that would kill other breeds of sheep .

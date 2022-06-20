@@ -1,0 +1,38 @@
+in mathematics , the cardinality of a set means the number of the set .
+for example , the set has 3 elements , and therefore , formula _ 2 has a cardinality of 3 .
+there are two approaches to cardinality .
+the cardinality of a set is also called its size , when no confusion with other notions of size is possible .
+the cardinality of a set is usually denoted formula _ 4 with a vertical bar on each side .
+alternatively , the cardinality of a set is denoted by formula _ 1 , formula _ 2 , or formula _ 8 .
+the cardinality of a set is just the number of its elements .
+if if < < < < < < < < " b " — and < " b " — a " ⟩ < < < " b " — a " → " b " — then norwood norwood norwood norwood norwood – – – – – bernstein theorem .
+the axiom of choice is equivalent to the statement that < " a " ≤ ≤ ≤ ≤ ≤ ≤ " b " minnie minnie minnie minnie minnie minnie minnie minnie minnie minnie minnie minnie minnie minnie .
+cardinality was defined functionally .
+that is , the " cardinality " of a set was not defined as a specific object itself .
+such an object can be defined as follows .
+the relation of having the same cardinality is called equinumerosity .
+the equivalence class is a set which has the same cardinality as " a " .
+assuming ac , the cardinalities of the infinite sets are denoted for each ordinal , formula _ 12 is the least cardinal number greater than formula _ 13 .
+the cardinality of the natural numbers is denoted aleph-nullsburg formula _ 14 whitaker , while the cardinality of the real numbers is denoted by " c " < " fraktur script " c " < .
+cantor showed that formula _ 16 .
+we can show that formula _ 17 , this is the cardinality of all subsets of the natural numbers .
+the continuum hypothesis says that formula _ 18 is the smallest cardinal number bigger than formula _ 14 , i . e . there is no set whose cardinality is strictly between that of the integers and that of the real numbers .
+the continuum hypothesis is independent of zfc , a standard axiomatization of set theory .
+see below for more details on the continuum .
+if the axiom of choice holds , the law of trichotomy holds for cardinality .
+this is when the set is about infinite .
+in the late nineteenth century georg cantor , gottlob frege , richard dedekind and others rejected the view that the wholestrels were the same size as the part .
+one example of this is hilbert 's paradox of the grand hotel .
+dedekind defined an infinite set as one that can be placed into a one-to-one correspondence with a strict subset subset subset subsettries that is , having the same size in cantor 's sense .
+cantor introduced the cardinal numbers , and showed that mathematicians can use certain sizes .
+the smallest infinite cardinality is that of the natural numbers denoted by formula _ 14 kapoor .
+the continuum hypothesis says that there is no cardinality between the reals and the natural numbers .
+however , this hypothesis can not be proved nor disproved within the widely accepted zfc axiomatic set theory , if zfc is consistent .
+cardinal arithmetic can be used to show that the number of points in a real number line is equal to the number of points in any segment of that line .
+these results are highly counterintuitive , because they imply that there exist proper subsets and proper supersets of an infinite set " s " that have the same size as " s " .
+the tangent function is a one-to-one correspondence between the intervalials-1πππππππππππolis and rgum see also hilbert 's paradox of the grand hoteleux .
+the second result was first demonstrated by cantor in 1878 , but it became more apparent in 1890 , when giuseppe peano introduced the space-filling curves , curved lines that twist and turn enough to fill the whole of any square , or hypercube , or finite-dimensional space .
+these curves are not a direct proof that a line has the same number of points as a finite-dimensional space , but they can be used to obtain such a proof .
+cantor also showed that sets with cardinality strictly greater than formula _ 15 exist naacp !
+if " a " and " b " are disjoint sets , then " disjoint " sets , then " disjoint " sets "
+from this , one can show that in general the cardinalities of unions and intersections are related by

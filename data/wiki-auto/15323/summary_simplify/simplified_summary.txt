@@ -1,0 +1,33 @@
+ipculus ip ) is the protocol in the internet protocol suite for relaying data across network boundaries .
+it also defines addressing methods that are used to label the datagram with source and destination information .
+in 1974 , ip was the connectionless datagram service in the original transmission control program .
+the first major version of ip , internet protocol version 4icative ipv4script , is the dominant protocol of the internet .
+it replaced the internet protocol version 6icative ipv6 [mask] .
+the internet protocol is responsible for addressing host interfaces , encapsulating data into datagrams .
+the internet protocol defines the format of packets and provides an addressing system .
+the header includes source ip address , destination ip address , and other datagrams .
+ip addressing is a set of ip addresses that are used to solve the problem of the computer .
+the address space is divided into subnetworks , with the designation of network prefixes .
+routing is done by all hosts , as well as routers , whose main function is to transport packets across network boundaries .
+routers communicate with one another via specially designed routing protocols , either inside gateway protocols or exterior gateway protocols , as needed for the topology of the network .
+in may 1974 , the institute of electrical and electronics engineers engineers shouldn ieee ieee ieee ieee ieee ieee ieee ieee ieee ieee ieee ieee ieee ieee ieee ieee ieee ieee ieee ieee ieee ieee ieee ieee ieee ieee ieee ieee ieee ieee ieee ieeepta -lrb- a protocol for packet network intercommunication -rrb- published a paper entitled " a protocol for packet network intercommunication " .
+the monolithic transmission control program was later divided into a modular architecture consisting of the transmission control protocol and user datagram protocol at the transport layer and the internet protocol at the internet layer .
+the dominant internetworking protocol in the internet layer in use today is ipv4 ; the number 4 is the protocol version number carried in every ip datagram .
+it was used by the internet stream protocol .
+however , all united states government systems have demonstrated basic infrastructure support for ipv6 .
+the assignment of the new protocol as ipv6 was unknown until due diligence revealed that ipv6 had not yet been used previously .
+ipv9zong aka tcp and udp were researched and adopted in china , which china disowns .
+the design of the internet protocol suite is based on the end-to-end principle , a concept adapted from the cyclades project .
+under the end-to-end principle , the network infrastructure is considered unreliable at any single network element or transmission medium .
+no central monitoring or performance measurement facility exists that tracks or maintains the state of the network .
+for the benefit of reducing network complexity , the intelligence in the network is purposely located in the end nodes .
+as a consequence of this design , the internet protocol only provides best-effort delivery and its service is unreliable .
+because routing is a dynamic , meaning every packet is treated independently , and because the network keeps no state based on the path of prior packets , different packets may be routed to the same destination via different paths , resulting in out-of-order delivery to the receiver .
+all error conditions in the network must be detected and compensated by the participating end nodes .
+for example , a host may buffer network data to ensure correct ordering before the data is delivered to an application .
+the internet control message protocol is not required to tell the other part of the network .
+ipv6 , by contrast , operates without header checksums , since current link layer technology is assumed to provide sufficient error detection .
+the dynamic nature of the internet and the diversity of its components provide no guarantee that any particular path is actually capable of , or suitable for , performing the data transmission requested .
+facilities exist to examine the maximum transmission unitability of the local link and path mtu discovery can be used for the entire path to the destination .
+an ipv6 network does not perform fragmentation or reassembly , and requires end stations and higher-layer protocols to avoid the network 's mtu .
+during the design phase of the arpanet and the early internet , the security aspects and needs of a public , international network could not be predicted .

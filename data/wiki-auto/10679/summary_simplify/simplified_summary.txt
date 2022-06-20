@@ -1,0 +1,22 @@
+five-card drawsdale is a poker variant .
+as a result , it is often the first variant learned by new players .
+it is also offered by some online venues .
+in casino play the first betting round begins with the player to the left of the big blind , and subsequent rounds begin with the player to the left .
+the first betting round is with the player to the dealer 's left .
+each player is given five cards face down .
+the remaining deck is placed aside .
+players pick up the cards and hold them in their hands .
+the deck is retrieved , and each player is given the same number of cards they discarded so that each player again has five cards .
+a second " after the draw " betting round is beginning with the player to the dealer 's left or else beginning with the player who opened the first round .
+a common " house rule " in some places is that a player may not replace more than three cards , unless they draw four cards while keeping an acewalk or wild cardocation .
+in more serious games such as those played in casinos it is unnecessary and generally not used .
+however , a rule used by many casinos is that a player is not allowed to draw five consecutive cards from the deck .
+if a player wishes to replace all of their cards , that player is given four of them in turn , the other players are given their draws , and then the dealer returns to that player to give the fifth replacement card .
+another common house rule is that the bottom card of the deck is never given as a replacement , to avoid the possibility of someone who might have seen it during the deal using that information .
+for example , if the last player to draw wants three new cards , there are only two cards left in the deck , the dealer gives the player the one top card he can give , then shuffles together the bottom card of the deck , the burn card , and the earlier players ' discards .
+the sample deal is being played by four players as shown to the right with alice dealing .
+alice deals a burn card , then deals three cards directly to bob , who puts them in his hand .
+alice deals one card to him .
+alice now discards three of her own cards , and replaces them with three from the top of the deck poker note : in a player-dealt casino game there is often a rule that the dealer must discard before picking up the deck , but this is a home game so we won ' t worry about such details .
+when four or fewer players play , a normal 32-card deck without jokers , with ranks ranging from ace to seven , is used .
+many smaller online poker rooms , such as boss media , spread the variant .

@@ -1,0 +1,52 @@
+A gamemaster is a person who plans, referees, solves arguments in and otherwise runs a role-playing game with more than one player.
+They are almost always seen in games where all the players are on the same side, and less often seen in games where the players are against each other.
+Acting as a gamemaster is sometimes called "Gamemastering" or "GMing" for short.
+A gamemaster's job in a traditional role-playing game (where all the players are together in person) is to bring the other players' characters' stories together, control the other characters and monsters, put together places and scenes for the player characters to act in, and solve arguments between players.
+This basic rule is the same in almost all role-playing games, but some rule sets may need the gamemaster to do other jobs unique to that system.
+The role of a gamemaster in an online game is to make sure everyone follows the game's rules and give general customer service.
+Gamemasters for online games may be players who choose the role like in traditional role-playing games, or they might be workers paid by the company that makes the game.
+The term "gamemaster" and the job itself it could be found in the postal gaming hobby.
+In the sense of a role-playing game, it was first used by "Chivalry & Sorcery", and in wargaming it has been used in Guidon Games' 1973 ruleset, "Ironclad".
+In most play-by-mail games, players control armies or countries and mail the actions they want to do to the GM.
+The GM then regularly mails the newest game state to all players.
+Each gaming system has its own name for the gamemaster, such as "judge", "narrator", "referee", "director", or "storyteller", and these names not only describe the role of the gamemaster in general but also help explain how the game is meant to be run.
+For example, the Storyteller System used in White Wolf Game Studio's storytelling games calls its gamemaster the "storyteller", while the rules- and setting-focused "Marvel Super Heroes" role-playing game calls its gamemaster the "judge".
+The cartoon-based role-playing game "Toon" calls its gamemaster the "animator".
+A few games use system- or setting-specific flavourful (closely related to the game's setting or "flavour") names for the gamemaster, such as the Hollyhock God in "Nobilis", where the hollyhock means vanity, or the most well known of such names, "Dungeon Master" (or "DM") in "Dungeons & Dragons".
+The gamemaster prepares the game session for the players and the characters they play (known as player characters or PCs), describes the events taking place and decides on the results of players' actions.
+The gamemaster also keeps track of non-player characters (NPCs) and random encounters, as well as of the general state of the game world.
+The game session (or "adventure") could be described as a play, in which the players are the lead actors, and the GM brings the stage, the scenery, the basic plot on which the improvisational (unplanned) script is built, as well as all the bit parts and supporting characters.
+Gamemasters can also be in charge of RPG board games, making the events and setting up challenges.
+A gamemaster can be said to wear four "hats" in their role, meaning the four main jobs they do as part of the overall job of GMing.
+In early virtual worlds gamemasters worked as a moderator or administrator; in MUD gamemasters were called "wizards".
+Gamemastering in the form found in traditional role-playing games has also been used in virtual worlds that mostly run by themselves.
+However, human moderation was sometimes thought of as unfair or wrong in a world that is otherwise run by computer programs.
+As online games got bigger and more popular, gamemasters' jobs grew to include giving customer service for an online community.
+A gamemaster in such a game is either a volunteer player that has been there a long time, or someone who works for the game's publisher.
+They make everyone follow the game's rules by getting rid of spammers, player killers, cheaters, and hackers and by solving players' problems by giving general customer service.
+For their jobs they use special tools and characters that allow them to do things like teleport to players, make items, and look at logs that record players' actions.
+Often, players who aren't happy with the game will blame the GMs for any problems.
+However, this blame is not fair as most GMs are not developers and cannot fix those types of problems.
+America Online Online Gaming Forum (which is no longer in use) used to use volunteers chosen from applications from its users.
+These people were called OGFs by other members, and their screennames showed their role (i.e., OGF Moose, etc.).
+While users only needed to be members of AOL to use the Online Gaming Forum, OGFs were given powers like AOL "Guides" and could use them at will when they thought it was right.
+"World of Warcraft" has employees of Blizzard Entertainment that serve as gamemasters to help users with many problems in gameplay, chat, and other things like account and payment issues.
+A gamemaster in this game can talk to players through chat with blue text, and they will also have a special "GM" tag and Blizzard logo in front of their name.
+"RuneScape" has more than 500 moderators working for Jagex Games Studio to help players and do administrative work in-game and on the site forums.
+These "Jagex Moderators", as they are called, usually have the word "Mod" and a gold crown preceding their account names which normal players are not allowed to use.
+The game also has "Player Moderators" and "Forum Moderators" who are player volunteers helping with moderation, having the power to mute (block from chatting) other players who break rules.
+Note that a few games, such as "Neverwinter Nights" and "", are video game adaptations of tabletop role-playing games that are played online with one player acting as a gamemaster in the same way as they would in real life.
+Gamemastering, sometimes called Orchestration is used in pervasive games to guide players along a path that the game's writer wants.
+Good gamemastering in this type of game sometimes needs special user interfaces that are unique to a certain game.
+Sometimes, tabletop GMs can not find players that want to play in either the same setting, product line, or play style in their local area.
+The networked personal computer gave an answer with online chat programs.
+Gamemasters with the right equipment can find players online and a group can meet using chat rooms, forums, or other electronic means.
+Compared to standard tabletop games (and to games "meant" to be played online), this online chat format changes the balance of duties for a gamemaster quite a lot.
+Descriptions require more preparation, even when using cut-and-paste; acting and voice skills can not be used to get the personality of NPCs and monsters across, making background music as a playing aid more useful.
+The GM is likely to need copies of player-character records, not being able to look at the originals as in a normal face-to-face game.
+The format also forces the issue (particularly when players do not all know each other) of whether to leave all rolling of dice to the GM, or to trust all players to honestly give the results of their rolls (the honor system may be strained when rolling well is a very good thing).
+However, over time there have been answers to these problems.
+The use of Wiki software helps GMs and players keep track of game data, sometimes turning into a home-made gaming aid.
+Scripting software allows difficult parts of gameplay (e.g. a complicated formula or lots of die-rolling) to be done at the push of a button.
+Teleconferencing lets groups use voice, video, and a shared whiteboard to interact.
+The use of technology to allow online play is growing, as seen in products like the D&D Insider.

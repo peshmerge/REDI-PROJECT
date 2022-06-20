@@ -1,0 +1,87 @@
+an electric light is a device that produces light from electricity .
+it provides interior lighting for buildings and outside lighting for evening and nighttime activities .
+a replaceable component that produces light from electricity is called a lamp .
+lamps are commonly called light bulbs .
+most lamps have a base made of ceramic , metal , glass or plastic .
+the electrical connection to the socket may be made with a screw-thread base , two metal pins , two metal caps or a bayonet cap .
+the three main categories of electric lights are incandescent lamps , which produce light by a filament heated white-hot by electric current , gas-discharge lamps , which produce light by means of an electric arc through a gas , and led lamps , which produce light by a flow of electrons across a band gap in a band gap in a semiconductor .
+early people used candles , oil lamps , and fires .
+the first incandescent light was made by the english chemist humphry davy in 1802 .
+by the 1870s , davy 's arc lamp had been successfully commercialized , and was used to light many public spaces .
+by the early 20th century , these had completely replaced arc lamps .
+the energy efficiency of electric lighting has increased very much since the first demonstration of arc lamps and the incandescent light bulb of the 19th century .
+electric light sources come in a profusion of types and sizes adapted to many applications .
+most modern electric lighting is powered by centrally-generated electricity , but lighting may also be powered by mobile or standby electric generators or battery systems .
+battery powered light is often reserved for when lights fail .
+different types of lights have vastly different efficacies and color of light .
+the most efficient source of electric light is the low-pressure sodium lamp .
+it produces a monochromatic orange-yellow light .
+for this reason it is generally reserved for outdoor public lighting applications .
+low-pressure sodium lights are favoured for public lighting by astronomers .
+the modern incandescent light bulb , with a coiled filament of tungsten , and commercialized in the 1920s , developed from the carbon filament lamp introduced about 1880 .
+as well as bulbs for normal illumination , there is a very wide range , including low voltage , low-power types often used as parts in equipment .
+incandescent bulbs are being phased out in many countries due to their low energy efficiency .
+less than 3 % of the total energy is changed into usable light .
+nearly all of the input energy ends up as heat that , in warm climates , must then be removed from the building by ventilation or air conditioning , often resulting in more energy consumption .
+in colder climates where heating and lighting is required during the cold and dark winter months , the heat byproduct is at least some point .
+halogen lamps are usually much smaller than incandescent lamps .
+for this reason most have a bulb of fused silicative quartzchially quartz quartzzine or aluminosilicate glass .
+this is often sealed inside a layer of glass .
+the outer glass is a safety precaution , to reduce ultraviolet emission .
+oily residue from fingerprints may cause a hot quartz envelope to shatter due to too heat buildup at the contamination site .
+the risk of burns or fire is also greater with bare bulbs .
+those designed for 12-or 24-volt operation have compact filaments .
+also , they have higher efficacies .
+the light output stays constant throughout their life .
+a fluorescent bulb is a glass tube that contains mercury vapor or argon under low pressure .
+electricity flowing through the tube causes the gases to give off ultraviolet energy .
+the inside of the tubes are coated with phosphors that give off visible light when struck by ultraviolet photons .
+they have much higher efficiency than incandescent lamps .
+for the same amount of light , they use around one-quarter to one-third the power of an incandescent .
+the typical luminous efficacy of fluorescent lighting systems is 50 – 100 lumens per watt , several times the efficacy of incandescent bulbs with comparable light output .
+fluorescent lamp fixtures are more costly than incandescent lamps , because they require a ballast to regulate the current through the lamp .
+they are used as an energy-saving alternative in homes .
+because mercury is made of many fluorescent bulbs , some are hazardous waste .
+the united states environmental protection agency -lrb- epa -rrb- recommends that fluorescent lamps should be kept from general waste for recycling or safe disposal .
+the solid-state light emitting diodetious ledorina has been popular as an indicator light in consumer electronics and professional audio gear since the 1970s .
+in the 2000s , efficacy and output have risen to the point where leds are now being used in lighting applications such as car headlights and brake lights , in flashlights and bicycle lights , as well as in decorative applications , such as holiday lighting .
+indicator leds are known for their extremely long life , up to 100,000 hours .
+led technology is useful for lighting designers .
+led lifetime depends strongly on the temperature of the diode .
+the lamp can also be used to reduce the temperature of the lamp .
+carbon arc lamps consist of two carbon rod electrodes in open air .
+the electric arc is struck by touching the rod tips then separating them .
+the resulting arc produces a white-hot plasma between the rod tips .
+these lamps have higher efficacy than filament lamps , but the carbon rods are short-lived and require constant adjustment in use .
+the lamps produce significant ultraviolet output .
+the carbon arc was invented by davy .
+it was used commercially in the 1870s for large building and street lighting until it was replaced by the incandescent light .
+carbon arc lamps operate at high power and produce high intensity white light .
+they are also a point source of light .
+they remained in use in limited applications that required these properties , such as movie projectors , stage lighting , and searchlights , until after world war ii .
+a discharge lamp is a glass or silica envelope containing two metal electrodes separated by a gas .
+gases used include , neon , argon , xenon , sodium , metal halide , and mercury .
+the core operating principle is much the same as the carbon arc lamp .
+with some discharge lamps , very high voltage is used to strike the arc .
+this requires an electrical circuit called an igniter .
+after the arc is struck , the internal resistance of the lamp drops to a low level .
+without a ballast , excess current would flow , causing rapid destruction of the lamp .
+some lamp types contain a little neon .
+low-pressure sodium lamps operate this way .
+the simplest ballasts are just an inductor , and are chosen where cost is the deciding factor , such as street lighting .
+more advanced electronic ballasts may be designed to maintain constant light output over the life of the lamp .
+lamp units are usually given in standardized shape codes and socket names .
+incandescent bulbs and their retrofit replacements are often specified as a19 / a60 e26 / e27 , a common size for these kind of light bulbs .
+in this example , the " a " parameters describe the bulb size and shape while the " e " parameters describe the edison base size and thread characteristics .
+life expectancy for many types of lamp is defined as the number of hours of operation at which 50 percent fail , that is the median life of the lamps .
+production tolerances as low as 1 % can create a variance of 25 % in lamp life .
+for leds , lamp life is defined as the operation time at which 50 % of lamps have experienced a 70 % decrease in light output .
+some types of lamp are sensitive to switching cycles .
+rooms with frequent switching , such as bathrooms , can expect much shorter lamp life than what is printed on the box .
+they are very sensitive to switching cycles .
+the amount of artificial light enters from street light gives cities to be easily visible at night from the air , and from space .
+this light is the source of light pollution that burdens astronomers and others .
+electric lamps can be used as heat sources .
+due to their nonlinear resistance characteristics , tungsten filament lamps have long been used as fast-acting thermistors in electronic circuits .
+a stylized depiction of a light bulb features as the logo of the turkish ak party .
+in circuit diagrams lamps are shown as symbols .

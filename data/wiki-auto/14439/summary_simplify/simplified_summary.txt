@@ -1,0 +1,38 @@
+a harmonic series is a series of sounds , which are divided by sinusoidal waves .
+at the frequencies of each vibrating mode , waves travel in both directions along the string or air column , reinforcing and canceling each other to form standing waves .
+because of the typical spacing of the resonances , these frequencies are mostly limited to integer multiples , or harmonics , of the lowest frequency .
+the musical pitch of a note is usually the lowest part of the note .
+the musical timbre of a steady tone is strongly affected by the relative strength of each harmonic .
+a " complex tone " occurs with a frequency of vibration , amplitude , and phase .
+a harmonic is a part of the harmonic series .
+inharmonicity is a measure of the deviation of a partial from the closest ideal harmonic .
+many pitched acoustic instruments are designed to have some parts that are close to being whole-number ratios with very low inharmonicity .
+other pitched instruments , especially certain percussion instruments , such as marimba , vibraphone , tubular bells , timpani , and singing bowls may contain mostly inharmonic partials , but may give the ear a good sense of pitch because of a few strong partials that resemble harmonics .
+the term overtone does not imply harmonicity or inharmonicity .
+it is mostly the relative strength of the different overtones that give an instrument its particular timbre , tone , or character .
+when writing or speaking of overtones and partials , care must be taken to designate each correctly to avoid confusion of one for the other .
+some electronic instruments , such as synthesizers , can play a pure frequency with no overtonesible sine wave hinges .
+synthesizers can also combine pure frequencies into more complex tones , such as to simulate other instruments .
+the simplest case to visualise is a vibrating string , as in the illustration ; the string has fixed points at each end , and each harmonic mode divides it into 1,2 , 3,4 etc . , equal-sized sections resonating at increasingly higher frequencies .
+similar arguments apply to vibrating air columns in wind instruments — for example , " the french horn was originally a valveless instrument that could play only the notes of the harmonic series " .
+the vibrating medium and / or the resonator it vibrates against often alter these frequencies .
+but those changes are small , and have been done very well since the harmonic series .
+in terms of frequency frequency frequency frequency distributions are measured in cycles per second , or hertzschescopic hz where f is the fundamental frequencybucks .
+because human ears react to sound nonlinearly , higher harmonics are thought as closer together than lower ones .
+in terms of what one hears , each octave in the harmonic series is divided into smaller and more numerous intervals .
+the second harmonic , whose frequency is twice of the fundamental , sounds an octave higher .
+the fourth harmonic vibrate at four times the frequency of the fundamental .
+if the harmonics are octave displaced and compressed into the span of one octave , some of them are approximated by the notes of what the west has adopted as the chromatic scale based on the fundamental tone .
+in the late 1930s , paul hindemith ranked musical intervals according to their relative dissonance based on these and similar harmonic relationships .
+below is a comparison between the first 31 harmonics and the intervals of 12-tone equal temperament .
+tinted fields highlight differences greater than 5 cents cents cents cents sonora 1 / 20th of a semitone diameter , which is the human ear 's " just noticeable difference " for notes played one after the otheregambmbmbmbmbmbmbriated smaller notes played simultaneously .
+the frequencies of the harmonic series are naturally related to each other by whole-numbered ratios and small whole-numbered ratios are likely the basis of the consonance of musical intervals intervals .
+paul hindemith published a book of music called " the craft of musical composition " .
+the relative amplitudes seized information from different instruments and sounds , but onset transients , formants , noises , and inharmonicities also play a role .
+for example , the clarinet and saxophone have similar mouthpieces and reeds , and both make sound through resonance of air inside a chamber whose mouthpiece end is considered closed .
+the saxophone 's resonator is conical , which allows the even-numbered harmonics to sound more strongly and produces a more complex tone .
+rather than perceiving the individual partials – harmonic and inharmonic , humans perceive them together as a tone color or timbre .
+these variations are caused by a combination of metal stiffness and the interaction of the vibrating air or string with the vibrating air or the vibrating body of the instrument .
+david copenhead 1997 independently suggests the concept of interval strength , in which an interval 's strength , consonance , or stabilityddled , is determined by its approximation to a lower and stronger position in the harmonic series .
+an equal-tempered perfect fifth is stronger than an equal-tempered minor third .
+the just minor third is between harmonics 5 and 6 while the just fifth is lower , between harmonics 2 and 3 .

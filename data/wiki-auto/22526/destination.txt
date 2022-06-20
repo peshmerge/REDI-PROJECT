@@ -1,0 +1,48 @@
+Organometallic chemistry is the study of chemical compounds containing bonds between carbon and a metal.
+It combines aspects of inorganic chemistry (the study of non-carbon bonds) and organic chemistry (the study of carbon bonds).
+Examples of organometallic compounds are tetraethyllead; it was used as a fuel (leaded gasoline) additive in the past.
+Also Methylcobalamin (Vitamin B) is a common organometallic compound.
+Organometallic compounds are compounds that have chemical bonds between an one or more metal atoms and one or more carbon atoms of an organyl group (an organic ligand).
+They have the prefix "organo-" (for example, organopalladium compounds).
+Organometallic compounds include subgroups like the metalloproteins such as haemoglobin.
+The term "metalorganics" usually refers to metal-containing compounds lacking direct metal-carbon bonds but which contain organic ligands which bind them to an organic compound.
+Metal beta-diketonates, alkoxides, and dialkylamides are members of this class.
+In addition to the traditional metals, elements such as boron, silicon, arsenic, and selenium form organometallic compounds.
+Many complexes have coordination bonds between a metal and organic ligands.
+The organic ligands often bind the metal through a heteroatom such as oxygen or nitrogen, in which case such compounds are called "coordination compounds".
+Many organic coordination compounds occur in nature.
+For example, hemoglobin and myoglobin contain an iron center coordinated to the nitrogen atoms of a porphyrin ring; magnesium is the center of a chlorin ring in chlorophyll.
+The field of such inorganic compounds is known as bioinorganic chemistry.
+However, methylcobalamin (a form of Vitamin B), with a cobalt-methyl bond, is a true organometallic complex, one of the few known in biology.
+The metal-carbon bond in organometallic compounds is half way between being ionic and covalent.
+Organometallic compounds with bonds that have characters in between ionic and covalent are very important in industry.
+They are both relatively stable in solutions but ionic enough to undergo reactions.
+Two important classes are organolithium and Grignard reagents.
+Organometallics find practical uses in stoichiometric and catalytic processes, especially processes involving carbon monoxide and alkene-derived polymers.
+All the world's polyethylene and polypropylene are produced with organometallic catalysts.
+Acetic acid is produced using metal carbonyl catalysts in the Monsanto process and Cativa process.
+The bulk of the synthetic alcohols, at least those larger than ethanol, are produced by hydrogenation of hydroformylation-derived aldehydes.
+Similarly, the Wacker process is used in the oxidation of ethylene to acetaldehyde.
+Organomettalic are highly basic and highly reducing.
+They catalyze many polymerization reactions.
+They are also useful stoichiometrically.
+Organometallic compounds may be found in the environment.
+Environmentalists worry about organo-lead and organo-mercury compounds.
+They are toxic hazards.
+Research is currently underway using organometallic catalysis.
+The energy crisis has initiated increased interest in more efficient ways of working with the remaining fossil fuels we have left.
+While many agree that lowering oil dependence is safer for the environment as well as politically wise.
+The new interest in “green” technologies has also helped increase research.
+Many examples of organometallic research can be found in the petrochemical and pharmaceutical industries.
+Some current methods of chemical production are wasteful and produce toxic waste, while many organometallic catalysts show promise to change that.
+Louis Claude Cadet synthesized methyl arsenic compounds related to cacodyl.
+William Christopher Zeise made platinum-ethylene complex.
+Edward Frankland discovered dimethyl zinc.
+Ludwig Mond discovered Ni(CO).
+Victor Grignard worked with organomagnesium compounds.
+The abundant and diverse products from coal and petroleum led to Ziegler-Natta, Fischer-Tropsch, hydroformylation catalysis which employ CO, H, and alkenes as feedstocks and ligands.
+Years ago, Tetraethyllead was added to gasoline as an antiknock agent.
+Because lead is toxic, it is no longer used in gasoline.
+Instead, other organometallic compounds such as ferrocene and methylcyclopentadienyl manganese tricarbonyl (MMT) are now added to gasoline to prevent knocking.
+The 1973 Nobel Prizes to Ernst Fischer and Geoffrey Wilkinson for work on metallocenes made organometallic chemistry more popular.
+In 2005, Yves Chauvin, Robert H. Grubbs and Richard R. Schrock shared the Nobel Prize for metal-catalyzed olefin metathesis.

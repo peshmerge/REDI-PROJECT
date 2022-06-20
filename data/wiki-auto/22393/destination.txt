@@ -1,0 +1,21 @@
+In cell biology, an organelle is a part of a cell that does a specific job.
+Organelles typically have their own plasma membrane round them.
+Most of the cell's organelles are in the cytoplasm.
+The name "organelle" comes from the idea that these structures are to cells what an organ is to the body.
+There are many types of organelles in eukaryotic cells.
+Prokaryotes were once thought not to have organelles, but some examples have now been found.
+They are not organised like eukaryote organelles, and are not bounded by plasma membranes.
+They are called bacterial microcompartments.
+The term is now widely used to refer to cellular structures surrounded by single or double plasma membranes.
+However, the older definition of a 'subcellular functional unit' still coexists.
+That is, the term is sometimes used for structures which are not membrane-bound.
+The plasma membrane is a lipid bilayer with some proteins embedded in it.
+It keeps the ions and molecules of the organelle from merging with the surroundings.
+Mitochondria and chloroplasts, which have double-membranes and their own DNA, are believed to have originated from incompletely consumed or invading prokaryotic organisms, which were adopted as a part of the invaded cell.
+This idea is supported in the endosymbiotic theory.
+Prokaryotes are not so complex as eukaryotes.
+They were thought to have no internal structures enclosed by lipid membranes.
+However, recent research has shown that at least some prokaryotes have microcompartments such as carboxysomes.
+These subcellular compartments are 100–200 nm in diameter and are enclosed by a shell of proteins.
+Even more striking is the description of membrane-bound magnetosomes in bacteria.
+as well as the nucleus-like structures of the "Planctomycetes" that are surrounded by lipid membranes.

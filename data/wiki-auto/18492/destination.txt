@@ -1,0 +1,12 @@
+Lexeme is a term in linguistics.
+They are units of meaning, independent of any inflectional endings, or whether it is one word or several.
+"Come in" is a lexeme; so is "raining cats and dogs".
+The largest English dictionaries have about half a million lexemes.
+"The true figure is undoubtedly a great deal higher".
+In the English language, "run", "runs", "ran" and "running" are forms of the same lexeme, conventionally written as RUN.
+A similar concept is the lemma (or citation form).
+It is the form of a lexeme which is chosen to represent the lexeme, for example, RUN instead of the other forms.
+Lemmas are used in dictionaries as the headwords.
+Other forms of a lexeme are usually listed later in the entry.
+So all headwords in a dictionary are lexemes.
+A "lexicon" is made of lexemes.

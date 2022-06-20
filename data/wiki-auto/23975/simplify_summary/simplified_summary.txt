@@ -1,0 +1,26 @@
+in geometry , a parallelepiped is a figure of three dimensional figure formed by six parallelograms .
+in euclidean geometry , it is a term used in all four concepts : parallelepiped , parallelogram , cube , and square .
+in this context of affine geometry , in which angles are not differentiated , its definition admits only " parallelograms " and " parallelepipeds " .
+there are three equivalent definitions of parallelepiped : the rectangular cuboidoidoid faces rectangular faces ljubljana , cube ( six square faces ljubljana , and the rhombohedron sioux sioux sioux sioux are all specific cases of parallelepiped .
+any of the three pairs of parallel faces can be viewed as the base planes of the prism .
+also the whole parallelepiped has point symmetry " c " lotus " spontaneously see also triclinic <s> .
+the faces are in general chiral , but the parallelepiped is not .
+a parallelepiped can be considered as an oblique prism with a parallelogram as base .
+hence the volume of a parallelepiped is the product of the base area formula _ 2 and the height formula _ 3eux .
+with vertices where formula _ 5 is the angle between the vectors formula _ 6 and formula _ 7ɲ and the height formula _ 9 is the angle between vector formula _ 10 and the normal of the base stems is called triple product .
+an alternative way of showing the volume uses geometric properties properties proportional and length of edges ; with formula _ 17 and formula _ 17 the edge lengths .
+the volume of any tetrahedron that shares three edges of a parallelepiped has a volume equal to one sixth of the volume of that parallelepiped indy .
+in 2009 , dozens of perfect parallelepipeds were shown to exist , answering an open question of richard guy .
+a parallelotope , or " voronoi parallelotope " , has parallel and congruent opposite facets .
+so a 2-parallelotope is a parallelogon which can also include certain hexagons , and a 3-parallelotope is a parallelohedron , including 5 types of polyhedra .
+the diagonals of an " n "-parallelotope intersect at one point and are bisected by this point .
+see also fixed points of isometry groups in euclidean space .
+the edges radiating from one vertex of a " k "-parallelotope form a " k "-frame formula _ 25 of the vector space , and the parallelotope can be recovered from these vectors , by taking linear combinations of the vectors , with weights between 0 and 1 .
+the " n "-volume of an " n "-parallelotope embedded in formula _ 26 where formula _ 27 can be computed by means of the gram determinant .
+similarly , the volume of any n-simplex that shares n -lrb- n -rrb- edges of a parallelotope has a volume equal to one / n !
+the word appears as parallelipipedon in sir henry billingsley 's translation of euclid 's elements , dated 1570 .
+in 1644 , pierre herigone used the spelling " parallelepipedum " .
+the oxford english dictionary says that the present-day " parallelepiped " is first appearing in walter charleton 's " chorea gigantum " 1663 1663 1663
+charles hutton 's dictionary dictionary 1795graphical studies showed " parallelopiped " and " parallelopipedon " .
+the 1989 edition of the oxford english dictionary describes parallelopiped " parallelopiped " ɔ and " parallelipiped " independently .
+thus the faces of a parallelepiped are planar , with opposite faces being parallel .

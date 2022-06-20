@@ -1,0 +1,56 @@
+Specific impulse (often shortened to "I") is a way to describe how well a rocket performs.
+It is also used to describe how well a jet engine performs.
+It can be used to compare rockets of different sizes.
+It is a way to know how much force a given engine makes for each bit of fuel.
+To do this, one needs to know how much fuel is in the engine.
+A high specific impulse means that a rocket needs less fuel to perform as well.
+If the specific impulse is lower, it means that the rocket needs more fuel to perform as well.
+Specific impulse is a useful value to compare rocket or jet engines.
+It is used much like "miles per gallon" or "litres per 100 kilometres" is used to compare cars.
+An engine with a higher specific impulse uses fuel better.
+This means that the same amount of fuel lets the rocket go faster after all fuel is depleted.
+A rocket engine with a higher specific impulse doesn't mean it's 'more powerful'.
+That is, it will not make the rocket accelerate harder.
+In fact, the designs for engines with the highest specific impulse, like ion engines, are the 'weakest' of all types of engines.
+They accelerate the rocket slowly but steadily over a long period of time using only a tiny amount of fuel.
+In a race between two rockets with the same amount of fuel and two different engines the one with the more powerful engine will take an early lead, but when it burns down all its fuel, the rocket with higher specific impulse will still have some fuel left and will continue to accelerate.
+Eventually it will overtake its counterpart and will win the race if the distance is big enough for it to use its long-term advantage.
+There are two ways people find the number for specific impulse.
+To find the specific impulse, one divides the impulse by the amount of fuel.
+Impulse is a measurement of how much force a rocket motor makes and for how long.
+A motor that makes a low force for a long time can sometimes have a higher impulse than a motor that makes a high force for a short time.
+Impulse is measured in Newtons times seconds (N*s).
+The amount of fuel used to find specific impulse can be measured in different ways.
+It is sometimes measured in mass and sometimes in weight.
+When the amount of fuel is measured in mass, the specific impulse is expressed as a speed.
+This is usually in meters per second.
+When specific impulse is measured as a speed, it has another name.
+It is also called the "effective exhaust velocity".
+The other way to measure the amount of fuel is weight.
+If weight is used, the specific impulse is in units of time, usually in seconds.
+These two ways are both common.
+They both compare the performance of engines.
+When the specific impulse is higher, less fuel is needed to make the rocket perform at a certain level.
+So, a fuel is more efficient if the specific impulse is higher.
+Be careful not to confuse thrust and specific impulse.
+Thrust is only the force made by a rocket at one point in time.
+Specific impulse is a measure of the force based on how much fuel there is.
+When people find specific impulse, the only fuel counted is in the rocket before it gets fired.
+This includes the fuel and the oxidizer (the part of the fuel that helps the fuel burn).
+The oxidizer is sometimes oxygen, or often something else (see Rocket engine#Liquids, solids and hybrids).
+Jet (airplane) engines use fuel better than rocket engines.
+This is because the gases do not escape as fast.
+Because they do not escape as fast, the exhaust does not carry away as much energy.
+This means that the jet engine uses a lot less energy to push the jet.
+It is also because the air that goes through the engine as the jet flies through the air helps the fuel to burn faster.
+Specific impulse is also used to describe how well model rocket motors work.
+In the table below are some of Estes' claimed values for specific impulses for several of their rocket motors: Estes Industries is a large, well known American seller of model rockets and rocket parts.
+The specific impulse for model rocket motors is much lower than for many other rocket motors because the black powder is used as a fuel.
+Black powder is used in model rocket motors because it costs less.
+The most common way to measure specific impulse today uses seconds.
+This is used both in the SI (metric system) world as well as where English units are used.
+This way the units are identical everywhere.
+This means specific impulse can be used to compare engine performance in any country.
+Most companies that make rocket motors or jet engines use seconds to advertise their product’s performance.
+The other common way to measure specific impulse is in meters per second (m/s), which is also called effective exhaust velocity.
+For many engines the effective exhaust velocity is different from the speed that the gases actually come out of the nozzle.

@@ -1,0 +1,22 @@
+in mathematics , the cardinality of a set means the number of the set .
+for example , the set has 3 elements , and therefore , formula _ 2 has a cardinality of 3 .
+the cardinality of a set is also called its size , when no confusion with other notions of size is possible .
+the cardinality of a set is usually denoted formula _ 4 with a vertical bar on each side .
+the cardinality of a set is just the number of its elements .
+the relation of having the same cardinality is called equinumerosity .
+the equivalence class is a set which has the same cardinality as " a " .
+assuming ac , the cardinalities of the infinite sets are denoted for each ordinal , formula _ 12 is the least cardinal number greater than formula _ 13 .
+the cardinality of the natural numbers is denoted aleph-nullsburg formula _ 14 whitaker , while the cardinality of the real numbers is denoted by " c " < " fraktur script " c " < .
+we can show that formula _ 17 , this is the cardinality of all subsets of the natural numbers .
+there is no set whose cardinality is strictly between that of the integers and that of the real numbers .
+see below for more details on the continuum .
+cantor introduced the cardinal numbers , and showed that mathematicians can use certain sizes .
+the continuum hypothesis says that there is no cardinality between the reals and the natural numbers .
+however , this hypothesis can not be proved nor disproved within the widely accepted zfc axiomatic set theory , if zfc is consistent .
+cardinal arithmetic can be used to show that the number of points in a real number line is equal to the number of points in any segment of that line .
+these results are highly counterintuitive , because they imply that there exist proper subsets and proper supersets of an infinite set " s " that have the same size as " s " .
+the tangent function is a one-to-one correspondence between the intervalials-1πππππππππππolis and rgum see also hilbert 's paradox of the grand hoteleux .
+the second result was first demonstrated by cantor in 1878 , but it became more apparent in 1890 , when giuseppe peano introduced the space-filling curves , curved lines that twist and turn enough to fill the whole of any square , or hypercube , or finite-dimensional space .
+these curves are not a direct proof that a line has the same number of points as a finite-dimensional space , but they can be used to obtain such a proof .
+if " a " and " b " are disjoint sets , then " disjoint " sets , then " disjoint " sets "
+from this , one can show that in general the cardinalities of unions and intersections are related by

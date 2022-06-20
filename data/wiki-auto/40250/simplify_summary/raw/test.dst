@@ -1,0 +1,104 @@
+Specific impulse (usually abbreviated "I") is a measure of how effectively a rocket uses propellant or a jet engine uses fuel.
+Specific impulse can be calculated in a variety of different ways with different units.
+By definition, it is the total impulse (or change in momentum) delivered per unit of propellant consumed and is dimensionally equivalent to the generated thrust divided by the propellant mass flow rate or weight flow rate.
+If mass (kilogram, pound-mass, or slug) is used as the unit of propellant, then specific impulse has units of velocity.
+If weight (newton or pound-force) is used instead, then specific impulse has units of time (seconds).
+Multiplying flow rate by the standard gravity ("g") converts specific impulse from the weight basis to the mass basis.
+A propulsion system with a higher specific impulse uses the mass of the propellant more efficiently.
+In the case of a rocket or other vehicle governed by the Tsiolkovsky rocket equation, less propellant needed for a given delta-v.
+In rockets, this means the vehicle the engine is attached to can more efficiently gain altitude and velocity.
+This effectiveness is less important in jet aircraft that are lifted by aerodynamic forces, use outside air for combustion, and carry payloads that are much heavier than the propellant.
+Specific impulse can include the contribution to impulse provided by external air that has been used for combustion and is exhausted with the spent propellant.
+Jet engines use outside air, and therefore have a much higher specific impulse than rocket engines.
+The specific impulse in terms of propellant mass spent has units of distance per time, which is a notional velocity called the "effective exhaust velocity".
+This is higher than the "actual" exhaust velocity because the mass of the combustion air is not being accounted for.
+Actual and effective exhaust velocity are the same in rocket engines operating in a vacuum.
+Specific impulse is inversely proportional to specific fuel consumption (SFC) by the relationship "I" = 1/("g"·SFC) for SFC in kg/(N·s) and "I" = 3600/SFC for SFC in lb/(lbf·hr).
+The amount of propellant can be measured either in units of mass or weight.
+If mass is used, specific impulse is an impulse per unit mass, which dimensional analysis shows to have units of speed, specifically the effective exhaust velocity.
+As the SI system is mass-based, this type of analysis is usually done in meters per second.
+If a force-based unit system is used, impulse is divided by propellant weight (weight is a measure of force), resulting in units of time (seconds).
+These two formulations differ from each other by the standard gravitational acceleration ("g") at the surface of the earth.
+The rate of change of momentum of a rocket (including its propellant) per unit time is equal to the thrust.
+The higher the specific impulse, the less propellant is needed to produce a given thrust for a given time and the more efficient the propellant is.
+This should not be confused with the physics concept of energy efficiency, which can decrease as specific impulse increases, since propulsion systems that give high specific impulse require high energy to do so.
+Thrust and specific impulse should not be confused.
+Thrust is the force supplied by the engine and depends on the amount of reaction mass flowing through the engine.
+Specific impulse measures the impulse produced per unit of propellant and is proportional to the exhaust velocity.
+Thrust and specific impulse are related by the design and propellants of the engine in question, but this relationship is tenuous.
+For example, LH/LOx bipropellant produces higher "I" but lower thrust than RP-1/LOx due to the exhaust gases having a lower density and higher velocity (HO vs CO and HO).
+In many cases, propulsion systems with very high specific impulse—some ion thrusters reach 10,000 seconds—produce low thrust.
+When calculating specific impulse, only propellant carried with the vehicle before use is counted.
+For a chemical rocket, the propellant mass therefore would include both fuel and oxidizer.
+In rocketry, a heavier engine with a higher specific impulse may not be as effective in gaining altitude, distance, or velocity as a lighter engine with a lower specific impulse, especially if the latter engine possesses a higher thrust-to-weight ratio.
+This is a significant reason for most rocket designs having multiple stages.
+The first stage is optimised for high thrust to boost the later stages with higher specific impulse into higher altitudes where they can perform more efficiently.
+For air-breathing engines, only the mass of the fuel is counted, not the mass of air passing through the engine.
+Air resistance and the engine's inability to keep a high specific impulse at a fast burn rate are why all the propellant is not used as fast as possible.
+If it were not for air resistance and the reduction of propellant during flight, specific impulse would be a direct measure of the engine's effectiveness in converting propellant weight or mass into forward momentum.
+The most common unit for specific impulse is the second, as values are identical regardless of whether the calculations are done in SI, imperial, or customary units.
+Nearly all manufacturers quote their engine performance in seconds, and the unit is also useful for specifying aircraft engine performance.
+The use of metres per second to specify effective exhaust velocity is also reasonably common.
+The unit is intuitive when describing rocket engines, although the effective exhaust speed of the engines may be significantly different from the actual exhaust speed, especially in gas-generator cycle engines.
+For airbreathing jet engines, the effective exhaust velocity is not physically meaningful, although it can be used for comparison purposes.
+Meters per second are numerically equivalent to Newton-seconds per kg (N·s/kg), and SI measurements of specific impulse can be written in terms of either units interchangeably.
+Specific fuel consumption is inversely proportional to specific impulse and has units of g/(kN·s) or lb/(lbf·hr).
+Specific fuel consumption is used extensively for describing the performance of air-breathing jet engines.
+The time unit of seconds to measure the performance of a fuel/engine combination can be thought of as "How many seconds this propellant can accelerate its own initial mass at 1 g".
+The more seconds it can accelerate its own mass, the more delta-V it delivers to the whole system.
+In other words, given a particular engine and a pound of a particular fuel on the surface of the earth, specific impulse measures how long of a time that engine can exert a continuous pound of force (thrust) until fully burning through that pound of propellant.
+A given mass of a more energy-dense fuel can burn for a longer duration than some less energy-dense fuel made to exert the same force while burning in an engine.
+Different engine designs burning the same fuel may not be equally efficient at directing their fuel's energy into effective thrust.
+In the same manner, some car engines are better built than others to maximize the miles-per-gallon of the gasoline they burn.
+"I" in seconds is the amount of time a rocket engine can generate thrust, given a quantity of propellant whose weight is equal to the engine's thrust.
+The advantage of this formulation is that it may be used for rockets, where all the reaction mass is carried on board, as well as airplanes, where most of the reaction mass is taken from the atmosphere.
+In addition, it gives a result that is independent of units used (provided the unit of time used is the second).
+In rocketry, the only reaction mass is the propellant, so an equivalent way of calculating the specific impulse in seconds is used.
+In rockets, due to atmospheric effects, the specific impulse varies with altitude, reaching a maximum in a vacuum.
+This is because the exhaust velocity isn't simply a function of the chamber pressure, but is a function of the difference between the interior and exterior of the combustion chamber.
+Values are usually given for operation at sea level ("sl") or in a vacuum ("vac").
+Because of the geocentric factor of "g" in the equation for specific impulse, many prefer an alternate definition.
+The specific impulse of a rocket can be defined in terms of thrust per unit mass flow of propellant.
+This is an equally valid (and in some ways somewhat simpler) way of defining the effectiveness of a rocket propellant.
+For a rocket, the specific impulse defined in this way is simply the effective exhaust velocity relative to the rocket, "v".
+This equation is also valid for air-breathing jet engines, but is rarely used in practice.
+where formula_5 is the propellant mass flow rate, which is the rate of decrease of the vehicle's mass.
+A rocket must carry all its fuel with it, so the mass of the unburned fuel must be accelerated along with the rocket itself.
+Minimizing the mass of fuel required to achieve a given change in velocity is crucial to building effective rockets.
+The Tsiolkovsky rocket equation shows that for a rocket with a given empty mass and a given amount of fuel, the total change in velocity it can accomplish is proportional to the effective exhaust velocity.
+A spacecraft without propulsion follows an orbit determined by its trajectory and any gravitational field.
+Deviations from the corresponding velocity pattern (these are called Δ"v") are achieved by sending exhaust mass in the direction opposite to that of the desired velocity change.
+When an engine is run within the atmosphere, the exhaust velocity is reduced by atmospheric pressure, in turn reducing specific impulse.
+This is a reduction in the effective exhaust velocity, versus the actual exhaust velocity achieved in vacuum conditions.
+In the case of gas-generator cycle rocket engines, more than one exhaust gas stream is present as turbopump exhaust gas exits through a separate nozzle.
+Calculating the effective exhaust velocity requires averaging the two mass flows as well as accounting for any atmospheric pressure.
+For air-breathing jet engines, particularly turbofans, the actual exhaust velocity and the effective exhaust velocity are different by orders of magnitude.
+This is because a good deal of additional momentum is obtained by using air as reaction mass.
+This allows a better match between the airspeed and the exhaust speed, which saves energy/propellant and enormously increases the effective exhaust velocity while reducing the actual exhaust velocity.
+where v is the actual exhaust jet velocity.
+With constant thrust, the power needed increases as the exhaust velocity, leading to a lower energy efficiency per unit thrust.
+However, real-world vehicles are also limited in the mass amount of propellant they can carry.
+At low exhaust velocity the amount of reaction mass increases, at very high exhaust velocity the energy required becomes prohibitive.
+Theoretically, for a given delta-v, in space, among all fixed values for the exhaust speed the value formula_22 is the most energy efficient for a specified (fixed) final mass, see energy in spacecraft propulsion.
+However, a variable exhaust speed can be more energy efficient still.
+For example, if a rocket is accelerated from some positive initial speed using an exhaust speed equal to the speed of the rocket no energy is lost as kinetic energy of reaction mass, since it becomes stationary.
+(Theoretically, by making this initial speed low and using another method of obtaining this small speed, the energy efficiency approaches 100%, but requires a large initial mass.)
+In this case the rocket keeps the same momentum, so its speed is inversely proportional to its remaining mass.
+During such a flight the kinetic energy of the rocket is proportional to its speed and, correspondingly, inversely proportional to its remaining mass.
+The power needed per unit acceleration is constant throughout the flight; the reaction mass to be expelled per unit time to produce a given acceleration is proportional to the square of the rocket's remaining mass.
+Also it is advantageous to expel reaction mass at a location where the gravity potential is low, see Oberth effect.
+Air-breathing engines such as turbojets increase the momentum generated from their propellant by using it to power the acceleration of inert air rearwards.
+It turns out that the amount of energy needed to generate a particular amount of thrust is inversely proportional to the amount of air propelled rearwards, thus increasing the mass of air (as with a turbofan) both improves energy efficiency as well as formula_4.
+An example of a specific impulse measured in time is 453 seconds, which is equivalent to an effective exhaust velocity of 4,440 m/s, for the Space Shuttle Main Engines when operating in a vacuum.
+An air-breathing jet engine typically has a much larger specific impulse than a rocket; for example a turbofan jet engine may have a specific impulse of 6,000 seconds or more at sea level whereas a rocket would be around 200–400 seconds.
+An air-breathing engine is thus much more propellant efficient than a rocket engine, because the actual exhaust speed is much lower, the air provides an oxidizer, and air is used as reaction mass.
+Since the physical exhaust velocity is lower, the kinetic energy the exhaust carries away is lower and thus the jet engine uses far less energy to generate thrust (at subsonic speeds).
+While the "actual" exhaust velocity is lower for air-breathing engines, the "effective" exhaust velocity is very high for jet engines.
+This is because the effective exhaust velocity calculation essentially assumes that the propellant is providing all the thrust, and hence is not physically meaningful for air-breathing engines; nevertheless, it is useful for comparison with other types of engines.
+The highest specific impulse for a chemical propellant ever test-fired in a rocket engine was 542 seconds (5,320 m/s) with a tripropellant of lithium, fluorine, and hydrogen.
+However, this combination is impractical; see rocket propellant.
+Nuclear thermal rocket engines differ from conventional rocket engines in that energy is supplied to the propellants by an external nuclear heat source instead of the heat of combustion.
+The nuclear rocket typically operates by passing liquid hydrogen gas through an operating nuclear reactor.
+Testing in the 1960s yielded specific impulses of about 850 seconds (8,340 m/s), about twice that of the Space Shuttle engines.
+A variety of other rocket propulsion methods, such as ion thrusters, give much higher specific impulse but with much lower thrust; for example the Hall effect thruster on the SMART-1 satellite has a specific impulse of 1,640 s (16,100 m/s) but a maximum thrust of only 68 millinewtons.
+The variable specific impulse magnetoplasma rocket (VASIMR) engine currently in development will theoretically yield 20,000−300,000 m/s, and a maximum thrust of 5.7 newtons.
