@@ -1,5 +1,5 @@
-# REDI-PROJECT
-Bridging the Gap Between Text Simplification and Summarization
+# REDI- Bridging the Gap Between Text Simplification and Summarization
+
 
 ![Our simplified summary pipeline](	simplified_summary_diagram.png?raw=true "Our simplified summary pipeline")
 
