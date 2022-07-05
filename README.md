@@ -1,7 +1,7 @@
 # REDI-PROJECT
 Bridging the Gap Between Text Simplification and Summarization
 
-![Our simplified summary pipeline](	simplified_summary_diagram.png?raw=true "Title")
+![Our simplified summary pipeline](	simplified_summary_diagram.png?raw=true "Our simplified summary pipeline")
 
 To be able to run the code please use `Python3.6`.
 
@@ -19,3 +19,5 @@ Use the `full_pipeline.ipynb` to generate simplified summaries for any given doc
 We evaluate the simplified summary generation using `Rouge` metric. The used Python package is :https://github.com/google-research/google-research/tree/master/rouge and can be installed using `pip install rouge-score`. Please use `evaluation.ipynb` for evaluation.
 
 
+## Example output of both pipelines
+![Pipeline 1 output](	P1-6801.png?raw=true "Pipeline 1 output") ![Pipeline 2 output](	P2-6801.png?raw=true "Pipeline 2 output")
