@@ -2,5 +2,7 @@ checkpoints/
 wiki-auto/
 .idea/
 
-data/wiki-auto-part-1-data.json
-data/wiki-auto-part-2-data.json
+wiki-auto-part-*-data.json
+
+data/full_pipeline_outputs
+data/test
