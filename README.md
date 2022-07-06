@@ -16,7 +16,11 @@ Use the `full_pipeline.ipynb` to generate simplified summaries for any given doc
 
 
 ## Evaluation
-We evaluate the simplified summary generation using `Rouge` metric. The used Python package is :https://github.com/google-research/google-research/tree/master/rouge and can be installed using `pip install rouge-score`. Please use `evaluation.ipynb` for evaluation.
+We evaluate the simplified summary generation using `Rouge (Recall-Oriented Understudy for Gisting Evaluation)` and `WMD (Word Mover's Distance)` metrics. 
+
+For ROUGE, The used Python package is: https://github.com/google-research/google-research/tree/master/rouge and can be installed using `pip install rouge-score`. 
+
+Please use `evaluation.ipynb` notebook for the evaluation metrics.
 
 
 ## Example output of both pipelines
