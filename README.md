@@ -25,3 +25,6 @@ Please use `evaluation.ipynb` notebook for the evaluation metrics.
 
 ## Example output of both pipelines
 ![Pipeline 1 output](	P1-6801.png?raw=true "Pipeline 1 output") ![Pipeline 2 output](	P2-6801.png?raw=true "Pipeline 2 output")
+
+## Project report 
+You can download the report using this link https://github.com/peshmerge/REDI-PROJECT/blob/main/GAP_Group_13_report.pdf
